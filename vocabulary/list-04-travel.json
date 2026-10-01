@@ -1,0 +1,5287 @@
+[
+ {
+  "word": "acclaim",
+  "pos": "n",
+  "pic": "👏",
+  "zh": "讚譽；好評",
+  "en": "strong public praise for something",
+  "simple": "The movie won great acclaim.",
+  "simple_zh": "這部電影獲得極高的讚譽。",
+  "toeic": "The restaurant has received critical acclaim for its menu.",
+  "toeic_zh": "這家餐廳的菜單獲得評論界的讚譽。",
+  "family": "acclaimed (adj)",
+  "related": [
+   {
+    "w": "claim",
+    "zh": "聲稱",
+    "k": "confuse"
+   },
+   {
+    "w": "praise",
+    "zh": "稱讚",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 601,
+  "day": 25
+ },
+ {
+  "word": "accommodate",
+  "pos": "v",
+  "pic": "🏨",
+  "zh": "容納；提供住宿；通融",
+  "en": "to provide space or meet someone's needs",
+  "simple": "The room can accommodate ten people.",
+  "simple_zh": "這個房間可容納十個人。",
+  "toeic": "The hotel can accommodate large groups during the conference.",
+  "toeic_zh": "這家飯店在會議期間可以容納大型團體。",
+  "family": "accommodation (n)",
+  "related": [
+   {
+    "w": "accommodation",
+    "zh": "住宿",
+    "k": "family"
+   },
+   {
+    "w": "house",
+    "zh": "容納",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 602,
+  "day": 25
+ },
+ {
+  "word": "actress",
+  "pos": "n",
+  "pic": "🎭",
+  "zh": "女演員",
+  "en": "a woman who acts in films or plays",
+  "simple": "The actress smiled at the crowd.",
+  "simple_zh": "女演員對群眾微笑。",
+  "toeic": "The famous actress will appear in our new advertisement.",
+  "toeic_zh": "這位著名女演員將出現在我們的新廣告中。",
+  "family": "act (v), actor (n)",
+  "related": [
+   {
+    "w": "actor",
+    "zh": "演員",
+    "k": "family"
+   },
+   {
+    "w": "actuary",
+    "zh": "精算師",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 603,
+  "day": 25
+ },
+ {
+  "word": "admission",
+  "pos": "n",
+  "pic": "🎟️",
+  "zh": "入場；入場費；入學",
+  "en": "permission or payment to enter a place",
+  "simple": "Admission to the museum is free.",
+  "simple_zh": "博物館免費入場。",
+  "toeic": "Admission to the trade show costs twenty dollars.",
+  "toeic_zh": "貿易展的入場費是二十美元。",
+  "family": "admit (v)",
+  "related": [
+   {
+    "w": "admittance",
+    "zh": "准許進入",
+    "k": "confuse"
+   },
+   {
+    "w": "entry",
+    "zh": "進入",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 604,
+  "day": 25
+ },
+ {
+  "word": "advisable",
+  "pos": "adj",
+  "pic": "👍",
+  "zh": "明智的；可取的",
+  "en": "wise and sensible to do",
+  "simple": "It is advisable to arrive early.",
+  "simple_zh": "提早到是明智的。",
+  "toeic": "It is advisable to book your flight well in advance.",
+  "toeic_zh": "最好提早預訂機票。",
+  "family": "advise (v), advice (n)",
+  "related": [
+   {
+    "w": "advisory",
+    "zh": "諮詢的",
+    "k": "confuse"
+   },
+   {
+    "w": "wise",
+    "zh": "明智的",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 605,
+  "day": 25
+ },
+ {
+  "word": "airfare",
+  "pos": "n",
+  "pic": "🎫",
+  "zh": "機票費用",
+  "en": "the price of a plane ticket",
+  "simple": "Airfare is very high in summer.",
+  "simple_zh": "夏天的機票很貴。",
+  "toeic": "The company will reimburse your airfare after the trip.",
+  "toeic_zh": "公司會在旅程結束後報銷你的機票費用。",
+  "family": "",
+  "related": [
+   {
+    "w": "fare",
+    "zh": "票價",
+    "k": "family"
+   },
+   {
+    "w": "airplane",
+    "zh": "飛機",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 606,
+  "day": 25
+ },
+ {
+  "word": "aisle",
+  "pos": "n",
+  "pic": "🛫",
+  "zh": "走道；通道",
+  "en": "a passage between rows of seats",
+  "simple": "Aisle seats offer easy restroom access.",
+  "simple_zh": "走道座位可方便上廁所。",
+  "toeic": "Aisle positions are preferred by frequent travelers.",
+  "toeic_zh": "走道位置是頻繁旅行者的偏好。",
+  "family": "aisle (n)",
+  "related": [
+   {
+    "w": "passage",
+    "zh": "通道",
+    "k": "syn"
+   },
+   {
+    "w": "corridor",
+    "zh": "走廊",
+    "k": "syn"
+   }
+  ],
+  "n": 607,
+  "day": 25,
+  "src": "TSL"
+ },
+ {
+  "word": "allergy",
+  "pos": "n",
+  "pic": "🤧",
+  "zh": "過敏；過敏症",
+  "en": "an abnormal reaction to a substance",
+  "simple": "Disclose allergies to airlines.",
+  "simple_zh": "向航空公司披露過敏情況。",
+  "toeic": "Allergy information assists meal planning.",
+  "toeic_zh": "過敏信息有助於膳食規劃。",
+  "family": "allergic (adj), allergen (n)",
+  "related": [
+   {
+    "w": "sensitivity",
+    "zh": "敏感性",
+    "k": "syn"
+   },
+   {
+    "w": "intolerance",
+    "zh": "不耐症",
+    "k": "syn"
+   }
+  ],
+  "n": 608,
+  "day": 25,
+  "src": "TSL"
+ },
+ {
+  "word": "amateur",
+  "pos": "n",
+  "pic": "🎨",
+  "zh": "業餘愛好者；外行",
+  "en": "a person who does something without being paid",
+  "simple": "He is an amateur singer.",
+  "simple_zh": "他是業餘歌手。",
+  "toeic": "The photo contest is open to amateurs and professionals.",
+  "toeic_zh": "這場攝影比賽開放業餘與專業人士參加。",
+  "family": "amateurish (adj)",
+  "related": [
+   {
+    "w": "professional",
+    "zh": "專業人士",
+    "k": "opp"
+   },
+   {
+    "w": "beginner",
+    "zh": "初學者",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 609,
+  "day": 25
+ },
+ {
+  "word": "amenity",
+  "pos": "n",
+  "pic": "✨",
+  "zh": "便利設施；舒適設備",
+  "en": "a desirable feature or facility",
+  "simple": "The hotel offers excellent amenities.",
+  "simple_zh": "飯店提供優秀的便利設施。",
+  "toeic": "Amenities include gym and pool access.",
+  "toeic_zh": "便利設施包括健身房和游泳池。",
+  "family": "amenities (plural), amenable (adj)",
+  "related": [
+   {
+    "w": "facility",
+    "zh": "設施",
+    "k": "syn"
+   },
+   {
+    "w": "service",
+    "zh": "服務",
+    "k": "syn"
+   }
+  ],
+  "n": 610,
+  "day": 25,
+  "src": "TSL"
+ },
+ {
+  "word": "amuse",
+  "pos": "v",
+  "pic": "😄",
+  "zh": "逗樂；使開心",
+  "en": "to make someone laugh or enjoy",
+  "simple": "The clown will amuse the kids.",
+  "simple_zh": "小丑會逗孩子們開心。",
+  "toeic": "The game was designed to amuse guests while they wait.",
+  "toeic_zh": "這個遊戲是為了讓客人等候時有娛樂而設計的。",
+  "family": "amusement (n), amusing (adj)",
+  "related": [
+   {
+    "w": "amaze",
+    "zh": "使驚訝",
+    "k": "confuse"
+   },
+   {
+    "w": "entertain",
+    "zh": "娛樂",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 611,
+  "day": 25
+ },
+ {
+  "word": "anniversary",
+  "pos": "n",
+  "pic": "🎂",
+  "zh": "週年紀念",
+  "en": "a date marking a yearly event",
+  "simple": "Today is our wedding anniversary.",
+  "simple_zh": "今天是我們的結婚週年紀念日。",
+  "toeic": "The firm will celebrate its twentieth anniversary next month.",
+  "toeic_zh": "公司下個月將慶祝成立二十週年。",
+  "family": "",
+  "related": [
+   {
+    "w": "annual",
+    "zh": "每年的",
+    "k": "family"
+   },
+   {
+    "w": "birthday",
+    "zh": "生日",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 612,
+  "day": 25
+ },
+ {
+  "word": "appetizer",
+  "pos": "n",
+  "pic": "🥗",
+  "zh": "開胃菜",
+  "en": "a small dish eaten before the main meal",
+  "simple": "I ordered a salad appetizer.",
+  "simple_zh": "我點了一份沙拉開胃菜。",
+  "toeic": "The restaurant offers a free appetizer with every dinner.",
+  "toeic_zh": "這家餐廳每份晚餐都附贈一道開胃菜。",
+  "family": "appetite (n)",
+  "related": [
+   {
+    "w": "appetite",
+    "zh": "食慾",
+    "k": "confuse"
+   },
+   {
+    "w": "starter",
+    "zh": "前菜",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 613,
+  "day": 25
+ },
+ {
+  "word": "apple",
+  "pos": "n",
+  "pic": "🍎",
+  "zh": "蘋果",
+  "en": "a round red or green fruit",
+  "simple": "I eat an apple daily.",
+  "simple_zh": "我每天吃一顆蘋果。",
+  "toeic": "The cafeteria serves a fresh apple with every lunch set.",
+  "toeic_zh": "自助餐廳每份午餐套餐都附一顆新鮮蘋果。",
+  "family": "",
+  "related": [
+   {
+    "w": "fruit",
+    "zh": "水果",
+    "k": "family"
+   },
+   {
+    "w": "apply",
+    "zh": "申請",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 614,
+  "day": 25
+ },
+ {
+  "word": "artistic",
+  "pos": "adj",
+  "pic": "🎨",
+  "zh": "藝術的；有藝術天分的",
+  "en": "relating to art or skilled in art",
+  "simple": "She has an artistic eye.",
+  "simple_zh": "她有藝術眼光。",
+  "toeic": "The lobby has an artistic design that impresses visitors.",
+  "toeic_zh": "大廳的藝術設計令訪客印象深刻。",
+  "family": "art (n), artist (n)",
+  "related": [
+   {
+    "w": "artistic",
+    "zh": "藝術的",
+    "k": "family"
+   },
+   {
+    "w": "creative",
+    "zh": "有創意的",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 615,
+  "day": 25
+ },
+ {
+  "word": "asleep",
+  "pos": "adj",
+  "pic": "😴",
+  "zh": "睡著的",
+  "en": "in the state of sleeping",
+  "simple": "The baby is asleep now.",
+  "simple_zh": "嬰兒現在睡著了。",
+  "toeic": "Please keep quiet because several guests are already asleep.",
+  "toeic_zh": "請保持安靜，因為有幾位客人已經入睡。",
+  "family": "sleep (v)",
+  "related": [
+   {
+    "w": "sleepy",
+    "zh": "想睡的",
+    "k": "confuse"
+   },
+   {
+    "w": "awake",
+    "zh": "醒著的",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 616,
+  "day": 25
+ },
+ {
+  "word": "athletic",
+  "pos": "adj",
+  "pic": "🏃‍♂️",
+  "zh": "運動的；體格健壯的",
+  "en": "relating to sports or good at sports",
+  "simple": "He is tall and athletic.",
+  "simple_zh": "他又高又健壯。",
+  "toeic": "The hotel has an athletic center open to all guests.",
+  "toeic_zh": "這家飯店有一座對所有房客開放的運動中心。",
+  "family": "athlete (n), athletics (n)",
+  "related": [
+   {
+    "w": "athlete",
+    "zh": "運動員",
+    "k": "family"
+   },
+   {
+    "w": "sporty",
+    "zh": "愛運動的",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 617,
+  "day": 25
+ },
+ {
+  "word": "availability",
+  "pos": "n",
+  "pic": "✅",
+  "zh": "可用性；可得性",
+  "en": "the state of being available or ready",
+  "simple": "Check availability for that date.",
+  "simple_zh": "檢查該日期的可用性。",
+  "toeic": "Room availability is limited during peak season.",
+  "toeic_zh": "在旅遊高峰期房間可用性有限。",
+  "family": "available (adj), available (v)",
+  "related": [
+   {
+    "w": "accessibility",
+    "zh": "可及性",
+    "k": "syn"
+   },
+   {
+    "w": "vacancy",
+    "zh": "空房",
+    "k": "syn"
+   }
+  ],
+  "n": 618,
+  "day": 25,
+  "src": "TSL"
+ },
+ {
+  "word": "backpack",
+  "pos": "n",
+  "pic": "🎒",
+  "zh": "背包",
+  "en": "a bag carried on your back",
+  "simple": "My backpack is very heavy.",
+  "simple_zh": "我的背包很重。",
+  "toeic": "Please place your backpack under the seat in front of you.",
+  "toeic_zh": "請將您的背包放在前方座位下方。",
+  "family": "",
+  "related": [
+   {
+    "w": "luggage",
+    "zh": "行李",
+    "k": "syn"
+   },
+   {
+    "w": "suitcase",
+    "zh": "行李箱",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 619,
+  "day": 25
+ },
+ {
+  "word": "baggage",
+  "pos": "n",
+  "pic": "🛄",
+  "zh": "行李",
+  "en": "the bags and cases that a traveler carries",
+  "simple": "Put your baggage here.",
+  "simple_zh": "把你的行李放在這裡。",
+  "toeic": "Checked baggage must not weigh more than twenty-three kilograms.",
+  "toeic_zh": "託運行李的重量不得超過二十三公斤。",
+  "family": "不可數名詞；baggage claim; baggage allowance; checked baggage",
+  "related": [
+   {
+    "w": "luggage",
+    "zh": "行李",
+    "k": "syn"
+   },
+   {
+    "w": "baggage claim",
+    "zh": "行李提領處",
+    "k": "family"
+   }
+  ],
+  "n": 620,
+  "day": 25,
+  "src": "TSL"
+ },
+ {
+  "word": "baker",
+  "pos": "n",
+  "pic": "🧑‍🍳",
+  "zh": "麵包師傅",
+  "en": "a person who makes bread and cakes",
+  "simple": "The baker makes good bread.",
+  "simple_zh": "麵包師傅做的麵包很好吃。",
+  "toeic": "The baker delivers fresh pastries to local cafes each day.",
+  "toeic_zh": "麵包師傅每天將新鮮糕點送到當地咖啡館。",
+  "family": "bake (v), bakery (n)",
+  "related": [
+   {
+    "w": "banker",
+    "zh": "銀行家",
+    "k": "confuse"
+   },
+   {
+    "w": "bakery",
+    "zh": "麵包店",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 621,
+  "day": 25
+ },
+ {
+  "word": "bakery",
+  "pos": "n",
+  "pic": "🥐",
+  "zh": "麵包店",
+  "en": "a shop that sells bread and cakes",
+  "simple": "The bakery opens at seven.",
+  "simple_zh": "麵包店七點開門。",
+  "toeic": "The bakery next to our office sells excellent sandwiches.",
+  "toeic_zh": "我們辦公室旁邊的麵包店賣很棒的三明治。",
+  "family": "bake (v), baker (n)",
+  "related": [
+   {
+    "w": "baker",
+    "zh": "麵包師傅",
+    "k": "family"
+   },
+   {
+    "w": "bank",
+    "zh": "銀行",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 622,
+  "day": 25
+ },
+ {
+  "word": "balloon",
+  "pos": "n",
+  "pic": "🎈",
+  "zh": "氣球",
+  "en": "a rubber bag filled with air or gas",
+  "simple": "The child has a red balloon.",
+  "simple_zh": "小孩有一顆紅氣球。",
+  "toeic": "Colorful balloons decorated the hall for the opening ceremony.",
+  "toeic_zh": "彩色氣球裝飾了開幕典禮的會場。",
+  "family": "",
+  "related": [
+   {
+    "w": "ballroom",
+    "zh": "宴會廳",
+    "k": "confuse"
+   },
+   {
+    "w": "ballot",
+    "zh": "投票",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 623,
+  "day": 25
+ },
+ {
+  "word": "barbecue",
+  "pos": "n",
+  "pic": "🍖",
+  "zh": "烤肉；烤肉聚會",
+  "en": "a meal cooked outdoors over a fire",
+  "simple": "We had a barbecue on Sunday.",
+  "simple_zh": "我們星期天辦了烤肉。",
+  "toeic": "The staff barbecue will take place in the park on Friday.",
+  "toeic_zh": "員工烤肉聚會將於週五在公園舉行。",
+  "family": "barbecue (v)",
+  "related": [
+   {
+    "w": "grill",
+    "zh": "燒烤",
+    "k": "syn"
+   },
+   {
+    "w": "picnic",
+    "zh": "野餐",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 624,
+  "day": 25
+ },
+ {
+  "word": "baseball",
+  "pos": "n",
+  "pic": "⚾",
+  "zh": "棒球",
+  "en": "a sport played with a bat and ball",
+  "simple": "He plays baseball after school.",
+  "simple_zh": "他放學後打棒球。",
+  "toeic": "Tickets to the baseball game sell out quickly every season.",
+  "toeic_zh": "棒球比賽的門票每季都很快售完。",
+  "family": "",
+  "related": [
+   {
+    "w": "basketball",
+    "zh": "籃球",
+    "k": "confuse"
+   },
+   {
+    "w": "softball",
+    "zh": "壘球",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 625,
+  "day": 25
+ },
+ {
+  "word": "basketball",
+  "pos": "n",
+  "pic": "🏀",
+  "zh": "籃球",
+  "en": "a team sport played with a ball and hoops",
+  "simple": "We play basketball on Saturdays.",
+  "simple_zh": "我們星期六打籃球。",
+  "toeic": "The company sponsors a local basketball team every year.",
+  "toeic_zh": "公司每年贊助一支當地籃球隊。",
+  "family": "basket (n)",
+  "related": [
+   {
+    "w": "baseball",
+    "zh": "棒球",
+    "k": "confuse"
+   },
+   {
+    "w": "basket",
+    "zh": "籃子",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 626,
+  "day": 26
+ },
+ {
+  "word": "bean",
+  "pos": "n",
+  "pic": "🫘",
+  "zh": "豆子",
+  "en": "a small seed eaten as food",
+  "simple": "I like green bean soup.",
+  "simple_zh": "我喜歡綠豆湯。",
+  "toeic": "The cafe imports coffee beans directly from farms in Colombia.",
+  "toeic_zh": "這家咖啡館直接從哥倫比亞的農場進口咖啡豆。",
+  "family": "",
+  "related": [
+   {
+    "w": "been",
+    "zh": "是(過去分詞)",
+    "k": "confuse"
+   },
+   {
+    "w": "pea",
+    "zh": "豌豆",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 627,
+  "day": 26
+ },
+ {
+  "word": "beverage",
+  "pos": "n",
+  "pic": "🥤",
+  "zh": "飲料",
+  "en": "A drink, such as juice, coffee or tea.",
+  "simple": "Would you like a beverage?",
+  "simple_zh": "你想要喝點飲料嗎?",
+  "toeic": "Complimentary beverages will be served during the afternoon session.",
+  "toeic_zh": "下午場次將提供免費飲料。",
+  "family": "",
+  "related": [
+   {
+    "w": "drink",
+    "zh": "飲料",
+    "k": "syn"
+   },
+   {
+    "w": "beverage",
+    "zh": "飲料",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 628,
+  "day": 26
+ },
+ {
+  "word": "bicycle",
+  "pos": "n",
+  "pic": "🚲",
+  "zh": "腳踏車",
+  "en": "A two-wheeled vehicle you ride by pedaling.",
+  "simple": "I ride my bicycle to school.",
+  "simple_zh": "我騎腳踏車上學。",
+  "toeic": "Employees who ride a bicycle to work can use the secure parking area.",
+  "toeic_zh": "騎腳踏車上班的員工可使用安全停車區。",
+  "family": "bike (n)",
+  "related": [
+   {
+    "w": "bike",
+    "zh": "腳踏車",
+    "k": "syn"
+   },
+   {
+    "w": "motorcycle",
+    "zh": "機車",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 629,
+  "day": 26
+ },
+ {
+  "word": "biography",
+  "pos": "n",
+  "pic": "📖",
+  "zh": "傳記",
+  "en": "A written account of a person's life.",
+  "simple": "I read a biography of Lincoln.",
+  "simple_zh": "我讀了林肯的傳記。",
+  "toeic": "The author's latest biography will be published next month.",
+  "toeic_zh": "這位作者的最新傳記將於下個月出版。",
+  "family": "biographer (n), biographical (adj)",
+  "related": [
+   {
+    "w": "autobiography",
+    "zh": "自傳",
+    "k": "confuse"
+   },
+   {
+    "w": "biographer",
+    "zh": "傳記作者",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 630,
+  "day": 26
+ },
+ {
+  "word": "birthday",
+  "pos": "n",
+  "pic": "🎂",
+  "zh": "生日",
+  "en": "The day each year when a person was born.",
+  "simple": "Today is my birthday.",
+  "simple_zh": "今天是我的生日。",
+  "toeic": "The team organized a small party for her birthday.",
+  "toeic_zh": "團隊為她的生日辦了一場小派對。",
+  "family": "",
+  "related": [
+   {
+    "w": "anniversary",
+    "zh": "週年紀念",
+    "k": "confuse"
+   },
+   {
+    "w": "celebration",
+    "zh": "慶祝",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 631,
+  "day": 26
+ },
+ {
+  "word": "blanket",
+  "pos": "n",
+  "pic": "🛏️",
+  "zh": "毯子",
+  "en": "A thick cover used on a bed to keep warm.",
+  "simple": "I need a blanket tonight.",
+  "simple_zh": "我今晚需要一條毯子。",
+  "toeic": "Guests may request an extra blanket from the front desk.",
+  "toeic_zh": "房客可向櫃檯索取額外的毯子。",
+  "family": "",
+  "related": [
+   {
+    "w": "pillow",
+    "zh": "枕頭",
+    "k": "syn"
+   },
+   {
+    "w": "bracket",
+    "zh": "托架;括號",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 632,
+  "day": 26
+ },
+ {
+  "word": "brochure",
+  "pos": "n",
+  "pic": "📄",
+  "zh": "宣傳小冊",
+  "en": "A thin printed booklet with information about a product or place.",
+  "simple": "She took a travel brochure.",
+  "simple_zh": "她拿了一本旅遊小冊子。",
+  "toeic": "Please send me a brochure describing your corporate travel packages.",
+  "toeic_zh": "請寄給我一份介紹貴公司商務旅遊套裝行程的宣傳小冊。",
+  "family": "",
+  "related": [
+   {
+    "w": "booklet",
+    "zh": "小冊子",
+    "k": "syn"
+   },
+   {
+    "w": "pamphlet",
+    "zh": "單張手冊",
+    "k": "syn"
+   }
+  ],
+  "n": 633,
+  "day": 26,
+  "src": "TSL"
+ },
+ {
+  "word": "butter",
+  "pos": "n",
+  "pic": "🧈",
+  "zh": "奶油",
+  "en": "A soft yellow food made from cream.",
+  "simple": "I put butter on my bread.",
+  "simple_zh": "我在麵包上抹奶油。",
+  "toeic": "The bakery buys fresh butter from a local farm.",
+  "toeic_zh": "這家烘焙坊向當地農場採購新鮮奶油。",
+  "family": "",
+  "related": [
+   {
+    "w": "margarine",
+    "zh": "人造奶油",
+    "k": "syn"
+   },
+   {
+    "w": "batter",
+    "zh": "麵糊",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 634,
+  "day": 26
+ },
+ {
+  "word": "cabin",
+  "pos": "n",
+  "pic": "🛖",
+  "zh": "機艙;小木屋",
+  "en": "A small wooden house, or a room in a plane or ship.",
+  "simple": "The cabin is small but warm.",
+  "simple_zh": "這間小木屋小但很溫暖。",
+  "toeic": "Please store your bags in the overhead compartment of the cabin.",
+  "toeic_zh": "請將行李放在機艙上方的行李櫃。",
+  "family": "",
+  "related": [
+   {
+    "w": "cabinet",
+    "zh": "櫃子;內閣",
+    "k": "confuse"
+   },
+   {
+    "w": "cottage",
+    "zh": "小屋",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 635,
+  "day": 26
+ },
+ {
+  "word": "café",
+  "pos": "n",
+  "pic": "☕",
+  "zh": "咖啡館",
+  "en": "A small place that serves coffee and light food.",
+  "simple": "We met at a café.",
+  "simple_zh": "我們在咖啡館見面。",
+  "toeic": "The café on the first floor serves lunch to employees.",
+  "toeic_zh": "一樓的咖啡館為員工提供午餐。",
+  "family": "cafeteria (n)",
+  "related": [
+   {
+    "w": "cafeteria",
+    "zh": "自助餐廳",
+    "k": "confuse"
+   },
+   {
+    "w": "restaurant",
+    "zh": "餐廳",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 636,
+  "day": 26
+ },
+ {
+  "word": "cancellation",
+  "pos": "n",
+  "pic": "❌",
+  "zh": "取消；撤銷",
+  "en": "the action of canceling a reservation",
+  "simple": "Cancellation fees may apply.",
+  "simple_zh": "可能收取取消費。",
+  "toeic": "Cancellation policy is stated in terms.",
+  "toeic_zh": "取消政策在條款中說明。",
+  "family": "cancel (v), canceled (adj)",
+  "related": [
+   {
+    "w": "withdrawal",
+    "zh": "撤回",
+    "k": "syn"
+   },
+   {
+    "w": "refund",
+    "zh": "退款",
+    "k": "syn"
+   }
+  ],
+  "n": 637,
+  "day": 26,
+  "src": "TSL"
+ },
+ {
+  "word": "celebrity",
+  "pos": "n",
+  "pic": "🌟",
+  "zh": "名人",
+  "en": "A famous person, especially in entertainment.",
+  "simple": "She met a celebrity today.",
+  "simple_zh": "她今天見到了一位名人。",
+  "toeic": "A famous celebrity will appear in our new advertisement.",
+  "toeic_zh": "一位知名名人將出現在我們的新廣告中。",
+  "family": "celebrate (v), celebration (n)",
+  "related": [
+   {
+    "w": "celebration",
+    "zh": "慶祝",
+    "k": "confuse"
+   },
+   {
+    "w": "star",
+    "zh": "明星",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 638,
+  "day": 26
+ },
+ {
+  "word": "checkout",
+  "pos": "n",
+  "pic": "🚪",
+  "zh": "退房；結帳",
+  "en": "the process of leaving a hotel",
+  "simple": "Checkout is at 11 AM.",
+  "simple_zh": "退房時間是上午11點。",
+  "toeic": "Late checkout may require additional fees.",
+  "toeic_zh": "晚退房可能收取額外費用。",
+  "family": "check out (phrasal v), checked out (adj)",
+  "related": [
+   {
+    "w": "departure",
+    "zh": "出發",
+    "k": "syn"
+   },
+   {
+    "w": "payment",
+    "zh": "付款",
+    "k": "syn"
+   }
+  ],
+  "n": 639,
+  "day": 26,
+  "src": "TSL"
+ },
+ {
+  "word": "cheer",
+  "pos": "v",
+  "pic": "📣",
+  "zh": "歡呼;使振奮",
+  "en": "To shout happily or make someone feel happier.",
+  "simple": "The fans cheer for the team.",
+  "simple_zh": "球迷為球隊歡呼。",
+  "toeic": "Staff gathered to cheer the winners of the sales contest.",
+  "toeic_zh": "員工聚集起來為業績競賽的得主歡呼。",
+  "family": "cheerful (adj), cheers (n)",
+  "related": [
+   {
+    "w": "chair",
+    "zh": "椅子",
+    "k": "confuse"
+   },
+   {
+    "w": "applaud",
+    "zh": "鼓掌",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 640,
+  "day": 26
+ },
+ {
+  "word": "cheeseburger",
+  "pos": "n",
+  "pic": "🍔",
+  "zh": "起司漢堡",
+  "en": "A hamburger with melted cheese on top.",
+  "simple": "I ordered a cheeseburger.",
+  "simple_zh": "我點了一個起司漢堡。",
+  "toeic": "The restaurant sells a cheeseburger and fries for six dollars.",
+  "toeic_zh": "這家餐廳的起司漢堡加薯條只賣六美元。",
+  "family": "",
+  "related": [
+   {
+    "w": "hamburger",
+    "zh": "漢堡",
+    "k": "syn"
+   },
+   {
+    "w": "sandwich",
+    "zh": "三明治",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 641,
+  "day": 26
+ },
+ {
+  "word": "cinema",
+  "pos": "n",
+  "pic": "🎬",
+  "zh": "電影院;電影",
+  "en": "A place where people go to watch films.",
+  "simple": "Let's go to the cinema.",
+  "simple_zh": "我們去電影院吧。",
+  "toeic": "The new cinema offers discounts to local residents.",
+  "toeic_zh": "新開的電影院提供當地居民折扣。",
+  "family": "",
+  "related": [
+   {
+    "w": "theater",
+    "zh": "劇院",
+    "k": "syn"
+   },
+   {
+    "w": "cinnamon",
+    "zh": "肉桂",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 642,
+  "day": 26
+ },
+ {
+  "word": "circus",
+  "pos": "n",
+  "pic": "🎪",
+  "zh": "馬戲團",
+  "en": "A show with acrobats, clowns and trained animals.",
+  "simple": "The children loved the circus.",
+  "simple_zh": "孩子們很喜歡馬戲團。",
+  "toeic": "The circus will perform in the city stadium this weekend.",
+  "toeic_zh": "馬戲團本週末將在市立體育場演出。",
+  "family": "",
+  "related": [
+   {
+    "w": "circuit",
+    "zh": "電路",
+    "k": "confuse"
+   },
+   {
+    "w": "carnival",
+    "zh": "嘉年華",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 643,
+  "day": 26
+ },
+ {
+  "word": "client",
+  "pos": "n",
+  "pic": "👔",
+  "zh": "客戶；客人",
+  "en": "a person who receives services or goods",
+  "simple": "The client is visiting tomorrow.",
+  "simple_zh": "客戶明天來訪。",
+  "toeic": "Client satisfaction is our top priority.",
+  "toeic_zh": "客戶滿意度是我們的首要任務。",
+  "family": "client list (n), client service (n)",
+  "related": [
+   {
+    "w": "customer",
+    "zh": "客戶",
+    "k": "syn"
+   },
+   {
+    "w": "account",
+    "zh": "帳戶",
+    "k": "syn"
+   }
+  ],
+  "n": 644,
+  "day": 26,
+  "src": "TSL"
+ },
+ {
+  "word": "comb",
+  "pos": "n",
+  "pic": "💇",
+  "zh": "梳子",
+  "en": "A flat tool with teeth used to tidy hair.",
+  "simple": "I forgot my comb.",
+  "simple_zh": "我忘了帶梳子。",
+  "toeic": "The hotel provides a comb and a toothbrush in each room.",
+  "toeic_zh": "飯店每間客房都提供梳子和牙刷。",
+  "family": "",
+  "related": [
+   {
+    "w": "brush",
+    "zh": "刷子",
+    "k": "syn"
+   },
+   {
+    "w": "come",
+    "zh": "來",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 645,
+  "day": 26
+ },
+ {
+  "word": "comfortably",
+  "pos": "adv",
+  "pic": "🛋️",
+  "zh": "舒適地",
+  "en": "In a way that feels pleasant and relaxed.",
+  "simple": "The bed fits me comfortably.",
+  "simple_zh": "這張床睡起來很舒適。",
+  "toeic": "The meeting room can comfortably seat twenty people.",
+  "toeic_zh": "這間會議室可舒適地容納二十人。",
+  "family": "comfort (n), comfortable (adj)",
+  "related": [
+   {
+    "w": "comfortable",
+    "zh": "舒適的",
+    "k": "family"
+   },
+   {
+    "w": "uncomfortably",
+    "zh": "不舒服地",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 646,
+  "day": 26
+ },
+ {
+  "word": "commute",
+  "pos": "v",
+  "pic": "🚇",
+  "zh": "通勤",
+  "en": "to travel regularly between home and work",
+  "simple": "I commute to work by train.",
+  "simple_zh": "我搭火車通勤上班。",
+  "toeic": "Many employees commute to the downtown office by subway.",
+  "toeic_zh": "許多員工搭地鐵通勤到市中心的辦公室。",
+  "family": "commuter (n); daily commute (n); commute time",
+  "related": [
+   {
+    "w": "commit",
+    "zh": "承諾；投入",
+    "k": "confuse"
+   },
+   {
+    "w": "commuter",
+    "zh": "通勤者",
+    "k": "family"
+   }
+  ],
+  "n": 647,
+  "day": 26,
+  "src": "TSL"
+ },
+ {
+  "word": "complimentary",
+  "pos": "adj",
+  "pic": "🎁",
+  "zh": "免費的；讚美的",
+  "en": "free or provided at no cost",
+  "simple": "Complimentary breakfast is included.",
+  "simple_zh": "免費早餐已包括。",
+  "toeic": "Complimentary airport transfers are available.",
+  "toeic_zh": "提供免費機場轉運。",
+  "family": "complement (v/n), complementary (adj)",
+  "related": [
+   {
+    "w": "free",
+    "zh": "免費的",
+    "k": "syn"
+   },
+   {
+    "w": "compliments",
+    "zh": "恭維",
+    "k": "confuse"
+   }
+  ],
+  "n": 648,
+  "day": 26,
+  "src": "TSL"
+ },
+ {
+  "word": "concierge",
+  "pos": "n",
+  "pic": "🎩",
+  "zh": "禮賓部；門房",
+  "en": "a hotel employee who helps guests",
+  "simple": "Ask the concierge for recommendations.",
+  "simple_zh": "詢問禮賓部的建議。",
+  "toeic": "The concierge arranged our restaurant reservation.",
+  "toeic_zh": "禮賓部為我們安排了餐廳預訂。",
+  "family": "concierge (n)",
+  "related": [
+   {
+    "w": "front desk",
+    "zh": "前台",
+    "k": "syn"
+   },
+   {
+    "w": "receptionist",
+    "zh": "接待員",
+    "k": "syn"
+   }
+  ],
+  "n": 649,
+  "day": 26,
+  "src": "TSL"
+ },
+ {
+  "word": "contestant",
+  "pos": "n",
+  "pic": "🏆",
+  "zh": "參賽者",
+  "en": "a person who takes part in a competition",
+  "simple": "The contestant won a prize.",
+  "simple_zh": "這位參賽者贏得了獎品。",
+  "toeic": "Each contestant must register before the competition begins.",
+  "toeic_zh": "每位參賽者必須在比賽開始前登記。",
+  "family": "contest (n/v), contestant (n)",
+  "related": [
+   {
+    "w": "participant",
+    "zh": "參與者",
+    "k": "syn"
+   },
+   {
+    "w": "content",
+    "zh": "內容",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 650,
+  "day": 26
+ },
+ {
+  "word": "cookbook",
+  "pos": "n",
+  "pic": "📖",
+  "zh": "食譜書",
+  "en": "a book with recipes for cooking",
+  "simple": "I bought a new cookbook.",
+  "simple_zh": "我買了一本新食譜書。",
+  "toeic": "The chef is launching a cookbook featuring local dishes next month.",
+  "toeic_zh": "這位主廚下個月將推出一本以在地料理為主的食譜書。",
+  "family": "",
+  "related": [
+   {
+    "w": "recipe",
+    "zh": "食譜",
+    "k": "syn"
+   },
+   {
+    "w": "notebook",
+    "zh": "筆記本",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 651,
+  "day": 27
+ },
+ {
+  "word": "cookie",
+  "pos": "n",
+  "pic": "🍪",
+  "zh": "餅乾",
+  "en": "a small flat sweet baked snack",
+  "simple": "She ate a chocolate cookie.",
+  "simple_zh": "她吃了一塊巧克力餅乾。",
+  "toeic": "Complimentary coffee and cookies will be served after the seminar.",
+  "toeic_zh": "研討會結束後將供應免費咖啡和餅乾。",
+  "family": "",
+  "related": [
+   {
+    "w": "biscuit",
+    "zh": "餅乾",
+    "k": "syn"
+   },
+   {
+    "w": "cooky",
+    "zh": "小餅乾",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 652,
+  "day": 27
+ },
+ {
+  "word": "cooler",
+  "pos": "n",
+  "pic": "🧊",
+  "zh": "冰桶；冷藏箱",
+  "en": "a container that keeps food and drinks cold",
+  "simple": "We put drinks in the cooler.",
+  "simple_zh": "我們把飲料放進冰桶。",
+  "toeic": "Please bring a cooler to keep the beverages cold at the picnic.",
+  "toeic_zh": "請帶一個冰桶，讓野餐的飲料保持冰涼。",
+  "family": "cool (adj/v), cooler (n)",
+  "related": [
+   {
+    "w": "refrigerator",
+    "zh": "冰箱",
+    "k": "syn"
+   },
+   {
+    "w": "cool",
+    "zh": "涼爽的",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 653,
+  "day": 27
+ },
+ {
+  "word": "costume",
+  "pos": "n",
+  "pic": "🎭",
+  "zh": "服裝；戲服",
+  "en": "clothes worn for a play or party",
+  "simple": "She wore a costume to the party.",
+  "simple_zh": "她穿著戲服參加派對。",
+  "toeic": "The theater rents costumes for its annual stage production.",
+  "toeic_zh": "劇院為年度舞台劇出租戲服。",
+  "family": "",
+  "related": [
+   {
+    "w": "custom",
+    "zh": "習俗",
+    "k": "confuse"
+   },
+   {
+    "w": "outfit",
+    "zh": "服裝",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 654,
+  "day": 27
+ },
+ {
+  "word": "countryside",
+  "pos": "n",
+  "pic": "🌄",
+  "zh": "鄉間；鄉下",
+  "en": "land outside towns and cities",
+  "simple": "We drove through the countryside.",
+  "simple_zh": "我們開車穿過鄉間。",
+  "toeic": "The resort offers quiet views of the countryside.",
+  "toeic_zh": "這間度假村可欣賞寧靜的鄉間景色。",
+  "family": "",
+  "related": [
+   {
+    "w": "rural",
+    "zh": "鄉村的",
+    "k": "syn"
+   },
+   {
+    "w": "city",
+    "zh": "城市",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 655,
+  "day": 27
+ },
+ {
+  "word": "cruise",
+  "pos": "n",
+  "pic": "🚢",
+  "zh": "郵輪旅遊",
+  "en": "a trip on a large ship for fun",
+  "simple": "They took a cruise in May.",
+  "simple_zh": "他們五月搭郵輪旅遊。",
+  "toeic": "The company rewarded its top sales team with a Caribbean cruise.",
+  "toeic_zh": "公司以加勒比海郵輪之旅獎勵業績最佳的業務團隊。",
+  "family": "",
+  "related": [
+   {
+    "w": "voyage",
+    "zh": "航行",
+    "k": "syn"
+   },
+   {
+    "w": "crews",
+    "zh": "工作人員",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 656,
+  "day": 27
+ },
+ {
+  "word": "deck",
+  "pos": "n",
+  "pic": "🏝️",
+  "zh": "甲板；露台",
+  "en": "a flat outside area of a ship or house",
+  "simple": "We sat on the deck.",
+  "simple_zh": "我們坐在甲板上。",
+  "toeic": "Guests can enjoy dinner on the upper deck of the ship.",
+  "toeic_zh": "旅客可在船的上層甲板享用晚餐。",
+  "family": "",
+  "related": [
+   {
+    "w": "balcony",
+    "zh": "陽台",
+    "k": "syn"
+   },
+   {
+    "w": "desk",
+    "zh": "書桌",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 657,
+  "day": 27
+ },
+ {
+  "word": "delicious",
+  "pos": "adj",
+  "pic": "😋",
+  "zh": "美味的",
+  "en": "having a very good taste",
+  "simple": "The soup is delicious.",
+  "simple_zh": "這湯很好喝。",
+  "toeic": "The restaurant is famous for its delicious seafood dishes.",
+  "toeic_zh": "這家餐廳以美味的海鮮料理聞名。",
+  "family": "delight (n/v), delicious (adj)",
+  "related": [
+   {
+    "w": "tasty",
+    "zh": "美味的",
+    "k": "syn"
+   },
+   {
+    "w": "delicate",
+    "zh": "精緻的",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 658,
+  "day": 27
+ },
+ {
+  "word": "dessert",
+  "pos": "n",
+  "pic": "🍰",
+  "zh": "甜點",
+  "en": "a sweet food eaten after a meal",
+  "simple": "I like cake for dessert.",
+  "simple_zh": "我喜歡吃蛋糕當甜點。",
+  "toeic": "Dessert and coffee are included in the price of the banquet.",
+  "toeic_zh": "宴會價格包含甜點與咖啡。",
+  "family": "",
+  "related": [
+   {
+    "w": "desert",
+    "zh": "沙漠",
+    "k": "confuse"
+   },
+   {
+    "w": "appetizer",
+    "zh": "開胃菜",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 659,
+  "day": 27
+ },
+ {
+  "word": "destination",
+  "pos": "n",
+  "pic": "🗺️",
+  "zh": "目的地；終點",
+  "en": "the place where someone is going",
+  "simple": "Our destination is Tokyo.",
+  "simple_zh": "我們的目的地是東京。",
+  "toeic": "The destination offers excellent business opportunities.",
+  "toeic_zh": "目的地提供了絕佳的商業機會。",
+  "family": "destined (adj), destiny (n)",
+  "related": [
+   {
+    "w": "location",
+    "zh": "位置",
+    "k": "syn"
+   },
+   {
+    "w": "journey",
+    "zh": "旅程",
+    "k": "syn"
+   }
+  ],
+  "n": 660,
+  "day": 27,
+  "src": "TSL"
+ },
+ {
+  "word": "dine",
+  "pos": "v",
+  "pic": "🍽️",
+  "zh": "用餐",
+  "en": "to eat a meal, usually dinner",
+  "simple": "We dine at seven.",
+  "simple_zh": "我們七點用餐。",
+  "toeic": "Guests may dine on the terrace if the weather permits.",
+  "toeic_zh": "如果天氣允許，賓客可以在露台用餐。",
+  "family": "diner (n), dining (n), dine (v)",
+  "related": [
+   {
+    "w": "diner",
+    "zh": "用餐者",
+    "k": "family"
+   },
+   {
+    "w": "eat",
+    "zh": "吃",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 661,
+  "day": 27
+ },
+ {
+  "word": "dishwasher",
+  "pos": "n",
+  "pic": "🧼",
+  "zh": "洗碗機；洗碗工",
+  "en": "a machine or person that cleans dishes",
+  "simple": "The dishwasher is full.",
+  "simple_zh": "洗碗機滿了。",
+  "toeic": "The restaurant needs to hire a dishwasher for the evening shift.",
+  "toeic_zh": "這家餐廳需要為晚班聘請一名洗碗工。",
+  "family": "",
+  "related": [
+   {
+    "w": "washer",
+    "zh": "洗衣機",
+    "k": "confuse"
+   },
+   {
+    "w": "appliance",
+    "zh": "家電",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 662,
+  "day": 27
+ },
+ {
+  "word": "dive",
+  "pos": "v",
+  "pic": "🤿",
+  "zh": "潛水；跳水",
+  "en": "to go under water head first",
+  "simple": "They dive in the sea.",
+  "simple_zh": "他們在海裡潛水。",
+  "toeic": "Tourists can dive near the coral reef with a certified guide.",
+  "toeic_zh": "遊客可以在合格導遊的帶領下於珊瑚礁附近潛水。",
+  "family": "diver (n), diving (n), dive (v)",
+  "related": [
+   {
+    "w": "dip",
+    "zh": "浸入",
+    "k": "syn"
+   },
+   {
+    "w": "drive",
+    "zh": "駕駛",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 663,
+  "day": 27
+ },
+ {
+  "word": "documentary",
+  "pos": "n",
+  "pic": "🎬",
+  "zh": "紀錄片",
+  "en": "a film about real people or events",
+  "simple": "We watched a documentary.",
+  "simple_zh": "我們看了一部紀錄片。",
+  "toeic": "The documentary about local farming will air on Channel 5 tonight.",
+  "toeic_zh": "這部關於在地農業的紀錄片將於今晚在五台播出。",
+  "family": "document (n/v), documentation (n), documentary (n)",
+  "related": [
+   {
+    "w": "document",
+    "zh": "文件",
+    "k": "confuse"
+   },
+   {
+    "w": "film",
+    "zh": "影片",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 664,
+  "day": 27
+ },
+ {
+  "word": "donut",
+  "pos": "n",
+  "pic": "🍩",
+  "zh": "甜甜圈",
+  "en": "a sweet ring-shaped fried cake",
+  "simple": "I ate a donut for breakfast.",
+  "simple_zh": "我早餐吃了一個甜甜圈。",
+  "toeic": "The bakery offers a free donut with every coffee purchase.",
+  "toeic_zh": "這家麵包店買咖啡就送一個免費甜甜圈。",
+  "family": "",
+  "related": [
+   {
+    "w": "doughnut",
+    "zh": "甜甜圈",
+    "k": "syn"
+   },
+   {
+    "w": "bagel",
+    "zh": "貝果",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 665,
+  "day": 27
+ },
+ {
+  "word": "doorman",
+  "pos": "n",
+  "pic": "🧑‍✈️",
+  "zh": "門衛；門僮",
+  "en": "a man who guards or opens the door of a building",
+  "simple": "The doorman opened the door.",
+  "simple_zh": "門衛打開了門。",
+  "toeic": "The doorman will help guests with their luggage on arrival.",
+  "toeic_zh": "門僮會在客人抵達時協助搬運行李。",
+  "family": "",
+  "related": [
+   {
+    "w": "porter",
+    "zh": "行李員",
+    "k": "syn"
+   },
+   {
+    "w": "receptionist",
+    "zh": "接待員",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 666,
+  "day": 27
+ },
+ {
+  "word": "drum",
+  "pos": "n",
+  "pic": "🥁",
+  "zh": "鼓；圓桶",
+  "en": "a musical instrument, or a large round container",
+  "simple": "He plays the drum in a band.",
+  "simple_zh": "他在樂團裡打鼓。",
+  "toeic": "The chemicals are stored in a steel drum in the warehouse.",
+  "toeic_zh": "化學品存放在倉庫的鋼製圓桶中。",
+  "family": "",
+  "related": [
+   {
+    "w": "barrel",
+    "zh": "大桶",
+    "k": "syn"
+   },
+   {
+    "w": "drum up",
+    "zh": "招攬",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 667,
+  "day": 27
+ },
+ {
+  "word": "dull",
+  "pos": "adj",
+  "pic": "😑",
+  "zh": "乏味的；遲鈍的",
+  "en": "not interesting, bright, or sharp",
+  "simple": "The movie was long and dull.",
+  "simple_zh": "這部電影又長又無聊。",
+  "toeic": "Business was dull during the winter months.",
+  "toeic_zh": "冬季幾個月生意清淡。",
+  "family": "",
+  "related": [
+   {
+    "w": "dual",
+    "zh": "雙重的",
+    "k": "confuse"
+   },
+   {
+    "w": "boring",
+    "zh": "無聊的",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 668,
+  "day": 27
+ },
+ {
+  "word": "elegant",
+  "pos": "adj",
+  "pic": "💎",
+  "zh": "優雅的；高雅的",
+  "en": "graceful, stylish, and attractive",
+  "simple": "She wore an elegant dress.",
+  "simple_zh": "她穿著一件優雅的洋裝。",
+  "toeic": "The hotel has an elegant lobby with marble floors.",
+  "toeic_zh": "這間飯店有大理石地板的高雅大廳。",
+  "family": "elegance (n), elegant (adj)",
+  "related": [
+   {
+    "w": "elegance",
+    "zh": "優雅",
+    "k": "family"
+   },
+   {
+    "w": "stylish",
+    "zh": "時髦的",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 669,
+  "day": 27
+ },
+ {
+  "word": "elephant",
+  "pos": "n",
+  "pic": "🐘",
+  "zh": "大象",
+  "en": "a very large gray animal with a long trunk",
+  "simple": "The elephant is very big.",
+  "simple_zh": "大象非常大。",
+  "toeic": "Visitors can see an elephant at the new city zoo.",
+  "toeic_zh": "遊客可以在新的市立動物園看到大象。",
+  "family": "",
+  "related": [
+   {
+    "w": "zoo",
+    "zh": "動物園",
+    "k": "family"
+   },
+   {
+    "w": "mammal",
+    "zh": "哺乳動物",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 670,
+  "day": 27
+ },
+ {
+  "word": "embassy",
+  "pos": "n",
+  "pic": "🏛️",
+  "zh": "大使館",
+  "en": "the office of an ambassador in a foreign country",
+  "simple": "The embassy is in Taipei.",
+  "simple_zh": "大使館在台北。",
+  "toeic": "You must apply for a visa at the embassy before traveling.",
+  "toeic_zh": "你必須在旅行前到大使館申請簽證。",
+  "family": "",
+  "related": [
+   {
+    "w": "consulate",
+    "zh": "領事館",
+    "k": "syn"
+   },
+   {
+    "w": "ambassador",
+    "zh": "大使",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 671,
+  "day": 27
+ },
+ {
+  "word": "entrée",
+  "pos": "n",
+  "pic": "🍽️",
+  "zh": "主菜",
+  "en": "the main dish of a meal",
+  "simple": "I ordered fish as my entrée.",
+  "simple_zh": "我點了魚當主菜。",
+  "toeic": "Each dinner package includes an appetizer, an entrée, and dessert.",
+  "toeic_zh": "每份晚餐套餐包含開胃菜、主菜和甜點。",
+  "family": "",
+  "related": [
+   {
+    "w": "appetizer",
+    "zh": "開胃菜",
+    "k": "confuse"
+   },
+   {
+    "w": "dessert",
+    "zh": "甜點",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 672,
+  "day": 27
+ },
+ {
+  "word": "excursion",
+  "pos": "n",
+  "pic": "🚌",
+  "zh": "短程旅遊",
+  "en": "A short trip taken for pleasure, often in a group.",
+  "simple": "We joined a day excursion.",
+  "simple_zh": "我們參加了一日遊。",
+  "toeic": "The conference fee includes an optional excursion to the nearby vineyard.",
+  "toeic_zh": "會議費用包含一項前往附近葡萄園的自選旅遊行程。",
+  "family": "",
+  "related": [
+   {
+    "w": "trip",
+    "zh": "旅行",
+    "k": "syn"
+   },
+   {
+    "w": "expedition",
+    "zh": "探險遠征",
+    "k": "confuse"
+   }
+  ],
+  "n": 673,
+  "day": 27,
+  "src": "TSL"
+ },
+ {
+  "word": "exotic",
+  "pos": "adj",
+  "pic": "🏝️",
+  "zh": "異國風味的；奇特的",
+  "en": "from or like a faraway foreign place",
+  "simple": "She likes exotic fruit.",
+  "simple_zh": "她喜歡異國水果。",
+  "toeic": "The restaurant serves exotic dishes from Southeast Asia.",
+  "toeic_zh": "這間餐廳供應東南亞的異國料理。",
+  "family": "",
+  "related": [
+   {
+    "w": "foreign",
+    "zh": "外國的",
+    "k": "syn"
+   },
+   {
+    "w": "ordinary",
+    "zh": "普通的",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 674,
+  "day": 27
+ },
+ {
+  "word": "explorer",
+  "pos": "n",
+  "pic": "🧭",
+  "zh": "探險家；探索者",
+  "en": "a person who travels to discover new places",
+  "simple": "The explorer visited many islands.",
+  "simple_zh": "探險家造訪了許多島嶼。",
+  "toeic": "The company hired a veteran explorer to lead the expedition.",
+  "toeic_zh": "公司聘請了一位資深探險家來帶領這次探險。",
+  "family": "explore (v), explorer (n), exploration (n)",
+  "related": [
+   {
+    "w": "explore",
+    "zh": "探索",
+    "k": "family"
+   },
+   {
+    "w": "exploiter",
+    "zh": "剝削者",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 675,
+  "day": 27
+ },
+ {
+  "word": "fare",
+  "pos": "n",
+  "pic": "🚌",
+  "zh": "車資；票價",
+  "en": "the money you pay to travel by bus, train or plane",
+  "simple": "The train fare is cheap.",
+  "simple_zh": "火車票價很便宜。",
+  "toeic": "The airline fare includes one checked bag and a meal.",
+  "toeic_zh": "這張機票票價包含一件託運行李和一份餐點。",
+  "family": "air fare; bus fare; full fare / half fare; fare increase",
+  "related": [
+   {
+    "w": "fair",
+    "zh": "公平的；展覽會",
+    "k": "confuse"
+   },
+   {
+    "w": "fee",
+    "zh": "費用",
+    "k": "syn"
+   }
+  ],
+  "n": 676,
+  "day": 28,
+  "src": "TSL"
+ },
+ {
+  "word": "fasten",
+  "pos": "v",
+  "pic": "🔗",
+  "zh": "繫緊；扣上",
+  "en": "to close or attach something firmly",
+  "simple": "Please fasten your seat belt.",
+  "simple_zh": "請繫好安全帶。",
+  "toeic": "Passengers must fasten their seat belts during takeoff.",
+  "toeic_zh": "起飛時乘客必須繫好安全帶。",
+  "family": "fasten (v), fastener (n)",
+  "related": [
+   {
+    "w": "fast",
+    "zh": "快的",
+    "k": "confuse"
+   },
+   {
+    "w": "secure",
+    "zh": "固定",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 677,
+  "day": 28
+ },
+ {
+  "word": "fax",
+  "pos": "n",
+  "pic": "📠",
+  "zh": "傳真；電傳",
+  "en": "a document sent electronically",
+  "simple": "Send the document via fax.",
+  "simple_zh": "通過傳真發送文件。",
+  "toeic": "Fax service is available 24/7.",
+  "toeic_zh": "傳真服務24/7可用。",
+  "family": "fax (v), faxed (adj)",
+  "related": [
+   {
+    "w": "facsimile",
+    "zh": "副本",
+    "k": "syn"
+   },
+   {
+    "w": "transmission",
+    "zh": "傳輸",
+    "k": "syn"
+   }
+  ],
+  "n": 678,
+  "day": 28,
+  "src": "TSL"
+ },
+ {
+  "word": "firework",
+  "pos": "n",
+  "pic": "🎆",
+  "zh": "煙火",
+  "en": "a device that makes bright lights and loud sounds",
+  "simple": "We watched the firework show.",
+  "simple_zh": "我們看了煙火秀。",
+  "toeic": "The city will hold a firework display on New Year's Eve.",
+  "toeic_zh": "市政府將在除夕舉辦煙火表演。",
+  "family": "",
+  "related": [
+   {
+    "w": "fireworks",
+    "zh": "煙火",
+    "k": "family"
+   },
+   {
+    "w": "festival",
+    "zh": "節慶",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 679,
+  "day": 28
+ },
+ {
+  "word": "fork",
+  "pos": "n",
+  "pic": "🍴",
+  "zh": "叉子",
+  "en": "a tool with points used for eating",
+  "simple": "I need a fork and a knife.",
+  "simple_zh": "我需要一支叉子和一把刀。",
+  "toeic": "The restaurant provides a fork and knife for every guest.",
+  "toeic_zh": "餐廳為每位客人提供刀叉。",
+  "family": "",
+  "related": [
+   {
+    "w": "knife",
+    "zh": "刀子",
+    "k": "family"
+   },
+   {
+    "w": "spoon",
+    "zh": "湯匙",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 680,
+  "day": 28
+ },
+ {
+  "word": "fountain",
+  "pos": "n",
+  "pic": "⛲",
+  "zh": "噴泉",
+  "en": "a structure that sends water into the air",
+  "simple": "The children play near the fountain.",
+  "simple_zh": "孩子們在噴泉旁玩。",
+  "toeic": "The hotel has a large fountain in front of the entrance.",
+  "toeic_zh": "這間飯店入口前有一座大噴泉。",
+  "family": "",
+  "related": [
+   {
+    "w": "mountain",
+    "zh": "山",
+    "k": "confuse"
+   },
+   {
+    "w": "pond",
+    "zh": "池塘",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 681,
+  "day": 28
+ },
+ {
+  "word": "fry",
+  "pos": "v",
+  "pic": "🍳",
+  "zh": "油炸；煎",
+  "en": "to cook food in hot oil",
+  "simple": "I fry eggs every morning.",
+  "simple_zh": "我每天早上煎蛋。",
+  "toeic": "The chef will fry the fish and serve it with rice.",
+  "toeic_zh": "主廚會把魚煎好，搭配米飯上菜。",
+  "family": "fry (v), fried (adj)",
+  "related": [
+   {
+    "w": "bake",
+    "zh": "烘烤",
+    "k": "opp"
+   },
+   {
+    "w": "boil",
+    "zh": "煮",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 682,
+  "day": 28
+ },
+ {
+  "word": "genre",
+  "pos": "n",
+  "pic": "🎭",
+  "zh": "類型；體裁",
+  "en": "a type of art, music, or writing",
+  "simple": "What genre of music do you like?",
+  "simple_zh": "你喜歡哪一種類型的音樂？",
+  "toeic": "The bookstore arranges its shelves by genre.",
+  "toeic_zh": "這家書店依類型排列書架。",
+  "family": "",
+  "related": [
+   {
+    "w": "category",
+    "zh": "類別",
+    "k": "syn"
+   },
+   {
+    "w": "gene",
+    "zh": "基因",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 683,
+  "day": 28
+ },
+ {
+  "word": "getaway",
+  "pos": "n",
+  "pic": "🏖️",
+  "zh": "短期度假；度假去處",
+  "en": "a short vacation or a place for one",
+  "simple": "We had a weekend getaway.",
+  "simple_zh": "我們度過了一個週末小旅行。",
+  "toeic": "The travel agency offers a romantic getaway package for couples.",
+  "toeic_zh": "旅行社為情侶提供浪漫度假套裝行程。",
+  "family": "",
+  "related": [
+   {
+    "w": "vacation",
+    "zh": "假期",
+    "k": "syn"
+   },
+   {
+    "w": "escape",
+    "zh": "逃離",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 684,
+  "day": 28
+ },
+ {
+  "word": "grill",
+  "pos": "n",
+  "pic": "🍖",
+  "zh": "烤架；燒烤餐廳",
+  "en": "a metal frame for cooking food over fire",
+  "simple": "He cooks meat on the grill.",
+  "simple_zh": "他在烤架上烤肉。",
+  "toeic": "The hotel restaurant has a grill that serves fresh seafood.",
+  "toeic_zh": "飯店餐廳設有燒烤區，供應新鮮海鮮。",
+  "family": "",
+  "related": [
+   {
+    "w": "barbecue",
+    "zh": "烤肉",
+    "k": "syn"
+   },
+   {
+    "w": "grille",
+    "zh": "柵欄；進氣格柵",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 685,
+  "day": 28
+ },
+ {
+  "word": "gym",
+  "pos": "n",
+  "pic": "🏋️",
+  "zh": "健身房",
+  "en": "a place with equipment for exercise",
+  "simple": "I go to the gym after work.",
+  "simple_zh": "我下班後去健身房。",
+  "toeic": "Hotel guests can use the gym free of charge.",
+  "toeic_zh": "飯店房客可免費使用健身房。",
+  "family": "gymnasium (n)",
+  "related": [
+   {
+    "w": "gymnasium",
+    "zh": "體育館",
+    "k": "family"
+   },
+   {
+    "w": "fitness center",
+    "zh": "健身中心",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 686,
+  "day": 28
+ },
+ {
+  "word": "hamburger",
+  "pos": "n",
+  "pic": "🍔",
+  "zh": "漢堡",
+  "en": "a round sandwich with a cooked beef patty",
+  "simple": "I want a hamburger for lunch.",
+  "simple_zh": "我午餐想吃漢堡。",
+  "toeic": "The restaurant offers a hamburger and drink for only five dollars.",
+  "toeic_zh": "這家餐廳提供漢堡加飲料只要五美元。",
+  "family": "",
+  "related": [
+   {
+    "w": "sandwich",
+    "zh": "三明治",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 687,
+  "day": 28
+ },
+ {
+  "word": "hike",
+  "pos": "n",
+  "pic": "🥾",
+  "zh": "健行；徒步旅行",
+  "en": "a long walk in nature",
+  "simple": "We went on a hike on Sunday.",
+  "simple_zh": "我們週日去健行。",
+  "toeic": "The tour includes a short hike to a famous waterfall.",
+  "toeic_zh": "行程包含短程健行前往一處著名瀑布。",
+  "family": "hiker (n)",
+  "related": [
+   {
+    "w": "hiker",
+    "zh": "健行者",
+    "k": "family"
+   },
+   {
+    "w": "trek",
+    "zh": "長途跋涉",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 688,
+  "day": 28
+ },
+ {
+  "word": "hiker",
+  "pos": "n",
+  "pic": "🚶",
+  "zh": "健行者",
+  "en": "a person who goes on long walks in nature",
+  "simple": "The hiker has a big bag.",
+  "simple_zh": "那位健行者有個大背包。",
+  "toeic": "Every hiker must register at the park office before starting the trail.",
+  "toeic_zh": "每位健行者在進入步道前都必須在公園辦公室登記。",
+  "family": "hike (n, v)",
+  "related": [
+   {
+    "w": "hike",
+    "zh": "健行",
+    "k": "family"
+   },
+   {
+    "w": "tourist",
+    "zh": "觀光客",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 689,
+  "day": 28
+ },
+ {
+  "word": "hobby",
+  "pos": "n",
+  "pic": "🎨",
+  "zh": "嗜好；興趣",
+  "en": "an activity you enjoy doing in your free time",
+  "simple": "My hobby is playing the piano.",
+  "simple_zh": "我的嗜好是彈鋼琴。",
+  "toeic": "Many employees joined the club to share a common hobby.",
+  "toeic_zh": "許多員工加入社團，以分享共同的嗜好。",
+  "family": "",
+  "related": [
+   {
+    "w": "pastime",
+    "zh": "消遣",
+    "k": "syn"
+   },
+   {
+    "w": "profession",
+    "zh": "職業",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 690,
+  "day": 28
+ },
+ {
+  "word": "homemade",
+  "pos": "adj",
+  "pic": "🥧",
+  "zh": "自製的",
+  "en": "made at home, not bought in a store",
+  "simple": "I love homemade cake.",
+  "simple_zh": "我喜歡自製蛋糕。",
+  "toeic": "The café is famous for its homemade bread and soup.",
+  "toeic_zh": "這家咖啡館以自製麵包和湯品聞名。",
+  "family": "",
+  "related": [
+   {
+    "w": "handmade",
+    "zh": "手工製的",
+    "k": "syn"
+   },
+   {
+    "w": "store-bought",
+    "zh": "店裡買的",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 691,
+  "day": 28
+ },
+ {
+  "word": "housekeeper",
+  "pos": "n",
+  "pic": "🧹",
+  "zh": "房務員；管家",
+  "en": "a person who cleans and cares for a home or hotel",
+  "simple": "The housekeeper cleans the rooms.",
+  "simple_zh": "房務員打掃房間。",
+  "toeic": "Please inform the housekeeper if you need extra towels.",
+  "toeic_zh": "若您需要額外毛巾，請告知房務員。",
+  "family": "housekeeping (n)",
+  "related": [
+   {
+    "w": "janitor",
+    "zh": "清潔工",
+    "k": "syn"
+   },
+   {
+    "w": "housekeeping",
+    "zh": "房務",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 692,
+  "day": 28
+ },
+ {
+  "word": "ice cream",
+  "pos": "n",
+  "pic": "🍦",
+  "zh": "冰淇淋",
+  "en": "a sweet frozen food made from milk",
+  "simple": "I like ice cream in summer.",
+  "simple_zh": "我夏天喜歡吃冰淇淋。",
+  "toeic": "The shop will offer free ice cream during its opening week.",
+  "toeic_zh": "這家店開幕週將提供免費冰淇淋。",
+  "family": "",
+  "related": [
+   {
+    "w": "dessert",
+    "zh": "甜點",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 693,
+  "day": 28
+ },
+ {
+  "word": "indoor",
+  "pos": "adj",
+  "pic": "🏠",
+  "zh": "室內的",
+  "en": "inside a building",
+  "simple": "We play indoor games in winter.",
+  "simple_zh": "冬天我們玩室內遊戲。",
+  "toeic": "The hotel has an indoor pool open until ten at night.",
+  "toeic_zh": "飯店設有室內游泳池，開放到晚上十點。",
+  "family": "indoors (adv)",
+  "related": [
+   {
+    "w": "outdoor",
+    "zh": "戶外的",
+    "k": "opp"
+   },
+   {
+    "w": "indoors",
+    "zh": "在室內",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 694,
+  "day": 28
+ },
+ {
+  "word": "ingredient",
+  "pos": "n",
+  "pic": "🥕",
+  "zh": "原料；食材",
+  "en": "one of the foods used to make a dish",
+  "simple": "Sugar is one ingredient.",
+  "simple_zh": "糖是其中一項食材。",
+  "toeic": "Every ingredient in our sauce is fresh and locally grown.",
+  "toeic_zh": "我們醬料裡的每一種原料都很新鮮，且是本地種植。",
+  "family": "",
+  "related": [
+   {
+    "w": "component",
+    "zh": "成分",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 695,
+  "day": 28
+ },
+ {
+  "word": "itinerary",
+  "pos": "n",
+  "pic": "📋",
+  "zh": "行程表；路線圖",
+  "en": "a planned route or sequence of stops",
+  "simple": "Check the itinerary before departure.",
+  "simple_zh": "出發前檢查行程表。",
+  "toeic": "The detailed itinerary included all meeting locations.",
+  "toeic_zh": "詳細的行程表包括所有會議地點。",
+  "family": "itinerant (adj)",
+  "related": [
+   {
+    "w": "schedule",
+    "zh": "日程",
+    "k": "syn"
+   },
+   {
+    "w": "plan",
+    "zh": "計畫",
+    "k": "syn"
+   }
+  ],
+  "n": 696,
+  "day": 28,
+  "src": "TSL"
+ },
+ {
+  "word": "jazz",
+  "pos": "n",
+  "pic": "🎷",
+  "zh": "爵士樂",
+  "en": "a type of music with strong rhythm",
+  "simple": "I enjoy jazz music.",
+  "simple_zh": "我喜歡爵士樂。",
+  "toeic": "The restaurant has live jazz every Friday evening.",
+  "toeic_zh": "這家餐廳每週五晚上有現場爵士樂演奏。",
+  "family": "",
+  "related": [
+   {
+    "w": "blues",
+    "zh": "藍調",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 697,
+  "day": 28
+ },
+ {
+  "word": "jog",
+  "pos": "v",
+  "pic": "🏃",
+  "zh": "慢跑",
+  "en": "To run slowly for exercise",
+  "simple": "I jog in the park every morning.",
+  "simple_zh": "我每天早上在公園慢跑。",
+  "toeic": "Many employees jog along the river before work.",
+  "toeic_zh": "許多員工上班前會沿著河邊慢跑。",
+  "family": "jogger (n), jogging (n)",
+  "related": [
+   {
+    "w": "run",
+    "zh": "跑步",
+    "k": "syn"
+   },
+   {
+    "w": "jug",
+    "zh": "水壺",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 698,
+  "day": 28
+ },
+ {
+  "word": "juice",
+  "pos": "n",
+  "pic": "🧃",
+  "zh": "果汁",
+  "en": "Liquid from fruit or vegetables",
+  "simple": "I drink orange juice for breakfast.",
+  "simple_zh": "我早餐喝柳橙汁。",
+  "toeic": "The café offers fresh juice with every lunch set.",
+  "toeic_zh": "這家咖啡廳每份午餐套餐都附贈鮮榨果汁。",
+  "family": "juicy (adj)",
+  "related": [
+   {
+    "w": "juicy",
+    "zh": "多汁的",
+    "k": "family"
+   },
+   {
+    "w": "beverage",
+    "zh": "飲料",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 699,
+  "day": 28
+ },
+ {
+  "word": "laundry",
+  "pos": "n",
+  "pic": "🧺",
+  "zh": "待洗衣物；洗衣店",
+  "en": "Clothes that need washing or are being washed",
+  "simple": "I do the laundry on Sunday.",
+  "simple_zh": "我星期天洗衣服。",
+  "toeic": "The hotel offers a laundry service for all guests.",
+  "toeic_zh": "這家旅館為所有住客提供洗衣服務。",
+  "family": "",
+  "related": [
+   {
+    "w": "laundromat",
+    "zh": "自助洗衣店",
+    "k": "family"
+   },
+   {
+    "w": "dry cleaning",
+    "zh": "乾洗",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 700,
+  "day": 28
+ },
+ {
+  "word": "leisure",
+  "pos": "n",
+  "pic": "🏖️",
+  "zh": "休閒",
+  "en": "Free time when you are not working",
+  "simple": "I read books in my leisure time.",
+  "simple_zh": "我在休閒時間看書。",
+  "toeic": "The resort offers many leisure activities for families.",
+  "toeic_zh": "這間度假村為家庭提供許多休閒活動。",
+  "family": "leisurely (adj)",
+  "related": [
+   {
+    "w": "pleasure",
+    "zh": "樂趣",
+    "k": "confuse"
+   },
+   {
+    "w": "recreation",
+    "zh": "娛樂",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 701,
+  "day": 29
+ },
+ {
+  "word": "lifeguard",
+  "pos": "n",
+  "pic": "🏊",
+  "zh": "救生員",
+  "en": "A person who watches swimmers to keep them safe",
+  "simple": "The lifeguard watches the pool.",
+  "simple_zh": "救生員看守著游泳池。",
+  "toeic": "A lifeguard is on duty at the hotel pool all day.",
+  "toeic_zh": "旅館游泳池全天都有救生員值勤。",
+  "family": "",
+  "related": [
+   {
+    "w": "guard",
+    "zh": "警衛",
+    "k": "syn"
+   },
+   {
+    "w": "coach",
+    "zh": "教練",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 702,
+  "day": 29
+ },
+ {
+  "word": "lounge",
+  "pos": "n",
+  "pic": "🛋️",
+  "zh": "酒吧間；休閒區",
+  "en": "a relaxing area for sitting and socializing",
+  "simple": "Relax in the hotel lounge.",
+  "simple_zh": "在飯店酒吧間放鬆。",
+  "toeic": "Airport lounges offer premium amenities.",
+  "toeic_zh": "機場酒吧間提供優質設施。",
+  "family": "lounge (v), lounging (adj)",
+  "related": [
+   {
+    "w": "bar",
+    "zh": "酒吧",
+    "k": "syn"
+   },
+   {
+    "w": "lobby",
+    "zh": "大廳",
+    "k": "syn"
+   }
+  ],
+  "n": 703,
+  "day": 29,
+  "src": "TSL"
+ },
+ {
+  "word": "luggage",
+  "pos": "n",
+  "pic": "🧳",
+  "zh": "行李；行囊",
+  "en": "bags and suitcases for carrying belongings",
+  "simple": "Please check your luggage carefully.",
+  "simple_zh": "請仔細檢查您的行李。",
+  "toeic": "Luggage allowance is limited on this flight.",
+  "toeic_zh": "此班機的行李額有限制。",
+  "family": "luggage tag (n)",
+  "related": [
+   {
+    "w": "baggage",
+    "zh": "行李",
+    "k": "syn"
+   },
+   {
+    "w": "suitcase",
+    "zh": "手提箱",
+    "k": "syn"
+   }
+  ],
+  "n": 704,
+  "day": 29,
+  "src": "TSL"
+ },
+ {
+  "word": "massage",
+  "pos": "n",
+  "pic": "💆",
+  "zh": "按摩",
+  "en": "Rubbing the body to relax muscles",
+  "simple": "I got a massage after work.",
+  "simple_zh": "我下班後去按摩。",
+  "toeic": "The spa offers a free massage for hotel guests.",
+  "toeic_zh": "這間水療中心為旅館住客提供免費按摩。",
+  "family": "",
+  "related": [
+   {
+    "w": "message",
+    "zh": "訊息",
+    "k": "confuse"
+   },
+   {
+    "w": "spa",
+    "zh": "水療",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 705,
+  "day": 29
+ },
+ {
+  "word": "medication",
+  "pos": "n",
+  "pic": "💊",
+  "zh": "藥物；醫療",
+  "en": "a substance used to treat illness",
+  "simple": "Bring medication in carry-on bags.",
+  "simple_zh": "把藥物放在隨身行李中。",
+  "toeic": "Prescription medications require documentation.",
+  "toeic_zh": "處方藥需要文件。",
+  "family": "medicine (n), medicinal (adj)",
+  "related": [
+   {
+    "w": "medicine",
+    "zh": "藥物",
+    "k": "syn"
+   },
+   {
+    "w": "prescription",
+    "zh": "處方",
+    "k": "syn"
+   }
+  ],
+  "n": 706,
+  "day": 29,
+  "src": "TSL"
+ },
+ {
+  "word": "microphone",
+  "pos": "n",
+  "pic": "🎤",
+  "zh": "麥克風；話筒",
+  "en": "a device for recording sound",
+  "simple": "Use the microphone clearly.",
+  "simple_zh": "清楚地使用麥克風。",
+  "toeic": "Microphones amplify speaker voices.",
+  "toeic_zh": "麥克風放大演講者的聲音。",
+  "family": "mic (n), microphone (n)",
+  "related": [
+   {
+    "w": "speaker",
+    "zh": "揚聲器",
+    "k": "syn"
+   },
+   {
+    "w": "audio",
+    "zh": "音頻",
+    "k": "syn"
+   }
+  ],
+  "n": 707,
+  "day": 29,
+  "src": "TSL"
+ },
+ {
+  "word": "midnight",
+  "pos": "n",
+  "pic": "🌙",
+  "zh": "午夜",
+  "en": "Twelve o'clock at night",
+  "simple": "The shop closes at midnight.",
+  "simple_zh": "這家店午夜關門。",
+  "toeic": "The system will shut down for maintenance at midnight.",
+  "toeic_zh": "系統將於午夜關閉進行維護。",
+  "family": "",
+  "related": [
+   {
+    "w": "noon",
+    "zh": "正午",
+    "k": "opp"
+   },
+   {
+    "w": "midday",
+    "zh": "中午",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 708,
+  "day": 29
+ },
+ {
+  "word": "mini",
+  "pos": "adj",
+  "pic": "🔹",
+  "zh": "迷你的",
+  "en": "Very small",
+  "simple": "She bought a mini fridge.",
+  "simple_zh": "她買了一台迷你冰箱。",
+  "toeic": "The hotel room has a mini bar and a coffee maker.",
+  "toeic_zh": "旅館房間設有迷你吧和咖啡機。",
+  "family": "",
+  "related": [
+   {
+    "w": "small",
+    "zh": "小的",
+    "k": "syn"
+   },
+   {
+    "w": "giant",
+    "zh": "巨大的",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 709,
+  "day": 29
+ },
+ {
+  "word": "monument",
+  "pos": "n",
+  "pic": "🗽",
+  "zh": "紀念碑",
+  "en": "A large structure built to remember a person or event",
+  "simple": "We visited a famous monument.",
+  "simple_zh": "我們參觀了一座著名的紀念碑。",
+  "toeic": "The tour includes stops at several historic monument sites.",
+  "toeic_zh": "行程包含幾處歷史紀念碑景點。",
+  "family": "monumental (adj)",
+  "related": [
+   {
+    "w": "statue",
+    "zh": "雕像",
+    "k": "syn"
+   },
+   {
+    "w": "movement",
+    "zh": "運動",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 710,
+  "day": 29
+ },
+ {
+  "word": "newsstand",
+  "pos": "n",
+  "pic": "🗞️",
+  "zh": "報攤",
+  "en": "A small stall that sells newspapers and magazines",
+  "simple": "I bought a paper at the newsstand.",
+  "simple_zh": "我在報攤買了一份報紙。",
+  "toeic": "The hotel lobby has a newsstand selling local magazines.",
+  "toeic_zh": "旅館大廳有一個販售當地雜誌的報攤。",
+  "family": "",
+  "related": [
+   {
+    "w": "kiosk",
+    "zh": "小亭",
+    "k": "syn"
+   },
+   {
+    "w": "newspaper",
+    "zh": "報紙",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 711,
+  "day": 29
+ },
+ {
+  "word": "noisy",
+  "pos": "adj",
+  "pic": "🔊",
+  "zh": "吵鬧的",
+  "en": "Making a lot of sound",
+  "simple": "The street is very noisy.",
+  "simple_zh": "這條街很吵。",
+  "toeic": "Guests complained that the room was too noisy at night.",
+  "toeic_zh": "住客抱怨房間晚上太吵。",
+  "family": "noise (n)",
+  "related": [
+   {
+    "w": "quiet",
+    "zh": "安靜的",
+    "k": "opp"
+   },
+   {
+    "w": "noise",
+    "zh": "噪音",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 712,
+  "day": 29
+ },
+ {
+  "word": "occupancy",
+  "pos": "n",
+  "pic": "👥",
+  "zh": "入住率；占用率",
+  "en": "the state of being occupied or in use",
+  "simple": "Current occupancy is 85%.",
+  "simple_zh": "目前入住率為85%。",
+  "toeic": "High occupancy rates affect room availability.",
+  "toeic_zh": "高入住率影響房間可用性。",
+  "family": "occupy (v), occupied (adj)",
+  "related": [
+   {
+    "w": "capacity",
+    "zh": "容量",
+    "k": "syn"
+   },
+   {
+    "w": "availability",
+    "zh": "可用性",
+    "k": "syn"
+   }
+  ],
+  "n": 713,
+  "day": 29,
+  "src": "TSL"
+ },
+ {
+  "word": "outdoor",
+  "pos": "adj",
+  "pic": "🏕️",
+  "zh": "戶外的",
+  "en": "done or located outside a building",
+  "simple": "We eat at an outdoor table.",
+  "simple_zh": "我們在戶外的桌子用餐。",
+  "toeic": "The hotel has an outdoor pool open all summer.",
+  "toeic_zh": "這間飯店有一座整個夏天開放的戶外游泳池。",
+  "family": "outdoors (adv)",
+  "related": [
+   {
+    "w": "outdoors",
+    "zh": "在戶外",
+    "k": "family"
+   },
+   {
+    "w": "indoor",
+    "zh": "室內的",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 714,
+  "day": 29
+ },
+ {
+  "word": "oven",
+  "pos": "n",
+  "pic": "♨️",
+  "zh": "烤箱",
+  "en": "a closed box for baking food",
+  "simple": "Put the bread in the oven.",
+  "simple_zh": "把麵包放進烤箱。",
+  "toeic": "The restaurant installed a new oven in its kitchen.",
+  "toeic_zh": "這間餐廳在廚房裝了一台新烤箱。",
+  "family": "",
+  "related": [
+   {
+    "w": "stove",
+    "zh": "爐子",
+    "k": "syn"
+   },
+   {
+    "w": "microwave",
+    "zh": "微波爐",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 715,
+  "day": 29
+ },
+ {
+  "word": "overcrowded",
+  "pos": "adj",
+  "pic": "🚇",
+  "zh": "過度擁擠的",
+  "en": "having too many people or things",
+  "simple": "The bus is overcrowded.",
+  "simple_zh": "公車太擠了。",
+  "toeic": "The overcrowded train caused many passengers to be late.",
+  "toeic_zh": "擁擠不堪的火車讓許多乘客遲到。",
+  "family": "crowd (n), crowded (adj)",
+  "related": [
+   {
+    "w": "crowded",
+    "zh": "擁擠的",
+    "k": "syn"
+   },
+   {
+    "w": "empty",
+    "zh": "空的",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 716,
+  "day": 29
+ },
+ {
+  "word": "pan",
+  "pos": "n",
+  "pic": "🍳",
+  "zh": "平底鍋",
+  "en": "a round metal dish for cooking",
+  "simple": "Heat the pan first.",
+  "simple_zh": "先把平底鍋加熱。",
+  "toeic": "The chef cleaned every pan before the dinner rush.",
+  "toeic_zh": "主廚在晚餐尖峰時段前把每個鍋子都洗乾淨。",
+  "family": "",
+  "related": [
+   {
+    "w": "pot",
+    "zh": "深鍋",
+    "k": "confuse"
+   },
+   {
+    "w": "pen",
+    "zh": "筆",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 717,
+  "day": 29
+ },
+ {
+  "word": "parade",
+  "pos": "n",
+  "pic": "🎉",
+  "zh": "遊行",
+  "en": "a public march with music or floats",
+  "simple": "We watched the parade.",
+  "simple_zh": "我們看了遊行。",
+  "toeic": "The city will hold a parade to celebrate the festival.",
+  "toeic_zh": "市政府將舉辦遊行來慶祝這個節日。",
+  "family": "parade (v)",
+  "related": [
+   {
+    "w": "procession",
+    "zh": "行列",
+    "k": "syn"
+   },
+   {
+    "w": "festival",
+    "zh": "節慶",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 718,
+  "day": 29
+ },
+ {
+  "word": "passport",
+  "pos": "n",
+  "pic": "📕",
+  "zh": "護照",
+  "en": "an official document for international travel",
+  "simple": "I need my passport for the trip.",
+  "simple_zh": "我需要護照進行這次旅行。",
+  "toeic": "Your passport must be valid for 6 months.",
+  "toeic_zh": "您的護照必須有效期至少6個月。",
+  "family": "passport control (n), passport photo (n)",
+  "related": [
+   {
+    "w": "visa",
+    "zh": "簽證",
+    "k": "syn"
+   },
+   {
+    "w": "identification",
+    "zh": "身分證",
+    "k": "syn"
+   }
+  ],
+  "n": 719,
+  "day": 29,
+  "src": "TSL"
+ },
+ {
+  "word": "pasta",
+  "pos": "n",
+  "pic": "🍝",
+  "zh": "義大利麵",
+  "en": "Italian food made of flour and water",
+  "simple": "I like pasta with tomato.",
+  "simple_zh": "我喜歡番茄義大利麵。",
+  "toeic": "The restaurant is famous for its fresh pasta dishes.",
+  "toeic_zh": "這家餐廳以新鮮義大利麵料理聞名。",
+  "family": "",
+  "related": [
+   {
+    "w": "noodle",
+    "zh": "麵條",
+    "k": "syn"
+   },
+   {
+    "w": "pastry",
+    "zh": "糕點",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 720,
+  "day": 29
+ },
+ {
+  "word": "pastry",
+  "pos": "n",
+  "pic": "🥐",
+  "zh": "糕點",
+  "en": "sweet baked food made with dough",
+  "simple": "I ate a pastry.",
+  "simple_zh": "我吃了一個糕點。",
+  "toeic": "The café serves coffee and fresh pastry every morning.",
+  "toeic_zh": "這間咖啡廳每天早上供應咖啡和新鮮糕點。",
+  "family": "",
+  "related": [
+   {
+    "w": "pasta",
+    "zh": "義大利麵",
+    "k": "confuse"
+   },
+   {
+    "w": "cake",
+    "zh": "蛋糕",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 721,
+  "day": 29
+ },
+ {
+  "word": "pepper",
+  "pos": "n",
+  "pic": "🌶️",
+  "zh": "胡椒；辣椒",
+  "en": "a hot spice or a vegetable",
+  "simple": "Add salt and pepper.",
+  "simple_zh": "加鹽和胡椒。",
+  "toeic": "Please bring salt and pepper to table five.",
+  "toeic_zh": "請把鹽和胡椒拿到五號桌。",
+  "family": "",
+  "related": [
+   {
+    "w": "salt",
+    "zh": "鹽",
+    "k": "syn"
+   },
+   {
+    "w": "paper",
+    "zh": "紙",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 722,
+  "day": 29
+ },
+ {
+  "word": "pet",
+  "pos": "n",
+  "pic": "🐶",
+  "zh": "寵物",
+  "en": "an animal kept at home",
+  "simple": "Do you have a pet?",
+  "simple_zh": "你有養寵物嗎？",
+  "toeic": "This hotel does not allow a pet in the guest rooms.",
+  "toeic_zh": "這間飯店不允許客房內攜帶寵物。",
+  "family": "",
+  "related": [
+   {
+    "w": "animal",
+    "zh": "動物",
+    "k": "syn"
+   },
+   {
+    "w": "pest",
+    "zh": "害蟲",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 723,
+  "day": 29
+ },
+ {
+  "word": "photographer",
+  "pos": "n",
+  "pic": "📷",
+  "zh": "攝影師",
+  "en": "a person who takes photos",
+  "simple": "The photographer took a picture.",
+  "simple_zh": "攝影師拍了一張照片。",
+  "toeic": "We hired a photographer for the company event.",
+  "toeic_zh": "我們為公司活動聘請了一位攝影師。",
+  "family": "photograph (n), photography (n)",
+  "related": [
+   {
+    "w": "photography",
+    "zh": "攝影",
+    "k": "family"
+   },
+   {
+    "w": "camera",
+    "zh": "相機",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 724,
+  "day": 29
+ },
+ {
+  "word": "photography",
+  "pos": "n",
+  "pic": "📸",
+  "zh": "攝影",
+  "en": "the art of taking photos",
+  "simple": "I enjoy photography.",
+  "simple_zh": "我喜歡攝影。",
+  "toeic": "The museum will hold a photography exhibition this fall.",
+  "toeic_zh": "博物館今年秋天將舉辦攝影展。",
+  "family": "photographer (n), photograph (n)",
+  "related": [
+   {
+    "w": "photographer",
+    "zh": "攝影師",
+    "k": "family"
+   },
+   {
+    "w": "painting",
+    "zh": "繪畫",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 725,
+  "day": 29
+ },
+ {
+  "word": "picnic",
+  "pos": "n",
+  "pic": "🧺",
+  "zh": "野餐",
+  "en": "a meal eaten outdoors",
+  "simple": "We had a picnic.",
+  "simple_zh": "我們去野餐了。",
+  "toeic": "The company picnic will be held at the riverside park.",
+  "toeic_zh": "公司野餐將在河濱公園舉行。",
+  "family": "",
+  "related": [
+   {
+    "w": "barbecue",
+    "zh": "烤肉",
+    "k": "syn"
+   },
+   {
+    "w": "outing",
+    "zh": "郊遊",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 726,
+  "day": 30
+ },
+ {
+  "word": "pie",
+  "pos": "n",
+  "pic": "🥧",
+  "zh": "派",
+  "en": "a baked dish with a crust",
+  "simple": "I love apple pie.",
+  "simple_zh": "我愛蘋果派。",
+  "toeic": "The café sells a slice of pie with every coffee order.",
+  "toeic_zh": "這間咖啡廳每份咖啡都搭售一片派。",
+  "family": "",
+  "related": [
+   {
+    "w": "cake",
+    "zh": "蛋糕",
+    "k": "syn"
+   },
+   {
+    "w": "pi",
+    "zh": "圓周率",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 727,
+  "day": 30
+ },
+ {
+  "word": "pillow",
+  "pos": "n",
+  "pic": "🛏️",
+  "zh": "枕頭；靠墊",
+  "en": "a cushion for resting the head",
+  "simple": "Request extra pillows from housekeeping.",
+  "simple_zh": "向客房服務要求額外的枕頭。",
+  "toeic": "Pillows are changed daily in hotels.",
+  "toeic_zh": "飯店每天更換枕頭。",
+  "family": "pillow (v), pillowed (adj)",
+  "related": [
+   {
+    "w": "cushion",
+    "zh": "墊子",
+    "k": "syn"
+   },
+   {
+    "w": "bedding",
+    "zh": "床上用品",
+    "k": "syn"
+   }
+  ],
+  "n": 728,
+  "day": 30,
+  "src": "TSL"
+ },
+ {
+  "word": "pizza",
+  "pos": "n",
+  "pic": "🍕",
+  "zh": "披薩",
+  "en": "a flat round Italian food with cheese",
+  "simple": "We ordered a pizza.",
+  "simple_zh": "我們訂了一個披薩。",
+  "toeic": "We ordered pizza for the staff working late tonight.",
+  "toeic_zh": "我們幫今晚加班的員工訂了披薩。",
+  "family": "",
+  "related": [
+   {
+    "w": "pasta",
+    "zh": "義大利麵",
+    "k": "syn"
+   },
+   {
+    "w": "sandwich",
+    "zh": "三明治",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 729,
+  "day": 30
+ },
+ {
+  "word": "popcorn",
+  "pos": "n",
+  "pic": "🍿",
+  "zh": "爆米花",
+  "en": "a snack made from popped corn",
+  "simple": "We ate popcorn at the movies.",
+  "simple_zh": "我們在電影院吃爆米花。",
+  "toeic": "The theater sells popcorn and drinks at the lobby counter.",
+  "toeic_zh": "戲院在大廳櫃檯販售爆米花和飲料。",
+  "family": "",
+  "related": [
+   {
+    "w": "snack",
+    "zh": "點心",
+    "k": "syn"
+   },
+   {
+    "w": "candy",
+    "zh": "糖果",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 730,
+  "day": 30
+ },
+ {
+  "word": "postcard",
+  "pos": "n",
+  "pic": "💌",
+  "zh": "明信片",
+  "en": "a card sent by mail without an envelope",
+  "simple": "I sent you a postcard.",
+  "simple_zh": "我寄了一張明信片給你。",
+  "toeic": "Guests can buy a postcard at the hotel gift shop.",
+  "toeic_zh": "旅客可以在飯店禮品店購買明信片。",
+  "family": "post (n)",
+  "related": [
+   {
+    "w": "letter",
+    "zh": "信件",
+    "k": "syn"
+   },
+   {
+    "w": "greeting card",
+    "zh": "賀卡",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 731,
+  "day": 30
+ },
+ {
+  "word": "pottery",
+  "pos": "n",
+  "pic": "🏺",
+  "zh": "陶器",
+  "en": "objects made from baked clay",
+  "simple": "She makes pottery.",
+  "simple_zh": "她製作陶器。",
+  "toeic": "The village is known for its beautiful handmade pottery.",
+  "toeic_zh": "這個村莊以美麗的手工陶器聞名。",
+  "family": "potter (n)",
+  "related": [
+   {
+    "w": "ceramics",
+    "zh": "陶瓷",
+    "k": "syn"
+   },
+   {
+    "w": "porcelain",
+    "zh": "瓷器",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 732,
+  "day": 30
+ },
+ {
+  "word": "premium",
+  "pos": "n",
+  "pic": "💰",
+  "zh": "保費；溢價",
+  "en": "the regular payment for insurance",
+  "simple": "Monthly premium is $25.",
+  "simple_zh": "月度保費為25美元。",
+  "toeic": "Travel insurance premiums vary by age.",
+  "toeic_zh": "旅行保險保費因年齡而異。",
+  "family": "premium (adj)",
+  "related": [
+   {
+    "w": "payment",
+    "zh": "付款",
+    "k": "syn"
+   },
+   {
+    "w": "rate",
+    "zh": "費率",
+    "k": "syn"
+   }
+  ],
+  "n": 733,
+  "day": 30,
+  "src": "TSL"
+ },
+ {
+  "word": "prescription",
+  "pos": "n",
+  "pic": "📋",
+  "zh": "處方；規定",
+  "en": "a doctor's written order for medicine",
+  "simple": "Show your prescription at customs.",
+  "simple_zh": "在海關出示您的處方。",
+  "toeic": "Prescription requirements vary by country.",
+  "toeic_zh": "處方要求因國家而異。",
+  "family": "prescribe (v), prescribed (adj)",
+  "related": [
+   {
+    "w": "medication",
+    "zh": "藥物",
+    "k": "syn"
+   },
+   {
+    "w": "doctor",
+    "zh": "醫生",
+    "k": "syn"
+   },
+   {
+    "w": "proscription",
+    "zh": "禁止",
+    "k": "confuse"
+   }
+  ],
+  "n": 734,
+  "day": 30,
+  "src": "TSL"
+ },
+ {
+  "word": "projector",
+  "pos": "n",
+  "pic": "📽️",
+  "zh": "投影儀；放映機",
+  "en": "a device that displays images",
+  "simple": "Set up the projector for slides.",
+  "simple_zh": "為幻燈片設置投影儀。",
+  "toeic": "Projectors support multiple input formats.",
+  "toeic_zh": "投影儀支持多種輸入格式。",
+  "family": "project (v), projection (n)",
+  "related": [
+   {
+    "w": "screen",
+    "zh": "屏幕",
+    "k": "syn"
+   },
+   {
+    "w": "display",
+    "zh": "展示",
+    "k": "syn"
+   }
+  ],
+  "n": 735,
+  "day": 30,
+  "src": "TSL"
+ },
+ {
+  "word": "puzzle",
+  "pos": "n",
+  "pic": "🧩",
+  "zh": "難題；拼圖",
+  "en": "a game or problem to solve",
+  "simple": "This puzzle is hard.",
+  "simple_zh": "這個拼圖很難。",
+  "toeic": "The sudden drop in sales is a puzzle to the team.",
+  "toeic_zh": "銷售突然下滑讓團隊百思不解。",
+  "family": "puzzling (adj)",
+  "related": [
+   {
+    "w": "riddle",
+    "zh": "謎語",
+    "k": "syn"
+   },
+   {
+    "w": "problem",
+    "zh": "問題",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 736,
+  "day": 30
+ },
+ {
+  "word": "recipe",
+  "pos": "n",
+  "pic": "📖",
+  "zh": "食譜",
+  "en": "instructions for cooking a certain food",
+  "simple": "This recipe is very easy.",
+  "simple_zh": "這份食譜很簡單。",
+  "toeic": "The restaurant refused to share the recipe for its famous sauce.",
+  "toeic_zh": "這家餐廳拒絕分享其著名醬汁的食譜。",
+  "family": "",
+  "related": [
+   {
+    "w": "receipt",
+    "zh": "收據",
+    "k": "confuse"
+   },
+   {
+    "w": "ingredient",
+    "zh": "食材",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 737,
+  "day": 30
+ },
+ {
+  "word": "recreation",
+  "pos": "n",
+  "pic": "⚽",
+  "zh": "休閒；娛樂",
+  "en": "fun activities done in free time",
+  "simple": "We play ball for recreation.",
+  "simple_zh": "我們打球當作休閒。",
+  "toeic": "The hotel offers many forms of recreation, including tennis and golf.",
+  "toeic_zh": "這間飯店提供多種休閒活動，包括網球和高爾夫。",
+  "family": "recreational (adj)",
+  "related": [
+   {
+    "w": "creation",
+    "zh": "創造",
+    "k": "confuse"
+   },
+   {
+    "w": "leisure",
+    "zh": "休閒",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 738,
+  "day": 30
+ },
+ {
+  "word": "recreational",
+  "pos": "adj",
+  "pic": "🏊",
+  "zh": "休閒的；娛樂的",
+  "en": "done for fun in free time",
+  "simple": "The park has recreational areas.",
+  "simple_zh": "這座公園有休閒區。",
+  "toeic": "The company built a recreational center for its employees.",
+  "toeic_zh": "公司為員工興建了一座休閒中心。",
+  "family": "recreation (n)",
+  "related": [
+   {
+    "w": "recreation",
+    "zh": "休閒",
+    "k": "family"
+   },
+   {
+    "w": "leisure",
+    "zh": "休閒的",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 739,
+  "day": 30
+ },
+ {
+  "word": "referee",
+  "pos": "n",
+  "pic": "🧑‍⚖️",
+  "zh": "裁判；仲裁人",
+  "en": "a person who makes sure players follow the rules",
+  "simple": "The referee blew his whistle.",
+  "simple_zh": "裁判吹了哨子。",
+  "toeic": "The referee stopped the match because of the heavy rain.",
+  "toeic_zh": "由於大雨，裁判中止了比賽。",
+  "family": "",
+  "related": [
+   {
+    "w": "reference",
+    "zh": "推薦人；參考",
+    "k": "confuse"
+   },
+   {
+    "w": "umpire",
+    "zh": "裁判",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 740,
+  "day": 30
+ },
+ {
+  "word": "refund",
+  "pos": "n",
+  "pic": "💸",
+  "zh": "退款；退費",
+  "en": "money returned to a buyer",
+  "simple": "Request a refund if unsatisfied.",
+  "simple_zh": "如果不滿意請申請退款。",
+  "toeic": "Refunds are processed within 5 days.",
+  "toeic_zh": "退款在5天內處理。",
+  "family": "refund (v), refundable (adj)",
+  "related": [
+   {
+    "w": "reimbursement",
+    "zh": "報銷",
+    "k": "syn"
+   },
+   {
+    "w": "repayment",
+    "zh": "償還",
+    "k": "syn"
+   }
+  ],
+  "n": 741,
+  "day": 30,
+  "src": "TSL"
+ },
+ {
+  "word": "reimbursement",
+  "pos": "n",
+  "pic": "💸",
+  "zh": "報銷；償還",
+  "en": "the act of paying someone back",
+  "simple": "Request reimbursement within 30 days.",
+  "simple_zh": "在30天內申請報銷。",
+  "toeic": "Reimbursement will be processed after approval.",
+  "toeic_zh": "報銷將在批准後處理。",
+  "family": "reimburse (v), reimbursable (adj)",
+  "related": [
+   {
+    "w": "refund",
+    "zh": "退款",
+    "k": "syn"
+   },
+   {
+    "w": "payment",
+    "zh": "付款",
+    "k": "syn"
+   }
+  ],
+  "n": 742,
+  "day": 30,
+  "src": "TSL"
+ },
+ {
+  "word": "relaxation",
+  "pos": "n",
+  "pic": "🧘",
+  "zh": "放鬆；休閒",
+  "en": "rest and freedom from stress",
+  "simple": "I read books for relaxation.",
+  "simple_zh": "我看書來放鬆。",
+  "toeic": "The spa offers a perfect place for relaxation after a long trip.",
+  "toeic_zh": "這間水療中心是長途旅行後完美的放鬆去處。",
+  "family": "relax (v), relaxed (adj)",
+  "related": [
+   {
+    "w": "relax",
+    "zh": "放鬆",
+    "k": "family"
+   },
+   {
+    "w": "stress",
+    "zh": "壓力",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 743,
+  "day": 30
+ },
+ {
+  "word": "relocate",
+  "pos": "v",
+  "pic": "📦",
+  "zh": "搬遷；調派",
+  "en": "To move to a new place to live or work.",
+  "simple": "They will relocate to Tokyo.",
+  "simple_zh": "他們將搬到東京。",
+  "toeic": "The firm offered to relocate her family when she accepted the overseas post.",
+  "toeic_zh": "當她接受海外職位時，公司提出協助她的家人搬遷。",
+  "family": "relocation (n)",
+  "related": [
+   {
+    "w": "transfer",
+    "zh": "調職",
+    "k": "syn"
+   },
+   {
+    "w": "locate",
+    "zh": "找出；坐落於",
+    "k": "confuse"
+   }
+  ],
+  "n": 744,
+  "day": 30,
+  "src": "TSL"
+ },
+ {
+  "word": "rental",
+  "pos": "n",
+  "pic": "🔑",
+  "zh": "租賃；租金",
+  "en": "the act of paying to use something",
+  "simple": "We need a car rental.",
+  "simple_zh": "我們需要租車。",
+  "toeic": "The rental includes insurance and unlimited mileage.",
+  "toeic_zh": "租賃費用包含保險和不限里程。",
+  "family": "rent (v, n), renter (n)",
+  "related": [
+   {
+    "w": "lease",
+    "zh": "租約",
+    "k": "syn"
+   },
+   {
+    "w": "rent",
+    "zh": "租",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 745,
+  "day": 30
+ },
+ {
+  "word": "reservation",
+  "pos": "n",
+  "pic": "🎫",
+  "zh": "預留；預訂",
+  "en": "an arrangement to hold something for future use",
+  "simple": "Make a reservation before visiting.",
+  "simple_zh": "訪問前先做預留。",
+  "toeic": "The reservation was confirmed via email.",
+  "toeic_zh": "預訂通過電子郵件確認。",
+  "family": "reserve (v), reserved (adj)",
+  "related": [
+   {
+    "w": "booking",
+    "zh": "預訂",
+    "k": "syn"
+   },
+   {
+    "w": "confirm",
+    "zh": "確認",
+    "k": "syn"
+   }
+  ],
+  "n": 746,
+  "day": 30,
+  "src": "TSL"
+ },
+ {
+  "word": "runner",
+  "pos": "n",
+  "pic": "🏃",
+  "zh": "跑者；賽跑選手",
+  "en": "a person who runs",
+  "simple": "She is a fast runner.",
+  "simple_zh": "她是個跑得很快的人。",
+  "toeic": "Thousands of runners joined the city marathon on Sunday.",
+  "toeic_zh": "週日有數千名跑者參加了城市馬拉松。",
+  "family": "run (v, n), running (n)",
+  "related": [
+   {
+    "w": "jogger",
+    "zh": "慢跑者",
+    "k": "syn"
+   },
+   {
+    "w": "run",
+    "zh": "跑",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 747,
+  "day": 30
+ },
+ {
+  "word": "salad",
+  "pos": "n",
+  "pic": "🥗",
+  "zh": "沙拉",
+  "en": "a cold dish of mixed vegetables",
+  "simple": "I ordered a green salad.",
+  "simple_zh": "我點了一份蔬菜沙拉。",
+  "toeic": "The lunch menu includes a salad and a drink for ten dollars.",
+  "toeic_zh": "午餐菜單包含一份沙拉和一杯飲料，共十美元。",
+  "family": "",
+  "related": [
+   {
+    "w": "salary",
+    "zh": "薪水",
+    "k": "confuse"
+   },
+   {
+    "w": "soup",
+    "zh": "湯",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 748,
+  "day": 30
+ },
+ {
+  "word": "sauna",
+  "pos": "n",
+  "pic": "🧖",
+  "zh": "桑拿；蒸氣浴",
+  "en": "a hot room used for relaxing",
+  "simple": "We sat in the sauna.",
+  "simple_zh": "我們坐在桑拿房裡。",
+  "toeic": "The hotel has a pool, a gym, and a sauna for guests.",
+  "toeic_zh": "這間飯店為房客提供游泳池、健身房和桑拿。",
+  "family": "",
+  "related": [
+   {
+    "w": "spa",
+    "zh": "水療",
+    "k": "syn"
+   },
+   {
+    "w": "gym",
+    "zh": "健身房",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 749,
+  "day": 30
+ },
+ {
+  "word": "scenery",
+  "pos": "n",
+  "pic": "🏞️",
+  "zh": "風景；景色",
+  "en": "the natural beauty of a place",
+  "simple": "The scenery here is beautiful.",
+  "simple_zh": "這裡的風景很美。",
+  "toeic": "Guests can enjoy the mountain scenery from their hotel room.",
+  "toeic_zh": "房客可以從飯店房間欣賞山景。",
+  "family": "scenic (adj), scene (n)",
+  "related": [
+   {
+    "w": "scene",
+    "zh": "場景",
+    "k": "confuse"
+   },
+   {
+    "w": "view",
+    "zh": "景觀",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 750,
+  "day": 30
+ },
+ {
+  "word": "sculpture",
+  "pos": "n",
+  "pic": "🗿",
+  "zh": "雕塑；雕像",
+  "en": "a piece of art made from stone or metal",
+  "simple": "The sculpture is in the park.",
+  "simple_zh": "這座雕塑在公園裡。",
+  "toeic": "A large sculpture will be placed in front of the new building.",
+  "toeic_zh": "一座大型雕塑將擺放在新大樓前。",
+  "family": "sculptor (n)",
+  "related": [
+   {
+    "w": "statue",
+    "zh": "雕像",
+    "k": "syn"
+   },
+   {
+    "w": "sculptor",
+    "zh": "雕塑家",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 751,
+  "day": 31
+ },
+ {
+  "word": "seafood",
+  "pos": "n",
+  "pic": "🦐",
+  "zh": "海鮮",
+  "en": "fish and other food from the sea",
+  "simple": "We had seafood for dinner.",
+  "simple_zh": "我們晚餐吃海鮮。",
+  "toeic": "The restaurant is famous for its fresh seafood.",
+  "toeic_zh": "這家餐廳以新鮮海鮮聞名。",
+  "family": "",
+  "related": [
+   {
+    "w": "shellfish",
+    "zh": "貝類",
+    "k": "syn"
+   },
+   {
+    "w": "meat",
+    "zh": "肉類",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 752,
+  "day": 31
+ },
+ {
+  "word": "seaside",
+  "pos": "n",
+  "pic": "🏖️",
+  "zh": "海邊；海濱",
+  "en": "the land next to the sea",
+  "simple": "We went to the seaside.",
+  "simple_zh": "我們去了海邊。",
+  "toeic": "The conference will take place at a seaside resort.",
+  "toeic_zh": "會議將在一處海濱度假村舉行。",
+  "family": "",
+  "related": [
+   {
+    "w": "coast",
+    "zh": "海岸",
+    "k": "syn"
+   },
+   {
+    "w": "inland",
+    "zh": "內陸",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 753,
+  "day": 31
+ },
+ {
+  "word": "shuttle",
+  "pos": "n",
+  "pic": "🚐",
+  "zh": "接駁車；往返班車",
+  "en": "a bus or van that makes regular short trips between two places",
+  "simple": "Take the hotel shuttle.",
+  "simple_zh": "搭飯店的接駁車吧。",
+  "toeic": "A free shuttle runs between the airport and the hotel every thirty minutes.",
+  "toeic_zh": "免費接駁車每三十分鐘往返於機場與飯店之間。",
+  "family": "shuttle bus / service; airport shuttle; shuttle (v) 往返運送",
+  "related": [
+   {
+    "w": "shuttle bus",
+    "zh": "接駁巴士",
+    "k": "family"
+   }
+  ],
+  "n": 754,
+  "day": 31,
+  "src": "TSL"
+ },
+ {
+  "word": "sightseeing",
+  "pos": "n",
+  "pic": "🗺️",
+  "zh": "觀光",
+  "en": "Visiting famous places as a tourist.",
+  "simple": "We went sightseeing in Rome.",
+  "simple_zh": "我們在羅馬四處觀光。",
+  "toeic": "After the seminar, the clients went sightseeing around the old town.",
+  "toeic_zh": "研討會後，客戶們到舊城區四處觀光。",
+  "family": "sightseer (n), sight (n)",
+  "related": [
+   {
+    "w": "tourism",
+    "zh": "旅遊業",
+    "k": "family"
+   },
+   {
+    "w": "excursion",
+    "zh": "短程遊覽",
+    "k": "syn"
+   }
+  ],
+  "n": 755,
+  "day": 31,
+  "src": "TSL"
+ },
+ {
+  "word": "skate",
+  "pos": "v",
+  "pic": "⛸️",
+  "zh": "溜冰；滑冰",
+  "en": "to move on ice or wheels with special shoes",
+  "simple": "I like to skate on weekends.",
+  "simple_zh": "我週末喜歡溜冰。",
+  "toeic": "Visitors can skate on the outdoor rink until March.",
+  "toeic_zh": "遊客可在戶外溜冰場滑冰到三月。",
+  "family": "skateboard (n)",
+  "related": [
+   {
+    "w": "skateboard",
+    "zh": "滑板",
+    "k": "family"
+   },
+   {
+    "w": "skid",
+    "zh": "打滑",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 756,
+  "day": 31
+ },
+ {
+  "word": "skateboard",
+  "pos": "n",
+  "pic": "🛹",
+  "zh": "滑板",
+  "en": "a board with wheels that you stand on",
+  "simple": "He rides a skateboard.",
+  "simple_zh": "他玩滑板。",
+  "toeic": "Skateboard use is not allowed inside the shopping mall.",
+  "toeic_zh": "購物中心內禁止使用滑板。",
+  "family": "skate (v)",
+  "related": [
+   {
+    "w": "skate",
+    "zh": "溜冰",
+    "k": "family"
+   },
+   {
+    "w": "scooter",
+    "zh": "滑板車",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 757,
+  "day": 31
+ },
+ {
+  "word": "snack",
+  "pos": "n",
+  "pic": "🍿",
+  "zh": "點心；零食",
+  "en": "a small amount of food eaten between meals",
+  "simple": "I eat a snack after school.",
+  "simple_zh": "我放學後吃點心。",
+  "toeic": "Free snacks are available in the break room.",
+  "toeic_zh": "休息室提供免費點心。",
+  "family": "snack (n, v)",
+  "related": [
+   {
+    "w": "snake",
+    "zh": "蛇",
+    "k": "confuse"
+   },
+   {
+    "w": "meal",
+    "zh": "正餐",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 758,
+  "day": 31
+ },
+ {
+  "word": "soccer",
+  "pos": "n",
+  "pic": "⚽",
+  "zh": "足球",
+  "en": "a game where two teams kick a ball",
+  "simple": "He plays soccer every Sunday.",
+  "simple_zh": "他每週日踢足球。",
+  "toeic": "The company sponsors a local soccer team.",
+  "toeic_zh": "公司贊助一支當地的足球隊。",
+  "family": "soccer (n)",
+  "related": [
+   {
+    "w": "football",
+    "zh": "足球",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 759,
+  "day": 31
+ },
+ {
+  "word": "soup",
+  "pos": "n",
+  "pic": "🍲",
+  "zh": "湯",
+  "en": "a hot liquid food",
+  "simple": "I like hot soup.",
+  "simple_zh": "我喜歡熱湯。",
+  "toeic": "The restaurant's soup of the day is tomato.",
+  "toeic_zh": "這家餐廳今日例湯是番茄湯。",
+  "family": "soup (n)",
+  "related": [
+   {
+    "w": "soap",
+    "zh": "肥皂",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 760,
+  "day": 31
+ },
+ {
+  "word": "spa",
+  "pos": "n",
+  "pic": "💆",
+  "zh": "溫泉；水療中心",
+  "en": "a place for relaxing and health treatments",
+  "simple": "We went to a spa.",
+  "simple_zh": "我們去了水療中心。",
+  "toeic": "The resort offers a full-service spa for guests.",
+  "toeic_zh": "這間度假村為住客提供完整服務的水療中心。",
+  "family": "spa (n)",
+  "related": [
+   {
+    "w": "sauna",
+    "zh": "三溫暖",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 761,
+  "day": 31
+ },
+ {
+  "word": "spectator",
+  "pos": "n",
+  "pic": "👀",
+  "zh": "觀眾",
+  "en": "a person who watches an event",
+  "simple": "The spectators cheered loudly.",
+  "simple_zh": "觀眾大聲歡呼。",
+  "toeic": "Thousands of spectators attended the outdoor concert.",
+  "toeic_zh": "數千名觀眾參加了這場戶外音樂會。",
+  "family": "spectate (v), spectator (n)",
+  "related": [
+   {
+    "w": "audience",
+    "zh": "觀眾",
+    "k": "syn"
+   },
+   {
+    "w": "inspector",
+    "zh": "檢查員",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 762,
+  "day": 31
+ },
+ {
+  "word": "stadium",
+  "pos": "n",
+  "pic": "🏟️",
+  "zh": "體育場",
+  "en": "a large place for sports events",
+  "simple": "The stadium is very big.",
+  "simple_zh": "體育場非常大。",
+  "toeic": "The concert will be held at the city stadium.",
+  "toeic_zh": "演唱會將在市立體育場舉行。",
+  "family": "stadium (n)",
+  "related": [
+   {
+    "w": "arena",
+    "zh": "競技場",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 763,
+  "day": 31
+ },
+ {
+  "word": "statue",
+  "pos": "n",
+  "pic": "🗽",
+  "zh": "雕像",
+  "en": "a figure of a person made of stone or metal",
+  "simple": "The statue is in the park.",
+  "simple_zh": "雕像在公園裡。",
+  "toeic": "Tourists gather around the statue in the town square.",
+  "toeic_zh": "遊客聚集在城鎮廣場的雕像周圍。",
+  "family": "statue (n)",
+  "related": [
+   {
+    "w": "status",
+    "zh": "狀態",
+    "k": "confuse"
+   },
+   {
+    "w": "stature",
+    "zh": "身高；名望",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 764,
+  "day": 31
+ },
+ {
+  "word": "steak",
+  "pos": "n",
+  "pic": "🥩",
+  "zh": "牛排",
+  "en": "a thick flat piece of meat",
+  "simple": "I ordered a steak.",
+  "simple_zh": "我點了一份牛排。",
+  "toeic": "The restaurant is famous for its grilled steak.",
+  "toeic_zh": "這家餐廳以炭烤牛排聞名。",
+  "family": "steak (n)",
+  "related": [
+   {
+    "w": "stake",
+    "zh": "賭注；股份",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 765,
+  "day": 31
+ },
+ {
+  "word": "subway",
+  "pos": "n",
+  "pic": "🚇",
+  "zh": "地鐵；地下鐵路",
+  "en": "an underground railway system",
+  "simple": "Take the subway to downtown.",
+  "simple_zh": "乘地鐵前往市中心。",
+  "toeic": "Subway maps are posted at every station.",
+  "toeic_zh": "地鐵地圖貼在每個車站。",
+  "family": "subway (n)",
+  "related": [
+   {
+    "w": "metro",
+    "zh": "地鐵",
+    "k": "syn"
+   },
+   {
+    "w": "train",
+    "zh": "火車",
+    "k": "syn"
+   }
+  ],
+  "n": 766,
+  "day": 31,
+  "src": "TSL"
+ },
+ {
+  "word": "suite",
+  "pos": "n",
+  "pic": "🏛️",
+  "zh": "套房；組曲",
+  "en": "a group of rooms in a hotel",
+  "simple": "We booked a suite for comfort.",
+  "simple_zh": "我們預訂了一個套房以舒適。",
+  "toeic": "Executive suites include separate living areas.",
+  "toeic_zh": "行政套房包括獨立的起居區。",
+  "family": "suite (n)",
+  "related": [
+   {
+    "w": "room",
+    "zh": "房間",
+    "k": "syn"
+   },
+   {
+    "w": "apartment",
+    "zh": "公寓",
+    "k": "syn"
+   }
+  ],
+  "n": 767,
+  "day": 31,
+  "src": "TSL"
+ },
+ {
+  "word": "surf",
+  "pos": "v",
+  "pic": "🏄",
+  "zh": "衝浪；瀏覽",
+  "en": "to ride waves, or to browse the internet",
+  "simple": "He likes to surf.",
+  "simple_zh": "他喜歡衝浪。",
+  "toeic": "Employees should not surf the web during working hours.",
+  "toeic_zh": "員工不應在上班時間上網瀏覽。",
+  "family": "surf (n, v), surfer (n)",
+  "related": [
+   {
+    "w": "serf",
+    "zh": "農奴",
+    "k": "confuse"
+   },
+   {
+    "w": "browse",
+    "zh": "瀏覽",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 768,
+  "day": 31
+ },
+ {
+  "word": "tablecloth",
+  "pos": "n",
+  "pic": "🍽️",
+  "zh": "桌巾",
+  "en": "a cloth that covers a table",
+  "simple": "The tablecloth is white.",
+  "simple_zh": "桌巾是白色的。",
+  "toeic": "The waiter changed the tablecloth before the guests arrived.",
+  "toeic_zh": "服務生在客人抵達前換了桌巾。",
+  "family": "table (n), tablecloth (n)",
+  "related": [
+   {
+    "w": "napkin",
+    "zh": "餐巾",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 769,
+  "day": 31
+ },
+ {
+  "word": "tasty",
+  "pos": "adj",
+  "pic": "😋",
+  "zh": "美味的",
+  "en": "having a good flavor",
+  "simple": "The soup is tasty.",
+  "simple_zh": "這道湯很好喝。",
+  "toeic": "The cafeteria serves healthy and tasty meals.",
+  "toeic_zh": "員工餐廳提供健康又美味的餐點。",
+  "family": "taste (n, v), tasty (adj)",
+  "related": [
+   {
+    "w": "delicious",
+    "zh": "美味的",
+    "k": "syn"
+   },
+   {
+    "w": "tasteful",
+    "zh": "有品味的",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 770,
+  "day": 31
+ },
+ {
+  "word": "terminal",
+  "pos": "n",
+  "pic": "🏢",
+  "zh": "航站樓；終點",
+  "en": "a building at an airport or station",
+  "simple": "Meet at terminal 3.",
+  "simple_zh": "在航站樓3集合。",
+  "toeic": "Terminal facilities include restaurants and shops.",
+  "toeic_zh": "航站樓設施包括餐廳和商店。",
+  "family": "terminal (adj), terminate (v)",
+  "related": [
+   {
+    "w": "building",
+    "zh": "建築",
+    "k": "syn"
+   },
+   {
+    "w": "station",
+    "zh": "車站",
+    "k": "syn"
+   }
+  ],
+  "n": 771,
+  "day": 31,
+  "src": "TSL"
+ },
+ {
+  "word": "thirsty",
+  "pos": "adj",
+  "pic": "🥛",
+  "zh": "口渴的",
+  "en": "wanting to drink something",
+  "simple": "I am very thirsty.",
+  "simple_zh": "我很口渴。",
+  "toeic": "The runners were thirsty after the long race.",
+  "toeic_zh": "跑者在長跑後很口渴。",
+  "family": "thirst (n), thirsty (adj)",
+  "related": [
+   {
+    "w": "hungry",
+    "zh": "餓的",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 772,
+  "day": 31
+ },
+ {
+  "word": "thrill",
+  "pos": "n",
+  "pic": "🎢",
+  "zh": "興奮；刺激",
+  "en": "a strong feeling of excitement",
+  "simple": "The ride was a thrill.",
+  "simple_zh": "這趟遊樂設施很刺激。",
+  "toeic": "It was a thrill to win the national sales award.",
+  "toeic_zh": "贏得全國銷售獎讓人非常興奮。",
+  "family": "thrill (n, v), thrilling (adj)",
+  "related": [
+   {
+    "w": "thrilled",
+    "zh": "非常興奮的",
+    "k": "family"
+   },
+   {
+    "w": "trill",
+    "zh": "顫音",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 773,
+  "day": 31
+ },
+ {
+  "word": "toiletry",
+  "pos": "n",
+  "pic": "🧴",
+  "zh": "盥洗用品",
+  "en": "a product used for washing and grooming",
+  "simple": "Soap is a toiletry.",
+  "simple_zh": "肥皂是一種盥洗用品。",
+  "toeic": "Each toiletry in the guest room is free of charge.",
+  "toeic_zh": "客房內的每項盥洗用品都免費。",
+  "family": "toiletry (n)",
+  "related": [
+   {
+    "w": "toilet",
+    "zh": "馬桶",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 774,
+  "day": 31
+ },
+ {
+  "word": "towel",
+  "pos": "n",
+  "pic": "🧻",
+  "zh": "毛巾；擦巾",
+  "en": "a cloth for drying the body",
+  "simple": "Fresh towels are provided daily.",
+  "simple_zh": "每天提供新毛巾。",
+  "toeic": "Hotel towels are high quality and absorbent.",
+  "toeic_zh": "飯店毛巾質量高且吸水性好。",
+  "family": "towel (v), toweled (adj)",
+  "related": [
+   {
+    "w": "cloth",
+    "zh": "布料",
+    "k": "syn"
+   },
+   {
+    "w": "linens",
+    "zh": "亞麻布",
+    "k": "syn"
+   }
+  ],
+  "n": 775,
+  "day": 31,
+  "src": "TSL"
+ },
+ {
+  "word": "transit",
+  "pos": "n",
+  "pic": "🚆",
+  "zh": "過境；交通運輸",
+  "en": "the movement of goods or people from place to place",
+  "simple": "Transit time is 2 hours.",
+  "simple_zh": "過境時間是2小時。",
+  "toeic": "Transit delays affected the schedule.",
+  "toeic_zh": "交通延誤影響了日程。",
+  "family": "transit (v), transited (adj)",
+  "related": [
+   {
+    "w": "transportation",
+    "zh": "運輸",
+    "k": "syn"
+   },
+   {
+    "w": "passage",
+    "zh": "通過",
+    "k": "syn"
+   }
+  ],
+  "n": 776,
+  "day": 32,
+  "src": "TSL"
+ },
+ {
+  "word": "tray",
+  "pos": "n",
+  "pic": "🍱",
+  "zh": "托盤",
+  "en": "a flat object for carrying food or items",
+  "simple": "Put the cups on the tray.",
+  "simple_zh": "把杯子放在托盤上。",
+  "toeic": "The waiter carried a tray of drinks to the table.",
+  "toeic_zh": "服務生端著一托盤飲料到桌邊。",
+  "family": "tray (n)",
+  "related": [
+   {
+    "w": "try",
+    "zh": "嘗試",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 777,
+  "day": 32
+ },
+ {
+  "word": "tropical",
+  "pos": "adj",
+  "pic": "🌴",
+  "zh": "熱帶的",
+  "en": "from or like hot, wet regions near the equator",
+  "simple": "I want a tropical vacation.",
+  "simple_zh": "我想去熱帶度假。",
+  "toeic": "The resort is located on a tropical island.",
+  "toeic_zh": "這間度假村位於一座熱帶島嶼。",
+  "family": "tropic (n), tropical (adj)",
+  "related": [
+   {
+    "w": "topical",
+    "zh": "時事的",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 778,
+  "day": 32
+ },
+ {
+  "word": "tuna",
+  "pos": "n",
+  "pic": "🐟",
+  "zh": "鮪魚",
+  "en": "A large sea fish often eaten as food.",
+  "simple": "I like tuna sandwiches.",
+  "simple_zh": "我喜歡鮪魚三明治。",
+  "toeic": "The restaurant's special today is grilled tuna with rice.",
+  "toeic_zh": "這家餐廳今天的特餐是烤鮪魚佐飯。",
+  "family": "",
+  "related": [
+   {
+    "w": "salmon",
+    "zh": "鮭魚",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 779,
+  "day": 32
+ },
+ {
+  "word": "unattended",
+  "pos": "adj",
+  "pic": "🧳",
+  "zh": "無人看管的",
+  "en": "Left alone without anyone watching it.",
+  "simple": "Do not leave your bag unattended.",
+  "simple_zh": "不要讓你的包包無人看管。",
+  "toeic": "Unattended luggage will be removed by airport security.",
+  "toeic_zh": "無人看管的行李將被機場保全移走。",
+  "family": "attend (v), attendant (n)",
+  "related": [
+   {
+    "w": "unattainable",
+    "zh": "無法達成的",
+    "k": "confuse"
+   },
+   {
+    "w": "attended",
+    "zh": "有人照看的",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 780,
+  "day": 32
+ },
+ {
+  "word": "uncomfortable",
+  "pos": "adj",
+  "pic": "😣",
+  "zh": "不舒服的",
+  "en": "Not feeling relaxed or physically at ease.",
+  "simple": "This chair is uncomfortable.",
+  "simple_zh": "這張椅子不舒服。",
+  "toeic": "Several guests said the hotel beds were uncomfortable.",
+  "toeic_zh": "幾位房客表示飯店的床不舒服。",
+  "family": "comfort (n), comfortable (adj)",
+  "related": [
+   {
+    "w": "comfortable",
+    "zh": "舒適的",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 781,
+  "day": 32
+ },
+ {
+  "word": "upgrade",
+  "pos": "n",
+  "pic": "⬆️",
+  "zh": "升級；升等",
+  "en": "an improvement or higher-class version",
+  "simple": "Request an upgrade at check-in.",
+  "simple_zh": "在辦理登記時要求升級。",
+  "toeic": "Hotel upgrades are based on availability.",
+  "toeic_zh": "飯店升級取決於可用性。",
+  "family": "upgrade (v), upgraded (adj)",
+  "related": [
+   {
+    "w": "promotion",
+    "zh": "推廣",
+    "k": "syn"
+   },
+   {
+    "w": "improvement",
+    "zh": "改進",
+    "k": "syn"
+   }
+  ],
+  "n": 782,
+  "day": 32,
+  "src": "TSL"
+ },
+ {
+  "word": "valid",
+  "pos": "adj",
+  "pic": "✅",
+  "zh": "有效的",
+  "en": "acceptable by law or rules; not out of date",
+  "simple": "My ticket is still valid.",
+  "simple_zh": "我的票還有效。",
+  "toeic": "Please make sure your passport is valid for at least six months.",
+  "toeic_zh": "請確認您的護照至少還有六個月的效期。",
+  "family": "validity (n); validate (v); valid passport / ticket / ID",
+  "related": [
+   {
+    "w": "invalid",
+    "zh": "無效的",
+    "k": "opp"
+   },
+   {
+    "w": "valuable",
+    "zh": "貴重的；有價值的",
+    "k": "confuse"
+   }
+  ],
+  "n": 783,
+  "day": 32,
+  "src": "TSL"
+ },
+ {
+  "word": "vanilla",
+  "pos": "n",
+  "pic": "🍦",
+  "zh": "香草",
+  "en": "A sweet flavor used in ice cream and cakes.",
+  "simple": "I want vanilla ice cream.",
+  "simple_zh": "我想要香草冰淇淋。",
+  "toeic": "The cafe offers vanilla and chocolate cake for dessert.",
+  "toeic_zh": "這家咖啡館提供香草與巧克力蛋糕作為甜點。",
+  "family": "",
+  "related": [
+   {
+    "w": "chocolate",
+    "zh": "巧克力",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 784,
+  "day": 32
+ },
+ {
+  "word": "vase",
+  "pos": "n",
+  "pic": "🏺",
+  "zh": "花瓶",
+  "en": "A container used to hold flowers.",
+  "simple": "The vase is on the table.",
+  "simple_zh": "花瓶在桌上。",
+  "toeic": "The hotel lobby displays fresh flowers in a large vase.",
+  "toeic_zh": "飯店大廳用大花瓶展示鮮花。",
+  "family": "",
+  "related": [
+   {
+    "w": "vessel",
+    "zh": "容器",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 785,
+  "day": 32
+ },
+ {
+  "word": "vegetarian",
+  "pos": "adj",
+  "pic": "🥗",
+  "zh": "素食的",
+  "en": "Not including meat or fish.",
+  "simple": "I eat a vegetarian diet.",
+  "simple_zh": "我吃素食。",
+  "toeic": "The restaurant offers several vegetarian options on its menu.",
+  "toeic_zh": "這家餐廳的菜單上有幾道素食選擇。",
+  "family": "vegetable (n), vegetarian (n)",
+  "related": [
+   {
+    "w": "vegetable",
+    "zh": "蔬菜",
+    "k": "confuse"
+   },
+   {
+    "w": "vegan",
+    "zh": "純素的",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 786,
+  "day": 32
+ },
+ {
+  "word": "vendor",
+  "pos": "n",
+  "pic": "🏪",
+  "zh": "供應商；賣方",
+  "en": "a supplier of goods or services",
+  "simple": "Negotiate with the vendor.",
+  "simple_zh": "與供應商談判。",
+  "toeic": "Vendor agreements should be clear.",
+  "toeic_zh": "供應商協議應該清晰。",
+  "family": "vend (v), vendee (n)",
+  "related": [
+   {
+    "w": "supplier",
+    "zh": "供應商",
+    "k": "syn"
+   },
+   {
+    "w": "provider",
+    "zh": "提供商",
+    "k": "syn"
+   }
+  ],
+  "n": 787,
+  "day": 32,
+  "src": "TSL"
+ },
+ {
+  "word": "violin",
+  "pos": "n",
+  "pic": "🎻",
+  "zh": "小提琴",
+  "en": "A musical instrument with four strings.",
+  "simple": "She plays the violin well.",
+  "simple_zh": "她小提琴拉得很好。",
+  "toeic": "The hotel hired a violin player for the wedding reception.",
+  "toeic_zh": "飯店為婚宴聘請了一位小提琴手。",
+  "family": "violinist (n)",
+  "related": [
+   {
+    "w": "viola",
+    "zh": "中提琴",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 788,
+  "day": 32
+ },
+ {
+  "word": "visa",
+  "pos": "n",
+  "pic": "🏷️",
+  "zh": "簽證；許可",
+  "en": "an official permit to enter a country",
+  "simple": "I applied for a visa last month.",
+  "simple_zh": "我上個月申請了簽證。",
+  "toeic": "Visa approval can take several weeks.",
+  "toeic_zh": "簽證批准可能需要幾週。",
+  "family": "visa application (n), visa fee (n)",
+  "related": [
+   {
+    "w": "passport",
+    "zh": "護照",
+    "k": "syn"
+   },
+   {
+    "w": "entry",
+    "zh": "入境",
+    "k": "syn"
+   }
+  ],
+  "n": 789,
+  "day": 32,
+  "src": "TSL"
+ },
+ {
+  "word": "volleyball",
+  "pos": "n",
+  "pic": "🏐",
+  "zh": "排球",
+  "en": "A team sport played by hitting a ball over a net.",
+  "simple": "They play volleyball on the beach.",
+  "simple_zh": "他們在沙灘上打排球。",
+  "toeic": "Our company holds a volleyball tournament every summer.",
+  "toeic_zh": "我們公司每年夏天舉辦排球比賽。",
+  "family": "",
+  "related": [
+   {
+    "w": "basketball",
+    "zh": "籃球",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 790,
+  "day": 32
+ },
+ {
+  "word": "voucher",
+  "pos": "n",
+  "pic": "🎟️",
+  "zh": "憑證；禮券",
+  "en": "a document entitling holder to a benefit",
+  "simple": "Use the voucher for next booking.",
+  "simple_zh": "將憑證用於下次預訂。",
+  "toeic": "Travel vouchers expire after one year.",
+  "toeic_zh": "旅行憑證在一年後過期。",
+  "family": "vouch (v), vouched (adj)",
+  "related": [
+   {
+    "w": "coupon",
+    "zh": "優惠券",
+    "k": "syn"
+   },
+   {
+    "w": "certificate",
+    "zh": "證書",
+    "k": "syn"
+   }
+  ],
+  "n": 791,
+  "day": 32,
+  "src": "TSL"
+ },
+ {
+  "word": "waitress",
+  "pos": "n",
+  "pic": "👩‍🍳",
+  "zh": "女服務生",
+  "en": "A woman who serves food in a restaurant.",
+  "simple": "The waitress is very kind.",
+  "simple_zh": "那位女服務生很親切。",
+  "toeic": "The waitress took our order and brought the menu.",
+  "toeic_zh": "女服務生為我們點餐並送上菜單。",
+  "family": "waiter (n)",
+  "related": [
+   {
+    "w": "waiter",
+    "zh": "男服務生",
+    "k": "family"
+   },
+   {
+    "w": "server",
+    "zh": "服務生",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 792,
+  "day": 32
+ },
+ {
+  "word": "whale",
+  "pos": "n",
+  "pic": "🐋",
+  "zh": "鯨魚",
+  "en": "A very large sea animal.",
+  "simple": "We saw a whale at sea.",
+  "simple_zh": "我們在海上看到一隻鯨魚。",
+  "toeic": "The tour company runs whale watching trips every morning.",
+  "toeic_zh": "旅遊公司每天早上都舉辦賞鯨行程。",
+  "family": "",
+  "related": [
+   {
+    "w": "dolphin",
+    "zh": "海豚",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 793,
+  "day": 32
+ },
+ {
+  "word": "yoga",
+  "pos": "n",
+  "pic": "🧘",
+  "zh": "瑜伽",
+  "en": "Exercise using stretches and slow breathing.",
+  "simple": "She does yoga every morning.",
+  "simple_zh": "她每天早上做瑜伽。",
+  "toeic": "The hotel offers free yoga classes for guests each morning.",
+  "toeic_zh": "飯店每天早上為房客提供免費瑜伽課。",
+  "family": "",
+  "related": [
+   {
+    "w": "exercise",
+    "zh": "運動",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 794,
+  "day": 32
+ },
+ {
+  "word": "zoo",
+  "pos": "n",
+  "pic": "🦁",
+  "zh": "動物園",
+  "en": "A place where wild animals are kept to see.",
+  "simple": "We went to the zoo.",
+  "simple_zh": "我們去了動物園。",
+  "toeic": "The city zoo offers discounted tickets for large groups.",
+  "toeic_zh": "市立動物園為大型團體提供優惠票價。",
+  "family": "",
+  "related": [
+   {
+    "w": "aquarium",
+    "zh": "水族館",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 795,
+  "day": 32
+ },
+ {
+  "word": "deductible",
+  "pos": "n",
+  "pic": "💵",
+  "zh": "自付額；免賠額",
+  "en": "amount you pay before insurance covers",
+  "simple": "The deductible is $250.",
+  "simple_zh": "自付額為250美元。",
+  "toeic": "High deductibles lower premium costs.",
+  "toeic_zh": "高自付額降低保費成本。",
+  "family": "deduct (v), deductible (adj)",
+  "related": [
+   {
+    "w": "premium",
+    "zh": "保費",
+    "k": "syn"
+   },
+   {
+    "w": "excess",
+    "zh": "超額",
+    "k": "syn"
+   }
+  ],
+  "n": 796,
+  "day": 32,
+  "src": "BSL"
+ },
+ {
+  "word": "delegation",
+  "pos": "n",
+  "pic": "👥",
+  "zh": "代表團",
+  "en": "A group of people sent to represent a company or country.",
+  "simple": "A delegation came to our office.",
+  "simple_zh": "一個代表團來到我們辦公室。",
+  "toeic": "A delegation from Seoul will visit our factory next Tuesday.",
+  "toeic_zh": "一個來自首爾的代表團將於下週二參訪我們的工廠。",
+  "family": "delegate (n, v)",
+  "related": [
+   {
+    "w": "delegate",
+    "zh": "代表；委派",
+    "k": "family"
+   },
+   {
+    "w": "representative",
+    "zh": "代表",
+    "k": "syn"
+   }
+  ],
+  "n": 797,
+  "day": 32,
+  "src": "BSL"
+ },
+ {
+  "word": "deliverable",
+  "pos": "n",
+  "pic": "📦",
+  "zh": "可交付物；交付成果",
+  "en": "a product or result to be delivered",
+  "simple": "Complete all deliverables on time.",
+  "simple_zh": "按時完成所有可交付物。",
+  "toeic": "Deliverables define project scope.",
+  "toeic_zh": "可交付物定義項目範圍。",
+  "family": "deliver (v), delivery (n)",
+  "related": [
+   {
+    "w": "output",
+    "zh": "輸出",
+    "k": "syn"
+   },
+   {
+    "w": "product",
+    "zh": "產品",
+    "k": "syn"
+   }
+  ],
+  "n": 798,
+  "day": 32,
+  "src": "BSL"
+ },
+ {
+  "word": "globe",
+  "pos": "n",
+  "pic": "🌍",
+  "zh": "地球；地球儀",
+  "en": "the Earth, or a model of it",
+  "simple": "They traveled around the globe.",
+  "simple_zh": "他們環遊世界。",
+  "toeic": "Our company has offices across the globe.",
+  "toeic_zh": "我們公司在全球各地設有辦公室。",
+  "family": "global (adj), globally (adv)",
+  "related": [
+   {
+    "w": "global",
+    "zh": "全球的",
+    "k": "family"
+   },
+   {
+    "w": "glove",
+    "zh": "手套",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 799,
+  "day": 32
+ },
+ {
+  "word": "peaceful",
+  "pos": "adj",
+  "pic": "🕊️",
+  "zh": "和平的；寧靜的",
+  "en": "calm and quiet, without trouble",
+  "simple": "The park is very peaceful.",
+  "simple_zh": "這座公園非常寧靜。",
+  "toeic": "Guests enjoy the peaceful atmosphere of our seaside hotel.",
+  "toeic_zh": "房客喜愛我們海濱旅館寧靜的氣氛。",
+  "family": "peace (n), peacefully (adv)",
+  "related": [
+   {
+    "w": "peaceable",
+    "zh": "愛好和平的",
+    "k": "confuse"
+   },
+   {
+    "w": "calm",
+    "zh": "平靜的",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 800,
+  "day": 32
+ }
+]

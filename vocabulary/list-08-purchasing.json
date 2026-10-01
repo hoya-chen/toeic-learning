@@ -1,0 +1,5367 @@
+[
+ {
+  "word": "aboard",
+  "pos": "adv",
+  "pic": "🚢",
+  "zh": "在船（車、機）上",
+  "en": "on or into a ship, plane, or train",
+  "simple": "Welcome aboard the train.",
+  "simple_zh": "歡迎搭乘這班火車。",
+  "toeic": "Passengers should be aboard the flight thirty minutes before departure.",
+  "toeic_zh": "乘客應在起飛前三十分鐘登機。",
+  "family": "",
+  "related": [
+   {
+    "w": "onboard",
+    "zh": "在船上的",
+    "k": "family"
+   },
+   {
+    "w": "abroad",
+    "zh": "在國外",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1401,
+  "day": 57
+ },
+ {
+  "word": "airplane",
+  "pos": "n",
+  "pic": "✈️",
+  "zh": "飛機",
+  "en": "a vehicle with wings that flies",
+  "simple": "The airplane is very big.",
+  "simple_zh": "這架飛機很大。",
+  "toeic": "Please turn off your phone before the airplane takes off.",
+  "toeic_zh": "飛機起飛前請關閉您的手機。",
+  "family": "",
+  "related": [
+   {
+    "w": "airport",
+    "zh": "機場",
+    "k": "confuse"
+   },
+   {
+    "w": "aircraft",
+    "zh": "飛行器",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1402,
+  "day": 57
+ },
+ {
+  "word": "airport",
+  "pos": "n",
+  "pic": "🛫",
+  "zh": "機場",
+  "en": "a place where planes take off and land",
+  "simple": "I am going to the airport.",
+  "simple_zh": "我要去機場。",
+  "toeic": "A shuttle bus runs between the hotel and the airport.",
+  "toeic_zh": "接駁巴士往返於飯店與機場之間。",
+  "family": "",
+  "related": [
+   {
+    "w": "airplane",
+    "zh": "飛機",
+    "k": "confuse"
+   },
+   {
+    "w": "terminal",
+    "zh": "航廈",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 1403,
+  "day": 57
+ },
+ {
+  "word": "alternate",
+  "pos": "adj",
+  "pic": "🔀",
+  "zh": "替代的；交替的",
+  "en": "available instead of the usual one",
+  "simple": "Take an alternate road today.",
+  "simple_zh": "今天走另一條路。",
+  "toeic": "Please use an alternate route because the bridge is closed.",
+  "toeic_zh": "由於橋梁封閉，請改走替代路線。",
+  "family": "alternative (adj), alternate (v)",
+  "related": [
+   {
+    "w": "alternative",
+    "zh": "替代的",
+    "k": "confuse"
+   },
+   {
+    "w": "substitute",
+    "zh": "代用的",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1404,
+  "day": 57
+ },
+ {
+  "word": "approximate",
+  "pos": "adj",
+  "pic": "≈",
+  "zh": "大約的；近似的",
+  "en": "not exact but close to the real number",
+  "simple": "The approximate cost is ten dollars.",
+  "simple_zh": "大約的費用是十美元。",
+  "toeic": "The approximate delivery time is three to five business days.",
+  "toeic_zh": "預估送達時間約為三至五個工作天。",
+  "family": "approximately (adv), approximation (n)",
+  "related": [
+   {
+    "w": "appropriate",
+    "zh": "適當的",
+    "k": "confuse"
+   },
+   {
+    "w": "exact",
+    "zh": "精確的",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1405,
+  "day": 57
+ },
+ {
+  "word": "cab",
+  "pos": "n",
+  "pic": "🚕",
+  "zh": "計程車",
+  "en": "A car with a driver that you pay to ride.",
+  "simple": "We took a cab to the hotel.",
+  "simple_zh": "我們搭計程車去飯店。",
+  "toeic": "Please call a cab to take the visitors to the airport.",
+  "toeic_zh": "請叫一輛計程車送訪客去機場。",
+  "family": "",
+  "related": [
+   {
+    "w": "taxi",
+    "zh": "計程車",
+    "k": "syn"
+   },
+   {
+    "w": "cabin",
+    "zh": "小木屋;機艙",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1406,
+  "day": 57
+ },
+ {
+  "word": "cage",
+  "pos": "n",
+  "pic": "🪤",
+  "zh": "籠子",
+  "en": "A box with bars used to keep animals in.",
+  "simple": "The bird is in a cage.",
+  "simple_zh": "鳥在籠子裡。",
+  "toeic": "The shipment included a cage for transporting small animals.",
+  "toeic_zh": "這批貨物包含一個運送小動物的籠子。",
+  "family": "",
+  "related": [
+   {
+    "w": "page",
+    "zh": "頁",
+    "k": "confuse"
+   },
+   {
+    "w": "crate",
+    "zh": "板條箱",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1407,
+  "day": 57
+ },
+ {
+  "word": "captain",
+  "pos": "n",
+  "pic": "👨‍✈️",
+  "zh": "機長;船長;隊長",
+  "en": "The person in charge of a ship, plane or team.",
+  "simple": "The captain greeted the passengers.",
+  "simple_zh": "機長向乘客問好。",
+  "toeic": "The captain announced a delay because of bad weather.",
+  "toeic_zh": "機長宣布因天候不佳而延誤。",
+  "family": "",
+  "related": [
+   {
+    "w": "pilot",
+    "zh": "飛行員",
+    "k": "syn"
+   },
+   {
+    "w": "caption",
+    "zh": "圖說",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1408,
+  "day": 57
+ },
+ {
+  "word": "cargo",
+  "pos": "n",
+  "pic": "📦",
+  "zh": "貨物（船、機載運）",
+  "en": "goods carried by a ship, plane, or truck",
+  "simple": "The cargo is very heavy.",
+  "simple_zh": "這批貨物非常重。",
+  "toeic": "All cargo must be inspected before it is loaded onto the aircraft.",
+  "toeic_zh": "所有貨物在裝上飛機前都必須經過檢查。",
+  "family": "cargo (n)",
+  "related": [
+   {
+    "w": "freight",
+    "zh": "貨運",
+    "k": "syn"
+   },
+   {
+    "w": "carrier",
+    "zh": "運輸業者",
+    "k": "confuse"
+   }
+  ],
+  "n": 1409,
+  "day": 57,
+  "src": "TSL"
+ },
+ {
+  "word": "carrier",
+  "pos": "n",
+  "pic": "🚚",
+  "zh": "承運人",
+  "en": "a company that transports goods",
+  "simple": "Our carrier delivers packages to all regions.",
+  "simple_zh": "我們的承運人將包裹送到所有地區。",
+  "toeic": "We use multiple carriers to ensure reliable and timely deliveries.",
+  "toeic_zh": "我們使用多個承運人以確保可靠和及時的交付。",
+  "family": "carrier (n), carriers (n), carrier's (adj)",
+  "related": [
+   {
+    "w": "shipper",
+    "zh": "船公司",
+    "k": "syn"
+   },
+   {
+    "w": "transport",
+    "zh": "運輸",
+    "k": "syn"
+   }
+  ],
+  "n": 1410,
+  "day": 57,
+  "src": "TSL"
+ },
+ {
+  "word": "cart",
+  "pos": "n",
+  "pic": "🛒",
+  "zh": "推車;購物車",
+  "en": "A small vehicle pushed by hand to carry things.",
+  "simple": "Put the milk in the cart.",
+  "simple_zh": "把牛奶放進推車。",
+  "toeic": "Items in your online cart will be saved for seven days.",
+  "toeic_zh": "您線上購物車中的商品將保留七天。",
+  "family": "",
+  "related": [
+   {
+    "w": "card",
+    "zh": "卡片",
+    "k": "confuse"
+   },
+   {
+    "w": "trolley",
+    "zh": "手推車",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1411,
+  "day": 57
+ },
+ {
+  "word": "carton",
+  "pos": "n",
+  "pic": "🥛",
+  "zh": "紙箱；一整盒",
+  "en": "a cardboard box used for packing goods",
+  "simple": "He carried a carton of milk.",
+  "simple_zh": "他提著一盒牛奶。",
+  "toeic": "Each carton contains twenty-four units and weighs about ten kilograms.",
+  "toeic_zh": "每個紙箱裝有二十四件，重約十公斤。",
+  "family": "carton (n)",
+  "related": [
+   {
+    "w": "cartoon",
+    "zh": "卡通",
+    "k": "confuse"
+   },
+   {
+    "w": "box",
+    "zh": "箱子",
+    "k": "syn"
+   }
+  ],
+  "n": 1412,
+  "day": 57,
+  "src": "TSL"
+ },
+ {
+  "word": "centimeter",
+  "pos": "n",
+  "pic": "📏",
+  "zh": "公分",
+  "en": "A unit of length equal to one hundredth of a meter.",
+  "simple": "The pen is ten centimeter long.",
+  "simple_zh": "這支筆長十公分。",
+  "toeic": "The box must not exceed fifty centimeter in width.",
+  "toeic_zh": "箱子的寬度不得超過五十公分。",
+  "family": "",
+  "related": [
+   {
+    "w": "millimeter",
+    "zh": "公釐",
+    "k": "confuse"
+   },
+   {
+    "w": "inch",
+    "zh": "英寸",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1413,
+  "day": 57
+ },
+ {
+  "word": "certificate",
+  "pos": "n",
+  "pic": "📜",
+  "zh": "證書",
+  "en": "an official document certifying something",
+  "simple": "This product has a certificate of authenticity.",
+  "simple_zh": "該產品有真實性證書。",
+  "toeic": "Quality certificates prove that products meet industry standards.",
+  "toeic_zh": "品質證書證明產品符合行業標準。",
+  "family": "certificate (n/v), certified (adj), certification (n)",
+  "related": [
+   {
+    "w": "document",
+    "zh": "文件",
+    "k": "syn"
+   },
+   {
+    "w": "proof",
+    "zh": "證明",
+    "k": "syn"
+   }
+  ],
+  "n": 1414,
+  "day": 57,
+  "src": "TSL"
+ },
+ {
+  "word": "classify",
+  "pos": "v",
+  "pic": "🗂️",
+  "zh": "分類",
+  "en": "To put things into groups by type.",
+  "simple": "We classify books by subject.",
+  "simple_zh": "我們依主題為書籍分類。",
+  "toeic": "Please classify these documents as confidential or public.",
+  "toeic_zh": "請將這些文件分類為機密或公開。",
+  "family": "classification (n), classified (adj)",
+  "related": [
+   {
+    "w": "classification",
+    "zh": "分類",
+    "k": "family"
+   },
+   {
+    "w": "categorize",
+    "zh": "歸類",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1415,
+  "day": 57
+ },
+ {
+  "word": "commuter",
+  "pos": "n",
+  "pic": "🚆",
+  "zh": "通勤者",
+  "en": "A person who travels regularly to work.",
+  "simple": "Every commuter takes the train.",
+  "simple_zh": "每位通勤者都搭火車。",
+  "toeic": "Each commuter will get a discount on monthly train passes.",
+  "toeic_zh": "每位通勤者都可享有月票折扣。",
+  "family": "commute (v, n)",
+  "related": [
+   {
+    "w": "commute",
+    "zh": "通勤",
+    "k": "family"
+   },
+   {
+    "w": "computer",
+    "zh": "電腦",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1416,
+  "day": 57
+ },
+ {
+  "word": "compartment",
+  "pos": "n",
+  "pic": "🧳",
+  "zh": "隔間;置物櫃",
+  "en": "A separate space inside a larger container or vehicle.",
+  "simple": "Put your bag in the compartment.",
+  "simple_zh": "把你的包包放進置物櫃。",
+  "toeic": "Store large bags in the overhead compartment.",
+  "toeic_zh": "請把大型行李放在上方行李櫃。",
+  "family": "",
+  "related": [
+   {
+    "w": "department",
+    "zh": "部門",
+    "k": "confuse"
+   },
+   {
+    "w": "section",
+    "zh": "部分",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1417,
+  "day": 57
+ },
+ {
+  "word": "complication",
+  "pos": "n",
+  "pic": "🧩",
+  "zh": "併發症;複雜因素",
+  "en": "A new problem that makes a situation harder.",
+  "simple": "There was a complication.",
+  "simple_zh": "出現了一個麻煩。",
+  "toeic": "A customs complication delayed the shipment by three days.",
+  "toeic_zh": "報關上的麻煩讓貨物延遲了三天。",
+  "family": "complicate (v), complicated (adj)",
+  "related": [
+   {
+    "w": "compliment",
+    "zh": "讚美",
+    "k": "confuse"
+   },
+   {
+    "w": "difficulty",
+    "zh": "困難",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1418,
+  "day": 57
+ },
+ {
+  "word": "conductor",
+  "pos": "n",
+  "pic": "🎼",
+  "zh": "指揮;車掌;導體",
+  "en": "A person who leads an orchestra or checks tickets on a train.",
+  "simple": "The conductor checked my ticket.",
+  "simple_zh": "車掌檢查了我的車票。",
+  "toeic": "The conductor will lead the orchestra in tonight's concert.",
+  "toeic_zh": "指揮將在今晚的音樂會中帶領樂團。",
+  "family": "conduct (v, n)",
+  "related": [
+   {
+    "w": "conduct",
+    "zh": "進行",
+    "k": "family"
+   },
+   {
+    "w": "conditioner",
+    "zh": "空調",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1419,
+  "day": 57
+ },
+ {
+  "word": "congestion",
+  "pos": "n",
+  "pic": "🚗",
+  "zh": "壅塞",
+  "en": "A crowded condition, especially of traffic.",
+  "simple": "Traffic congestion is bad today.",
+  "simple_zh": "今天交通壅塞很嚴重。",
+  "toeic": "Heavy congestion on the highway delayed our delivery trucks.",
+  "toeic_zh": "高速公路嚴重壅塞延誤了我們的送貨卡車。",
+  "family": "congest (v), congested (adj)",
+  "related": [
+   {
+    "w": "suggestion",
+    "zh": "建議",
+    "k": "confuse"
+   },
+   {
+    "w": "traffic jam",
+    "zh": "塞車",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1420,
+  "day": 57
+ },
+ {
+  "word": "consignment",
+  "pos": "n",
+  "pic": "📬",
+  "zh": "託運貨物；寄售",
+  "en": "a batch of goods sent or delivered to someone",
+  "simple": "The consignment arrived by train.",
+  "simple_zh": "這批託運貨物搭火車抵達了。",
+  "toeic": "Each consignment must be signed for by a manager.",
+  "toeic_zh": "每批託運貨物都必須由經理簽收。",
+  "family": "consign (v); consignee (n); consignor (n); on consignment 寄售",
+  "related": [
+   {
+    "w": "assignment",
+    "zh": "作業；任務",
+    "k": "confuse"
+   },
+   {
+    "w": "shipment",
+    "zh": "出貨；貨物",
+    "k": "syn"
+   }
+  ],
+  "n": 1421,
+  "day": 57,
+  "src": "TSL"
+ },
+ {
+  "word": "consultation",
+  "pos": "n",
+  "pic": "💬",
+  "zh": "諮詢",
+  "en": "seeking expert advice",
+  "simple": "Schedule a consultation.",
+  "simple_zh": "安排諮詢。",
+  "toeic": "Expert consultation improves supply chain strategy.",
+  "toeic_zh": "專家諮詢改進供應鏈策略。",
+  "family": "consultation (n), consult (v), consultant (n)",
+  "related": [
+   {
+    "w": "advice",
+    "zh": "建議",
+    "k": "syn"
+   },
+   {
+    "w": "guidance",
+    "zh": "指導",
+    "k": "syn"
+   }
+  ],
+  "n": 1422,
+  "day": 57,
+  "src": "TSL"
+ },
+ {
+  "word": "container",
+  "pos": "n",
+  "pic": "📦",
+  "zh": "容器",
+  "en": "a structure designed to hold goods",
+  "simple": "Pack items in this container.",
+  "simple_zh": "將物品裝入此容器。",
+  "toeic": "Shipping containers are standardized for efficient cargo handling.",
+  "toeic_zh": "運送容器標準化以進行高效的貨物搬運。",
+  "family": "container (n), containers (n), containerized (adj)",
+  "related": [
+   {
+    "w": "box",
+    "zh": "盒子",
+    "k": "syn"
+   },
+   {
+    "w": "case",
+    "zh": "盒子",
+    "k": "syn"
+   }
+  ],
+  "n": 1423,
+  "day": 57,
+  "src": "TSL"
+ },
+ {
+  "word": "continental",
+  "pos": "adj",
+  "pic": "🌍",
+  "zh": "大陸的；歐陸式的",
+  "en": "relating to a continent",
+  "simple": "They had a continental breakfast.",
+  "simple_zh": "他們吃了歐陸式早餐。",
+  "toeic": "The hotel offers a free continental breakfast every morning.",
+  "toeic_zh": "這間飯店每天早上提供免費的歐陸式早餐。",
+  "family": "continent (n), continental (adj)",
+  "related": [
+   {
+    "w": "continent",
+    "zh": "大陸",
+    "k": "family"
+   },
+   {
+    "w": "continual",
+    "zh": "連續的",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1424,
+  "day": 57
+ },
+ {
+  "word": "costly",
+  "pos": "adj",
+  "pic": "💸",
+  "zh": "昂貴的；代價高的",
+  "en": "expensive or causing a big loss",
+  "simple": "That repair was costly.",
+  "simple_zh": "那次維修很貴。",
+  "toeic": "A delay in delivery could be very costly for our company.",
+  "toeic_zh": "交貨延誤可能讓我們公司付出高昂代價。",
+  "family": "cost (n/v), costly (adj)",
+  "related": [
+   {
+    "w": "expensive",
+    "zh": "昂貴的",
+    "k": "syn"
+   },
+   {
+    "w": "cheap",
+    "zh": "便宜的",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1425,
+  "day": 57
+ },
+ {
+  "word": "courier",
+  "pos": "n",
+  "pic": "🏃",
+  "zh": "快遞員",
+  "en": "a person who delivers messages or parcels",
+  "simple": "The courier arrived with your package.",
+  "simple_zh": "快遞員帶著您的包裹到達了。",
+  "toeic": "Our couriers offer same-day delivery for urgent shipments.",
+  "toeic_zh": "我們的快遞員為緊急貨運提供當日交付。",
+  "family": "courier (n), couriered (adj), couriering (n)",
+  "related": [
+   {
+    "w": "messenger",
+    "zh": "信使",
+    "k": "syn"
+   },
+   {
+    "w": "delivery",
+    "zh": "交付",
+    "k": "syn"
+   }
+  ],
+  "n": 1426,
+  "day": 58,
+  "src": "TSL"
+ },
+ {
+  "word": "dealership",
+  "pos": "n",
+  "pic": "🚗",
+  "zh": "經銷商；代理店",
+  "en": "a business that sells cars for a company",
+  "simple": "The dealership sells new cars.",
+  "simple_zh": "這家經銷商賣新車。",
+  "toeic": "He works at a car dealership downtown.",
+  "toeic_zh": "他在市中心的汽車經銷商工作。",
+  "family": "dealer (n), deal (v/n), dealership (n)",
+  "related": [
+   {
+    "w": "dealer",
+    "zh": "經銷商",
+    "k": "family"
+   },
+   {
+    "w": "distributor",
+    "zh": "經銷商",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1427,
+  "day": 58
+ },
+ {
+  "word": "dependable",
+  "pos": "adj",
+  "pic": "🪨",
+  "zh": "可靠的",
+  "en": "able to be trusted to do what is needed",
+  "simple": "He is a dependable worker.",
+  "simple_zh": "他是個可靠的員工。",
+  "toeic": "We are looking for a dependable supplier with fast delivery times.",
+  "toeic_zh": "我們正在尋找交貨快速且可靠的供應商。",
+  "family": "depend (v), dependence (n), dependable (adj)",
+  "related": [
+   {
+    "w": "reliable",
+    "zh": "可靠的",
+    "k": "syn"
+   },
+   {
+    "w": "dependent",
+    "zh": "依賴的",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1428,
+  "day": 58
+ },
+ {
+  "word": "dependence",
+  "pos": "n",
+  "pic": "🧷",
+  "zh": "依賴；依靠",
+  "en": "the state of needing something or someone",
+  "simple": "His dependence on coffee is high.",
+  "simple_zh": "他非常依賴咖啡。",
+  "toeic": "The firm is reducing its dependence on a single supplier.",
+  "toeic_zh": "該公司正減少對單一供應商的依賴。",
+  "family": "depend (v), dependent (adj), dependence (n)",
+  "related": [
+   {
+    "w": "independence",
+    "zh": "獨立",
+    "k": "opp"
+   },
+   {
+    "w": "dependent",
+    "zh": "依賴的",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 1429,
+  "day": 58
+ },
+ {
+  "word": "discard",
+  "pos": "v",
+  "pic": "🗑️",
+  "zh": "丟棄",
+  "en": "to throw away something not needed",
+  "simple": "Please discard the old box.",
+  "simple_zh": "請丟掉舊盒子。",
+  "toeic": "Customers should discard any damaged items and request a replacement.",
+  "toeic_zh": "顧客應丟棄任何損壞的物品並要求更換。",
+  "family": "",
+  "related": [
+   {
+    "w": "dispose",
+    "zh": "處置",
+    "k": "syn"
+   },
+   {
+    "w": "keep",
+    "zh": "保留",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1430,
+  "day": 58
+ },
+ {
+  "word": "discrepancy",
+  "pos": "n",
+  "pic": "❌",
+  "zh": "差異",
+  "en": "a difference or inconsistency",
+  "simple": "There is a discrepancy in the inventory.",
+  "simple_zh": "庫存有差異。",
+  "toeic": "Discrepancies between orders and receipts must be investigated.",
+  "toeic_zh": "必須調查訂單和收據之間的差異。",
+  "family": "discrepancy (n), discrepancies (n), discrepant (adj)",
+  "related": [
+   {
+    "w": "difference",
+    "zh": "差異",
+    "k": "syn"
+   },
+   {
+    "w": "variance",
+    "zh": "差異",
+    "k": "syn"
+   }
+  ],
+  "n": 1431,
+  "day": 58,
+  "src": "TSL"
+ },
+ {
+  "word": "dispatch",
+  "pos": "v",
+  "pic": "🚚",
+  "zh": "派遣",
+  "en": "to send out or arrange for delivery",
+  "simple": "Dispatch the order today.",
+  "simple_zh": "今天派遣訂單。",
+  "toeic": "Orders are dispatched to customers within 24 hours.",
+  "toeic_zh": "訂單在24小時內派遣給客戶。",
+  "family": "dispatch (v/n), dispatcher (n), dispatching (n)",
+  "related": [
+   {
+    "w": "send",
+    "zh": "發送",
+    "k": "syn"
+   },
+   {
+    "w": "ship",
+    "zh": "運送",
+    "k": "syn"
+   }
+  ],
+  "n": 1432,
+  "day": 58,
+  "src": "TSL"
+ },
+ {
+  "word": "disrupt",
+  "pos": "v",
+  "pic": "🚧",
+  "zh": "擾亂；使中斷",
+  "en": "to stop something from continuing normally",
+  "simple": "Noise can disrupt the class.",
+  "simple_zh": "噪音會干擾上課。",
+  "toeic": "Heavy snow may disrupt train services across the region.",
+  "toeic_zh": "大雪可能使整個地區的火車服務中斷。",
+  "family": "disruption (n), disruptive (adj), disrupt (v)",
+  "related": [
+   {
+    "w": "interrupt",
+    "zh": "打斷",
+    "k": "confuse"
+   },
+   {
+    "w": "disturb",
+    "zh": "打擾",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1433,
+  "day": 58
+ },
+ {
+  "word": "disruption",
+  "pos": "n",
+  "pic": "⚡",
+  "zh": "中斷",
+  "en": "disturbance or problems with normal operations",
+  "simple": "Plan for supply disruptions.",
+  "simple_zh": "計劃供應中斷。",
+  "toeic": "Supply chain disruptions require rapid response and adaptation.",
+  "toeic_zh": "供應鏈中斷需要快速反應和適應。",
+  "family": "disruption (n), disrupt (v), disrupted (adj)",
+  "related": [
+   {
+    "w": "interruption",
+    "zh": "中斷",
+    "k": "syn"
+   },
+   {
+    "w": "interference",
+    "zh": "干擾",
+    "k": "syn"
+   }
+  ],
+  "n": 1434,
+  "day": 58,
+  "src": "TSL"
+ },
+ {
+  "word": "distributor",
+  "pos": "n",
+  "pic": "🚚",
+  "zh": "分銷商",
+  "en": "a company that distributes goods to retailers",
+  "simple": "Our distributor ships products to stores nationwide.",
+  "simple_zh": "我們的分銷商向全國各地的商店運送產品。",
+  "toeic": "We work with several distributors to reach different regional markets.",
+  "toeic_zh": "我們與多個分銷商合作以達到不同的地區市場。",
+  "family": "distributor (n), distribute (v), distribution (n)",
+  "related": [
+   {
+    "w": "supplier",
+    "zh": "供應商",
+    "k": "syn"
+   },
+   {
+    "w": "retailer",
+    "zh": "零售商",
+    "k": "syn"
+   }
+  ],
+  "n": 1435,
+  "day": 58,
+  "src": "TSL"
+ },
+ {
+  "word": "dock",
+  "pos": "n",
+  "pic": "⚓",
+  "zh": "碼頭；裝卸平台",
+  "en": "a place where ships or trucks load and unload goods",
+  "simple": "The truck is at the dock.",
+  "simple_zh": "卡車在裝卸平台。",
+  "toeic": "Please direct all deliveries to the dock at the rear of the building.",
+  "toeic_zh": "請將所有送貨引導到大樓後方的裝卸平台。",
+  "family": "dock (n, v)",
+  "related": [
+   {
+    "w": "deck",
+    "zh": "甲板",
+    "k": "confuse"
+   },
+   {
+    "w": "port",
+    "zh": "港口",
+    "k": "syn"
+   }
+  ],
+  "n": 1436,
+  "day": 58,
+  "src": "TSL"
+ },
+ {
+  "word": "earthquake",
+  "pos": "n",
+  "pic": "🌍",
+  "zh": "地震",
+  "en": "a sudden strong shaking of the ground",
+  "simple": "The earthquake woke me up.",
+  "simple_zh": "地震把我吵醒了。",
+  "toeic": "The earthquake damaged several buildings near the factory.",
+  "toeic_zh": "地震損壞了工廠附近的幾棟建築。",
+  "family": "",
+  "related": [
+   {
+    "w": "quake",
+    "zh": "震動",
+    "k": "syn"
+   },
+   {
+    "w": "flood",
+    "zh": "洪水",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1437,
+  "day": 58
+ },
+ {
+  "word": "expedite",
+  "pos": "v",
+  "pic": "⚡",
+  "zh": "加急",
+  "en": "to speed up or hurry a process",
+  "simple": "Can you expedite this order for me?",
+  "simple_zh": "你能為我加急這份訂單嗎？",
+  "toeic": "Customers can pay extra to expedite shipping for urgent deliveries.",
+  "toeic_zh": "客戶可以支付額外費用以加急運送緊急交付。",
+  "family": "expedite (v), expedited (adj), expediting (n)",
+  "related": [
+   {
+    "w": "accelerate",
+    "zh": "加速",
+    "k": "syn"
+   },
+   {
+    "w": "rush",
+    "zh": "匆忙",
+    "k": "syn"
+   }
+  ],
+  "n": 1438,
+  "day": 58,
+  "src": "TSL"
+ },
+ {
+  "word": "expiration",
+  "pos": "n",
+  "pic": "⌛",
+  "zh": "到期；期滿",
+  "en": "the end of the time a thing can be used",
+  "simple": "Check the expiration date.",
+  "simple_zh": "檢查有效期限。",
+  "toeic": "The expiration date of the contract is December 31.",
+  "toeic_zh": "合約的到期日是十二月三十一日。",
+  "family": "expire (v), expiration (n)",
+  "related": [
+   {
+    "w": "expire",
+    "zh": "到期",
+    "k": "family"
+   },
+   {
+    "w": "expedition",
+    "zh": "遠征",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1439,
+  "day": 58
+ },
+ {
+  "word": "ferry",
+  "pos": "n",
+  "pic": "⛴️",
+  "zh": "渡輪",
+  "en": "a boat that carries people across water",
+  "simple": "We took the ferry to the island.",
+  "simple_zh": "我們搭渡輪去小島。",
+  "toeic": "The ferry to the island departs every hour.",
+  "toeic_zh": "前往小島的渡輪每小時開出一班。",
+  "family": "",
+  "related": [
+   {
+    "w": "fairy",
+    "zh": "仙子",
+    "k": "confuse"
+   },
+   {
+    "w": "boat",
+    "zh": "船",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1440,
+  "day": 58
+ },
+ {
+  "word": "fleet",
+  "pos": "n",
+  "pic": "🚛",
+  "zh": "車隊；船隊",
+  "en": "a group of vehicles or ships owned by one company",
+  "simple": "The company has a large fleet.",
+  "simple_zh": "這家公司有一支龐大的車隊。",
+  "toeic": "The delivery company is adding ten electric vans to its fleet.",
+  "toeic_zh": "這家配送公司正在為其車隊增添十輛電動貨車。",
+  "family": "",
+  "related": [
+   {
+    "w": "flight",
+    "zh": "航班",
+    "k": "confuse"
+   },
+   {
+    "w": "convoy",
+    "zh": "車隊（同行）",
+    "k": "syn"
+   }
+  ],
+  "n": 1441,
+  "day": 58,
+  "src": "TSL"
+ },
+ {
+  "word": "flexibility",
+  "pos": "n",
+  "pic": "🔄",
+  "zh": "靈活性",
+  "en": "ability to adjust to changing conditions",
+  "simple": "Provide flexible shipping options.",
+  "simple_zh": "提供靈活的運送選項。",
+  "toeic": "Supply chain flexibility enables quick response to demand changes.",
+  "toeic_zh": "供應鏈靈活性使快速響應需求變化成為可能。",
+  "family": "flexibility (n), flexible (adj), flexibly (adv)",
+  "related": [
+   {
+    "w": "adaptability",
+    "zh": "適應性",
+    "k": "syn"
+   },
+   {
+    "w": "agility",
+    "zh": "靈活性",
+    "k": "syn"
+   }
+  ],
+  "n": 1442,
+  "day": 58,
+  "src": "TSL"
+ },
+ {
+  "word": "flour",
+  "pos": "n",
+  "pic": "🌾",
+  "zh": "麵粉",
+  "en": "a fine powder used to make bread and cakes",
+  "simple": "We need flour for the cake.",
+  "simple_zh": "我們做蛋糕需要麵粉。",
+  "toeic": "The bakery orders flour in bulk every week.",
+  "toeic_zh": "這間麵包店每週大量訂購麵粉。",
+  "family": "",
+  "related": [
+   {
+    "w": "flower",
+    "zh": "花",
+    "k": "confuse"
+   },
+   {
+    "w": "grain",
+    "zh": "穀物",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1443,
+  "day": 58
+ },
+ {
+  "word": "footwear",
+  "pos": "n",
+  "pic": "👟",
+  "zh": "鞋類",
+  "en": "shoes, boots, and other things worn on feet",
+  "simple": "The store sells footwear for kids.",
+  "simple_zh": "這家店賣兒童鞋類。",
+  "toeic": "The shop offers a wide selection of footwear at low prices.",
+  "toeic_zh": "這家店以低價提供各式鞋類。",
+  "family": "",
+  "related": [
+   {
+    "w": "shoes",
+    "zh": "鞋子",
+    "k": "syn"
+   },
+   {
+    "w": "clothing",
+    "zh": "服裝",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1444,
+  "day": 58
+ },
+ {
+  "word": "fortunately",
+  "pos": "adv",
+  "pic": "🍀",
+  "zh": "幸運地",
+  "en": "by good luck",
+  "simple": "Fortunately, I had an umbrella.",
+  "simple_zh": "幸運的是，我有帶傘。",
+  "toeic": "Fortunately, the shipment arrived before the deadline.",
+  "toeic_zh": "幸運的是，貨物在截止日前送達了。",
+  "family": "fortune (n), fortunate (adj), fortunately (adv)",
+  "related": [
+   {
+    "w": "luckily",
+    "zh": "幸運地",
+    "k": "syn"
+   },
+   {
+    "w": "unfortunately",
+    "zh": "不幸地",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1445,
+  "day": 58
+ },
+ {
+  "word": "freight",
+  "pos": "n",
+  "pic": "🚛",
+  "zh": "貨運",
+  "en": "goods transported by vehicle, ship, or plane",
+  "simple": "The freight cost is very high this month.",
+  "simple_zh": "這個月的貨運成本很高。",
+  "toeic": "Freight charges are typically calculated based on weight and distance.",
+  "toeic_zh": "貨運費用通常根據重量和距離計算。",
+  "family": "freight (n), freighter (n), freight charges (n)",
+  "related": [
+   {
+    "w": "cargo",
+    "zh": "貨物",
+    "k": "syn"
+   },
+   {
+    "w": "shipping",
+    "zh": "運送",
+    "k": "syn"
+   }
+  ],
+  "n": 1446,
+  "day": 58,
+  "src": "TSL"
+ },
+ {
+  "word": "freighter",
+  "pos": "n",
+  "pic": "🚢",
+  "zh": "貨船；貨機",
+  "en": "a ship or plane that carries goods",
+  "simple": "The freighter carries cars.",
+  "simple_zh": "這艘貨船載運汽車。",
+  "toeic": "A freighter will deliver the machinery to the port next week.",
+  "toeic_zh": "一艘貨船下週會將機器運送到港口。",
+  "family": "freight (n), freighter (n)",
+  "related": [
+   {
+    "w": "freight",
+    "zh": "貨運",
+    "k": "family"
+   },
+   {
+    "w": "cargo ship",
+    "zh": "貨船",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1447,
+  "day": 58
+ },
+ {
+  "word": "furnish",
+  "pos": "v",
+  "pic": "🛋️",
+  "zh": "配置家具；提供",
+  "en": "to put furniture in a room, or to supply",
+  "simple": "They furnish the new office.",
+  "simple_zh": "他們為新辦公室添購家具。",
+  "toeic": "The landlord will furnish the apartment with a desk and chairs.",
+  "toeic_zh": "房東會為公寓配置書桌和椅子。",
+  "family": "furnish (v), furniture (n)",
+  "related": [
+   {
+    "w": "furniture",
+    "zh": "家具",
+    "k": "family"
+   },
+   {
+    "w": "supply",
+    "zh": "提供",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1448,
+  "day": 58
+ },
+ {
+  "word": "gallon",
+  "pos": "n",
+  "pic": "🪣",
+  "zh": "加侖",
+  "en": "a unit for measuring liquid",
+  "simple": "We bought a gallon of milk.",
+  "simple_zh": "我們買了一加侖牛奶。",
+  "toeic": "The truck holds about two hundred gallons of fuel.",
+  "toeic_zh": "這輛卡車可裝約兩百加侖的燃料。",
+  "family": "",
+  "related": [
+   {
+    "w": "gallery",
+    "zh": "畫廊",
+    "k": "confuse"
+   },
+   {
+    "w": "liter",
+    "zh": "公升",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1449,
+  "day": 58
+ },
+ {
+  "word": "gasoline",
+  "pos": "n",
+  "pic": "⛽",
+  "zh": "汽油",
+  "en": "fuel used in cars",
+  "simple": "The car needs gasoline.",
+  "simple_zh": "這輛車需要汽油。",
+  "toeic": "Rising gasoline prices have increased delivery costs.",
+  "toeic_zh": "汽油價格上漲提高了運送成本。",
+  "family": "",
+  "related": [
+   {
+    "w": "gas",
+    "zh": "汽油",
+    "k": "syn"
+   },
+   {
+    "w": "diesel",
+    "zh": "柴油",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1450,
+  "day": 58
+ },
+ {
+  "word": "goods",
+  "pos": "n",
+  "pic": "🧺",
+  "zh": "貨品；商品",
+  "en": "things that are made or grown to be sold",
+  "simple": "The shop has many goods on sale.",
+  "simple_zh": "這家店有很多特價商品。",
+  "toeic": "The goods will be shipped from our central warehouse this afternoon.",
+  "toeic_zh": "這批貨品將於今天下午從我們的中央倉庫出貨。",
+  "family": "goods (n)",
+  "related": [
+   {
+    "w": "good",
+    "zh": "好的",
+    "k": "confuse"
+   },
+   {
+    "w": "merchandise",
+    "zh": "商品",
+    "k": "syn"
+   }
+  ],
+  "n": 1451,
+  "day": 59,
+  "src": "TSL"
+ },
+ {
+  "word": "gram",
+  "pos": "n",
+  "pic": "⚖️",
+  "zh": "公克",
+  "en": "a small unit of weight",
+  "simple": "Add fifty grams of sugar.",
+  "simple_zh": "加入五十公克的糖。",
+  "toeic": "The package weighs about five hundred grams.",
+  "toeic_zh": "這個包裹重約五百公克。",
+  "family": "",
+  "related": [
+   {
+    "w": "gramme",
+    "zh": "克（英式）",
+    "k": "syn"
+   },
+   {
+    "w": "kilogram",
+    "zh": "公斤",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 1452,
+  "day": 59
+ },
+ {
+  "word": "grocery",
+  "pos": "n",
+  "pic": "🛒",
+  "zh": "雜貨店；食品雜貨",
+  "en": "a store or goods for food and household items",
+  "simple": "I buy milk at the grocery.",
+  "simple_zh": "我在雜貨店買牛奶。",
+  "toeic": "The grocery chain plans to open ten new stores next year.",
+  "toeic_zh": "這家連鎖雜貨店計畫明年開設十家新分店。",
+  "family": "",
+  "related": [
+   {
+    "w": "supermarket",
+    "zh": "超級市場",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1453,
+  "day": 59
+ },
+ {
+  "word": "hazardous",
+  "pos": "adj",
+  "pic": "☣️",
+  "zh": "危險的",
+  "en": "dangerous to people or the environment",
+  "simple": "That box holds hazardous material.",
+  "simple_zh": "那個箱子裝著危險物品。",
+  "toeic": "Shipping hazardous materials requires special packaging and labeling.",
+  "toeic_zh": "危險物品運輸需要特殊的包裝與標示。",
+  "family": "hazard (n), hazardous (adj)",
+  "related": [
+   {
+    "w": "harmful",
+    "zh": "有害的",
+    "k": "syn"
+   },
+   {
+    "w": "safe",
+    "zh": "安全的",
+    "k": "opp"
+   }
+  ],
+  "n": 1454,
+  "day": 59,
+  "src": "TSL"
+ },
+ {
+  "word": "highway",
+  "pos": "n",
+  "pic": "🛣️",
+  "zh": "公路；高速公路",
+  "en": "a large public road between cities",
+  "simple": "The highway is very busy today.",
+  "simple_zh": "今天公路很擁擠。",
+  "toeic": "The new highway will shorten the delivery time to the port.",
+  "toeic_zh": "新公路將縮短送貨到港口的時間。",
+  "family": "",
+  "related": [
+   {
+    "w": "freeway",
+    "zh": "高速公路",
+    "k": "syn"
+   },
+   {
+    "w": "hallway",
+    "zh": "走廊",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1455,
+  "day": 59
+ },
+ {
+  "word": "humidity",
+  "pos": "n",
+  "pic": "💧",
+  "zh": "濕度",
+  "en": "the amount of water in the air",
+  "simple": "The humidity is high today.",
+  "simple_zh": "今天濕度很高。",
+  "toeic": "Keep the humidity low in the warehouse to protect the goods.",
+  "toeic_zh": "請保持倉庫低濕度以保護貨品。",
+  "family": "humid (adj)",
+  "related": [
+   {
+    "w": "moisture",
+    "zh": "水氣",
+    "k": "syn"
+   },
+   {
+    "w": "humid",
+    "zh": "潮濕的",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 1456,
+  "day": 59
+ },
+ {
+  "word": "icy",
+  "pos": "adj",
+  "pic": "🧊",
+  "zh": "結冰的；冰冷的",
+  "en": "covered with ice or very cold",
+  "simple": "The road is icy today.",
+  "simple_zh": "今天路面結冰了。",
+  "toeic": "Drivers should be careful because the highway is icy this morning.",
+  "toeic_zh": "由於今早公路結冰，駕駛人應小心。",
+  "family": "ice (n)",
+  "related": [
+   {
+    "w": "frozen",
+    "zh": "冰凍的",
+    "k": "syn"
+   },
+   {
+    "w": "warm",
+    "zh": "溫暖的",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1457,
+  "day": 59
+ },
+ {
+  "word": "inexpensive",
+  "pos": "adj",
+  "pic": "🏷️",
+  "zh": "便宜的",
+  "en": "low in price",
+  "simple": "This shirt is inexpensive.",
+  "simple_zh": "這件襯衫很便宜。",
+  "toeic": "We offer an inexpensive way to ship small packages overseas.",
+  "toeic_zh": "我們提供寄送小型包裹到海外的廉價方式。",
+  "family": "expensive (adj)",
+  "related": [
+   {
+    "w": "cheap",
+    "zh": "便宜的",
+    "k": "syn"
+   },
+   {
+    "w": "expensive",
+    "zh": "昂貴的",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1458,
+  "day": 59
+ },
+ {
+  "word": "ink",
+  "pos": "n",
+  "pic": "🖋️",
+  "zh": "墨水；油墨",
+  "en": "colored liquid used for writing or printing",
+  "simple": "The pen has no ink.",
+  "simple_zh": "這支筆沒有墨水了。",
+  "toeic": "Please order more ink for the office printer.",
+  "toeic_zh": "請為辦公室印表機多訂購一些墨水。",
+  "family": "",
+  "related": [
+   {
+    "w": "toner",
+    "zh": "碳粉",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1459,
+  "day": 59
+ },
+ {
+  "word": "inspect",
+  "pos": "v",
+  "pic": "🔍",
+  "zh": "檢查",
+  "en": "to examine something carefully",
+  "simple": "We inspect all goods before accepting them.",
+  "simple_zh": "我們在接受所有商品前進行檢查。",
+  "toeic": "Quality inspectors examine each shipment to ensure it meets specifications.",
+  "toeic_zh": "品質檢查員檢查每份貨運以確保符合規格。",
+  "family": "inspect (v), inspection (n), inspector (n)",
+  "related": [
+   {
+    "w": "examine",
+    "zh": "檢驗",
+    "k": "syn"
+   },
+   {
+    "w": "verify",
+    "zh": "驗證",
+    "k": "syn"
+   }
+  ],
+  "n": 1460,
+  "day": 59,
+  "src": "TSL"
+ },
+ {
+  "word": "insufficient",
+  "pos": "adj",
+  "pic": "📉",
+  "zh": "不足的",
+  "en": "not enough",
+  "simple": "We have insufficient water.",
+  "simple_zh": "我們的水不夠。",
+  "toeic": "The loan was refused because of insufficient funds.",
+  "toeic_zh": "貸款因資金不足而被拒絕。",
+  "family": "sufficient (adj)",
+  "related": [
+   {
+    "w": "sufficient",
+    "zh": "足夠的",
+    "k": "opp"
+   },
+   {
+    "w": "inadequate",
+    "zh": "不充分的",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1461,
+  "day": 59
+ },
+ {
+  "word": "internationally",
+  "pos": "adv",
+  "pic": "🌍",
+  "zh": "在國際上；跨國地",
+  "en": "in or between many countries",
+  "simple": "The singer is known internationally.",
+  "simple_zh": "這位歌手在國際上很有名。",
+  "toeic": "The company sells its products internationally through local distributors.",
+  "toeic_zh": "該公司透過當地經銷商向國際銷售產品。",
+  "family": "international (adj)",
+  "related": [
+   {
+    "w": "globally",
+    "zh": "全球地",
+    "k": "syn"
+   },
+   {
+    "w": "locally",
+    "zh": "在地地",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1462,
+  "day": 59
+ },
+ {
+  "word": "intersection",
+  "pos": "n",
+  "pic": "🚦",
+  "zh": "十字路口",
+  "en": "a place where two roads cross",
+  "simple": "Turn left at the intersection.",
+  "simple_zh": "在十字路口左轉。",
+  "toeic": "The hotel is located at the intersection of Main Street and Oak Avenue.",
+  "toeic_zh": "飯店位於主街與橡樹大道的交叉口。",
+  "family": "intersect (v)",
+  "related": [
+   {
+    "w": "crossroads",
+    "zh": "十字路口",
+    "k": "syn"
+   },
+   {
+    "w": "section",
+    "zh": "部分",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1463,
+  "day": 59
+ },
+ {
+  "word": "jam",
+  "pos": "n",
+  "pic": "🍓",
+  "zh": "果醬；堵塞",
+  "en": "sweet fruit spread, or a blocked line of traffic",
+  "simple": "I like jam on bread.",
+  "simple_zh": "我喜歡在麵包上塗果醬。",
+  "toeic": "A traffic jam delayed the delivery truck by an hour.",
+  "toeic_zh": "交通堵塞使送貨卡車延誤了一小時。",
+  "family": "",
+  "related": [
+   {
+    "w": "jelly",
+    "zh": "果凍",
+    "k": "confuse"
+   },
+   {
+    "w": "congestion",
+    "zh": "擁堵",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1464,
+  "day": 59
+ },
+ {
+  "word": "jet",
+  "pos": "n",
+  "pic": "✈️",
+  "zh": "噴射機",
+  "en": "a fast airplane with powerful engines",
+  "simple": "The jet flies very fast.",
+  "simple_zh": "噴射機飛得很快。",
+  "toeic": "The executives will travel on a private jet to the conference.",
+  "toeic_zh": "主管們將搭乘私人噴射機前往會議。",
+  "family": "",
+  "related": [
+   {
+    "w": "airplane",
+    "zh": "飛機",
+    "k": "syn"
+   },
+   {
+    "w": "jam",
+    "zh": "堵塞",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1465,
+  "day": 59
+ },
+ {
+  "word": "kilogram",
+  "pos": "n",
+  "pic": "⚖️",
+  "zh": "公斤",
+  "en": "A unit of weight equal to 1,000 grams",
+  "simple": "This bag weighs one kilogram.",
+  "simple_zh": "這個袋子重一公斤。",
+  "toeic": "Shipping costs five dollars per kilogram.",
+  "toeic_zh": "運費每公斤五美元。",
+  "family": "",
+  "related": [
+   {
+    "w": "gram",
+    "zh": "公克",
+    "k": "family"
+   },
+   {
+    "w": "kilometer",
+    "zh": "公里",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1466,
+  "day": 59
+ },
+ {
+  "word": "kilometer",
+  "pos": "n",
+  "pic": "📏",
+  "zh": "公里",
+  "en": "A unit of distance equal to 1,000 meters",
+  "simple": "The school is one kilometer from here.",
+  "simple_zh": "學校離這裡一公里。",
+  "toeic": "The factory is only one kilometer from the airport.",
+  "toeic_zh": "工廠距離機場只有一公里。",
+  "family": "",
+  "related": [
+   {
+    "w": "meter",
+    "zh": "公尺",
+    "k": "family"
+   },
+   {
+    "w": "kilogram",
+    "zh": "公斤",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1467,
+  "day": 59
+ },
+ {
+  "word": "lane",
+  "pos": "n",
+  "pic": "🛣️",
+  "zh": "車道；巷子",
+  "en": "A narrow road or a section of a wide road",
+  "simple": "Please stay in your lane.",
+  "simple_zh": "請保持在你的車道上。",
+  "toeic": "The right lane will be closed for road repairs.",
+  "toeic_zh": "右側車道將因道路維修而封閉。",
+  "family": "",
+  "related": [
+   {
+    "w": "line",
+    "zh": "線",
+    "k": "confuse"
+   },
+   {
+    "w": "road",
+    "zh": "道路",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1468,
+  "day": 59
+ },
+ {
+  "word": "liter",
+  "pos": "n",
+  "pic": "🥛",
+  "zh": "公升",
+  "en": "A unit for measuring liquid",
+  "simple": "I drink one liter of water a day.",
+  "simple_zh": "我一天喝一公升的水。",
+  "toeic": "This tank holds one liter of fuel.",
+  "toeic_zh": "這個油箱可裝一公升的燃料。",
+  "family": "",
+  "related": [
+   {
+    "w": "gallon",
+    "zh": "加侖",
+    "k": "syn"
+   },
+   {
+    "w": "litter",
+    "zh": "垃圾",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1469,
+  "day": 59
+ },
+ {
+  "word": "locally",
+  "pos": "adv",
+  "pic": "📍",
+  "zh": "在當地",
+  "en": "In or near the place where you live",
+  "simple": "We buy our food locally.",
+  "simple_zh": "我們在當地購買食物。",
+  "toeic": "The products are made locally to reduce shipping costs.",
+  "toeic_zh": "這些產品在當地製造以降低運費。",
+  "family": "local (adj), locality (n)",
+  "related": [
+   {
+    "w": "local",
+    "zh": "當地的",
+    "k": "family"
+   },
+   {
+    "w": "globally",
+    "zh": "全球地",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1470,
+  "day": 59
+ },
+ {
+  "word": "messenger",
+  "pos": "n",
+  "pic": "📨",
+  "zh": "信差；送信者",
+  "en": "A person who carries messages or packages",
+  "simple": "The messenger brought a letter.",
+  "simple_zh": "信差送來一封信。",
+  "toeic": "A messenger will deliver the contract to your office today.",
+  "toeic_zh": "信差今天會把合約送到您的辦公室。",
+  "family": "message (n)",
+  "related": [
+   {
+    "w": "courier",
+    "zh": "快遞員",
+    "k": "syn"
+   },
+   {
+    "w": "message",
+    "zh": "訊息",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 1471,
+  "day": 59
+ },
+ {
+  "word": "motorcycle",
+  "pos": "n",
+  "pic": "🏍️",
+  "zh": "機車",
+  "en": "A two-wheeled vehicle with an engine",
+  "simple": "He rides a motorcycle to work.",
+  "simple_zh": "他騎機車上班。",
+  "toeic": "Motorcycle parking is available behind the building.",
+  "toeic_zh": "大樓後方設有機車停車位。",
+  "family": "",
+  "related": [
+   {
+    "w": "bicycle",
+    "zh": "腳踏車",
+    "k": "confuse"
+   },
+   {
+    "w": "scooter",
+    "zh": "小型機車",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1472,
+  "day": 59
+ },
+ {
+  "word": "nationwide",
+  "pos": "adj",
+  "pic": "🗺️",
+  "zh": "全國性的",
+  "en": "covering the whole country",
+  "simple": "They offer nationwide delivery.",
+  "simple_zh": "他們提供全國配送。",
+  "toeic": "The retailer launched a nationwide delivery service last month.",
+  "toeic_zh": "這家零售商上個月推出了全國配送服務。",
+  "family": "nationwide (adj, adv), nation (n)",
+  "related": [
+   {
+    "w": "worldwide",
+    "zh": "全球的",
+    "k": "family"
+   },
+   {
+    "w": "local",
+    "zh": "本地的",
+    "k": "opp"
+   }
+  ],
+  "n": 1473,
+  "day": 59,
+  "src": "TSL"
+ },
+ {
+  "word": "obtain",
+  "pos": "v",
+  "pic": "🎁",
+  "zh": "取得",
+  "en": "To get something",
+  "simple": "You can obtain a form at the desk.",
+  "simple_zh": "你可以在櫃檯取得表格。",
+  "toeic": "Visitors must obtain a permit before entering the site.",
+  "toeic_zh": "訪客進入現場前必須取得許可證。",
+  "family": "obtainable (adj)",
+  "related": [
+   {
+    "w": "get",
+    "zh": "得到",
+    "k": "syn"
+   },
+   {
+    "w": "contain",
+    "zh": "包含",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1474,
+  "day": 59
+ },
+ {
+  "word": "overnight",
+  "pos": "adj",
+  "pic": "🌙",
+  "zh": "隔夜",
+  "en": "happening or delivered the next day",
+  "simple": "Request overnight shipping.",
+  "simple_zh": "要求隔夜運送。",
+  "toeic": "Overnight delivery services command premium shipping rates.",
+  "toeic_zh": "隔夜交付服務收取高級運送費率。",
+  "family": "overnight (adj/adv), overnight shipping (n)",
+  "related": [
+   {
+    "w": "next day",
+    "zh": "隔日",
+    "k": "syn"
+   },
+   {
+    "w": "express",
+    "zh": "快遞",
+    "k": "syn"
+   }
+  ],
+  "n": 1475,
+  "day": 59,
+  "src": "TSL"
+ },
+ {
+  "word": "overpay",
+  "pos": "v",
+  "pic": "💰",
+  "zh": "多付；給付過高",
+  "en": "to pay more than is needed",
+  "simple": "I did not overpay for the room.",
+  "simple_zh": "我沒有多付房費。",
+  "toeic": "The company refused to overpay for the used equipment.",
+  "toeic_zh": "公司拒絕為二手設備付出過高的價錢。",
+  "family": "overpayment (n), pay (v)",
+  "related": [
+   {
+    "w": "underpay",
+    "zh": "少付",
+    "k": "opp"
+   },
+   {
+    "w": "overcharge",
+    "zh": "多收費",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1476,
+  "day": 60
+ },
+ {
+  "word": "parcel",
+  "pos": "n",
+  "pic": "📦",
+  "zh": "包裹",
+  "en": "a package or bundle of goods",
+  "simple": "The parcel arrived today.",
+  "simple_zh": "包裹今天到達。",
+  "toeic": "Parcel delivery services handle small to medium-sized packages.",
+  "toeic_zh": "包裹交付服務處理中等規模的包裹。",
+  "family": "parcel (n), parcels (n), parceled (adj)",
+  "related": [
+   {
+    "w": "package",
+    "zh": "包裹",
+    "k": "syn"
+   },
+   {
+    "w": "bundle",
+    "zh": "束",
+    "k": "syn"
+   }
+  ],
+  "n": 1477,
+  "day": 60,
+  "src": "TSL"
+ },
+ {
+  "word": "partial",
+  "pos": "adj",
+  "pic": "🌗",
+  "zh": "部分的",
+  "en": "not complete; only a part",
+  "simple": "I made a partial payment.",
+  "simple_zh": "我付了部分款項。",
+  "toeic": "The client received a partial refund for the damaged goods.",
+  "toeic_zh": "客戶因貨品受損取得部分退款。",
+  "family": "part (n), partially (adv)",
+  "related": [
+   {
+    "w": "complete",
+    "zh": "完整的",
+    "k": "opp"
+   },
+   {
+    "w": "partly",
+    "zh": "部分地",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1478,
+  "day": 60
+ },
+ {
+  "word": "partially",
+  "pos": "adv",
+  "pic": "🌓",
+  "zh": "部分地",
+  "en": "not completely; in part",
+  "simple": "The road is partially closed.",
+  "simple_zh": "這條路部分封閉。",
+  "toeic": "The warehouse was partially damaged by the storm.",
+  "toeic_zh": "倉庫被暴風雨部分損毀。",
+  "family": "partial (adj), part (n)",
+  "related": [
+   {
+    "w": "completely",
+    "zh": "完全地",
+    "k": "opp"
+   },
+   {
+    "w": "partly",
+    "zh": "部分地",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1479,
+  "day": 60
+ },
+ {
+  "word": "penalize",
+  "pos": "v",
+  "pic": "🚫",
+  "zh": "處罰；處以罰款",
+  "en": "to punish someone for breaking a rule",
+  "simple": "They penalize late students.",
+  "simple_zh": "他們處罰遲到的學生。",
+  "toeic": "The contract will penalize the supplier for late delivery.",
+  "toeic_zh": "合約會對延遲交貨的供應商處以罰則。",
+  "family": "penalty (n)",
+  "related": [
+   {
+    "w": "fine",
+    "zh": "罰款",
+    "k": "syn"
+   },
+   {
+    "w": "reward",
+    "zh": "獎勵",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1480,
+  "day": 60
+ },
+ {
+  "word": "postage",
+  "pos": "n",
+  "pic": "✉️",
+  "zh": "郵資",
+  "en": "the cost of sending a letter or package by mail",
+  "simple": "The postage costs two dollars here.",
+  "simple_zh": "這裡的郵資是兩美元。",
+  "toeic": "The price of the catalog does not include postage and handling.",
+  "toeic_zh": "目錄價格不含郵資與手續費。",
+  "family": "post (n, v), postage (n)",
+  "related": [
+   {
+    "w": "postal",
+    "zh": "郵政的",
+    "k": "family"
+   },
+   {
+    "w": "package",
+    "zh": "包裹",
+    "k": "confuse"
+   }
+  ],
+  "n": 1481,
+  "day": 60,
+  "src": "TSL"
+ },
+ {
+  "word": "postal",
+  "pos": "adj",
+  "pic": "📮",
+  "zh": "郵政的",
+  "en": "relating to mail",
+  "simple": "What is your postal address?",
+  "simple_zh": "你的郵寄地址是什麼？",
+  "toeic": "Please include your postal code on the order form.",
+  "toeic_zh": "請在訂購單上填寫郵遞區號。",
+  "family": "post (n, v)",
+  "related": [
+   {
+    "w": "mail",
+    "zh": "郵件",
+    "k": "syn"
+   },
+   {
+    "w": "postage",
+    "zh": "郵資",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 1482,
+  "day": 60
+ },
+ {
+  "word": "provider",
+  "pos": "n",
+  "pic": "🏢",
+  "zh": "供應商；提供者",
+  "en": "a person or company that supplies something",
+  "simple": "Who is your internet provider?",
+  "simple_zh": "你的網路供應商是誰？",
+  "toeic": "The service provider will upgrade our network tonight.",
+  "toeic_zh": "服務供應商今晚會升級我們的網路。",
+  "family": "provide (v), provision (n)",
+  "related": [
+   {
+    "w": "supplier",
+    "zh": "供應商",
+    "k": "syn"
+   },
+   {
+    "w": "customer",
+    "zh": "顧客",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1483,
+  "day": 60
+ },
+ {
+  "word": "purchaser",
+  "pos": "n",
+  "pic": "🛒",
+  "zh": "買方；購買者",
+  "en": "a person who buys something",
+  "simple": "The purchaser paid in cash.",
+  "simple_zh": "買方付了現金。",
+  "toeic": "The purchaser must pay the full amount within ten days.",
+  "toeic_zh": "買方必須在十天內付清全額。",
+  "family": "purchase (n, v)",
+  "related": [
+   {
+    "w": "buyer",
+    "zh": "買家",
+    "k": "syn"
+   },
+   {
+    "w": "seller",
+    "zh": "賣方",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1484,
+  "day": 60
+ },
+ {
+  "word": "railway",
+  "pos": "n",
+  "pic": "🚆",
+  "zh": "鐵路",
+  "en": "a track for trains",
+  "simple": "The railway is near my house.",
+  "simple_zh": "鐵路在我家附近。",
+  "toeic": "The new railway will connect the port to the city.",
+  "toeic_zh": "這條新鐵路將連接港口與市區。",
+  "family": "",
+  "related": [
+   {
+    "w": "railroad",
+    "zh": "鐵路",
+    "k": "syn"
+   },
+   {
+    "w": "subway",
+    "zh": "地鐵",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1485,
+  "day": 60
+ },
+ {
+  "word": "rebate",
+  "pos": "n",
+  "pic": "💰",
+  "zh": "回扣",
+  "en": "a partial refund or discount",
+  "simple": "The manufacturer offers a rebate on this product.",
+  "simple_zh": "製造商對該產品提供回扣。",
+  "toeic": "Volume rebates reward customers for purchasing in larger quantities.",
+  "toeic_zh": "數量回扣獎勵以更大數量購買的客戶。",
+  "family": "rebate (n/v), rebated (adj), rebating (n)",
+  "related": [
+   {
+    "w": "discount",
+    "zh": "折扣",
+    "k": "syn"
+   },
+   {
+    "w": "refund",
+    "zh": "退款",
+    "k": "syn"
+   }
+  ],
+  "n": 1486,
+  "day": 60,
+  "src": "TSL"
+ },
+ {
+  "word": "remainder",
+  "pos": "n",
+  "pic": "➗",
+  "zh": "剩餘部分",
+  "en": "the part that is left",
+  "simple": "I will eat the remainder later.",
+  "simple_zh": "我晚點再吃剩下的。",
+  "toeic": "The remainder of the balance is due by the end of the month.",
+  "toeic_zh": "餘額須於月底前付清。",
+  "family": "remain (v), remaining (adj)",
+  "related": [
+   {
+    "w": "reminder",
+    "zh": "提醒",
+    "k": "confuse"
+   },
+   {
+    "w": "rest",
+    "zh": "其餘",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1487,
+  "day": 60
+ },
+ {
+  "word": "removal",
+  "pos": "n",
+  "pic": "🚮",
+  "zh": "移除；搬走",
+  "en": "the act of taking something away",
+  "simple": "The removal took one hour.",
+  "simple_zh": "移除工作花了一小時。",
+  "toeic": "Snow removal on the parking lot begins early in the morning.",
+  "toeic_zh": "停車場的除雪作業一大早就開始。",
+  "family": "remove (v), removable (adj)",
+  "related": [
+   {
+    "w": "remove",
+    "zh": "移除",
+    "k": "family"
+   },
+   {
+    "w": "installation",
+    "zh": "安裝",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1488,
+  "day": 60
+ },
+ {
+  "word": "renew",
+  "pos": "v",
+  "pic": "🔄",
+  "zh": "續約；更新",
+  "en": "to continue an agreement or card for a new period",
+  "simple": "I need to renew my card.",
+  "simple_zh": "我需要換發我的卡片。",
+  "toeic": "The two companies agreed to renew the contract for another year.",
+  "toeic_zh": "兩家公司同意再續約一年。",
+  "family": "renewal (n); renewable (adj); renew a contract 續約",
+  "related": [
+   {
+    "w": "renovate",
+    "zh": "整修",
+    "k": "confuse"
+   },
+   {
+    "w": "renewal",
+    "zh": "續約；更新",
+    "k": "family"
+   }
+  ],
+  "n": 1489,
+  "day": 60,
+  "src": "TSL"
+ },
+ {
+  "word": "replacement",
+  "pos": "n",
+  "pic": "🔧",
+  "zh": "替換品",
+  "en": "something new that takes the place of another thing",
+  "simple": "I need a replacement for this cup.",
+  "simple_zh": "我需要這個杯子的替換品。",
+  "toeic": "We will send a free replacement if the item arrives damaged.",
+  "toeic_zh": "如果商品到貨時受損，我們會免費寄送替換品。",
+  "family": "replace (v), replacement (n)",
+  "related": [
+   {
+    "w": "placement",
+    "zh": "安置",
+    "k": "confuse"
+   },
+   {
+    "w": "substitute",
+    "zh": "替代品",
+    "k": "syn"
+   }
+  ],
+  "n": 1490,
+  "day": 60,
+  "src": "TSL"
+ },
+ {
+  "word": "residence",
+  "pos": "n",
+  "pic": "🏡",
+  "zh": "住所；住宅",
+  "en": "the place where a person lives",
+  "simple": "This is my residence.",
+  "simple_zh": "這是我的住所。",
+  "toeic": "Please send the package to my residence instead of the office.",
+  "toeic_zh": "請把包裹寄到我的住所而非辦公室。",
+  "family": "reside (v), resident (n)",
+  "related": [
+   {
+    "w": "resident",
+    "zh": "居民",
+    "k": "family"
+   },
+   {
+    "w": "residence",
+    "zh": "住宅",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1491,
+  "day": 60
+ },
+ {
+  "word": "retailer",
+  "pos": "n",
+  "pic": "🏬",
+  "zh": "零售商",
+  "en": "a person or business that sells to the public",
+  "simple": "The retailer sells shoes.",
+  "simple_zh": "這家零售商賣鞋子。",
+  "toeic": "The retailer plans to open ten new stores this year.",
+  "toeic_zh": "這家零售商計畫今年開設十家新店。",
+  "family": "retail (n, adj, v)",
+  "related": [
+   {
+    "w": "wholesaler",
+    "zh": "批發商",
+    "k": "opp"
+   },
+   {
+    "w": "retail",
+    "zh": "零售",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 1492,
+  "day": 60
+ },
+ {
+  "word": "rider",
+  "pos": "n",
+  "pic": "🚴",
+  "zh": "乘客；騎士",
+  "en": "a person who rides a bike, horse or vehicle",
+  "simple": "The rider wore a helmet.",
+  "simple_zh": "騎士戴著安全帽。",
+  "toeic": "Bus riders can now pay with a mobile app.",
+  "toeic_zh": "公車乘客現在可以用手機應用程式付款。",
+  "family": "ride (v, n)",
+  "related": [
+   {
+    "w": "driver",
+    "zh": "駕駛",
+    "k": "confuse"
+   },
+   {
+    "w": "passenger",
+    "zh": "乘客",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1493,
+  "day": 60
+ },
+ {
+  "word": "sedan",
+  "pos": "n",
+  "pic": "🚗",
+  "zh": "轎車",
+  "en": "a car with a separate trunk and four doors",
+  "simple": "He drives a small sedan.",
+  "simple_zh": "他開一輛小轎車。",
+  "toeic": "We would like to rent a sedan for three days.",
+  "toeic_zh": "我們想租一輛轎車三天。",
+  "family": "",
+  "related": [
+   {
+    "w": "van",
+    "zh": "廂型車",
+    "k": "opp"
+   },
+   {
+    "w": "vehicle",
+    "zh": "車輛",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1494,
+  "day": 60
+ },
+ {
+  "word": "sender",
+  "pos": "n",
+  "pic": "📤",
+  "zh": "寄件人；發送者",
+  "en": "a person who sends a message or package",
+  "simple": "The sender is my friend.",
+  "simple_zh": "寄件人是我的朋友。",
+  "toeic": "If the sender is unknown, do not open the attachment.",
+  "toeic_zh": "若寄件人不明，請勿開啟附件。",
+  "family": "send (v)",
+  "related": [
+   {
+    "w": "recipient",
+    "zh": "收件人",
+    "k": "opp"
+   },
+   {
+    "w": "send",
+    "zh": "寄送",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 1495,
+  "day": 60
+ },
+ {
+  "word": "separately",
+  "pos": "adv",
+  "pic": "✂️",
+  "zh": "分開地；個別地",
+  "en": "apart from each other",
+  "simple": "Please pay separately.",
+  "simple_zh": "請分開付款。",
+  "toeic": "The items will be shipped separately from the main order.",
+  "toeic_zh": "這些商品將與主要訂單分開出貨。",
+  "family": "separate (v, adj), separation (n)",
+  "related": [
+   {
+    "w": "together",
+    "zh": "一起",
+    "k": "opp"
+   },
+   {
+    "w": "individually",
+    "zh": "個別地",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1496,
+  "day": 60
+ },
+ {
+  "word": "shortage",
+  "pos": "n",
+  "pic": "📉",
+  "zh": "短缺",
+  "en": "a lack or deficiency of something",
+  "simple": "We face a material shortage.",
+  "simple_zh": "我們面臨材料短缺。",
+  "toeic": "Supply chain disruptions create material shortages.",
+  "toeic_zh": "供應鏈中斷造成材料短缺。",
+  "family": "shortage (n), shortages (n), short of (adj)",
+  "related": [
+   {
+    "w": "deficit",
+    "zh": "赤字",
+    "k": "syn"
+   },
+   {
+    "w": "scarcity",
+    "zh": "稀缺",
+    "k": "syn"
+   }
+  ],
+  "n": 1497,
+  "day": 60,
+  "src": "TSL"
+ },
+ {
+  "word": "specification",
+  "pos": "n",
+  "pic": "📋",
+  "zh": "規格",
+  "en": "a detailed description of requirements",
+  "simple": "Check the product specifications.",
+  "simple_zh": "檢查產品規格。",
+  "toeic": "Purchase orders include detailed specifications for quality and performance.",
+  "toeic_zh": "採購訂單包括品質和性能的詳細規格。",
+  "family": "specification (n), specifications (n), specify (v)",
+  "related": [
+   {
+    "w": "standard",
+    "zh": "標準",
+    "k": "syn"
+   },
+   {
+    "w": "requirement",
+    "zh": "要求",
+    "k": "syn"
+   }
+  ],
+  "n": 1498,
+  "day": 60,
+  "src": "TSL"
+ },
+ {
+  "word": "stack",
+  "pos": "n",
+  "pic": "📚",
+  "zh": "一疊；堆",
+  "en": "a pile of things on top of each other",
+  "simple": "A stack of books is on the desk.",
+  "simple_zh": "桌上有一疊書。",
+  "toeic": "There is a stack of invoices waiting to be processed.",
+  "toeic_zh": "有一疊發票等待處理。",
+  "family": "stack (n, v)",
+  "related": [
+   {
+    "w": "pile",
+    "zh": "堆",
+    "k": "syn"
+   },
+   {
+    "w": "stock",
+    "zh": "庫存",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1499,
+  "day": 60
+ },
+ {
+  "word": "sticker",
+  "pos": "n",
+  "pic": "🏷️",
+  "zh": "貼紙",
+  "en": "a small label that sticks to things",
+  "simple": "The child has a sticker.",
+  "simple_zh": "小孩有一張貼紙。",
+  "toeic": "Place the price sticker on each item before display.",
+  "toeic_zh": "陳列前請在每件商品貼上價格貼紙。",
+  "family": "stick (v), sticker (n)",
+  "related": [
+   {
+    "w": "label",
+    "zh": "標籤",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1500,
+  "day": 60
+ },
+ {
+  "word": "storeroom",
+  "pos": "n",
+  "pic": "📦",
+  "zh": "儲藏室",
+  "en": "a room where things are kept",
+  "simple": "The boxes are in the storeroom.",
+  "simple_zh": "箱子在儲藏室裡。",
+  "toeic": "Extra paper is kept in the storeroom on the second floor.",
+  "toeic_zh": "備用紙張存放在二樓的儲藏室。",
+  "family": "storeroom (n)",
+  "related": [
+   {
+    "w": "showroom",
+    "zh": "展示間",
+    "k": "confuse"
+   },
+   {
+    "w": "warehouse",
+    "zh": "倉庫",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1501,
+  "day": 61
+ },
+ {
+  "word": "suitcase",
+  "pos": "n",
+  "pic": "🧳",
+  "zh": "行李箱",
+  "en": "a bag for carrying clothes when traveling",
+  "simple": "My suitcase is heavy.",
+  "simple_zh": "我的行李箱很重。",
+  "toeic": "Please keep your suitcase with you at all times.",
+  "toeic_zh": "請隨時將您的行李箱帶在身邊。",
+  "family": "suitcase (n)",
+  "related": [
+   {
+    "w": "luggage",
+    "zh": "行李",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1502,
+  "day": 61
+ },
+ {
+  "word": "supermarket",
+  "pos": "n",
+  "pic": "🛒",
+  "zh": "超級市場",
+  "en": "a large store that sells food and goods",
+  "simple": "We shop at the supermarket.",
+  "simple_zh": "我們在超市購物。",
+  "toeic": "The supermarket is open until midnight on weekends.",
+  "toeic_zh": "這家超市週末營業到午夜。",
+  "family": "supermarket (n)",
+  "related": [
+   {
+    "w": "market",
+    "zh": "市場",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 1503,
+  "day": 61
+ },
+ {
+  "word": "tag",
+  "pos": "n",
+  "pic": "🏷️",
+  "zh": "標籤；吊牌",
+  "en": "a small label attached to something",
+  "simple": "Check the price tag.",
+  "simple_zh": "看一下價格標籤。",
+  "toeic": "Each item must have a security tag before it goes on display.",
+  "toeic_zh": "每件商品陳列前都必須貼上防盜標籤。",
+  "family": "tag (n, v)",
+  "related": [
+   {
+    "w": "label",
+    "zh": "標籤",
+    "k": "syn"
+   },
+   {
+    "w": "tug",
+    "zh": "用力拉",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1504,
+  "day": 61
+ },
+ {
+  "word": "toll",
+  "pos": "n",
+  "pic": "🛣️",
+  "zh": "通行費",
+  "en": "money paid to use a road or bridge",
+  "simple": "We paid the toll.",
+  "simple_zh": "我們付了通行費。",
+  "toeic": "The toll on this bridge is five dollars.",
+  "toeic_zh": "這座橋的通行費是五美元。",
+  "family": "toll (n)",
+  "related": [
+   {
+    "w": "fee",
+    "zh": "費用",
+    "k": "syn"
+   },
+   {
+    "w": "tall",
+    "zh": "高的",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1505,
+  "day": 61
+ },
+ {
+  "word": "ton",
+  "pos": "n",
+  "pic": "⚖️",
+  "zh": "噸",
+  "en": "a unit of weight equal to 1,000 kilograms",
+  "simple": "The truck carries one ton.",
+  "simple_zh": "這輛卡車載重一噸。",
+  "toeic": "The factory ships fifty tons of steel each week.",
+  "toeic_zh": "這家工廠每週運送五十噸鋼材。",
+  "family": "ton (n)",
+  "related": [
+   {
+    "w": "tone",
+    "zh": "語氣",
+    "k": "confuse"
+   },
+   {
+    "w": "tonne",
+    "zh": "公噸",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1506,
+  "day": 61
+ },
+ {
+  "word": "toner",
+  "pos": "n",
+  "pic": "🖨️",
+  "zh": "碳粉；墨粉",
+  "en": "powder used in a printer or copier",
+  "simple": "The printer needs toner.",
+  "simple_zh": "印表機需要碳粉。",
+  "toeic": "Please order new toner for the copy machine.",
+  "toeic_zh": "請為影印機訂購新的碳粉。",
+  "family": "toner (n)",
+  "related": [
+   {
+    "w": "ink",
+    "zh": "墨水",
+    "k": "syn"
+   },
+   {
+    "w": "tuner",
+    "zh": "調音器",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1507,
+  "day": 61
+ },
+ {
+  "word": "tow",
+  "pos": "v",
+  "pic": "🚛",
+  "zh": "拖吊",
+  "en": "to pull a vehicle with another vehicle",
+  "simple": "They had to tow my car.",
+  "simple_zh": "他們得把我的車拖走。",
+  "toeic": "Cars parked here will be towed at the owner's expense.",
+  "toeic_zh": "停在此處的車輛將被拖吊，費用由車主負擔。",
+  "family": "tow (n, v)",
+  "related": [
+   {
+    "w": "toe",
+    "zh": "腳趾",
+    "k": "confuse"
+   },
+   {
+    "w": "pull",
+    "zh": "拉",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1508,
+  "day": 61
+ },
+ {
+  "word": "traveler",
+  "pos": "n",
+  "pic": "🧳",
+  "zh": "旅客",
+  "en": "a person who goes on a trip",
+  "simple": "The traveler is tired.",
+  "simple_zh": "這位旅客很累。",
+  "toeic": "Business travelers can check in at the express counter.",
+  "toeic_zh": "商務旅客可在快速櫃檯辦理登機。",
+  "family": "travel (n, v), traveler (n)",
+  "related": [
+   {
+    "w": "passenger",
+    "zh": "乘客",
+    "k": "syn"
+   },
+   {
+    "w": "traffic",
+    "zh": "交通",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1509,
+  "day": 61
+ },
+ {
+  "word": "unexpected",
+  "pos": "adj",
+  "pic": "🎁",
+  "zh": "意外的",
+  "en": "Not thought likely to happen.",
+  "simple": "We got an unexpected gift.",
+  "simple_zh": "我們收到一份意外的禮物。",
+  "toeic": "An unexpected delay forced us to reschedule the shipment.",
+  "toeic_zh": "一個意外的延誤迫使我們重新安排出貨。",
+  "family": "expect (v), expectation (n)",
+  "related": [
+   {
+    "w": "sudden",
+    "zh": "突然的",
+    "k": "syn"
+   },
+   {
+    "w": "expected",
+    "zh": "預期的",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1510,
+  "day": 61
+ },
+ {
+  "word": "unreliable",
+  "pos": "adj",
+  "pic": "⚠️",
+  "zh": "不可靠的",
+  "en": "Not able to be trusted or depended on.",
+  "simple": "My old car is unreliable.",
+  "simple_zh": "我的舊車不可靠。",
+  "toeic": "The supplier proved unreliable, so we switched vendors.",
+  "toeic_zh": "該供應商不可靠，所以我們換了廠商。",
+  "family": "rely (v), reliable (adj), reliability (n)",
+  "related": [
+   {
+    "w": "reliable",
+    "zh": "可靠的",
+    "k": "opp"
+   },
+   {
+    "w": "untrustworthy",
+    "zh": "不可信的",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1511,
+  "day": 61
+ },
+ {
+  "word": "unused",
+  "pos": "adj",
+  "pic": "📦",
+  "zh": "未使用的",
+  "en": "Not used yet.",
+  "simple": "I have an unused ticket.",
+  "simple_zh": "我有一張沒用過的票。",
+  "toeic": "Unused items may be returned within thirty days for a refund.",
+  "toeic_zh": "未使用的商品可在三十天內退貨退款。",
+  "family": "use (v/n), used (adj)",
+  "related": [
+   {
+    "w": "used",
+    "zh": "用過的",
+    "k": "opp"
+   },
+   {
+    "w": "unopened",
+    "zh": "未開封的",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1512,
+  "day": 61
+ },
+ {
+  "word": "validate",
+  "pos": "v",
+  "pic": "✓",
+  "zh": "驗證",
+  "en": "to confirm the correctness or accuracy of something",
+  "simple": "Validate the shipping address.",
+  "simple_zh": "驗證運送地址。",
+  "toeic": "Orders are validated before processing to prevent errors.",
+  "toeic_zh": "訂單在處理前經過驗證以防止錯誤。",
+  "family": "validate (v), validation (n), validated (adj)",
+  "related": [
+   {
+    "w": "verify",
+    "zh": "驗證",
+    "k": "syn"
+   },
+   {
+    "w": "confirm",
+    "zh": "確認",
+    "k": "syn"
+   }
+  ],
+  "n": 1513,
+  "day": 61,
+  "src": "TSL"
+ },
+ {
+  "word": "vend",
+  "pos": "v",
+  "pic": "🥤",
+  "zh": "販賣",
+  "en": "To sell things, often from a machine.",
+  "simple": "The machine will vend drinks.",
+  "simple_zh": "這台機器販賣飲料。",
+  "toeic": "Licensed street merchants may vend food near the stadium.",
+  "toeic_zh": "有執照的街頭商人可在體育場附近販售食物。",
+  "family": "vendor (n), vending machine (n)",
+  "related": [
+   {
+    "w": "sell",
+    "zh": "賣",
+    "k": "syn"
+   },
+   {
+    "w": "vendor",
+    "zh": "小販；廠商",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 1514,
+  "day": 61
+ },
+ {
+  "word": "verify",
+  "pos": "v",
+  "pic": "🔍",
+  "zh": "驗證",
+  "en": "to prove or confirm the truth of something",
+  "simple": "We verify all orders before shipping.",
+  "simple_zh": "我們在運送前驗證所有訂單。",
+  "toeic": "Staff verify that shipment contents match the packing list.",
+  "toeic_zh": "員工驗證貨運內容與包裝清單相符。",
+  "family": "verify (v), verification (n), verified (adj)",
+  "related": [
+   {
+    "w": "check",
+    "zh": "檢查",
+    "k": "syn"
+   },
+   {
+    "w": "confirm",
+    "zh": "確認",
+    "k": "syn"
+   }
+  ],
+  "n": 1515,
+  "day": 61,
+  "src": "TSL"
+ },
+ {
+  "word": "warehouse",
+  "pos": "n",
+  "pic": "🏭",
+  "zh": "倉庫",
+  "en": "a large building for storing goods",
+  "simple": "The warehouse is located near the port.",
+  "simple_zh": "倉庫位於港口附近。",
+  "toeic": "We use automated systems in our warehouse for efficient inventory management.",
+  "toeic_zh": "我們在倉庫中使用自動化系統進行有效的庫存管理。",
+  "family": "warehouse (n/v), warehousing (n), warehouser (n)",
+  "related": [
+   {
+    "w": "storage",
+    "zh": "儲存",
+    "k": "syn"
+   },
+   {
+    "w": "distribution",
+    "zh": "分配",
+    "k": "syn"
+   }
+  ],
+  "n": 1516,
+  "day": 61,
+  "src": "TSL"
+ },
+ {
+  "word": "worldwide",
+  "pos": "adv",
+  "pic": "🌍",
+  "zh": "在全世界",
+  "en": "In all parts of the world.",
+  "simple": "The song is famous worldwide.",
+  "simple_zh": "這首歌在全世界都有名。",
+  "toeic": "Our products are sold worldwide through local distributors.",
+  "toeic_zh": "我們的產品透過當地經銷商在全球銷售。",
+  "family": "world (n)",
+  "related": [
+   {
+    "w": "global",
+    "zh": "全球的",
+    "k": "syn"
+   },
+   {
+    "w": "local",
+    "zh": "當地的",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1517,
+  "day": 61
+ },
+ {
+  "word": "allocation",
+  "pos": "n",
+  "pic": "📊",
+  "zh": "配置",
+  "en": "the distribution or assignment of resources",
+  "simple": "Review the resource allocation.",
+  "simple_zh": "檢查資源配置。",
+  "toeic": "Inventory allocation ensures fairness when stock is limited.",
+  "toeic_zh": "庫存配置在庫存有限時確保公平。",
+  "family": "allocation (n), allocate (v), allocated (adj)",
+  "related": [
+   {
+    "w": "distribution",
+    "zh": "分配",
+    "k": "syn"
+   },
+   {
+    "w": "assignment",
+    "zh": "分配",
+    "k": "syn"
+   }
+  ],
+  "n": 1518,
+  "day": 61,
+  "src": "BSL"
+ },
+ {
+  "word": "commodity",
+  "pos": "n",
+  "pic": "🌾",
+  "zh": "大宗商品；物資",
+  "en": "a basic product that is bought and sold in large amounts",
+  "simple": "Rice is an important commodity.",
+  "simple_zh": "米是重要的物資。",
+  "toeic": "Rising commodity prices have increased our production costs this quarter.",
+  "toeic_zh": "大宗商品價格上漲提高了我們本季的生產成本。",
+  "family": "commodity (n)",
+  "related": [
+   {
+    "w": "community",
+    "zh": "社區",
+    "k": "confuse"
+   },
+   {
+    "w": "product",
+    "zh": "產品",
+    "k": "syn"
+   }
+  ],
+  "n": 1519,
+  "day": 61,
+  "src": "BSL"
+ },
+ {
+  "word": "consolidate",
+  "pos": "v",
+  "pic": "📦",
+  "zh": "合併",
+  "en": "to combine multiple shipments into one",
+  "simple": "We consolidate orders to save on shipping costs.",
+  "simple_zh": "我們合併訂單以節省運送成本。",
+  "toeic": "Shipping companies consolidate multiple shipments to reduce transportation costs.",
+  "toeic_zh": "運送公司合併多個貨運以降低運輸成本。",
+  "family": "consolidate (v), consolidation (n), consolidated (adj)",
+  "related": [
+   {
+    "w": "combine",
+    "zh": "結合",
+    "k": "syn"
+   },
+   {
+    "w": "merge",
+    "zh": "合併",
+    "k": "syn"
+   }
+  ],
+  "n": 1520,
+  "day": 61,
+  "src": "BSL"
+ },
+ {
+  "word": "fragile",
+  "pos": "adj",
+  "pic": "🥂",
+  "zh": "易碎的；脆弱的",
+  "en": "easy to break or damage",
+  "simple": "Be careful. The glass is fragile.",
+  "simple_zh": "小心。這個玻璃很易碎。",
+  "toeic": "Fragile items must be packed with extra protective material.",
+  "toeic_zh": "易碎物品必須用額外的保護材料包裝。",
+  "family": "fragility (n); handle with care 小心輕放",
+  "related": [
+   {
+    "w": "fragrant",
+    "zh": "芳香的",
+    "k": "confuse"
+   },
+   {
+    "w": "sturdy",
+    "zh": "堅固的",
+    "k": "opp"
+   }
+  ],
+  "n": 1521,
+  "day": 61,
+  "src": "BSL"
+ },
+ {
+  "word": "haul",
+  "pos": "n",
+  "pic": "🚛",
+  "zh": "運輸；運輸距離",
+  "en": "a load carried over a distance, or the trip itself",
+  "simple": "It was a long haul by truck.",
+  "simple_zh": "那趟卡車運輸路程很長。",
+  "toeic": "Long-haul shipments are cheaper by rail than by road.",
+  "toeic_zh": "長途運輸走鐵路比走公路便宜。",
+  "family": "haul (n, v), long-haul (adj)",
+  "related": [
+   {
+    "w": "hall",
+    "zh": "大廳",
+    "k": "confuse"
+   },
+   {
+    "w": "transport",
+    "zh": "運輸",
+    "k": "syn"
+   }
+  ],
+  "n": 1522,
+  "day": 61,
+  "src": "BSL"
+ },
+ {
+  "word": "infrastructure",
+  "pos": "n",
+  "pic": "🏗️",
+  "zh": "基礎設施",
+  "en": "basic systems and facilities",
+  "simple": "Improve warehouse infrastructure.",
+  "simple_zh": "改進倉庫基礎設施。",
+  "toeic": "Robust infrastructure supports efficient operations.",
+  "toeic_zh": "強大的基礎設施支持高效運營。",
+  "family": "infrastructure (n), infrastructural (adj)",
+  "related": [
+   {
+    "w": "facilities",
+    "zh": "設施",
+    "k": "syn"
+   },
+   {
+    "w": "foundation",
+    "zh": "基礎",
+    "k": "syn"
+   }
+  ],
+  "n": 1523,
+  "day": 61,
+  "src": "BSL"
+ },
+ {
+  "word": "logistics",
+  "pos": "n",
+  "pic": "🗺️",
+  "zh": "物流",
+  "en": "the management of goods transport and storage",
+  "simple": "Logistics is crucial for our business operations.",
+  "simple_zh": "物流對我們的業務運營至關重要。",
+  "toeic": "Our logistics team coordinates warehousing, distribution, and customer delivery.",
+  "toeic_zh": "我們的物流團隊協調倉儲、分配和客戶交付。",
+  "family": "logistics (n), logistic (adj), logistical (adj)",
+  "related": [
+   {
+    "w": "supply chain",
+    "zh": "供應鏈",
+    "k": "syn"
+   },
+   {
+    "w": "distribution",
+    "zh": "分配",
+    "k": "syn"
+   }
+  ],
+  "n": 1524,
+  "day": 61,
+  "src": "BSL"
+ },
+ {
+  "word": "procurement",
+  "pos": "n",
+  "pic": "🛒",
+  "zh": "採購",
+  "en": "the process of obtaining goods or services",
+  "simple": "Streamline procurement processes.",
+  "simple_zh": "簡化採購流程。",
+  "toeic": "Strategic procurement reduces costs and improves quality.",
+  "toeic_zh": "戰略性採購降低成本並提高品質。",
+  "family": "procurement (n), procure (v), procurement officer (n)",
+  "related": [
+   {
+    "w": "purchasing",
+    "zh": "購買",
+    "k": "syn"
+   },
+   {
+    "w": "acquisition",
+    "zh": "獲得",
+    "k": "syn"
+   }
+  ],
+  "n": 1525,
+  "day": 61,
+  "src": "BSL"
+ },
+ {
+  "word": "quotation",
+  "pos": "n",
+  "pic": "💬",
+  "zh": "報價單；報價",
+  "en": "a written statement of the price for goods or services",
+  "simple": "I asked for a quotation today.",
+  "simple_zh": "我今天要求了報價單。",
+  "toeic": "Please send us a quotation for 200 office chairs by Friday.",
+  "toeic_zh": "請在週五前寄給我們兩百張辦公椅的報價單。",
+  "family": "quote (n, v)",
+  "related": [
+   {
+    "w": "quote",
+    "zh": "報價",
+    "k": "family"
+   },
+   {
+    "w": "invoice",
+    "zh": "發票",
+    "k": "confuse"
+   },
+   {
+    "w": "estimate",
+    "zh": "估價",
+    "k": "syn"
+   }
+  ],
+  "n": 1526,
+  "day": 62,
+  "src": "BSL"
+ },
+ {
+  "word": "scrap",
+  "pos": "n",
+  "pic": "🗑️",
+  "zh": "廢料",
+  "en": "discarded material or waste",
+  "simple": "Dispose of scrap materials.",
+  "simple_zh": "處理廢料。",
+  "toeic": "Scrap rates indicate manufacturing quality issues.",
+  "toeic_zh": "廢料率表示製造品質問題。",
+  "family": "scrap (n/v), scrapped (adj), scrapping (n)",
+  "related": [
+   {
+    "w": "waste",
+    "zh": "廢棄物",
+    "k": "syn"
+   },
+   {
+    "w": "defect",
+    "zh": "缺陷",
+    "k": "syn"
+   }
+  ],
+  "n": 1527,
+  "day": 62,
+  "src": "BSL"
+ },
+ {
+  "word": "shortfall",
+  "pos": "n",
+  "pic": "📉",
+  "zh": "不足額；缺口",
+  "en": "an amount that is less than what is needed",
+  "simple": "We have a shortfall of ten boxes.",
+  "simple_zh": "我們短少十個箱子。",
+  "toeic": "A supplier delay caused a shortfall in our spring inventory.",
+  "toeic_zh": "供應商延誤造成我們春季庫存短缺。",
+  "family": "shortfall (n)",
+  "related": [
+   {
+    "w": "shortage",
+    "zh": "短缺",
+    "k": "syn"
+   },
+   {
+    "w": "surplus",
+    "zh": "過剩",
+    "k": "opp"
+   }
+  ],
+  "n": 1528,
+  "day": 62,
+  "src": "BSL"
+ },
+ {
+  "word": "surplus",
+  "pos": "n",
+  "pic": "📈",
+  "zh": "剩餘；過剩",
+  "en": "an amount that is more than what is needed",
+  "simple": "We have a surplus of rice.",
+  "simple_zh": "我們的米有剩餘。",
+  "toeic": "The factory sold its surplus stock at a discount.",
+  "toeic_zh": "工廠把剩餘庫存打折出售。",
+  "family": "surplus (adj); surplus stock 剩餘庫存；trade surplus 貿易順差",
+  "related": [
+   {
+    "w": "surpass",
+    "zh": "超越",
+    "k": "confuse"
+   },
+   {
+    "w": "shortage",
+    "zh": "短缺",
+    "k": "opp"
+   }
+  ],
+  "n": 1529,
+  "day": 62,
+  "src": "BSL"
+ },
+ {
+  "word": "tariff",
+  "pos": "n",
+  "pic": "📊",
+  "zh": "稅率",
+  "en": "a tax or fee on goods",
+  "simple": "The tariff on imported electronics is very high.",
+  "simple_zh": "進口電子產品的稅率非常高。",
+  "toeic": "Import tariffs affect the final cost of products to consumers.",
+  "toeic_zh": "進口稅率影響產品對消費者的最終成本。",
+  "family": "tariff (n), tariffs (n), tariffed (adj)",
+  "related": [
+   {
+    "w": "duty",
+    "zh": "關稅",
+    "k": "syn"
+   },
+   {
+    "w": "fee",
+    "zh": "費用",
+    "k": "syn"
+   }
+  ],
+  "n": 1530,
+  "day": 62,
+  "src": "BSL"
+ },
+ {
+  "word": "treaty",
+  "pos": "n",
+  "pic": "📃",
+  "zh": "條約",
+  "en": "A formal agreement between countries.",
+  "simple": "The two countries signed a treaty.",
+  "simple_zh": "兩國簽署了條約。",
+  "toeic": "The trade treaty lowered import taxes on many goods.",
+  "toeic_zh": "這項貿易條約降低了許多商品的進口稅。",
+  "family": "",
+  "related": [
+   {
+    "w": "agreement",
+    "zh": "協議",
+    "k": "syn"
+   },
+   {
+    "w": "treat",
+    "zh": "對待",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1531,
+  "day": 62
+ },
+ {
+  "word": "sole",
+  "pos": "adj",
+  "pic": "1️⃣",
+  "zh": "唯一的；獨家的",
+  "en": "being the only one",
+  "simple": "He is the sole owner of the shop.",
+  "simple_zh": "他是這家店唯一的老闆。",
+  "toeic": "Our firm is the sole distributor of this product in Asia.",
+  "toeic_zh": "本公司是此產品在亞洲的獨家經銷商。",
+  "family": "solely (adv)",
+  "related": [
+   {
+    "w": "soul",
+    "zh": "靈魂",
+    "k": "confuse"
+   },
+   {
+    "w": "only",
+    "zh": "唯一的",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1532,
+  "day": 62
+ },
+ {
+  "word": "chaos",
+  "pos": "n",
+  "pic": "🌪️",
+  "zh": "混亂",
+  "en": "a state of complete confusion",
+  "simple": "The room was in chaos.",
+  "simple_zh": "房間一片混亂。",
+  "toeic": "The system failure caused chaos at the airport.",
+  "toeic_zh": "系統故障使機場陷入一片混亂。",
+  "family": "chaotic (adj)",
+  "related": [
+   {
+    "w": "order",
+    "zh": "秩序",
+    "k": "opp"
+   },
+   {
+    "w": "mess",
+    "zh": "混亂",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1533,
+  "day": 62
+ },
+ {
+  "word": "warrant",
+  "pos": "v",
+  "pic": "📜",
+  "zh": "保證；使有必要",
+  "en": "to make something seem necessary or right",
+  "simple": "This problem warrants our attention.",
+  "simple_zh": "這個問題值得我們注意。",
+  "toeic": "The results warrant further investigation by the committee.",
+  "toeic_zh": "這些結果有必要由委員會進一步調查。",
+  "family": "warrant (n), warranty (n)",
+  "related": [
+   {
+    "w": "warranty",
+    "zh": "保固",
+    "k": "confuse"
+   },
+   {
+    "w": "justify",
+    "zh": "證明合理",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1534,
+  "day": 62
+ },
+ {
+  "word": "charter",
+  "pos": "n",
+  "pic": "📃",
+  "zh": "憲章；包租",
+  "en": "a written statement of rules or a rented vehicle",
+  "simple": "The club has a written charter.",
+  "simple_zh": "這個俱樂部有一份書面章程。",
+  "toeic": "We booked a charter flight for the company trip.",
+  "toeic_zh": "我們為公司旅遊預訂了一班包機。",
+  "family": "charter (v)",
+  "related": [
+   {
+    "w": "chapter",
+    "zh": "章節",
+    "k": "confuse"
+   },
+   {
+    "w": "rental",
+    "zh": "租用",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1535,
+  "day": 62
+ },
+ {
+  "word": "identical",
+  "pos": "adj",
+  "pic": "👯",
+  "zh": "完全相同的",
+  "en": "exactly the same",
+  "simple": "The two bags are identical.",
+  "simple_zh": "這兩個袋子一模一樣。",
+  "toeic": "Please confirm that both copies of the contract are identical.",
+  "toeic_zh": "請確認合約的兩份副本完全相同。",
+  "family": "identically (adv), identity (n)",
+  "related": [
+   {
+    "w": "identify",
+    "zh": "辨識",
+    "k": "confuse"
+   },
+   {
+    "w": "same",
+    "zh": "相同的",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1536,
+  "day": 62
+ },
+ {
+  "word": "classification",
+  "pos": "n",
+  "pic": "🗂️",
+  "zh": "分類",
+  "en": "the act of sorting things into groups",
+  "simple": "The classification of books takes time.",
+  "simple_zh": "書籍的分類需要時間。",
+  "toeic": "Each item needs a correct tariff classification before shipping.",
+  "toeic_zh": "每件商品出貨前都需要正確的關稅分類。",
+  "family": "classify (v), class (n)",
+  "related": [
+   {
+    "w": "classify",
+    "zh": "分類",
+    "k": "family"
+   },
+   {
+    "w": "clarification",
+    "zh": "澄清",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1537,
+  "day": 62
+ },
+ {
+  "word": "aviation",
+  "pos": "n",
+  "pic": "✈️",
+  "zh": "航空業；航空",
+  "en": "the business of flying aircraft",
+  "simple": "He works in aviation.",
+  "simple_zh": "他在航空業工作。",
+  "toeic": "Aviation fuel costs have risen sharply this year.",
+  "toeic_zh": "今年航空燃油成本大幅上升。",
+  "family": "aviator (n)",
+  "related": [
+   {
+    "w": "aviary",
+    "zh": "大型鳥舍",
+    "k": "confuse"
+   },
+   {
+    "w": "aeronautics",
+    "zh": "航空學",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1538,
+  "day": 62
+ },
+ {
+  "word": "barrel",
+  "pos": "n",
+  "pic": "🛢️",
+  "zh": "桶",
+  "en": "a large round container for liquids",
+  "simple": "The barrel is full of oil.",
+  "simple_zh": "這個桶子裝滿了油。",
+  "toeic": "Oil prices rose to 90 dollars a barrel.",
+  "toeic_zh": "油價漲到每桶九十美元。",
+  "family": "",
+  "related": [
+   {
+    "w": "barrier",
+    "zh": "障礙",
+    "k": "confuse"
+   },
+   {
+    "w": "drum",
+    "zh": "大桶",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1539,
+  "day": 62
+ },
+ {
+  "word": "crush",
+  "pos": "v",
+  "pic": "🫳",
+  "zh": "壓碎；擊潰",
+  "en": "to press something so hard that it breaks",
+  "simple": "Do not crush the box.",
+  "simple_zh": "不要壓壞這個箱子。",
+  "toeic": "Heavy cartons can crush the goods at the bottom.",
+  "toeic_zh": "沉重的紙箱可能壓壞最底層的貨品。",
+  "family": "crush (n)",
+  "related": [
+   {
+    "w": "crash",
+    "zh": "碰撞",
+    "k": "confuse"
+   },
+   {
+    "w": "smash",
+    "zh": "打碎",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1540,
+  "day": 62
+ },
+ {
+  "word": "bubble",
+  "pos": "n",
+  "pic": "🫧",
+  "zh": "泡泡；泡沫",
+  "en": "a thin ball of air inside liquid",
+  "simple": "The child blew a bubble.",
+  "simple_zh": "小孩吹了一個泡泡。",
+  "toeic": "Bubble wrap protects the glass items during shipping.",
+  "toeic_zh": "氣泡紙在運送期間保護玻璃製品。",
+  "family": "bubble (v)",
+  "related": [
+   {
+    "w": "babble",
+    "zh": "喋喋不休",
+    "k": "confuse"
+   },
+   {
+    "w": "foam",
+    "zh": "泡沫",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1541,
+  "day": 62
+ },
+ {
+  "word": "vertical",
+  "pos": "adj",
+  "pic": "↕️",
+  "zh": "垂直的",
+  "en": "straight up and down",
+  "simple": "Draw a vertical line.",
+  "simple_zh": "畫一條垂直線。",
+  "toeic": "The vertical shelves save space in the warehouse.",
+  "toeic_zh": "直立式貨架節省倉庫空間。",
+  "family": "vertically (adv)",
+  "related": [
+   {
+    "w": "horizontal",
+    "zh": "水平的",
+    "k": "opp"
+   },
+   {
+    "w": "verbal",
+    "zh": "口頭的",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1542,
+  "day": 62
+ },
+ {
+  "word": "harsh",
+  "pos": "adj",
+  "pic": "🥶",
+  "zh": "嚴酷的；刺耳的",
+  "en": "very strong, unpleasant, or severe",
+  "simple": "The winter here is harsh.",
+  "simple_zh": "這裡的冬天很嚴酷。",
+  "toeic": "Harsh weather conditions delayed the construction work.",
+  "toeic_zh": "惡劣的天氣狀況延誤了施工。",
+  "family": "harshly (adv), harshness (n)",
+  "related": [
+   {
+    "w": "hash",
+    "zh": "雜湊",
+    "k": "confuse"
+   },
+   {
+    "w": "severe",
+    "zh": "嚴厲的",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1543,
+  "day": 62
+ },
+ {
+  "word": "breach",
+  "pos": "n",
+  "pic": "🚨",
+  "zh": "違反；缺口",
+  "en": "a failure to follow a rule or agreement",
+  "simple": "That is a breach of the rules.",
+  "simple_zh": "那違反了規定。",
+  "toeic": "The late delivery was a breach of contract.",
+  "toeic_zh": "延遲交貨違反了合約。",
+  "family": "breach (v)",
+  "related": [
+   {
+    "w": "breath",
+    "zh": "呼吸",
+    "k": "confuse"
+   },
+   {
+    "w": "violation",
+    "zh": "違反",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1544,
+  "day": 62
+ },
+ {
+  "word": "helicopter",
+  "pos": "n",
+  "pic": "🚁",
+  "zh": "直升機",
+  "en": "an aircraft with spinning blades on top",
+  "simple": "A helicopter flew over the city.",
+  "simple_zh": "一架直升機飛過這座城市。",
+  "toeic": "The resort offers helicopter tours of the island.",
+  "toeic_zh": "度假村提供搭乘直升機遊覽該島的行程。",
+  "family": "",
+  "related": [
+   {
+    "w": "airplane",
+    "zh": "飛機",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1545,
+  "day": 62
+ },
+ {
+  "word": "declaration",
+  "pos": "n",
+  "pic": "📜",
+  "zh": "聲明；申報",
+  "en": "an official statement; a list of goods or income",
+  "simple": "He made a declaration at the airport.",
+  "simple_zh": "他在機場做了申報。",
+  "toeic": "Travelers must fill out a customs declaration before landing.",
+  "toeic_zh": "旅客必須在降落前填寫海關申報單。",
+  "family": "declare (v)",
+  "related": [
+   {
+    "w": "declare",
+    "zh": "宣布；申報",
+    "k": "family"
+   },
+   {
+    "w": "statement",
+    "zh": "聲明",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1546,
+  "day": 62
+ },
+ {
+  "word": "receiver",
+  "pos": "n",
+  "pic": "📞",
+  "zh": "接收者；聽筒",
+  "en": "a person or device that receives something",
+  "simple": "Pick up the receiver and call him.",
+  "simple_zh": "拿起聽筒打電話給他。",
+  "toeic": "The receiver of the package must sign for it.",
+  "toeic_zh": "包裹的收件人必須簽收。",
+  "family": "receive (v), receipt (n)",
+  "related": [
+   {
+    "w": "receipt",
+    "zh": "收據",
+    "k": "confuse"
+   },
+   {
+    "w": "recipient",
+    "zh": "收件人",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1547,
+  "day": 62
+ },
+ {
+  "word": "comparable",
+  "pos": "adj",
+  "pic": "⚖️",
+  "zh": "可比較的；相當的",
+  "en": "similar enough to be compared",
+  "simple": "The two phones are comparable in price.",
+  "simple_zh": "這兩支手機的價格相當。",
+  "toeic": "Our prices are comparable to those of our competitors.",
+  "toeic_zh": "我們的價格與競爭對手相當。",
+  "family": "compare (v), comparison (n)",
+  "related": [
+   {
+    "w": "comparative",
+    "zh": "比較的",
+    "k": "confuse"
+   },
+   {
+    "w": "similar",
+    "zh": "相似的",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1548,
+  "day": 62
+ },
+ {
+  "word": "hub",
+  "pos": "n",
+  "pic": "🛫",
+  "zh": "樞紐；中心",
+  "en": "a central place where activity or traffic meets",
+  "simple": "The airport is a big hub.",
+  "simple_zh": "這座機場是個大型樞紐。",
+  "toeic": "Singapore serves as a regional hub for our shipping network.",
+  "toeic_zh": "新加坡是我們貨運網絡的區域樞紐。",
+  "family": "",
+  "related": [
+   {
+    "w": "center",
+    "zh": "中心",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1549,
+  "day": 62
+ },
+ {
+  "word": "inevitable",
+  "pos": "adj",
+  "pic": "⏳",
+  "zh": "無可避免的",
+  "en": "certain to happen and impossible to stop",
+  "simple": "Change is inevitable.",
+  "simple_zh": "改變是無可避免的。",
+  "toeic": "Some delays are inevitable during the busy holiday season.",
+  "toeic_zh": "在繁忙的假期旺季，部分延誤是無可避免的。",
+  "family": "inevitably (adv), inevitability (n)",
+  "related": [
+   {
+    "w": "unavoidable",
+    "zh": "不可避免的",
+    "k": "syn"
+   },
+   {
+    "w": "avoidable",
+    "zh": "可避免的",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 1550,
+  "day": 62
+ },
+ {
+  "word": "continent",
+  "pos": "n",
+  "pic": "🌍",
+  "zh": "大陸；洲",
+  "en": "one of the world's large land areas",
+  "simple": "Asia is a large continent.",
+  "simple_zh": "亞洲是個很大的洲。",
+  "toeic": "Our company now ships products to every continent.",
+  "toeic_zh": "我們公司現在把產品運送到每個大洲。",
+  "family": "continental (adj)",
+  "related": [
+   {
+    "w": "content",
+    "zh": "內容",
+    "k": "confuse"
+   },
+   {
+    "w": "country",
+    "zh": "國家",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1551,
+  "day": 63
+ },
+ {
+  "word": "matrix",
+  "pos": "n",
+  "pic": "🔢",
+  "zh": "矩陣；架構表",
+  "en": "a grid or table of rows and columns",
+  "simple": "The teacher drew a matrix on the board.",
+  "simple_zh": "老師在黑板上畫了一個矩陣。",
+  "toeic": "We used a decision matrix to compare the suppliers.",
+  "toeic_zh": "我們用決策矩陣來比較各家供應商。",
+  "family": "",
+  "related": [
+   {
+    "w": "grid",
+    "zh": "網格",
+    "k": "syn"
+   },
+   {
+    "w": "table",
+    "zh": "表格",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1552,
+  "day": 63
+ },
+ {
+  "word": "elaborate",
+  "pos": "adj",
+  "pic": "🎨",
+  "zh": "精細的；複雜的",
+  "en": "having many detailed parts; carefully planned",
+  "simple": "They made an elaborate cake.",
+  "simple_zh": "他們做了一個精緻的蛋糕。",
+  "toeic": "The hotel lobby has an elaborate design with marble floors.",
+  "toeic_zh": "這家飯店的大廳設計精細，鋪有大理石地板。",
+  "family": "elaborate (v), elaboration (n)",
+  "related": [
+   {
+    "w": "complicated",
+    "zh": "複雜的",
+    "k": "syn"
+   },
+   {
+    "w": "simple",
+    "zh": "簡單的",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 1553,
+  "day": 63
+ },
+ {
+  "word": "sheer",
+  "pos": "adj",
+  "pic": "⛰️",
+  "zh": "完全的；陡峭的",
+  "en": "complete and total; very steep",
+  "simple": "It was sheer luck.",
+  "simple_zh": "那完全是運氣。",
+  "toeic": "The sheer size of the order surprised the warehouse team.",
+  "toeic_zh": "這筆訂單的龐大規模讓倉儲團隊感到驚訝。",
+  "family": "",
+  "related": [
+   {
+    "w": "share",
+    "zh": "分享",
+    "k": "confuse"
+   },
+   {
+    "w": "complete",
+    "zh": "完全的",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1554,
+  "day": 63
+ },
+ {
+  "word": "void",
+  "pos": "adj",
+  "pic": "🚫",
+  "zh": "無效的；空的",
+  "en": "not valid; completely empty",
+  "simple": "The ticket is void after today.",
+  "simple_zh": "這張票今天之後就失效了。",
+  "toeic": "The contract will be void if either party breaks the terms.",
+  "toeic_zh": "若任何一方違反條款，合約即告無效。",
+  "family": "avoid (v)",
+  "related": [
+   {
+    "w": "valid",
+    "zh": "有效的",
+    "k": "opp"
+   },
+   {
+    "w": "avoid",
+    "zh": "避免",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1555,
+  "day": 63
+ },
+ {
+  "word": "offset",
+  "pos": "v",
+  "pic": "⚖️",
+  "zh": "抵銷；彌補",
+  "en": "to balance or cancel the effect of something",
+  "simple": "Savings can offset the high price.",
+  "simple_zh": "省下的錢可以抵銷高價。",
+  "toeic": "Lower shipping costs helped offset the rise in raw material prices.",
+  "toeic_zh": "較低的運費有助於抵銷原料價格的上漲。",
+  "family": "",
+  "related": [
+   {
+    "w": "compensate",
+    "zh": "補償",
+    "k": "syn"
+   },
+   {
+    "w": "onset",
+    "zh": "開端",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1556,
+  "day": 63
+ },
+ {
+  "word": "geography",
+  "pos": "n",
+  "pic": "🌍",
+  "zh": "地理",
+  "en": "the study of the earth, countries and land",
+  "simple": "I like geography class.",
+  "simple_zh": "我喜歡地理課。",
+  "toeic": "Knowledge of local geography helps us plan delivery routes.",
+  "toeic_zh": "了解當地地理有助於我們規劃配送路線。",
+  "family": "geographic (adj), geographical (adj)",
+  "related": [
+   {
+    "w": "geographic",
+    "zh": "地理的",
+    "k": "family"
+   },
+   {
+    "w": "biography",
+    "zh": "傳記",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1557,
+  "day": 63
+ },
+ {
+  "word": "geographic",
+  "pos": "adj",
+  "pic": "🗺️",
+  "zh": "地理的",
+  "en": "related to the physical features of a place",
+  "simple": "This is a geographic map.",
+  "simple_zh": "這是一張地理地圖。",
+  "toeic": "The company is expanding into a new geographic region.",
+  "toeic_zh": "該公司正擴展到新的地理區域。",
+  "family": "geography (n), geographically (adv)",
+  "related": [
+   {
+    "w": "geography",
+    "zh": "地理",
+    "k": "family"
+   },
+   {
+    "w": "graphic",
+    "zh": "圖像的",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1558,
+  "day": 63
+ },
+ {
+  "word": "supposedly",
+  "pos": "adv",
+  "pic": "🤔",
+  "zh": "據稱；據推測",
+  "en": "according to what people believe, but maybe not true",
+  "simple": "He is supposedly at home.",
+  "simple_zh": "據說他在家。",
+  "toeic": "The supposedly cheaper supplier ended up costing us more.",
+  "toeic_zh": "那家據稱比較便宜的供應商最後讓我們花了更多錢。",
+  "family": "suppose (v), supposed (adj)",
+  "related": [
+   {
+    "w": "allegedly",
+    "zh": "據稱",
+    "k": "syn"
+   },
+   {
+    "w": "supposed",
+    "zh": "被認為的",
+    "k": "family"
+   }
+  ],
+  "src": "BSL",
+  "n": 1559,
+  "day": 63
+ },
+ {
+  "word": "mainland",
+  "pos": "n",
+  "pic": "🏝️",
+  "zh": "大陸；本土",
+  "en": "the main part of a country, not nearby islands",
+  "simple": "We took a boat to the mainland.",
+  "simple_zh": "我們搭船到大陸本土。",
+  "toeic": "The factory ships goods from the island to the mainland daily.",
+  "toeic_zh": "工廠每天將貨物從島上運到本土。",
+  "family": "",
+  "related": [
+   {
+    "w": "island",
+    "zh": "島嶼",
+    "k": "opp"
+   },
+   {
+    "w": "continent",
+    "zh": "大陸",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1560,
+  "day": 63
+ },
+ {
+  "word": "readily",
+  "pos": "adv",
+  "pic": "👍",
+  "zh": "欣然地；容易地",
+  "en": "quickly and easily, or willingly",
+  "simple": "She readily agreed to help.",
+  "simple_zh": "她欣然同意幫忙。",
+  "toeic": "Our products are readily available in most stores.",
+  "toeic_zh": "我們的產品在大多數商店都很容易買到。",
+  "family": "ready (adj), readiness (n)",
+  "related": [
+   {
+    "w": "easily",
+    "zh": "容易地",
+    "k": "syn"
+   },
+   {
+    "w": "ready",
+    "zh": "準備好的",
+    "k": "family"
+   }
+  ],
+  "src": "BSL",
+  "n": 1561,
+  "day": 63
+ },
+ {
+  "word": "adverse",
+  "pos": "adj",
+  "pic": "⛈️",
+  "zh": "不利的；有害的",
+  "en": "harmful or unfavorable",
+  "simple": "The weather had an adverse effect.",
+  "simple_zh": "天氣造成了不利影響。",
+  "toeic": "Adverse weather conditions delayed the shipment by two days.",
+  "toeic_zh": "惡劣天候使貨物延誤了兩天。",
+  "family": "adversely (adv), adversity (n)",
+  "related": [
+   {
+    "w": "averse",
+    "zh": "反對的",
+    "k": "confuse"
+   },
+   {
+    "w": "harmful",
+    "zh": "有害的",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1562,
+  "day": 63
+ },
+ {
+  "word": "appetite",
+  "pos": "n",
+  "pic": "🍽️",
+  "zh": "食慾；胃口；慾望",
+  "en": "a desire for food or for something",
+  "simple": "I have a big appetite.",
+  "simple_zh": "我胃口很大。",
+  "toeic": "Investors showed little appetite for risky stocks this quarter.",
+  "toeic_zh": "本季投資人對高風險股票興趣不高。",
+  "family": "appetizer (n)",
+  "related": [
+   {
+    "w": "appetizer",
+    "zh": "開胃菜",
+    "k": "family"
+   },
+   {
+    "w": "hunger",
+    "zh": "飢餓",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1563,
+  "day": 63
+ },
+ {
+  "word": "rig",
+  "pos": "v",
+  "pic": "🛢️",
+  "zh": "操縱；裝配",
+  "en": "To arrange something dishonestly or equip it",
+  "simple": "They tried to rig the vote.",
+  "simple_zh": "他們想操縱投票。",
+  "toeic": "The company was accused of trying to rig the bidding process.",
+  "toeic_zh": "該公司被指控試圖操縱投標程序。",
+  "family": "rigging (n)",
+  "related": [
+   {
+    "w": "manipulate",
+    "zh": "操縱",
+    "k": "syn"
+   },
+   {
+    "w": "ring",
+    "zh": "戒指；環",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1564,
+  "day": 63
+ },
+ {
+  "word": "builder",
+  "pos": "n",
+  "pic": "👷",
+  "zh": "建築商；建造者",
+  "en": "A person or company that builds houses or buildings",
+  "simple": "The builder fixed our roof.",
+  "simple_zh": "建築工人修好了我們的屋頂。",
+  "toeic": "The builder promised to finish the office by June.",
+  "toeic_zh": "建築商承諾六月前完成辦公室。",
+  "family": "build (v), building (n)",
+  "related": [
+   {
+    "w": "contractor",
+    "zh": "承包商",
+    "k": "syn"
+   },
+   {
+    "w": "build",
+    "zh": "建造",
+    "k": "family"
+   }
+  ],
+  "src": "BSL",
+  "n": 1565,
+  "day": 63
+ },
+ {
+  "word": "geographical",
+  "pos": "adj",
+  "pic": "🗺️",
+  "zh": "地理的",
+  "en": "Related to the land and places of the world",
+  "simple": "It is a geographical map.",
+  "simple_zh": "這是一張地理地圖。",
+  "toeic": "The store chose the location for its geographical advantages.",
+  "toeic_zh": "這家店因地理優勢而選擇這個地點。",
+  "family": "geography (n), geographically (adv)",
+  "related": [
+   {
+    "w": "geography",
+    "zh": "地理",
+    "k": "family"
+   }
+  ],
+  "src": "BSL",
+  "n": 1566,
+  "day": 63
+ },
+ {
+  "word": "decree",
+  "pos": "n",
+  "pic": "📃",
+  "zh": "法令；政令",
+  "en": "An official order from a government",
+  "simple": "The king issued a decree.",
+  "simple_zh": "國王頒布了一項法令。",
+  "toeic": "A new decree bans the import of certain chemicals.",
+  "toeic_zh": "一項新法令禁止進口某些化學品。",
+  "family": "",
+  "related": [
+   {
+    "w": "order",
+    "zh": "命令",
+    "k": "syn"
+   },
+   {
+    "w": "degree",
+    "zh": "程度；學位",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1567,
+  "day": 63
+ },
+ {
+  "word": "globally",
+  "pos": "adv",
+  "pic": "🌍",
+  "zh": "全球地",
+  "en": "In all parts of the world",
+  "simple": "We sell globally.",
+  "simple_zh": "我們在全球銷售。",
+  "toeic": "The brand is recognized globally for its quality.",
+  "toeic_zh": "該品牌因品質而受到全球認可。",
+  "family": "global (adj), globe (n)",
+  "related": [
+   {
+    "w": "worldwide",
+    "zh": "全世界",
+    "k": "syn"
+   },
+   {
+    "w": "locally",
+    "zh": "在地",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 1568,
+  "day": 63
+ },
+ {
+  "word": "surge",
+  "pos": "n",
+  "pic": "🌊",
+  "zh": "激增；湧現",
+  "en": "A sudden strong increase",
+  "simple": "There was a surge in sales.",
+  "simple_zh": "銷售量暴增。",
+  "toeic": "A surge in demand caused shipping delays.",
+  "toeic_zh": "需求激增造成出貨延誤。",
+  "family": "",
+  "related": [
+   {
+    "w": "increase",
+    "zh": "增加",
+    "k": "syn"
+   },
+   {
+    "w": "plunge",
+    "zh": "驟降",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 1569,
+  "day": 63
+ },
+ {
+  "word": "reliance",
+  "pos": "n",
+  "pic": "🔗",
+  "zh": "依賴；依靠",
+  "en": "The state of depending on something",
+  "simple": "Our reliance on him is high.",
+  "simple_zh": "我們很依賴他。",
+  "toeic": "The firm's reliance on one supplier is a serious risk.",
+  "toeic_zh": "公司依賴單一供應商是個嚴重風險。",
+  "family": "rely (v), reliable (adj)",
+  "related": [
+   {
+    "w": "dependence",
+    "zh": "依賴",
+    "k": "syn"
+   },
+   {
+    "w": "reliable",
+    "zh": "可靠的",
+    "k": "family"
+   }
+  ],
+  "src": "BSL",
+  "n": 1570,
+  "day": 63
+ },
+ {
+  "word": "seize",
+  "pos": "v",
+  "pic": "✊",
+  "zh": "抓住；扣押",
+  "en": "To take hold of something suddenly or by force",
+  "simple": "Seize the chance now.",
+  "simple_zh": "現在就把握機會。",
+  "toeic": "Customs officers seized the illegal goods at the port.",
+  "toeic_zh": "海關人員在港口查扣了違禁貨物。",
+  "family": "seizure (n)",
+  "related": [
+   {
+    "w": "grab",
+    "zh": "抓住",
+    "k": "syn"
+   },
+   {
+    "w": "release",
+    "zh": "釋放",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 1571,
+  "day": 63
+ },
+ {
+  "word": "sufficiently",
+  "pos": "adv",
+  "pic": "👌",
+  "zh": "足夠地",
+  "en": "To the amount needed",
+  "simple": "The room is sufficiently large.",
+  "simple_zh": "這個房間夠大。",
+  "toeic": "The cargo was not sufficiently protected during shipping.",
+  "toeic_zh": "貨物在運送過程中沒有受到充分保護。",
+  "family": "sufficient (adj), suffice (v)",
+  "related": [
+   {
+    "w": "enough",
+    "zh": "足夠",
+    "k": "syn"
+   },
+   {
+    "w": "insufficiently",
+    "zh": "不足地",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 1572,
+  "day": 63
+ },
+ {
+  "word": "buffer",
+  "pos": "n",
+  "pic": "🛡️",
+  "zh": "緩衝；緩衝區",
+  "en": "Something that reduces the effect of a shock",
+  "simple": "Leave a buffer of time.",
+  "simple_zh": "要預留一些緩衝時間。",
+  "toeic": "Extra inventory acts as a buffer against supply problems.",
+  "toeic_zh": "額外庫存可作為供應問題的緩衝。",
+  "family": "",
+  "related": [
+   {
+    "w": "cushion",
+    "zh": "緩衝墊",
+    "k": "syn"
+   },
+   {
+    "w": "suffer",
+    "zh": "遭受",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1573,
+  "day": 63
+ },
+ {
+  "word": "comparative",
+  "pos": "adj",
+  "pic": "⚖️",
+  "zh": "比較的；相對的",
+  "en": "Measured by comparing with something else",
+  "simple": "We did a comparative study.",
+  "simple_zh": "我們做了比較研究。",
+  "toeic": "A comparative analysis of both suppliers will help us decide.",
+  "toeic_zh": "對兩家供應商的比較分析將有助於我們決定。",
+  "family": "compare (v), comparison (n)",
+  "related": [
+   {
+    "w": "comparable",
+    "zh": "可比較的",
+    "k": "confuse"
+   },
+   {
+    "w": "relative",
+    "zh": "相對的",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1574,
+  "day": 63
+ },
+ {
+  "word": "prop",
+  "pos": "v",
+  "pic": "🪵",
+  "zh": "支撐；撐住",
+  "en": "To support something so that it stays up",
+  "simple": "Prop the door open, please.",
+  "simple_zh": "請把門撐開。",
+  "toeic": "Workers used a beam to prop up the damaged wall.",
+  "toeic_zh": "工人用樑柱支撐受損的牆。",
+  "family": "",
+  "related": [
+   {
+    "w": "support",
+    "zh": "支撐",
+    "k": "syn"
+   },
+   {
+    "w": "proper",
+    "zh": "適當的",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1575,
+  "day": 63
+ },
+ {
+  "word": "viewer",
+  "pos": "n",
+  "pic": "📺",
+  "zh": "觀眾；檢視器",
+  "en": "A person who watches something",
+  "simple": "The viewer liked the show.",
+  "simple_zh": "觀眾喜歡這個節目。",
+  "toeic": "The program attracted over a million viewers last night.",
+  "toeic_zh": "這個節目昨晚吸引了超過一百萬名觀眾。",
+  "family": "view (n, v)",
+  "related": [
+   {
+    "w": "audience",
+    "zh": "觀眾",
+    "k": "syn"
+   },
+   {
+    "w": "reviewer",
+    "zh": "評論者",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1576,
+  "day": 64
+ },
+ {
+  "word": "policeman",
+  "pos": "n",
+  "pic": "👮",
+  "zh": "警察",
+  "en": "a man who works for the police",
+  "simple": "The policeman helped us find the street.",
+  "simple_zh": "警察幫我們找到那條街。",
+  "toeic": "A policeman directed traffic outside the hotel after the accident.",
+  "toeic_zh": "事故發生後，一名警察在飯店外指揮交通。",
+  "family": "",
+  "related": [
+   {
+    "w": "police officer",
+    "zh": "警官",
+    "k": "syn"
+   },
+   {
+    "w": "security guard",
+    "zh": "保全",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1577,
+  "day": 64
+ },
+ {
+  "word": "bilateral",
+  "pos": "adj",
+  "pic": "↔️",
+  "zh": "雙邊的",
+  "en": "involving two sides or countries",
+  "simple": "The two countries signed a bilateral deal.",
+  "simple_zh": "兩國簽了雙邊協議。",
+  "toeic": "The bilateral trade agreement will lower tariffs for both countries.",
+  "toeic_zh": "這項雙邊貿易協定將降低兩國的關稅。",
+  "family": "lateral (adj), bilateral (adj)",
+  "related": [
+   {
+    "w": "unilateral",
+    "zh": "單方面的",
+    "k": "opp"
+   },
+   {
+    "w": "multilateral",
+    "zh": "多邊的",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1578,
+  "day": 64
+ },
+ {
+  "word": "indirectly",
+  "pos": "adv",
+  "pic": "↪️",
+  "zh": "間接地",
+  "en": "not in a direct way",
+  "simple": "I heard the news indirectly.",
+  "simple_zh": "我是間接聽到這個消息的。",
+  "toeic": "Rising fuel prices indirectly affect the cost of all our products.",
+  "toeic_zh": "燃料價格上漲間接影響我們所有產品的成本。",
+  "family": "direct (adj), indirect (adj), indirectly (adv)",
+  "related": [
+   {
+    "w": "directly",
+    "zh": "直接地",
+    "k": "opp"
+   },
+   {
+    "w": "indirect",
+    "zh": "間接的",
+    "k": "family"
+   }
+  ],
+  "src": "BSL",
+  "n": 1579,
+  "day": 64
+ },
+ {
+  "word": "unexpectedly",
+  "pos": "adv",
+  "pic": "😲",
+  "zh": "出乎意料地",
+  "en": "in a way that is surprising",
+  "simple": "He arrived unexpectedly last night.",
+  "simple_zh": "他昨晚突然到了。",
+  "toeic": "The flight was unexpectedly canceled because of bad weather.",
+  "toeic_zh": "班機因天候不佳意外取消。",
+  "family": "expect (v), unexpected (adj), unexpectedly (adv)",
+  "related": [
+   {
+    "w": "suddenly",
+    "zh": "突然",
+    "k": "syn"
+   },
+   {
+    "w": "expectedly",
+    "zh": "如預期地",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 1580,
+  "day": 64
+ },
+ {
+  "word": "unwilling",
+  "pos": "adj",
+  "pic": "🙅",
+  "zh": "不願意的",
+  "en": "not ready or happy to do something",
+  "simple": "He is unwilling to wait.",
+  "simple_zh": "他不願意等。",
+  "toeic": "The supplier was unwilling to lower its prices.",
+  "toeic_zh": "供應商不願意降價。",
+  "family": "willing (adj), unwilling (adj), willingness (n)",
+  "related": [
+   {
+    "w": "willing",
+    "zh": "願意的",
+    "k": "opp"
+   },
+   {
+    "w": "reluctant",
+    "zh": "勉強的",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1581,
+  "day": 64
+ },
+ {
+  "word": "validity",
+  "pos": "n",
+  "pic": "✔️",
+  "zh": "有效性",
+  "en": "the state of being legal or correct",
+  "simple": "Check the validity of your ticket.",
+  "simple_zh": "請確認你的票是否有效。",
+  "toeic": "Please check the validity of your passport before you travel.",
+  "toeic_zh": "出發前請確認你的護照是否仍有效。",
+  "family": "valid (adj), validate (v), validity (n)",
+  "related": [
+   {
+    "w": "valid",
+    "zh": "有效的",
+    "k": "family"
+   },
+   {
+    "w": "validation",
+    "zh": "驗證",
+    "k": "family"
+   }
+  ],
+  "src": "BSL",
+  "n": 1582,
+  "day": 64
+ },
+ {
+  "word": "unpredictable",
+  "pos": "adj",
+  "pic": "🎲",
+  "zh": "難以預測的",
+  "en": "not possible to know in advance",
+  "simple": "The weather is unpredictable today.",
+  "simple_zh": "今天天氣難以預測。",
+  "toeic": "Fuel costs are unpredictable, which makes budgeting difficult.",
+  "toeic_zh": "燃料成本難以預測，使預算編列困難。",
+  "family": "predict (v), prediction (n), unpredictable (adj)",
+  "related": [
+   {
+    "w": "predictable",
+    "zh": "可預測的",
+    "k": "opp"
+   },
+   {
+    "w": "uncertain",
+    "zh": "不確定的",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1583,
+  "day": 64
+ },
+ {
+  "word": "commentator",
+  "pos": "n",
+  "pic": "🎙️",
+  "zh": "評論員",
+  "en": "a person who talks about news or sports",
+  "simple": "The commentator talked about the game.",
+  "simple_zh": "評論員談論了比賽。",
+  "toeic": "A financial commentator explained the market trends on the evening news.",
+  "toeic_zh": "一位財經評論員在晚間新聞中解釋市場趨勢。",
+  "family": "comment (n, v), commentary (n), commentator (n)",
+  "related": [
+   {
+    "w": "commentary",
+    "zh": "評論",
+    "k": "confuse"
+   },
+   {
+    "w": "analyst",
+    "zh": "分析師",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1584,
+  "day": 64
+ },
+ {
+  "word": "dent",
+  "pos": "n",
+  "pic": "🚗",
+  "zh": "凹痕",
+  "en": "a small hollow made by hitting a surface",
+  "simple": "There is a dent in my car.",
+  "simple_zh": "我的車上有一處凹痕。",
+  "toeic": "The delivered box had a dent, so the customer asked for a refund.",
+  "toeic_zh": "送達的箱子有凹痕，所以客戶要求退款。",
+  "family": "",
+  "related": [
+   {
+    "w": "scratch",
+    "zh": "刮痕",
+    "k": "syn"
+   },
+   {
+    "w": "tent",
+    "zh": "帳篷",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1585,
+  "day": 64
+ },
+ {
+  "word": "repay",
+  "pos": "v",
+  "pic": "💸",
+  "zh": "償還",
+  "en": "to pay back money you owe",
+  "simple": "I will repay you tomorrow.",
+  "simple_zh": "我明天會還你錢。",
+  "toeic": "The firm must repay the loan within five years.",
+  "toeic_zh": "公司必須在五年內償還這筆貸款。",
+  "family": "repayment (n), repay (v)",
+  "related": [
+   {
+    "w": "reimburse",
+    "zh": "補償",
+    "k": "syn"
+   },
+   {
+    "w": "borrow",
+    "zh": "借入",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 1586,
+  "day": 64
+ },
+ {
+  "word": "negligence",
+  "pos": "n",
+  "pic": "⚠️",
+  "zh": "疏忽；過失",
+  "en": "failure to take proper care",
+  "simple": "The accident was caused by negligence.",
+  "simple_zh": "這起意外是疏忽造成的。",
+  "toeic": "The company was fined for negligence in maintaining safety equipment.",
+  "toeic_zh": "公司因疏於維護安全設備而被罰款。",
+  "family": "negligent (adj), negligence (n)",
+  "related": [
+   {
+    "w": "negligent",
+    "zh": "疏忽的",
+    "k": "family"
+   },
+   {
+    "w": "negligible",
+    "zh": "微不足道的",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1587,
+  "day": 64
+ },
+ {
+  "word": "scarce",
+  "pos": "adj",
+  "pic": "🏜️",
+  "zh": "稀少的；缺乏的",
+  "en": "not enough in supply",
+  "simple": "Water is scarce here.",
+  "simple_zh": "這裡水很稀少。",
+  "toeic": "Skilled workers are scarce in this region.",
+  "toeic_zh": "這個地區缺乏技術工人。",
+  "family": "scarcity (n), scarcely (adv)",
+  "related": [
+   {
+    "w": "rare",
+    "zh": "稀有的",
+    "k": "syn"
+   },
+   {
+    "w": "abundant",
+    "zh": "豐富的",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 1588,
+  "day": 64
+ },
+ {
+  "word": "accumulation",
+  "pos": "n",
+  "pic": "📚",
+  "zh": "累積",
+  "en": "the gradual gathering of things",
+  "simple": "The accumulation of snow closed the road.",
+  "simple_zh": "積雪使道路封閉。",
+  "toeic": "The accumulation of debt worried the board.",
+  "toeic_zh": "債務的累積讓董事會擔憂。",
+  "family": "accumulate (v)",
+  "related": [
+   {
+    "w": "buildup",
+    "zh": "累積",
+    "k": "syn"
+   },
+   {
+    "w": "calculation",
+    "zh": "計算",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1589,
+  "day": 64
+ },
+ {
+  "word": "intercept",
+  "pos": "v",
+  "pic": "🛑",
+  "zh": "攔截",
+  "en": "to stop something before it arrives",
+  "simple": "The guard will intercept the man.",
+  "simple_zh": "警衛會攔住那個男人。",
+  "toeic": "Customs officers intercepted the illegal shipment at the port.",
+  "toeic_zh": "海關人員在港口攔截了非法貨物。",
+  "family": "interception (n)",
+  "related": [
+   {
+    "w": "stop",
+    "zh": "阻止",
+    "k": "syn"
+   },
+   {
+    "w": "interrupt",
+    "zh": "打斷",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1590,
+  "day": 64
+ },
+ {
+  "word": "pursuant",
+  "pos": "adj",
+  "pic": "📜",
+  "zh": "依照的（pursuant to）",
+  "en": "in agreement with a rule or contract",
+  "simple": "We act pursuant to the rules.",
+  "simple_zh": "我們依照規定行事。",
+  "toeic": "Pursuant to the contract, payment is due within thirty days.",
+  "toeic_zh": "依照合約，款項須在三十天內支付。",
+  "family": "pursue (v), pursuit (n)",
+  "related": [
+   {
+    "w": "according to",
+    "zh": "依據",
+    "k": "syn"
+   },
+   {
+    "w": "pursuit",
+    "zh": "追求",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1591,
+  "day": 64
+ },
+ {
+  "word": "mitigate",
+  "pos": "v",
+  "pic": "🩹",
+  "zh": "減輕；緩和",
+  "en": "to make something less harmful",
+  "simple": "Trees mitigate the heat.",
+  "simple_zh": "樹木可減輕熱度。",
+  "toeic": "We took steps to mitigate the risk of delays.",
+  "toeic_zh": "我們採取措施來降低延誤的風險。",
+  "family": "mitigation (n)",
+  "related": [
+   {
+    "w": "reduce",
+    "zh": "減少",
+    "k": "syn"
+   },
+   {
+    "w": "litigate",
+    "zh": "提起訴訟",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1592,
+  "day": 64
+ },
+ {
+  "word": "restrictive",
+  "pos": "adj",
+  "pic": "🚧",
+  "zh": "限制性的",
+  "en": "limiting what people can do",
+  "simple": "The rules are too restrictive.",
+  "simple_zh": "這些規定太嚴格了。",
+  "toeic": "The contract includes restrictive conditions on resale.",
+  "toeic_zh": "合約中包含轉售的限制條件。",
+  "family": "restrict (v), restriction (n)",
+  "related": [
+   {
+    "w": "limiting",
+    "zh": "限制的",
+    "k": "syn"
+   },
+   {
+    "w": "permissive",
+    "zh": "寬鬆的",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 1593,
+  "day": 64
+ },
+ {
+  "word": "maneuver",
+  "pos": "n",
+  "pic": "🚙",
+  "zh": "策略；操作",
+  "en": "a careful or clever movement or action",
+  "simple": "The driver made a quick maneuver.",
+  "simple_zh": "司機迅速做了個閃避動作。",
+  "toeic": "The firm made a clever maneuver to enter the market.",
+  "toeic_zh": "這家公司採取了巧妙策略進入市場。",
+  "family": "maneuverable (adj)",
+  "related": [
+   {
+    "w": "tactic",
+    "zh": "策略",
+    "k": "syn"
+   },
+   {
+    "w": "manner",
+    "zh": "方式",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1594,
+  "day": 64
+ },
+ {
+  "word": "redeem",
+  "pos": "v",
+  "pic": "🎟️",
+  "zh": "兌換；贖回",
+  "en": "to exchange a coupon for something",
+  "simple": "I will redeem this coupon today.",
+  "simple_zh": "我今天要兌換這張優惠券。",
+  "toeic": "Customers can redeem their points for free gifts.",
+  "toeic_zh": "顧客可以用點數兌換贈品。",
+  "family": "redemption (n)",
+  "related": [
+   {
+    "w": "exchange",
+    "zh": "兌換",
+    "k": "syn"
+   },
+   {
+    "w": "deem",
+    "zh": "認為",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1595,
+  "day": 64
+ },
+ {
+  "word": "dependency",
+  "pos": "n",
+  "pic": "🔗",
+  "zh": "依賴",
+  "en": "the state of needing someone or something",
+  "simple": "His dependency on coffee is strong.",
+  "simple_zh": "他非常依賴咖啡。",
+  "toeic": "The firm wants to reduce its dependency on one supplier.",
+  "toeic_zh": "公司想降低對單一供應商的依賴。",
+  "family": "depend (v), dependent (adj)",
+  "related": [
+   {
+    "w": "reliance",
+    "zh": "依賴",
+    "k": "syn"
+   },
+   {
+    "w": "independence",
+    "zh": "獨立",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 1596,
+  "day": 64
+ },
+ {
+  "word": "doubtful",
+  "pos": "adj",
+  "pic": "🤨",
+  "zh": "可疑的；不確定的",
+  "en": "not sure or unlikely",
+  "simple": "It is doubtful that he will come.",
+  "simple_zh": "他不太可能會來。",
+  "toeic": "It is doubtful that the shipment will arrive on time.",
+  "toeic_zh": "貨物是否能準時送達很令人懷疑。",
+  "family": "doubt (n, v), doubtfully (adv)",
+  "related": [
+   {
+    "w": "uncertain",
+    "zh": "不確定的",
+    "k": "syn"
+   },
+   {
+    "w": "certain",
+    "zh": "確定的",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 1597,
+  "day": 64
+ },
+ {
+  "word": "boast",
+  "pos": "v",
+  "pic": "😎",
+  "zh": "自誇；擁有",
+  "en": "to talk proudly about what you have",
+  "simple": "He likes to boast about his car.",
+  "simple_zh": "他愛吹噓他的車。",
+  "toeic": "The hotel boasts a beautiful view of the sea.",
+  "toeic_zh": "這家飯店擁有迷人的海景。",
+  "family": "boastful (adj)",
+  "related": [
+   {
+    "w": "brag",
+    "zh": "吹噓",
+    "k": "syn"
+   },
+   {
+    "w": "boost",
+    "zh": "提升",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1598,
+  "day": 64
+ },
+ {
+  "word": "speculative",
+  "pos": "adj",
+  "pic": "🎲",
+  "zh": "投機的；推測的",
+  "en": "based on guessing, often risky for money",
+  "simple": "That story is only speculative.",
+  "simple_zh": "那個說法只是臆測。",
+  "toeic": "The fund avoids speculative investments in new technology.",
+  "toeic_zh": "該基金避開對新科技的投機性投資。",
+  "family": "speculate (v), speculation (n)",
+  "related": [
+   {
+    "w": "risky",
+    "zh": "有風險的",
+    "k": "syn"
+   },
+   {
+    "w": "spectacular",
+    "zh": "壯觀的",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1599,
+  "day": 64
+ },
+ {
+  "word": "multiply",
+  "pos": "v",
+  "pic": "✖️",
+  "zh": "乘；倍增",
+  "en": "to increase greatly in number",
+  "simple": "Multiply four by three.",
+  "simple_zh": "四乘以三。",
+  "toeic": "Our profits could multiply if we expand overseas.",
+  "toeic_zh": "如果我們拓展海外，利潤可能倍增。",
+  "family": "multiple (adj, n), multiplication (n)",
+  "related": [
+   {
+    "w": "increase",
+    "zh": "增加",
+    "k": "syn"
+   },
+   {
+    "w": "divide",
+    "zh": "除",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 1600,
+  "day": 64
+ }
+]

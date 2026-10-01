@@ -1,0 +1,5327 @@
+[
+ {
+  "word": "accessory",
+  "pos": "n",
+  "pic": "👜",
+  "zh": "配件；飾品",
+  "en": "an extra item that goes with something",
+  "simple": "She bought a bag accessory.",
+  "simple_zh": "她買了一個包包配件。",
+  "toeic": "Each phone case is sold as a separate accessory.",
+  "toeic_zh": "每個手機殼都是單獨販售的配件。",
+  "family": "accessorize (v)",
+  "related": [
+   {
+    "w": "accessible",
+    "zh": "可到達的",
+    "k": "confuse"
+   },
+   {
+    "w": "addition",
+    "zh": "附加物",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 801,
+  "day": 33
+ },
+ {
+  "word": "advertiser",
+  "pos": "n",
+  "pic": "📢",
+  "zh": "廣告商；刊登廣告者",
+  "en": "a person or company that pays for ads",
+  "simple": "The advertiser paid for a big sign.",
+  "simple_zh": "廣告商付費做了一個大招牌。",
+  "toeic": "Our main advertiser has asked to renew the contract.",
+  "toeic_zh": "我們的主要廣告商要求續約。",
+  "family": "advertise (v), advertisement (n)",
+  "related": [
+   {
+    "w": "advisor",
+    "zh": "顧問",
+    "k": "confuse"
+   },
+   {
+    "w": "sponsor",
+    "zh": "贊助者",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 802,
+  "day": 33
+ },
+ {
+  "word": "affordable",
+  "pos": "adj",
+  "pic": "💵",
+  "zh": "負擔得起的",
+  "en": "Cheap enough that most people can pay for it.",
+  "simple": "The hotel is clean and affordable.",
+  "simple_zh": "這間旅館乾淨又划算。",
+  "toeic": "Our goal is to offer high-quality products at affordable prices.",
+  "toeic_zh": "我們的目標是以負擔得起的價格提供高品質產品。",
+  "family": "affordable (adj), afford (v), affordability (n)",
+  "related": [
+   {
+    "w": "afford",
+    "zh": "負擔得起",
+    "k": "family"
+   },
+   {
+    "w": "expensive",
+    "zh": "昂貴的",
+    "k": "opp"
+   }
+  ],
+  "n": 803,
+  "day": 33,
+  "src": "TSL"
+ },
+ {
+  "word": "alike",
+  "pos": "adj",
+  "pic": "👯",
+  "zh": "相似的",
+  "en": "very similar to each other",
+  "simple": "The two sisters look alike.",
+  "simple_zh": "這兩姊妹看起來很像。",
+  "toeic": "The two proposals are so alike that we cannot choose.",
+  "toeic_zh": "這兩份提案非常相似，我們難以抉擇。",
+  "family": "",
+  "related": [
+   {
+    "w": "like",
+    "zh": "像",
+    "k": "family"
+   },
+   {
+    "w": "different",
+    "zh": "不同的",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 804,
+  "day": 33
+ },
+ {
+  "word": "antique",
+  "pos": "n",
+  "pic": "🏺",
+  "zh": "古董",
+  "en": "an old object that is valuable",
+  "simple": "This table is an antique.",
+  "simple_zh": "這張桌子是古董。",
+  "toeic": "The shop specializes in antique furniture from Europe.",
+  "toeic_zh": "這家店專門販售歐洲的古董家具。",
+  "family": "antique (adj)",
+  "related": [
+   {
+    "w": "antic",
+    "zh": "滑稽動作",
+    "k": "confuse"
+   },
+   {
+    "w": "vintage",
+    "zh": "古董的",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 805,
+  "day": 33
+ },
+ {
+  "word": "appliance",
+  "pos": "n",
+  "pic": "🧺",
+  "zh": "家電；電器",
+  "en": "a machine used in the home",
+  "simple": "The washing machine is a home appliance.",
+  "simple_zh": "洗衣機是家電。",
+  "toeic": "The store is having a sale on kitchen appliances.",
+  "toeic_zh": "這家店正在舉辦廚房家電特賣。",
+  "family": "apply (v)",
+  "related": [
+   {
+    "w": "appliance",
+    "zh": "電器",
+    "k": "syn"
+   },
+   {
+    "w": "application",
+    "zh": "申請",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 806,
+  "day": 33
+ },
+ {
+  "word": "auction",
+  "pos": "n",
+  "pic": "🔨",
+  "zh": "拍賣",
+  "en": "a public sale where the highest bidder buys",
+  "simple": "We went to an art auction.",
+  "simple_zh": "我們去了一場藝術拍賣會。",
+  "toeic": "The painting was sold at auction for two million dollars.",
+  "toeic_zh": "這幅畫在拍賣會上以兩百萬美元售出。",
+  "family": "auction (v), auctioneer (n)",
+  "related": [
+   {
+    "w": "auctioneer",
+    "zh": "拍賣官",
+    "k": "family"
+   },
+   {
+    "w": "bidding",
+    "zh": "出價",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 807,
+  "day": 33
+ },
+ {
+  "word": "authentic",
+  "pos": "adj",
+  "pic": "✔️",
+  "zh": "真正的；道地的",
+  "en": "real and not copied or false",
+  "simple": "This is an authentic Italian pizza.",
+  "simple_zh": "這是道地的義大利披薩。",
+  "toeic": "The store guarantees that all its leather goods are authentic.",
+  "toeic_zh": "這家店保證所有皮革製品皆為真品。",
+  "family": "authenticity (n), authenticate (v)",
+  "related": [
+   {
+    "w": "genuine",
+    "zh": "真正的",
+    "k": "syn"
+   },
+   {
+    "w": "fake",
+    "zh": "假的",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 808,
+  "day": 33
+ },
+ {
+  "word": "bargain",
+  "pos": "n",
+  "pic": "🤑",
+  "zh": "便宜貨；划算的交易",
+  "en": "something you buy for less than its usual price",
+  "simple": "This bag was a bargain.",
+  "simple_zh": "這個包包很划算。",
+  "toeic": "At only $20, the jacket was a real bargain.",
+  "toeic_zh": "這件外套只要二十美元，真的很划算。",
+  "family": "bargain (v) 討價還價; bargain price 特價; a good bargain 好買賣",
+  "related": [
+   {
+    "w": "deal",
+    "zh": "交易；划算的買賣",
+    "k": "syn"
+   },
+   {
+    "w": "negotiate",
+    "zh": "協商",
+    "k": "syn"
+   }
+  ],
+  "n": 809,
+  "day": 33,
+  "src": "TSL"
+ },
+ {
+  "word": "basket",
+  "pos": "n",
+  "pic": "🧺",
+  "zh": "籃子",
+  "en": "a container made of woven material",
+  "simple": "Put the fruit in the basket.",
+  "simple_zh": "把水果放進籃子裡。",
+  "toeic": "Add the items to your basket and proceed to checkout.",
+  "toeic_zh": "將商品加入購物籃，然後前往結帳。",
+  "family": "",
+  "related": [
+   {
+    "w": "basketball",
+    "zh": "籃球",
+    "k": "confuse"
+   },
+   {
+    "w": "bucket",
+    "zh": "桶子",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 810,
+  "day": 33
+ },
+ {
+  "word": "bookstore",
+  "pos": "n",
+  "pic": "🏪",
+  "zh": "書店",
+  "en": "A shop that sells books.",
+  "simple": "The bookstore opens at nine.",
+  "simple_zh": "書店九點開門。",
+  "toeic": "The new bookstore on Main Street is hiring part-time staff.",
+  "toeic_zh": "主街上的新書店正在招聘兼職人員。",
+  "family": "",
+  "related": [
+   {
+    "w": "library",
+    "zh": "圖書館",
+    "k": "confuse"
+   },
+   {
+    "w": "bookshop",
+    "zh": "書店",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 811,
+  "day": 33
+ },
+ {
+  "word": "booth",
+  "pos": "n",
+  "pic": "🏪",
+  "zh": "攤位",
+  "en": "A small stand where products are shown or sold at an event.",
+  "simple": "Our booth is next to the door.",
+  "simple_zh": "我們的攤位在門旁邊。",
+  "toeic": "Visit our booth at the expo to receive a free product sample.",
+  "toeic_zh": "歡迎到博覽會上的我們的攤位領取免費產品試用品。",
+  "family": "",
+  "related": [
+   {
+    "w": "stall",
+    "zh": "攤位；小店",
+    "k": "syn"
+   },
+   {
+    "w": "both",
+    "zh": "兩者都",
+    "k": "confuse"
+   }
+  ],
+  "n": 812,
+  "day": 33,
+  "src": "TSL"
+ },
+ {
+  "word": "broaden",
+  "pos": "v",
+  "pic": "↔️",
+  "zh": "拓寬;擴大",
+  "en": "To make something wider or include more.",
+  "simple": "Travel can broaden your mind.",
+  "simple_zh": "旅行可以開闊你的心胸。",
+  "toeic": "We plan to broaden our product range next year.",
+  "toeic_zh": "我們計劃明年擴大產品線。",
+  "family": "broad (adj), breadth (n)",
+  "related": [
+   {
+    "w": "widen",
+    "zh": "加寬",
+    "k": "syn"
+   },
+   {
+    "w": "narrow",
+    "zh": "縮小",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 813,
+  "day": 33
+ },
+ {
+  "word": "broker",
+  "pos": "n",
+  "pic": "💼",
+  "zh": "經紀人；中介",
+  "en": "person who arranges business transactions between parties",
+  "simple": "Hire a broker for this deal.",
+  "simple_zh": "為此交易雇用經紀人。",
+  "toeic": "The real estate broker negotiated favorable terms for the purchase.",
+  "toeic_zh": "房地產經紀人為購買談判了有利的條款。",
+  "family": "brokerage (n)",
+  "related": [
+   {
+    "w": "agent",
+    "zh": "代理",
+    "k": "syn"
+   },
+   {
+    "w": "intermediary",
+    "zh": "中介",
+    "k": "syn"
+   }
+  ],
+  "n": 814,
+  "day": 33,
+  "src": "TSL"
+ },
+ {
+  "word": "bulk",
+  "pos": "adj",
+  "pic": "📦",
+  "zh": "大量的；散裝",
+  "en": "large quantity or volume purchase",
+  "simple": "Offer bulk discounts.",
+  "simple_zh": "提供批量折扣。",
+  "toeic": "Our bulk pricing offers significant savings for large orders.",
+  "toeic_zh": "我們的批量定價為大訂單提供顯著節省。",
+  "family": "bulk (n)",
+  "related": [
+   {
+    "w": "volume",
+    "zh": "體積",
+    "k": "syn"
+   },
+   {
+    "w": "discount",
+    "zh": "折扣",
+    "k": "syn"
+   }
+  ],
+  "n": 815,
+  "day": 33,
+  "src": "TSL"
+ },
+ {
+  "word": "candy",
+  "pos": "n",
+  "pic": "🍬",
+  "zh": "糖果",
+  "en": "A sweet food made with sugar.",
+  "simple": "The child wants some candy.",
+  "simple_zh": "這孩子想要一些糖果。",
+  "toeic": "The store displays candy near the checkout counter.",
+  "toeic_zh": "這家商店把糖果陳列在結帳櫃檯附近。",
+  "family": "",
+  "related": [
+   {
+    "w": "sweets",
+    "zh": "甜食",
+    "k": "syn"
+   },
+   {
+    "w": "handy",
+    "zh": "方便的",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 816,
+  "day": 33
+ },
+ {
+  "word": "cashier",
+  "pos": "n",
+  "pic": "🧾",
+  "zh": "收銀員",
+  "en": "A person who takes payments in a shop.",
+  "simple": "The cashier gave me change.",
+  "simple_zh": "收銀員找錢給我。",
+  "toeic": "Please pay the cashier at the front of the store.",
+  "toeic_zh": "請到商店前方向收銀員付款。",
+  "family": "cash (n)",
+  "related": [
+   {
+    "w": "clerk",
+    "zh": "店員",
+    "k": "syn"
+   },
+   {
+    "w": "teller",
+    "zh": "銀行櫃員",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 817,
+  "day": 33
+ },
+ {
+  "word": "colorful",
+  "pos": "adj",
+  "pic": "🌈",
+  "zh": "色彩繽紛的",
+  "en": "Having many bright colors.",
+  "simple": "She wore a colorful dress.",
+  "simple_zh": "她穿著一件色彩繽紛的洋裝。",
+  "toeic": "The brochure is colorful and easy to read.",
+  "toeic_zh": "這本小冊子色彩豐富且易於閱讀。",
+  "family": "color (n), colorless (adj)",
+  "related": [
+   {
+    "w": "colorless",
+    "zh": "無色的",
+    "k": "opp"
+   },
+   {
+    "w": "colourful",
+    "zh": "色彩繽紛(英式)",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 818,
+  "day": 33
+ },
+ {
+  "word": "commerce",
+  "pos": "n",
+  "pic": "🛍️",
+  "zh": "商業；貿易",
+  "en": "buying and selling of goods and services",
+  "simple": "E-commerce is growing fast.",
+  "simple_zh": "電子商務增長很快。",
+  "toeic": "Digital commerce now represents 40% of total retail transactions.",
+  "toeic_zh": "數字商務現在代表零售交易總額的40%。",
+  "family": "commercial (adj), commercialize (v)",
+  "related": [
+   {
+    "w": "trade",
+    "zh": "貿易",
+    "k": "syn"
+   },
+   {
+    "w": "business",
+    "zh": "業務",
+    "k": "syn"
+   }
+  ],
+  "n": 819,
+  "day": 33,
+  "src": "TSL"
+ },
+ {
+  "word": "considerably",
+  "pos": "adv",
+  "pic": "📈",
+  "zh": "相當地；大幅地",
+  "en": "by a large amount; much",
+  "simple": "It is considerably colder today.",
+  "simple_zh": "今天冷得多。",
+  "toeic": "Sales have improved considerably since the new campaign began.",
+  "toeic_zh": "自從新活動開始以來，銷售額已大幅提升。",
+  "family": "considerable (adj), considerably (adv)",
+  "related": [
+   {
+    "w": "considerable",
+    "zh": "相當大的",
+    "k": "family"
+   },
+   {
+    "w": "significantly",
+    "zh": "顯著地",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 820,
+  "day": 33
+ },
+ {
+  "word": "consumption",
+  "pos": "n",
+  "pic": "🛢️",
+  "zh": "消耗；消費",
+  "en": "the amount of something that is used or eaten",
+  "simple": "Our water consumption is low.",
+  "simple_zh": "我們的用水量很低。",
+  "toeic": "The new engine reduces fuel consumption by twenty percent.",
+  "toeic_zh": "新引擎讓燃料消耗量減少百分之二十。",
+  "family": "consume (v), consumer (n), consumption (n)",
+  "related": [
+   {
+    "w": "consumer",
+    "zh": "消費者",
+    "k": "family"
+   },
+   {
+    "w": "assumption",
+    "zh": "假設",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 821,
+  "day": 33
+ },
+ {
+  "word": "copyright",
+  "pos": "n",
+  "pic": "©️",
+  "zh": "版權；著作權",
+  "en": "the legal right to control copies of a work",
+  "simple": "This book has a copyright notice.",
+  "simple_zh": "這本書有版權聲明。",
+  "toeic": "Using the photo without permission may violate copyright law.",
+  "toeic_zh": "未經許可使用這張照片可能違反著作權法。",
+  "family": "",
+  "related": [
+   {
+    "w": "patent",
+    "zh": "專利",
+    "k": "syn"
+   },
+   {
+    "w": "copier",
+    "zh": "影印機",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 822,
+  "day": 33
+ },
+ {
+  "word": "cosmetic",
+  "pos": "adj",
+  "pic": "💄",
+  "zh": "化妝的；美容的",
+  "en": "related to improving the look of the face or body",
+  "simple": "She sells cosmetic products.",
+  "simple_zh": "她販賣化妝品。",
+  "toeic": "The cosmetic company plans to launch a new skincare line in spring.",
+  "toeic_zh": "這家化妝品公司計畫在春季推出新的護膚系列。",
+  "family": "cosmetics (n)",
+  "related": [
+   {
+    "w": "cosmetics",
+    "zh": "化妝品",
+    "k": "family"
+   },
+   {
+    "w": "beauty",
+    "zh": "美容",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 823,
+  "day": 33
+ },
+ {
+  "word": "coupon",
+  "pos": "n",
+  "pic": "🎟️",
+  "zh": "優惠券",
+  "en": "a small piece of paper that gives you a lower price",
+  "simple": "I have a coupon for pizza.",
+  "simple_zh": "我有一張披薩優惠券。",
+  "toeic": "Present this coupon at the checkout to receive ten percent off.",
+  "toeic_zh": "結帳時出示這張優惠券即可享九折。",
+  "family": "redeem a coupon 兌換優惠券; coupon code 優惠碼; discount coupon 折價券",
+  "related": [
+   {
+    "w": "voucher",
+    "zh": "禮券；兌換券",
+    "k": "syn"
+   }
+  ],
+  "n": 824,
+  "day": 33,
+  "src": "TSL"
+ },
+ {
+  "word": "customize",
+  "pos": "v",
+  "pic": "🎨",
+  "zh": "自訂；自定義",
+  "en": "to modify something to suit specific needs",
+  "simple": "Customize product offerings.",
+  "simple_zh": "自訂產品提供。",
+  "toeic": "We customize solutions for each corporate client.",
+  "toeic_zh": "我們為每個企業客戶定制解決方案。",
+  "family": "customization (n), customized (adj)",
+  "related": [
+   {
+    "w": "personalize",
+    "zh": "個性化",
+    "k": "syn"
+   },
+   {
+    "w": "tailor",
+    "zh": "定製",
+    "k": "syn"
+   }
+  ],
+  "n": 825,
+  "day": 33,
+  "src": "TSL"
+ },
+ {
+  "word": "deluxe",
+  "pos": "adj",
+  "pic": "✨",
+  "zh": "豪華的；超級",
+  "en": "luxurious or exceptionally high quality",
+  "simple": "Launch a deluxe version.",
+  "simple_zh": "推出豪華版本。",
+  "toeic": "Our deluxe package includes all premium features.",
+  "toeic_zh": "我們的豪華套餐包括所有高級功能。",
+  "family": "deluxe (n)",
+  "related": [
+   {
+    "w": "premium",
+    "zh": "高級",
+    "k": "syn"
+   },
+   {
+    "w": "luxury",
+    "zh": "奢侈",
+    "k": "syn"
+   }
+  ],
+  "n": 826,
+  "day": 34,
+  "src": "TSL"
+ },
+ {
+  "word": "detach",
+  "pos": "v",
+  "pic": "✂️",
+  "zh": "拆下；分開",
+  "en": "to take something off a larger thing",
+  "simple": "Please detach the bottom part.",
+  "simple_zh": "請撕下下方的部分。",
+  "toeic": "Detach the coupon and present it at the register for a discount.",
+  "toeic_zh": "請撕下優惠券，並在櫃台出示以享折扣。",
+  "family": "detachable (adj), detached (adj), detach (v)",
+  "related": [
+   {
+    "w": "attach",
+    "zh": "附上",
+    "k": "opp"
+   },
+   {
+    "w": "separate",
+    "zh": "分開",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 827,
+  "day": 34
+ },
+ {
+  "word": "diamond",
+  "pos": "n",
+  "pic": "💎",
+  "zh": "鑽石",
+  "en": "a very hard, clear, valuable stone",
+  "simple": "She has a diamond ring.",
+  "simple_zh": "她有一枚鑽戒。",
+  "toeic": "The jewelry store specializes in diamond rings and necklaces.",
+  "toeic_zh": "這家珠寶店專賣鑽戒與項鍊。",
+  "family": "",
+  "related": [
+   {
+    "w": "gem",
+    "zh": "寶石",
+    "k": "syn"
+   },
+   {
+    "w": "jewel",
+    "zh": "珠寶",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 828,
+  "day": 34
+ },
+ {
+  "word": "discontinue",
+  "pos": "v",
+  "pic": "⏹️",
+  "zh": "停止；停產",
+  "en": "to stop making or providing something",
+  "simple": "They will discontinue the old model.",
+  "simple_zh": "他們將停產舊款型號。",
+  "toeic": "The company decided to discontinue the product due to low demand.",
+  "toeic_zh": "由於需求低，公司決定停產該產品。",
+  "family": "discontinuation (n), discontinue (v)",
+  "related": [
+   {
+    "w": "continue",
+    "zh": "繼續",
+    "k": "opp"
+   },
+   {
+    "w": "terminate",
+    "zh": "終止",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 829,
+  "day": 34
+ },
+ {
+  "word": "distribution",
+  "pos": "n",
+  "pic": "📍",
+  "zh": "分銷；配送",
+  "en": "process of supplying goods to customers",
+  "simple": "Distribution channels are expanding.",
+  "simple_zh": "分銷渠道在擴大。",
+  "toeic": "Our distribution network covers all major cities in the region.",
+  "toeic_zh": "我們的分銷網絡覆蓋該地區的所有主要城市。",
+  "family": "distribute (v), distributor (n)",
+  "related": [
+   {
+    "w": "channel",
+    "zh": "渠道",
+    "k": "syn"
+   },
+   {
+    "w": "logistics",
+    "zh": "物流",
+    "k": "syn"
+   }
+  ],
+  "n": 830,
+  "day": 34,
+  "src": "TSL"
+ },
+ {
+  "word": "drastically",
+  "pos": "adv",
+  "pic": "⚡",
+  "zh": "大幅地；劇烈地",
+  "en": "in a very strong or extreme way",
+  "simple": "Prices fell drastically last week.",
+  "simple_zh": "上週價格大幅下跌。",
+  "toeic": "Sales dropped drastically after the new competitor opened.",
+  "toeic_zh": "新競爭對手開幕後，銷售量大幅下滑。",
+  "family": "drastic (adj), drastically (adv)",
+  "related": [
+   {
+    "w": "drastic",
+    "zh": "劇烈的",
+    "k": "family"
+   },
+   {
+    "w": "dramatically",
+    "zh": "戲劇性地",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 831,
+  "day": 34
+ },
+ {
+  "word": "drawback",
+  "pos": "n",
+  "pic": "👎",
+  "zh": "缺點；缺陷",
+  "en": "a disadvantage of something",
+  "simple": "The main drawback is the high price.",
+  "simple_zh": "主要缺點是價格太高。",
+  "toeic": "One drawback of the plan is its high initial cost.",
+  "toeic_zh": "這項計畫的一個缺點是初期成本高。",
+  "family": "",
+  "related": [
+   {
+    "w": "advantage",
+    "zh": "優點",
+    "k": "opp"
+   },
+   {
+    "w": "disadvantage",
+    "zh": "缺點",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 832,
+  "day": 34
+ },
+ {
+  "word": "dynamic",
+  "pos": "adj",
+  "pic": "⚡",
+  "zh": "動態的；變化的",
+  "en": "constantly changing or adjusting based on conditions",
+  "simple": "Use dynamic pricing.",
+  "simple_zh": "使用動態定價。",
+  "toeic": "Our dynamic pricing algorithm adjusts prices based on demand.",
+  "toeic_zh": "我們的動態定價算法根據需求調整價格。",
+  "family": "dynamics (n), dynamically (adv)",
+  "related": [
+   {
+    "w": "flexible",
+    "zh": "靈活",
+    "k": "syn"
+   },
+   {
+    "w": "adaptive",
+    "zh": "自適應",
+    "k": "syn"
+   }
+  ],
+  "n": 833,
+  "day": 34,
+  "src": "TSL"
+ },
+ {
+  "word": "e-book",
+  "pos": "n",
+  "pic": "📱",
+  "zh": "電子書",
+  "en": "a book that you read on a screen",
+  "simple": "I read an e-book on my phone.",
+  "simple_zh": "我用手機看電子書。",
+  "toeic": "The publisher will release an e-book version next month.",
+  "toeic_zh": "出版社下個月將推出電子書版本。",
+  "family": "",
+  "related": [
+   {
+    "w": "novel",
+    "zh": "小說",
+    "k": "confuse"
+   },
+   {
+    "w": "download",
+    "zh": "下載",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 834,
+  "day": 34
+ },
+ {
+  "word": "enthusiast",
+  "pos": "n",
+  "pic": "🙌",
+  "zh": "愛好者；狂熱者",
+  "en": "a person who is very interested in something",
+  "simple": "He is a music enthusiast.",
+  "simple_zh": "他是音樂愛好者。",
+  "toeic": "The trade show attracted many technology enthusiasts.",
+  "toeic_zh": "這場商展吸引了許多科技愛好者。",
+  "family": "enthusiasm (n), enthusiast (n), enthusiastic (adj)",
+  "related": [
+   {
+    "w": "fan",
+    "zh": "愛好者",
+    "k": "syn"
+   },
+   {
+    "w": "enthusiasm",
+    "zh": "熱情",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 835,
+  "day": 34
+ },
+ {
+  "word": "exclusive",
+  "pos": "adj",
+  "pic": "🔐",
+  "zh": "獨家的；獨佔",
+  "en": "only available to certain people or members",
+  "simple": "Offer exclusive deals.",
+  "simple_zh": "提供獨家交易。",
+  "toeic": "Exclusive members receive early access to new products.",
+  "toeic_zh": "獨家成員可以優先使用新產品。",
+  "family": "exclusively (adv), exclusivity (n)",
+  "related": [
+   {
+    "w": "limited",
+    "zh": "有限",
+    "k": "syn"
+   },
+   {
+    "w": "private",
+    "zh": "私人",
+    "k": "syn"
+   }
+  ],
+  "n": 836,
+  "day": 34,
+  "src": "TSL"
+ },
+ {
+  "word": "favorable",
+  "pos": "adj",
+  "pic": "👍",
+  "zh": "有利的；贊成的",
+  "en": "good or helpful for someone",
+  "simple": "The weather is favorable today.",
+  "simple_zh": "今天天氣很好。",
+  "toeic": "The company received favorable reviews from customers.",
+  "toeic_zh": "公司獲得顧客的好評。",
+  "family": "favor (n/v), favorable (adj), favorably (adv)",
+  "related": [
+   {
+    "w": "favorite",
+    "zh": "最喜愛的",
+    "k": "confuse"
+   },
+   {
+    "w": "unfavorable",
+    "zh": "不利的",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 837,
+  "day": 34
+ },
+ {
+  "word": "flavor",
+  "pos": "n",
+  "pic": "🍦",
+  "zh": "口味；風味",
+  "en": "the taste of food or drink",
+  "simple": "What flavor do you want?",
+  "simple_zh": "你想要什麼口味？",
+  "toeic": "The company will introduce a new flavor of tea next spring.",
+  "toeic_zh": "公司將在明年春天推出新口味的茶。",
+  "family": "flavor (n/v), flavorful (adj)",
+  "related": [
+   {
+    "w": "taste",
+    "zh": "味道",
+    "k": "syn"
+   },
+   {
+    "w": "favor",
+    "zh": "恩惠",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 838,
+  "day": 34
+ },
+ {
+  "word": "flyer",
+  "pos": "n",
+  "pic": "📃",
+  "zh": "傳單",
+  "en": "A single printed sheet handed out to advertise something.",
+  "simple": "A man gave me a flyer.",
+  "simple_zh": "一位男士給了我一張傳單。",
+  "toeic": "The marketing team will hand out flyers at the trade show on Monday.",
+  "toeic_zh": "行銷團隊將在週一的貿易展上發放傳單。",
+  "family": "",
+  "related": [
+   {
+    "w": "flier",
+    "zh": "傳單（另一拼法）",
+    "k": "syn"
+   },
+   {
+    "w": "flyer miles",
+    "zh": "飛行里程",
+    "k": "confuse"
+   }
+  ],
+  "n": 839,
+  "day": 34,
+  "src": "TSL"
+ },
+ {
+  "word": "franchise",
+  "pos": "n",
+  "pic": "🍔",
+  "zh": "連鎖加盟；特許經營",
+  "en": "A right to sell a company's products under its name.",
+  "simple": "He owns a pizza franchise.",
+  "simple_zh": "他擁有一家披薩加盟店。",
+  "toeic": "The firm plans to sell a franchise to investors in three new cities.",
+  "toeic_zh": "該公司計劃向投資人在三個新城市出售加盟權。",
+  "family": "franchise (n, v), franchisee (n), franchisor (n)",
+  "related": [
+   {
+    "w": "franchisee",
+    "zh": "加盟者",
+    "k": "family"
+   },
+   {
+    "w": "franchisor",
+    "zh": "加盟總部",
+    "k": "family"
+   }
+  ],
+  "n": 840,
+  "day": 34,
+  "src": "TSL"
+ },
+ {
+  "word": "generic",
+  "pos": "adj",
+  "pic": "🏷️",
+  "zh": "通用的；無品牌的",
+  "en": "not having a brand name; general",
+  "simple": "I buy generic medicine.",
+  "simple_zh": "我買無品牌的藥。",
+  "toeic": "Many pharmacies sell generic drugs at lower prices.",
+  "toeic_zh": "許多藥局以較低價格販售學名藥。",
+  "family": "",
+  "related": [
+   {
+    "w": "general",
+    "zh": "一般的",
+    "k": "confuse"
+   },
+   {
+    "w": "brand-name",
+    "zh": "有品牌的",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 841,
+  "day": 34
+ },
+ {
+  "word": "graphic",
+  "pos": "adj",
+  "pic": "🎨",
+  "zh": "圖形的；繪圖的",
+  "en": "related to pictures, drawing, or visual design",
+  "simple": "She is a graphic artist.",
+  "simple_zh": "她是一位平面藝術家。",
+  "toeic": "We are looking for a graphic designer to join our marketing team.",
+  "toeic_zh": "我們正在徵求一位平面設計師加入行銷團隊。",
+  "family": "graph (n), graphics (n)",
+  "related": [
+   {
+    "w": "graphics",
+    "zh": "圖像",
+    "k": "family"
+   },
+   {
+    "w": "graph",
+    "zh": "圖表",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 842,
+  "day": 34
+ },
+ {
+  "word": "gum",
+  "pos": "n",
+  "pic": "🫧",
+  "zh": "口香糖",
+  "en": "sweet, soft candy that you chew but do not swallow",
+  "simple": "Please do not chew gum here.",
+  "simple_zh": "請不要在這裡嚼口香糖。",
+  "toeic": "The shop sells gum, candy, and other snacks near the cashier.",
+  "toeic_zh": "這家店在收銀台附近販售口香糖、糖果和其他零食。",
+  "family": "",
+  "related": [
+   {
+    "w": "candy",
+    "zh": "糖果",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 843,
+  "day": 34
+ },
+ {
+  "word": "headphone",
+  "pos": "n",
+  "pic": "🎧",
+  "zh": "耳機",
+  "en": "a device worn on the ears to listen to sound",
+  "simple": "I wear a headphone on the bus.",
+  "simple_zh": "我在公車上戴耳機。",
+  "toeic": "Each headphone in this package comes with a one-year warranty.",
+  "toeic_zh": "此包裝內的每副耳機都附有一年保固。",
+  "family": "",
+  "related": [
+   {
+    "w": "earphone",
+    "zh": "耳塞式耳機",
+    "k": "syn"
+   },
+   {
+    "w": "microphone",
+    "zh": "麥克風",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 844,
+  "day": 34
+ },
+ {
+  "word": "indirect",
+  "pos": "adj",
+  "pic": "⤴️",
+  "zh": "間接的；迂迴",
+  "en": "not direct or obvious connection",
+  "simple": "Track indirect expenses.",
+  "simple_zh": "追蹤間接開支。",
+  "toeic": "Indirect costs include rent, utilities, and administrative salaries.",
+  "toeic_zh": "間接成本包括租金、水電和行政工資。",
+  "family": "indirectly (adv)",
+  "related": [
+   {
+    "w": "overhead",
+    "zh": "開銷",
+    "k": "syn"
+   },
+   {
+    "w": "direct",
+    "zh": "直接",
+    "k": "opp"
+   }
+  ],
+  "n": 845,
+  "day": 34,
+  "src": "TSL"
+ },
+ {
+  "word": "inspiration",
+  "pos": "n",
+  "pic": "✨",
+  "zh": "靈感；鼓舞",
+  "en": "a feeling that gives you new ideas",
+  "simple": "She is my inspiration.",
+  "simple_zh": "她是我的靈感來源。",
+  "toeic": "The designer found inspiration in traditional Asian art.",
+  "toeic_zh": "設計師從傳統亞洲藝術中獲得靈感。",
+  "family": "inspire (v), inspiring (adj)",
+  "related": [
+   {
+    "w": "inspire",
+    "zh": "激勵",
+    "k": "family"
+   },
+   {
+    "w": "motivation",
+    "zh": "動機",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 846,
+  "day": 34
+ },
+ {
+  "word": "inventory",
+  "pos": "n",
+  "pic": "📦",
+  "zh": "庫存；清單",
+  "en": "stock of goods held for sale or use",
+  "simple": "Check inventory levels.",
+  "simple_zh": "檢查庫存水平。",
+  "toeic": "Our inventory management system tracks all products in real time.",
+  "toeic_zh": "我們的庫存管理系統實時追蹤所有產品。",
+  "family": "inventory (v)",
+  "related": [
+   {
+    "w": "stock",
+    "zh": "庫存",
+    "k": "syn"
+   },
+   {
+    "w": "supply",
+    "zh": "供應",
+    "k": "syn"
+   }
+  ],
+  "n": 847,
+  "day": 34,
+  "src": "TSL"
+ },
+ {
+  "word": "jeans",
+  "pos": "n",
+  "pic": "👖",
+  "zh": "牛仔褲",
+  "en": "casual trousers made of denim",
+  "simple": "He wears jeans every day.",
+  "simple_zh": "他每天都穿牛仔褲。",
+  "toeic": "Employees may wear jeans on Fridays during the summer.",
+  "toeic_zh": "夏季期間，員工星期五可以穿牛仔褲。",
+  "family": "",
+  "related": [
+   {
+    "w": "trousers",
+    "zh": "長褲",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 848,
+  "day": 34
+ },
+ {
+  "word": "jewelry",
+  "pos": "n",
+  "pic": "💍",
+  "zh": "珠寶",
+  "en": "Decorative items like rings and necklaces worn on the body",
+  "simple": "She keeps her jewelry in a small box.",
+  "simple_zh": "她把珠寶放在一個小盒子裡。",
+  "toeic": "The store sells handmade jewelry to tourists.",
+  "toeic_zh": "這家店向觀光客販售手工珠寶。",
+  "family": "jeweler (n)",
+  "related": [
+   {
+    "w": "jeweler",
+    "zh": "珠寶商",
+    "k": "family"
+   },
+   {
+    "w": "jewel",
+    "zh": "寶石",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 849,
+  "day": 34
+ },
+ {
+  "word": "lifestyle",
+  "pos": "n",
+  "pic": "🧘",
+  "zh": "生活方式",
+  "en": "The way a person or group lives",
+  "simple": "She has a healthy lifestyle.",
+  "simple_zh": "她的生活方式很健康。",
+  "toeic": "The magazine targets readers who care about a modern lifestyle.",
+  "toeic_zh": "這本雜誌的目標讀者是重視現代生活方式的人。",
+  "family": "",
+  "related": [
+   {
+    "w": "life",
+    "zh": "生活",
+    "k": "family"
+   },
+   {
+    "w": "habit",
+    "zh": "習慣",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 850,
+  "day": 34
+ },
+ {
+  "word": "lifetime",
+  "pos": "n",
+  "pic": "⏰",
+  "zh": "終身；一生",
+  "en": "length of time something or someone lives or lasts",
+  "simple": "Calculate lifetime value.",
+  "simple_zh": "計算終身價值。",
+  "toeic": "Customer lifetime value averages $5,000 for our top tier members.",
+  "toeic_zh": "我們頂級成員的客戶終身價值平均為$5,000。",
+  "family": "lifetime (adj)",
+  "related": [
+   {
+    "w": "duration",
+    "zh": "期限",
+    "k": "syn"
+   },
+   {
+    "w": "period",
+    "zh": "期間",
+    "k": "syn"
+   }
+  ],
+  "n": 851,
+  "day": 35,
+  "src": "TSL"
+ },
+ {
+  "word": "lightweight",
+  "pos": "adj",
+  "pic": "🎒",
+  "zh": "輕量的",
+  "en": "Not heavy, easy to carry",
+  "simple": "I bought a lightweight jacket.",
+  "simple_zh": "我買了一件輕便的外套。",
+  "toeic": "Customers love this lightweight laptop for business travel.",
+  "toeic_zh": "顧客喜歡這款輕量筆電，適合出差使用。",
+  "family": "",
+  "related": [
+   {
+    "w": "heavy",
+    "zh": "沉重的",
+    "k": "opp"
+   },
+   {
+    "w": "portable",
+    "zh": "可攜帶的",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 852,
+  "day": 35
+ },
+ {
+  "word": "logo",
+  "pos": "n",
+  "pic": "🔰",
+  "zh": "商標圖案；標誌",
+  "en": "A symbol or design that represents a company.",
+  "simple": "I like your shop's logo.",
+  "simple_zh": "我喜歡你們店的標誌。",
+  "toeic": "The new logo will appear on all packaging and printed materials.",
+  "toeic_zh": "新標誌將出現在所有包裝與印刷品上。",
+  "family": "",
+  "related": [
+   {
+    "w": "trademark",
+    "zh": "商標",
+    "k": "syn"
+   },
+   {
+    "w": "login",
+    "zh": "登入",
+    "k": "confuse"
+   }
+  ],
+  "n": 853,
+  "day": 35,
+  "src": "TSL"
+ },
+ {
+  "word": "loyal",
+  "pos": "adj",
+  "pic": "🐶",
+  "zh": "忠誠的",
+  "en": "always supporting a person, company or brand",
+  "simple": "He is a loyal customer.",
+  "simple_zh": "他是一位忠實顧客。",
+  "toeic": "Loyal customers earn points every time they shop at our stores.",
+  "toeic_zh": "忠實顧客每次在我們的門市購物都能累積點數。",
+  "family": "loyalty (n) 忠誠；loyalty program 會員忠誠計畫; loyal customer 忠實顧客; brand loyalty",
+  "related": [
+   {
+    "w": "royal",
+    "zh": "皇家的",
+    "k": "confuse"
+   },
+   {
+    "w": "faithful",
+    "zh": "忠實的",
+    "k": "syn"
+   }
+  ],
+  "n": 854,
+  "day": 35,
+  "src": "TSL"
+ },
+ {
+  "word": "loyalty",
+  "pos": "n",
+  "pic": "💝",
+  "zh": "忠誠；忠實",
+  "en": "faithful support or devotion to a brand or company",
+  "simple": "Reward customer loyalty.",
+  "simple_zh": "獎勵客戶忠誠度。",
+  "toeic": "Our loyalty program retains 85% of customers year-over-year.",
+  "toeic_zh": "我們的忠誠度計劃年度客戶保留率為85%。",
+  "family": "loyal (adj)",
+  "related": [
+   {
+    "w": "retention",
+    "zh": "保留",
+    "k": "syn"
+   },
+   {
+    "w": "commitment",
+    "zh": "承諾",
+    "k": "syn"
+   }
+  ],
+  "n": 855,
+  "day": 35,
+  "src": "TSL"
+ },
+ {
+  "word": "mall",
+  "pos": "n",
+  "pic": "🏬",
+  "zh": "購物中心",
+  "en": "A large building with many shops",
+  "simple": "We went to the mall on Saturday.",
+  "simple_zh": "我們星期六去了購物中心。",
+  "toeic": "A new shopping mall will open near the station.",
+  "toeic_zh": "車站附近將開設一間新的購物中心。",
+  "family": "",
+  "related": [
+   {
+    "w": "market",
+    "zh": "市場",
+    "k": "syn"
+   },
+   {
+    "w": "maul",
+    "zh": "重創",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 856,
+  "day": 35
+ },
+ {
+  "word": "merchandise",
+  "pos": "n",
+  "pic": "📦",
+  "zh": "商品",
+  "en": "Goods that are bought and sold.",
+  "simple": "The store has cheap merchandise.",
+  "simple_zh": "這家店有便宜的商品。",
+  "toeic": "All merchandise must be returned within thirty days with a receipt.",
+  "toeic_zh": "所有商品必須在三十天內附收據退回。",
+  "family": "merchandise (n, v), merchant (n)",
+  "related": [
+   {
+    "w": "merchant",
+    "zh": "商人",
+    "k": "family"
+   },
+   {
+    "w": "goods",
+    "zh": "貨品",
+    "k": "syn"
+   }
+  ],
+  "n": 857,
+  "day": 35,
+  "src": "TSL"
+ },
+ {
+  "word": "merchant",
+  "pos": "n",
+  "pic": "🛍️",
+  "zh": "商人；店主",
+  "en": "person or company that buys and sells goods",
+  "simple": "The merchant offers good deals.",
+  "simple_zh": "商人提供優惠交易。",
+  "toeic": "The merchant displayed new inventory in the storefront.",
+  "toeic_zh": "商人在店面展示了新庫存。",
+  "family": "merchandise (n)",
+  "related": [
+   {
+    "w": "trader",
+    "zh": "交易商",
+    "k": "syn"
+   },
+   {
+    "w": "vendor",
+    "zh": "賣方",
+    "k": "syn"
+   }
+  ],
+  "n": 858,
+  "day": 35,
+  "src": "TSL"
+ },
+ {
+  "word": "necessity",
+  "pos": "n",
+  "pic": "🆘",
+  "zh": "必需品；必要",
+  "en": "Something you must have",
+  "simple": "Water is a necessity.",
+  "simple_zh": "水是必需品。",
+  "toeic": "A reliable network is a necessity for any modern office.",
+  "toeic_zh": "可靠的網路是任何現代辦公室的必需品。",
+  "family": "necessary (adj), necessarily (adv)",
+  "related": [
+   {
+    "w": "necessary",
+    "zh": "必要的",
+    "k": "family"
+   },
+   {
+    "w": "luxury",
+    "zh": "奢侈品",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 859,
+  "day": 35
+ },
+ {
+  "word": "necklace",
+  "pos": "n",
+  "pic": "📿",
+  "zh": "項鍊",
+  "en": "Jewelry worn around the neck",
+  "simple": "She wore a gold necklace.",
+  "simple_zh": "她戴著一條金項鍊。",
+  "toeic": "The store is offering a free necklace with every purchase.",
+  "toeic_zh": "這家店每筆消費都贈送一條項鍊。",
+  "family": "",
+  "related": [
+   {
+    "w": "bracelet",
+    "zh": "手鐲",
+    "k": "syn"
+   },
+   {
+    "w": "neckline",
+    "zh": "領口",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 860,
+  "day": 35
+ },
+ {
+  "word": "newsletter",
+  "pos": "n",
+  "pic": "📧",
+  "zh": "電子報；通訊",
+  "en": "A regular report sent to customers or members.",
+  "simple": "I read the weekly newsletter.",
+  "simple_zh": "我讀了每週電子報。",
+  "toeic": "Subscribe to our newsletter to get exclusive offers every month.",
+  "toeic_zh": "訂閱我們的電子報，每月可獲得專屬優惠。",
+  "family": "",
+  "related": [
+   {
+    "w": "bulletin",
+    "zh": "公告",
+    "k": "syn"
+   },
+   {
+    "w": "newspaper",
+    "zh": "報紙",
+    "k": "confuse"
+   }
+  ],
+  "n": 861,
+  "day": 35,
+  "src": "TSL"
+ },
+ {
+  "word": "opt",
+  "pos": "v",
+  "pic": "☑️",
+  "zh": "選擇",
+  "en": "To choose one thing instead of another",
+  "simple": "I opt for the cheaper plan.",
+  "simple_zh": "我選擇比較便宜的方案。",
+  "toeic": "Customers may opt for paperless billing.",
+  "toeic_zh": "客戶可選擇無紙化帳單。",
+  "family": "option (n), optional (adj)",
+  "related": [
+   {
+    "w": "choose",
+    "zh": "選擇",
+    "k": "syn"
+   },
+   {
+    "w": "adopt",
+    "zh": "採用",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 862,
+  "day": 35
+ },
+ {
+  "word": "outfit",
+  "pos": "n",
+  "pic": "👗",
+  "zh": "服裝；全套裝備",
+  "en": "a set of clothes worn together",
+  "simple": "She bought a new outfit.",
+  "simple_zh": "她買了一套新衣服。",
+  "toeic": "Employees must wear a suitable outfit for client meetings.",
+  "toeic_zh": "員工參加客戶會議時必須穿著合宜的服裝。",
+  "family": "",
+  "related": [
+   {
+    "w": "suit",
+    "zh": "套裝",
+    "k": "syn"
+   },
+   {
+    "w": "fit",
+    "zh": "合身",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 863,
+  "day": 35
+ },
+ {
+  "word": "overhead",
+  "pos": "n",
+  "pic": "💸",
+  "zh": "間接費用；開銷",
+  "en": "ongoing costs not directly tied to production",
+  "simple": "Reduce overhead costs.",
+  "simple_zh": "降低間接費用。",
+  "toeic": "Reducing overhead expenses will improve our profit margin.",
+  "toeic_zh": "降低開銷支出將改進我們的利潤率。",
+  "family": "overhead (adj)",
+  "related": [
+   {
+    "w": "cost",
+    "zh": "成本",
+    "k": "syn"
+   },
+   {
+    "w": "expense",
+    "zh": "開支",
+    "k": "syn"
+   }
+  ],
+  "n": 864,
+  "day": 35,
+  "src": "TSL"
+ },
+ {
+  "word": "pants",
+  "pos": "n",
+  "pic": "👖",
+  "zh": "長褲",
+  "en": "clothing for the legs",
+  "simple": "These pants are too long.",
+  "simple_zh": "這件長褲太長了。",
+  "toeic": "The store is offering a discount on all pants this week.",
+  "toeic_zh": "這家店本週所有長褲都打折。",
+  "family": "",
+  "related": [
+   {
+    "w": "trousers",
+    "zh": "長褲",
+    "k": "syn"
+   },
+   {
+    "w": "shorts",
+    "zh": "短褲",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 865,
+  "day": 35
+ },
+ {
+  "word": "paperback",
+  "pos": "n",
+  "pic": "📕",
+  "zh": "平裝書",
+  "en": "a book with a soft paper cover",
+  "simple": "I bought a paperback.",
+  "simple_zh": "我買了一本平裝書。",
+  "toeic": "The paperback edition will be released next month at a lower price.",
+  "toeic_zh": "平裝版將於下個月以較低價格發行。",
+  "family": "",
+  "related": [
+   {
+    "w": "hardcover",
+    "zh": "精裝書",
+    "k": "opp"
+   },
+   {
+    "w": "novel",
+    "zh": "小說",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 866,
+  "day": 35
+ },
+ {
+  "word": "periodical",
+  "pos": "n",
+  "pic": "📰",
+  "zh": "期刊",
+  "en": "a magazine published regularly",
+  "simple": "I read a weekly periodical.",
+  "simple_zh": "我讀一份週刊。",
+  "toeic": "The library subscribes to several business periodical titles.",
+  "toeic_zh": "圖書館訂閱了幾份商業期刊。",
+  "family": "period (n), periodically (adv)",
+  "related": [
+   {
+    "w": "magazine",
+    "zh": "雜誌",
+    "k": "syn"
+   },
+   {
+    "w": "journal",
+    "zh": "期刊",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 867,
+  "day": 35
+ },
+ {
+  "word": "personalize",
+  "pos": "v",
+  "pic": "👤",
+  "zh": "個性化；個人化",
+  "en": "to modify for individual preferences",
+  "simple": "Personalize customer communications.",
+  "simple_zh": "個性化客戶通信。",
+  "toeic": "We personalize email marketing based on customer preferences.",
+  "toeic_zh": "我們根據客戶偏好個性化電子郵件市場營銷。",
+  "family": "personalization (n), personalized (adj)",
+  "related": [
+   {
+    "w": "customize",
+    "zh": "自訂",
+    "k": "syn"
+   },
+   {
+    "w": "tailor",
+    "zh": "定製",
+    "k": "syn"
+   }
+  ],
+  "n": 868,
+  "day": 35,
+  "src": "TSL"
+ },
+ {
+  "word": "preview",
+  "pos": "n",
+  "pic": "🎬",
+  "zh": "預覽；試映",
+  "en": "a first look before the public sees",
+  "simple": "We saw the movie preview.",
+  "simple_zh": "我們看了電影預告。",
+  "toeic": "Customers can watch a preview of the new software online.",
+  "toeic_zh": "顧客可以在線上觀看新軟體的預覽。",
+  "family": "preview (v)",
+  "related": [
+   {
+    "w": "overview",
+    "zh": "概要",
+    "k": "confuse"
+   },
+   {
+    "w": "trailer",
+    "zh": "預告片",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 869,
+  "day": 35
+ },
+ {
+  "word": "profitable",
+  "pos": "adj",
+  "pic": "📈",
+  "zh": "有利可圖的；賺錢的",
+  "en": "making more money than it costs",
+  "simple": "This shop is very profitable.",
+  "simple_zh": "這家店非常賺錢。",
+  "toeic": "The new product line proved profitable within its first six months.",
+  "toeic_zh": "這條新產品線在最初六個月內就證明能夠獲利。",
+  "family": "profit (n) 利潤; profitability (n) 獲利能力; unprofitable (adj) 無利可圖的",
+  "related": [
+   {
+    "w": "lucrative",
+    "zh": "獲利豐厚的",
+    "k": "syn"
+   },
+   {
+    "w": "unprofitable",
+    "zh": "不賺錢的",
+    "k": "opp"
+   }
+  ],
+  "n": 870,
+  "day": 35,
+  "src": "TSL"
+ },
+ {
+  "word": "projection",
+  "pos": "n",
+  "pic": "📈",
+  "zh": "投影；預計",
+  "en": "estimate or calculation for future",
+  "simple": "Prepare financial projections.",
+  "simple_zh": "準備財務預計。",
+  "toeic": "Our revenue projections for next year are $10 million.",
+  "toeic_zh": "我們明年的收入預計為1,000萬美元。",
+  "family": "project (v)",
+  "related": [
+   {
+    "w": "forecast",
+    "zh": "預測",
+    "k": "syn"
+   },
+   {
+    "w": "estimate",
+    "zh": "估計",
+    "k": "syn"
+   }
+  ],
+  "n": 871,
+  "day": 35,
+  "src": "TSL"
+ },
+ {
+  "word": "publicity",
+  "pos": "n",
+  "pic": "📢",
+  "zh": "宣傳；曝光",
+  "en": "Attention given to someone or something by the media.",
+  "simple": "The movie got a lot of publicity.",
+  "simple_zh": "那部電影得到很多宣傳。",
+  "toeic": "The charity event generated valuable publicity for our brand.",
+  "toeic_zh": "這場慈善活動為我們的品牌帶來了寶貴的曝光。",
+  "family": "publicity (n), publicize (v)",
+  "related": [
+   {
+    "w": "publicize",
+    "zh": "宣傳",
+    "k": "family"
+   },
+   {
+    "w": "publication",
+    "zh": "出版品",
+    "k": "confuse"
+   }
+  ],
+  "n": 872,
+  "day": 35,
+  "src": "TSL"
+ },
+ {
+  "word": "publish",
+  "pos": "v",
+  "pic": "📚",
+  "zh": "出版；發表",
+  "en": "to print and sell a book or article",
+  "simple": "They publish many books.",
+  "simple_zh": "他們出版很多書。",
+  "toeic": "The company will publish its annual report in March.",
+  "toeic_zh": "公司將在三月公布年度報告。",
+  "family": "publisher (n), publication (n)",
+  "related": [
+   {
+    "w": "print",
+    "zh": "印刷",
+    "k": "syn"
+   },
+   {
+    "w": "punish",
+    "zh": "處罰",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 873,
+  "day": 35
+ },
+ {
+  "word": "purse",
+  "pos": "n",
+  "pic": "👛",
+  "zh": "女用小皮包；錢包",
+  "en": "a small bag for money",
+  "simple": "Her purse is red.",
+  "simple_zh": "她的錢包是紅色的。",
+  "toeic": "A purse was found in the lobby and left at reception.",
+  "toeic_zh": "大廳裡有人撿到一個皮包，交給了櫃檯。",
+  "family": "",
+  "related": [
+   {
+    "w": "wallet",
+    "zh": "皮夾",
+    "k": "syn"
+   },
+   {
+    "w": "purser",
+    "zh": "事務長",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 874,
+  "day": 35
+ },
+ {
+  "word": "questionnaire",
+  "pos": "n",
+  "pic": "📝",
+  "zh": "問卷；調查表",
+  "en": "set of printed questions for gathering information",
+  "simple": "Send out the questionnaire.",
+  "simple_zh": "發送問卷。",
+  "toeic": "The questionnaire asks about customer satisfaction and product quality.",
+  "toeic_zh": "問卷詢問有關客戶滿意度和產品質量。",
+  "family": "question (v), question (n)",
+  "related": [
+   {
+    "w": "survey",
+    "zh": "調查",
+    "k": "syn"
+   },
+   {
+    "w": "form",
+    "zh": "表單",
+    "k": "syn"
+   }
+  ],
+  "n": 875,
+  "day": 35,
+  "src": "TSL"
+ },
+ {
+  "word": "raincoat",
+  "pos": "n",
+  "pic": "🧥",
+  "zh": "雨衣",
+  "en": "a coat worn in the rain",
+  "simple": "Take your raincoat.",
+  "simple_zh": "帶著你的雨衣。",
+  "toeic": "The store sells a raincoat in several colors.",
+  "toeic_zh": "這家店販售多種顏色的雨衣。",
+  "family": "rain (n)",
+  "related": [
+   {
+    "w": "umbrella",
+    "zh": "雨傘",
+    "k": "syn"
+   },
+   {
+    "w": "jacket",
+    "zh": "外套",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 876,
+  "day": 36
+ },
+ {
+  "word": "renown",
+  "pos": "n",
+  "pic": "🏆",
+  "zh": "聲望；名聲",
+  "en": "fame for being very good at something",
+  "simple": "The chef has great renown.",
+  "simple_zh": "這位主廚享有盛名。",
+  "toeic": "The architect is a person of international renown.",
+  "toeic_zh": "這位建築師享譽國際。",
+  "family": "renowned (adj)",
+  "related": [
+   {
+    "w": "renowned",
+    "zh": "著名的",
+    "k": "family"
+   },
+   {
+    "w": "reputation",
+    "zh": "名聲",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 877,
+  "day": 36
+ },
+ {
+  "word": "resemble",
+  "pos": "v",
+  "pic": "👯",
+  "zh": "像；相似",
+  "en": "to look like or be similar to",
+  "simple": "You resemble your father.",
+  "simple_zh": "你長得像你爸爸。",
+  "toeic": "The new model does not resemble the earlier version at all.",
+  "toeic_zh": "新款完全不像早期的版本。",
+  "family": "resemblance (n)",
+  "related": [
+   {
+    "w": "assemble",
+    "zh": "組裝",
+    "k": "confuse"
+   },
+   {
+    "w": "differ",
+    "zh": "不同",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 878,
+  "day": 36
+ },
+ {
+  "word": "rug",
+  "pos": "n",
+  "pic": "🧶",
+  "zh": "小地毯",
+  "en": "a small carpet",
+  "simple": "The cat sleeps on the rug.",
+  "simple_zh": "貓睡在小地毯上。",
+  "toeic": "The store is having a sale on handmade rugs this week.",
+  "toeic_zh": "這家店本週正在特價出售手工地毯。",
+  "family": "",
+  "related": [
+   {
+    "w": "carpet",
+    "zh": "地毯",
+    "k": "syn"
+   },
+   {
+    "w": "mat",
+    "zh": "墊子",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 879,
+  "day": 36
+ },
+ {
+  "word": "salesperson",
+  "pos": "n",
+  "pic": "🧑‍💼",
+  "zh": "業務員；銷售員",
+  "en": "A person whose job is to sell products.",
+  "simple": "The salesperson was very kind.",
+  "simple_zh": "那位銷售員非常親切。",
+  "toeic": "Each salesperson must submit a weekly report to the regional manager.",
+  "toeic_zh": "每位業務員都必須向區域經理提交每週報告。",
+  "family": "salesperson (n), sales (n)",
+  "related": [
+   {
+    "w": "sales representative",
+    "zh": "業務代表",
+    "k": "syn"
+   },
+   {
+    "w": "personnel",
+    "zh": "人事；員工",
+    "k": "confuse"
+   }
+  ],
+  "n": 880,
+  "day": 36,
+  "src": "TSL"
+ },
+ {
+  "word": "salon",
+  "pos": "n",
+  "pic": "💇",
+  "zh": "美容院；美髮沙龍",
+  "en": "a shop for hair or beauty care",
+  "simple": "She went to the salon.",
+  "simple_zh": "她去了美髮沙龍。",
+  "toeic": "The hair salon is offering a discount to new customers.",
+  "toeic_zh": "這家美髮沙龍提供新顧客折扣。",
+  "family": "",
+  "related": [
+   {
+    "w": "saloon",
+    "zh": "酒館",
+    "k": "confuse"
+   },
+   {
+    "w": "spa",
+    "zh": "水療中心",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 881,
+  "day": 36
+ },
+ {
+  "word": "scarf",
+  "pos": "n",
+  "pic": "🧣",
+  "zh": "圍巾",
+  "en": "a long cloth worn around the neck",
+  "simple": "I wear a scarf in winter.",
+  "simple_zh": "我冬天圍圍巾。",
+  "toeic": "The shop sells this silk scarf in many colors.",
+  "toeic_zh": "這家店販售多種顏色的這款絲巾。",
+  "family": "",
+  "related": [
+   {
+    "w": "scarce",
+    "zh": "稀少的",
+    "k": "confuse"
+   },
+   {
+    "w": "shawl",
+    "zh": "披肩",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 882,
+  "day": 36
+ },
+ {
+  "word": "seasonal",
+  "pos": "adj",
+  "pic": "🍂",
+  "zh": "季節性的",
+  "en": "related to specific time of year",
+  "simple": "Plan seasonal promotions.",
+  "simple_zh": "計劃季節性推廣。",
+  "toeic": "Our seasonal campaigns align with holiday shopping periods.",
+  "toeic_zh": "我們的季節性活動與假日購物期間一致。",
+  "family": "season (n)",
+  "related": [
+   {
+    "w": "temporary",
+    "zh": "臨時",
+    "k": "syn"
+   },
+   {
+    "w": "periodic",
+    "zh": "定期",
+    "k": "syn"
+   }
+  ],
+  "n": 883,
+  "day": 36,
+  "src": "TSL"
+ },
+ {
+  "word": "seller",
+  "pos": "n",
+  "pic": "💼",
+  "zh": "賣家；銷售者",
+  "en": "person or company that sells goods or services",
+  "simple": "The seller must deliver on time.",
+  "simple_zh": "賣家必須按時交貨。",
+  "toeic": "Our seller reputation is excellent across all platforms.",
+  "toeic_zh": "我們的賣家信譽在所有平台上都很好。",
+  "family": "sell (v), selling (n)",
+  "related": [
+   {
+    "w": "vendor",
+    "zh": "供應商",
+    "k": "syn"
+   },
+   {
+    "w": "buyer",
+    "zh": "購買者",
+    "k": "opp"
+   }
+  ],
+  "n": 884,
+  "day": 36,
+  "src": "TSL"
+ },
+ {
+  "word": "shopper",
+  "pos": "n",
+  "pic": "🛍️",
+  "zh": "購物者",
+  "en": "A person who visits stores to buy things.",
+  "simple": "Many shoppers came on Saturday.",
+  "simple_zh": "星期六有很多購物者來。",
+  "toeic": "The store offers extended hours to attract holiday shoppers.",
+  "toeic_zh": "這家店延長營業時間以吸引假日購物者。",
+  "family": "shopper (n), shop (v, n), shopping (n)",
+  "related": [
+   {
+    "w": "customer",
+    "zh": "顧客",
+    "k": "syn"
+   },
+   {
+    "w": "shipper",
+    "zh": "託運人",
+    "k": "confuse"
+   }
+  ],
+  "n": 885,
+  "day": 36,
+  "src": "TSL"
+ },
+ {
+  "word": "showroom",
+  "pos": "n",
+  "pic": "🚗",
+  "zh": "展示間；展售廳",
+  "en": "a large room where a company shows its products for sale",
+  "simple": "The car showroom opens at nine.",
+  "simple_zh": "汽車展示間九點開門。",
+  "toeic": "Visit our showroom to see the complete range of kitchen appliances.",
+  "toeic_zh": "歡迎蒞臨我們的展示間，欣賞完整系列的廚房電器。",
+  "family": "showroom (n) = show + room; car showroom 汽車展示間; furniture showroom 家具展示間",
+  "related": [
+   {
+    "w": "exhibition",
+    "zh": "展覽",
+    "k": "syn"
+   },
+   {
+    "w": "warehouse",
+    "zh": "倉庫",
+    "k": "confuse"
+   }
+  ],
+  "n": 886,
+  "day": 36,
+  "src": "TSL"
+ },
+ {
+  "word": "similarity",
+  "pos": "n",
+  "pic": "🟰",
+  "zh": "相似；相似處",
+  "en": "the quality of being alike",
+  "simple": "There is a similarity between them.",
+  "simple_zh": "他們之間有相似之處。",
+  "toeic": "The report points out a similarity between the two products.",
+  "toeic_zh": "報告指出這兩項產品之間的相似之處。",
+  "family": "similar (adj), similarly (adv)",
+  "related": [
+   {
+    "w": "difference",
+    "zh": "差異",
+    "k": "opp"
+   },
+   {
+    "w": "similar",
+    "zh": "相似的",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 887,
+  "day": 36
+ },
+ {
+  "word": "sleeve",
+  "pos": "n",
+  "pic": "👔",
+  "zh": "袖子",
+  "en": "the part of a shirt that covers the arm",
+  "simple": "This shirt has long sleeves.",
+  "simple_zh": "這件襯衫是長袖。",
+  "toeic": "The jacket is available with short or long sleeves.",
+  "toeic_zh": "這件外套有短袖和長袖可選。",
+  "family": "",
+  "related": [
+   {
+    "w": "sleep",
+    "zh": "睡覺",
+    "k": "confuse"
+   },
+   {
+    "w": "collar",
+    "zh": "領子",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 888,
+  "day": 36
+ },
+ {
+  "word": "sock",
+  "pos": "n",
+  "pic": "🧦",
+  "zh": "襪子",
+  "en": "a soft cover for your foot",
+  "simple": "I lost one sock.",
+  "simple_zh": "我弄丟了一隻襪子。",
+  "toeic": "The store sells socks in a variety of colors.",
+  "toeic_zh": "這家店販售各種顏色的襪子。",
+  "family": "sock (n)",
+  "related": [
+   {
+    "w": "shock",
+    "zh": "震驚",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 889,
+  "day": 36
+ },
+ {
+  "word": "specially",
+  "pos": "adv",
+  "pic": "🎯",
+  "zh": "特別地；專門地",
+  "en": "for a particular purpose",
+  "simple": "This cake is specially for you.",
+  "simple_zh": "這個蛋糕是特別為你做的。",
+  "toeic": "The software was specially designed for small businesses.",
+  "toeic_zh": "這套軟體是專為小型企業設計的。",
+  "family": "special (adj), specially (adv), specialty (n)",
+  "related": [
+   {
+    "w": "especially",
+    "zh": "尤其",
+    "k": "confuse"
+   },
+   {
+    "w": "special",
+    "zh": "特別的",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 890,
+  "day": 36
+ },
+ {
+  "word": "specialty",
+  "pos": "n",
+  "pic": "⭐",
+  "zh": "專長；特產；招牌",
+  "en": "a product or skill someone is best known for",
+  "simple": "Fish is the chef's specialty.",
+  "simple_zh": "魚是主廚的拿手菜。",
+  "toeic": "Our specialty is custom-made furniture for offices.",
+  "toeic_zh": "我們的專長是辦公室客製化家具。",
+  "family": "special (adj), specialty (n), specially (adv)",
+  "related": [
+   {
+    "w": "specialist",
+    "zh": "專家",
+    "k": "confuse"
+   },
+   {
+    "w": "expertise",
+    "zh": "專業知識",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 891,
+  "day": 36
+ },
+ {
+  "word": "spokesperson",
+  "pos": "n",
+  "pic": "🎤",
+  "zh": "代言人；發言人",
+  "en": "A person who speaks officially for a company or group.",
+  "simple": "The spokesperson answered our questions.",
+  "simple_zh": "發言人回答了我們的問題。",
+  "toeic": "A famous athlete was chosen as the spokesperson for the sportswear line.",
+  "toeic_zh": "一位知名運動員被選為這個運動服飾系列的代言人。",
+  "family": "spokesperson (n), spokesman (n)",
+  "related": [
+   {
+    "w": "sponsor",
+    "zh": "贊助者",
+    "k": "confuse"
+   },
+   {
+    "w": "representative",
+    "zh": "代表",
+    "k": "syn"
+   }
+  ],
+  "n": 892,
+  "day": 36,
+  "src": "TSL"
+ },
+ {
+  "word": "stereo",
+  "pos": "n",
+  "pic": "🔊",
+  "zh": "音響",
+  "en": "a machine that plays music through speakers",
+  "simple": "Turn off the stereo.",
+  "simple_zh": "把音響關掉。",
+  "toeic": "The rental car comes with a built-in stereo.",
+  "toeic_zh": "這輛租賃車配有內建音響。",
+  "family": "stereo (n)",
+  "related": [
+   {
+    "w": "speaker",
+    "zh": "喇叭",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 893,
+  "day": 36
+ },
+ {
+  "word": "stripe",
+  "pos": "n",
+  "pic": "🦓",
+  "zh": "條紋",
+  "en": "a long narrow line of color",
+  "simple": "The shirt has a blue stripe.",
+  "simple_zh": "這件襯衫有藍色條紋。",
+  "toeic": "The company logo features a red stripe across the top.",
+  "toeic_zh": "公司標誌的頂部有一道紅色條紋。",
+  "family": "stripe (n), striped (adj)",
+  "related": [
+   {
+    "w": "strip",
+    "zh": "長條",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 894,
+  "day": 36
+ },
+ {
+  "word": "subscription",
+  "pos": "n",
+  "pic": "📰",
+  "zh": "訂閱；訂購",
+  "en": "regular payment for continued access or service",
+  "simple": "Offer a subscription model.",
+  "simple_zh": "提供訂閱模式。",
+  "toeic": "Our subscription service offers monthly billing options.",
+  "toeic_zh": "我們的訂閱服務提供月度帳單選項。",
+  "family": "subscribe (v), subscriber (n)",
+  "related": [
+   {
+    "w": "membership",
+    "zh": "會籍",
+    "k": "syn"
+   },
+   {
+    "w": "plan",
+    "zh": "計劃",
+    "k": "syn"
+   }
+  ],
+  "n": 895,
+  "day": 36,
+  "src": "TSL"
+ },
+ {
+  "word": "sweater",
+  "pos": "n",
+  "pic": "🧥",
+  "zh": "毛衣",
+  "en": "a warm knitted top",
+  "simple": "I wear a sweater.",
+  "simple_zh": "我穿著毛衣。",
+  "toeic": "We sell sweaters in many sizes and colors.",
+  "toeic_zh": "我們販售各種尺寸與顏色的毛衣。",
+  "family": "sweater (n)",
+  "related": [
+   {
+    "w": "sweat",
+    "zh": "汗",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 896,
+  "day": 36
+ },
+ {
+  "word": "taker",
+  "pos": "n",
+  "pic": "🙋",
+  "zh": "接受者；買家",
+  "en": "a person who accepts an offer",
+  "simple": "The free tickets had no takers.",
+  "simple_zh": "免費票沒人要。",
+  "toeic": "The offer found few takers among the staff.",
+  "toeic_zh": "這項提議在員工之間幾乎沒有人接受。",
+  "family": "take (v), taker (n)",
+  "related": [
+   {
+    "w": "giver",
+    "zh": "給予者",
+    "k": "opp"
+   },
+   {
+    "w": "taken",
+    "zh": "被拿走的",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 897,
+  "day": 36
+ },
+ {
+  "word": "teen",
+  "pos": "n",
+  "pic": "🧑",
+  "zh": "青少年",
+  "en": "a person aged thirteen to nineteen",
+  "simple": "The teen likes music.",
+  "simple_zh": "這位青少年喜歡音樂。",
+  "toeic": "The store offers a special discount for every teen customer.",
+  "toeic_zh": "這家店為每位青少年顧客提供特別折扣。",
+  "family": "teen (n), teenager (n)",
+  "related": [
+   {
+    "w": "teenager",
+    "zh": "青少年",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 898,
+  "day": 36
+ },
+ {
+  "word": "tempt",
+  "pos": "v",
+  "pic": "🍰",
+  "zh": "誘惑；吸引",
+  "en": "to make someone want to do something",
+  "simple": "The cake tempts me.",
+  "simple_zh": "這個蛋糕誘惑著我。",
+  "toeic": "The low price may tempt customers to buy more.",
+  "toeic_zh": "低價可能會吸引顧客多買。",
+  "family": "tempt (v), temptation (n)",
+  "related": [
+   {
+    "w": "attempt",
+    "zh": "嘗試",
+    "k": "confuse"
+   },
+   {
+    "w": "attract",
+    "zh": "吸引",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 899,
+  "day": 36
+ },
+ {
+  "word": "tomato",
+  "pos": "n",
+  "pic": "🍅",
+  "zh": "番茄",
+  "en": "a round red fruit used in cooking",
+  "simple": "I like tomato soup.",
+  "simple_zh": "我喜歡番茄湯。",
+  "toeic": "The farm supplies fresh tomato to local supermarkets.",
+  "toeic_zh": "這座農場供應新鮮番茄給當地超市。",
+  "family": "tomato (n)",
+  "related": [
+   {
+    "w": "potato",
+    "zh": "馬鈴薯",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 900,
+  "day": 36
+ },
+ {
+  "word": "trademark",
+  "pos": "n",
+  "pic": "™️",
+  "zh": "註冊商標",
+  "en": "A legally registered name or symbol of a company.",
+  "simple": "That name is a trademark.",
+  "simple_zh": "那個名稱是註冊商標。",
+  "toeic": "The firm filed a trademark to protect its product name overseas.",
+  "toeic_zh": "該公司申請註冊商標，以在海外保護其產品名稱。",
+  "family": "trademark (n, v)",
+  "related": [
+   {
+    "w": "copyright",
+    "zh": "著作權",
+    "k": "confuse"
+   },
+   {
+    "w": "patent",
+    "zh": "專利",
+    "k": "confuse"
+   }
+  ],
+  "n": 901,
+  "day": 37,
+  "src": "TSL"
+ },
+ {
+  "word": "traditionally",
+  "pos": "adv",
+  "pic": "🏮",
+  "zh": "傳統上",
+  "en": "in a way that follows old customs",
+  "simple": "We traditionally eat rice.",
+  "simple_zh": "我們傳統上吃米飯。",
+  "toeic": "The company has traditionally relied on print advertising.",
+  "toeic_zh": "這家公司傳統上依賴平面廣告。",
+  "family": "tradition (n), traditional (adj), traditionally (adv)",
+  "related": [
+   {
+    "w": "traditional",
+    "zh": "傳統的",
+    "k": "family"
+   },
+   {
+    "w": "conventionally",
+    "zh": "慣例上",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 902,
+  "day": 37
+ },
+ {
+  "word": "transaction",
+  "pos": "n",
+  "pic": "📝",
+  "zh": "交易；交易記錄",
+  "en": "business deal or exchange of money and goods",
+  "simple": "Each transaction is recorded.",
+  "simple_zh": "每筆交易都有記錄。",
+  "toeic": "Payment processing transactions increased by 300% this year.",
+  "toeic_zh": "今年支付處理交易增加了300%。",
+  "family": "transact (v)",
+  "related": [
+   {
+    "w": "deal",
+    "zh": "交易",
+    "k": "syn"
+   },
+   {
+    "w": "exchange",
+    "zh": "交換",
+    "k": "syn"
+   }
+  ],
+  "n": 903,
+  "day": 37,
+  "src": "TSL"
+ },
+ {
+  "word": "unlimited",
+  "pos": "adj",
+  "pic": "♾️",
+  "zh": "無限制的",
+  "en": "Without any limit in amount or number.",
+  "simple": "The pass gives unlimited rides.",
+  "simple_zh": "這張票可無限次搭乘。",
+  "toeic": "The plan includes unlimited data and free international calls.",
+  "toeic_zh": "此方案包含無限流量與免費國際通話。",
+  "family": "limit (v/n), limited (adj)",
+  "related": [
+   {
+    "w": "limited",
+    "zh": "有限的",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 904,
+  "day": 37
+ },
+ {
+  "word": "wallet",
+  "pos": "n",
+  "pic": "👛",
+  "zh": "皮夾",
+  "en": "A small case for money and cards.",
+  "simple": "I lost my wallet.",
+  "simple_zh": "我把皮夾弄丟了。",
+  "toeic": "A guest found a wallet in the lobby and gave it to reception.",
+  "toeic_zh": "一位房客在大廳撿到皮夾並交給櫃檯。",
+  "family": "",
+  "related": [
+   {
+    "w": "purse",
+    "zh": "女用包",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 905,
+  "day": 37
+ },
+ {
+  "word": "warranty",
+  "pos": "n",
+  "pic": "✅",
+  "zh": "保修；保證",
+  "en": "guarantee that a product meets certain standards",
+  "simple": "The warranty covers defects.",
+  "simple_zh": "保修涵蓋缺陷。",
+  "toeic": "Our products come with a two-year warranty against manufacturing defects.",
+  "toeic_zh": "我們的產品附帶針對製造缺陷的兩年保修。",
+  "family": "warrant (v)",
+  "related": [
+   {
+    "w": "guarantee",
+    "zh": "保證",
+    "k": "syn"
+   },
+   {
+    "w": "coverage",
+    "zh": "承保",
+    "k": "syn"
+   }
+  ],
+  "n": 906,
+  "day": 37,
+  "src": "TSL"
+ },
+ {
+  "word": "wool",
+  "pos": "n",
+  "pic": "🐑",
+  "zh": "羊毛",
+  "en": "Soft hair from sheep used to make clothes.",
+  "simple": "This sweater is made of wool.",
+  "simple_zh": "這件毛衣是羊毛做的。",
+  "toeic": "The jackets in our winter line are made of pure wool.",
+  "toeic_zh": "我們冬季系列的外套由純羊毛製成。",
+  "family": "woolen (adj)",
+  "related": [
+   {
+    "w": "wood",
+    "zh": "木頭",
+    "k": "confuse"
+   },
+   {
+    "w": "cotton",
+    "zh": "棉",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 907,
+  "day": 37
+ },
+ {
+  "word": "wrinkle",
+  "pos": "n",
+  "pic": "👕",
+  "zh": "皺紋；皺褶",
+  "en": "A small fold or line in cloth or skin.",
+  "simple": "My shirt has a wrinkle.",
+  "simple_zh": "我的襯衫有皺褶。",
+  "toeic": "This fabric resists wrinkle, so it is ideal for travel.",
+  "toeic_zh": "這種布料不易皺，很適合旅行。",
+  "family": "wrinkled (adj)",
+  "related": [
+   {
+    "w": "crease",
+    "zh": "摺痕",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 908,
+  "day": 37
+ },
+ {
+  "word": "wristwatch",
+  "pos": "n",
+  "pic": "⌚",
+  "zh": "手錶",
+  "en": "A watch worn on the wrist.",
+  "simple": "He wears a wristwatch.",
+  "simple_zh": "他戴著手錶。",
+  "toeic": "The store offers a free engraving on every wristwatch.",
+  "toeic_zh": "這家店為每支手錶提供免費刻字。",
+  "family": "watch (n)",
+  "related": [
+   {
+    "w": "clock",
+    "zh": "時鐘",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 909,
+  "day": 37
+ },
+ {
+  "word": "bundle",
+  "pos": "n",
+  "pic": "📦",
+  "zh": "捆綁；束",
+  "en": "combination of products sold together",
+  "simple": "Create product bundles.",
+  "simple_zh": "創建產品捆綁。",
+  "toeic": "Our product bundles offer better value than individual purchases.",
+  "toeic_zh": "我們的產品捆綁提供了比單獨購買更好的價值。",
+  "family": "bundle (v)",
+  "related": [
+   {
+    "w": "package",
+    "zh": "套餐",
+    "k": "syn"
+   },
+   {
+    "w": "collection",
+    "zh": "集合",
+    "k": "syn"
+   }
+  ],
+  "n": 910,
+  "day": 37,
+  "src": "BSL"
+ },
+ {
+  "word": "conversion",
+  "pos": "n",
+  "pic": "✅",
+  "zh": "轉化；轉變",
+  "en": "changing a potential customer into a paying customer",
+  "simple": "Conversion rates are improving.",
+  "simple_zh": "轉化率在提高。",
+  "toeic": "Our conversion rate from inquiry to sale is approximately 15%.",
+  "toeic_zh": "我們的詢問轉化為銷售的轉化率約為15%。",
+  "family": "convert (v), converted (adj)",
+  "related": [
+   {
+    "w": "rate",
+    "zh": "率",
+    "k": "syn"
+   },
+   {
+    "w": "acquisition",
+    "zh": "獲得",
+    "k": "syn"
+   }
+  ],
+  "n": 911,
+  "day": 37,
+  "src": "BSL"
+ },
+ {
+  "word": "credibility",
+  "pos": "n",
+  "pic": "🛡️",
+  "zh": "信任；可信度",
+  "en": "quality of being trusted or believed",
+  "simple": "Establish credibility first.",
+  "simple_zh": "首先建立信任。",
+  "toeic": "Our company's credibility increased after receiving industry awards.",
+  "toeic_zh": "獲得行業獎項後，我們公司的信任度提高了。",
+  "family": "credible (adj)",
+  "related": [
+   {
+    "w": "trust",
+    "zh": "信任",
+    "k": "syn"
+   },
+   {
+    "w": "reliability",
+    "zh": "可靠性",
+    "k": "syn"
+   }
+  ],
+  "n": 912,
+  "day": 37,
+  "src": "BSL"
+ },
+ {
+  "word": "demographic",
+  "pos": "n",
+  "pic": "👥",
+  "zh": "人口統計族群",
+  "en": "A group of people defined by age, income, or similar traits.",
+  "simple": "Young people are our main demographic.",
+  "simple_zh": "年輕人是我們的主要客群。",
+  "toeic": "The survey shows that our product appeals mostly to a younger demographic.",
+  "toeic_zh": "調查顯示我們的產品主要吸引較年輕的族群。",
+  "family": "demographic (adj), demographics (n)",
+  "related": [
+   {
+    "w": "democratic",
+    "zh": "民主的",
+    "k": "confuse"
+   },
+   {
+    "w": "segment",
+    "zh": "客群區隔",
+    "k": "syn"
+   }
+  ],
+  "n": 913,
+  "day": 37,
+  "src": "BSL"
+ },
+ {
+  "word": "differentiation",
+  "pos": "n",
+  "pic": "🔀",
+  "zh": "差異化；區分",
+  "en": "making something distinct or different",
+  "simple": "Create product differentiation.",
+  "simple_zh": "創造產品差異化。",
+  "toeic": "Our differentiation strategy focuses on superior customer service.",
+  "toeic_zh": "我們的差異化戰略專注於優質客戶服務。",
+  "family": "differentiate (v), different (adj)",
+  "related": [
+   {
+    "w": "distinction",
+    "zh": "區別",
+    "k": "syn"
+   },
+   {
+    "w": "uniqueness",
+    "zh": "獨特性",
+    "k": "syn"
+   }
+  ],
+  "n": 914,
+  "day": 37,
+  "src": "BSL"
+ },
+ {
+  "word": "endorse",
+  "pos": "v",
+  "pic": "✍️",
+  "zh": "代言；背書；認可",
+  "en": "to say publicly that you like and support a product",
+  "simple": "A famous singer will endorse the shoes.",
+  "simple_zh": "一位知名歌手將為這雙鞋代言。",
+  "toeic": "The company paid a famous athlete to endorse its new sports drink.",
+  "toeic_zh": "公司付錢請一位知名運動員為其新運動飲料代言。",
+  "family": "endorsement (n) 代言；背書; endorser (n) 代言人; celebrity endorsement 名人代言",
+  "related": [
+   {
+    "w": "endure",
+    "zh": "忍受",
+    "k": "confuse"
+   },
+   {
+    "w": "approve",
+    "zh": "批准；認可",
+    "k": "syn"
+   }
+  ],
+  "n": 915,
+  "day": 37,
+  "src": "BSL"
+ },
+ {
+  "word": "endorsement",
+  "pos": "n",
+  "pic": "🌟",
+  "zh": "代言；背書",
+  "en": "public support from a famous person for a product",
+  "simple": "The singer gave the shoes an endorsement.",
+  "simple_zh": "那位歌手為這雙鞋代言。",
+  "toeic": "A celebrity endorsement helped the new beverage reach younger customers.",
+  "toeic_zh": "名人代言幫助這款新飲料接觸到更年輕的顧客。",
+  "family": "endorse (v), endorser (n)",
+  "related": [
+   {
+    "w": "sponsorship",
+    "zh": "贊助",
+    "k": "confuse"
+   },
+   {
+    "w": "approval",
+    "zh": "認可",
+    "k": "syn"
+   }
+  ],
+  "n": 916,
+  "day": 37,
+  "src": "BSL"
+ },
+ {
+  "word": "execute",
+  "pos": "v",
+  "pic": "⚡",
+  "zh": "執行；實行",
+  "en": "to carry out or perform an action",
+  "simple": "Execute marketing campaigns.",
+  "simple_zh": "執行市場營銷活動。",
+  "toeic": "Our team executes daily marketing tasks efficiently.",
+  "toeic_zh": "我們的團隊有效地執行日常市場營銷任務。",
+  "family": "execution (n), executive (n)",
+  "related": [
+   {
+    "w": "implement",
+    "zh": "實施",
+    "k": "syn"
+   },
+   {
+    "w": "perform",
+    "zh": "執行",
+    "k": "syn"
+   }
+  ],
+  "n": 917,
+  "day": 37,
+  "src": "BSL"
+ },
+ {
+  "word": "hybrid",
+  "pos": "adj",
+  "pic": "🔀",
+  "zh": "混合的；複合",
+  "en": "combining two different types or methods",
+  "simple": "Use hybrid model.",
+  "simple_zh": "使用混合模式。",
+  "toeic": "Our hybrid retail model combines online and offline channels.",
+  "toeic_zh": "我們的混合零售模式結合了在線和線下渠道。",
+  "family": "hybrid (n)",
+  "related": [
+   {
+    "w": "blended",
+    "zh": "混合",
+    "k": "syn"
+   },
+   {
+    "w": "integrated",
+    "zh": "整合",
+    "k": "syn"
+   }
+  ],
+  "n": 918,
+  "day": 37,
+  "src": "BSL"
+ },
+ {
+  "word": "liquidate",
+  "pos": "v",
+  "pic": "💸",
+  "zh": "清算；變賣",
+  "en": "To sell goods quickly, often at low prices.",
+  "simple": "The shop must liquidate old stock.",
+  "simple_zh": "這家店必須變賣舊庫存。",
+  "toeic": "The company had to liquidate its remaining inventory before closing.",
+  "toeic_zh": "公司在結束營業前必須變賣剩餘的庫存。",
+  "family": "liquidation (n), liquidate (v)",
+  "related": [
+   {
+    "w": "liquidation",
+    "zh": "清算",
+    "k": "family"
+   },
+   {
+    "w": "liquid",
+    "zh": "液體；流動的",
+    "k": "confuse"
+   }
+  ],
+  "n": 919,
+  "day": 37,
+  "src": "BSL"
+ },
+ {
+  "word": "niche",
+  "pos": "n",
+  "pic": "🔍",
+  "zh": "利基市場",
+  "en": "A small, specialized part of a market.",
+  "simple": "They sell to a small niche.",
+  "simple_zh": "他們向一個小眾市場銷售。",
+  "toeic": "The startup found a niche in eco-friendly office supplies.",
+  "toeic_zh": "這家新創公司在環保辦公用品領域找到了利基市場。",
+  "family": "niche (n, adj)",
+  "related": [
+   {
+    "w": "mainstream",
+    "zh": "主流",
+    "k": "opp"
+   },
+   {
+    "w": "niece",
+    "zh": "姪女；外甥女",
+    "k": "confuse"
+   }
+  ],
+  "n": 920,
+  "day": 37,
+  "src": "BSL"
+ },
+ {
+  "word": "payback",
+  "pos": "n",
+  "pic": "⏰",
+  "zh": "回本；收回",
+  "en": "time needed to recover investment",
+  "simple": "Calculate payback period.",
+  "simple_zh": "計算回本期限。",
+  "toeic": "The marketing campaign has a payback period of 6 months.",
+  "toeic_zh": "市場營銷活動的回本期限是6個月。",
+  "family": "payback (adj)",
+  "related": [
+   {
+    "w": "return",
+    "zh": "回報",
+    "k": "syn"
+   },
+   {
+    "w": "investment",
+    "zh": "投資",
+    "k": "syn"
+   }
+  ],
+  "n": 921,
+  "day": 37,
+  "src": "BSL"
+ },
+ {
+  "word": "pipeline",
+  "pos": "n",
+  "pic": "🔗",
+  "zh": "漏斗；流程",
+  "en": "series of processes or customers in various stages",
+  "simple": "Manage your sales pipeline.",
+  "simple_zh": "管理你的銷售漏斗。",
+  "toeic": "Our sales pipeline contains $5 million in qualified opportunities.",
+  "toeic_zh": "我們的銷售漏斗包含500萬美元的符合資格的機會。",
+  "family": "pipe (n)",
+  "related": [
+   {
+    "w": "funnel",
+    "zh": "漏斗",
+    "k": "syn"
+   },
+   {
+    "w": "process",
+    "zh": "流程",
+    "k": "syn"
+   }
+  ],
+  "n": 922,
+  "day": 37,
+  "src": "BSL"
+ },
+ {
+  "word": "proposition",
+  "pos": "n",
+  "pic": "💼",
+  "zh": "提議；主張",
+  "en": "plan or suggestion presented to someone",
+  "simple": "Present your value proposition.",
+  "simple_zh": "呈現你的價值主張。",
+  "toeic": "Our unique value proposition emphasizes quality and innovation.",
+  "toeic_zh": "我們獨特的價值主張強調質量和創新。",
+  "family": "propose (v)",
+  "related": [
+   {
+    "w": "offer",
+    "zh": "提議",
+    "k": "syn"
+   },
+   {
+    "w": "proposal",
+    "zh": "提案",
+    "k": "syn"
+   }
+  ],
+  "n": 923,
+  "day": 37,
+  "src": "BSL"
+ },
+ {
+  "word": "quota",
+  "pos": "n",
+  "pic": "🎯",
+  "zh": "業績配額；定額",
+  "en": "A fixed amount of sales a person must reach.",
+  "simple": "He met his sales quota.",
+  "simple_zh": "他達成了銷售配額。",
+  "toeic": "Our team exceeded its quarterly quota by fifteen percent.",
+  "toeic_zh": "我們團隊的季度業績超出配額百分之十五。",
+  "family": "",
+  "related": [
+   {
+    "w": "quote",
+    "zh": "報價",
+    "k": "confuse"
+   },
+   {
+    "w": "target",
+    "zh": "目標",
+    "k": "syn"
+   }
+  ],
+  "n": 924,
+  "day": 37,
+  "src": "BSL"
+ },
+ {
+  "word": "slogan",
+  "pos": "n",
+  "pic": "💬",
+  "zh": "標語；口號",
+  "en": "a short phrase that a company uses in its advertising",
+  "simple": "The shop has a funny slogan.",
+  "simple_zh": "這家店有一句很有趣的口號。",
+  "toeic": "The new slogan is short, catchy, and easy to remember.",
+  "toeic_zh": "這句新標語簡短、朗朗上口又容易記住。",
+  "family": "advertising slogan 廣告標語; catchy slogan 朗朗上口的標語; campaign slogan 活動標語",
+  "related": [
+   {
+    "w": "logo",
+    "zh": "標誌",
+    "k": "confuse"
+   },
+   {
+    "w": "motto",
+    "zh": "座右銘；格言",
+    "k": "syn"
+   }
+  ],
+  "n": 925,
+  "day": 37,
+  "src": "BSL"
+ },
+ {
+  "word": "threshold",
+  "pos": "n",
+  "pic": "🚪",
+  "zh": "閾值；門檻",
+  "en": "level or point at which something begins",
+  "simple": "Set a discount threshold.",
+  "simple_zh": "設置折扣門檻。",
+  "toeic": "Orders exceeding the threshold receive automatic discounts.",
+  "toeic_zh": "超過門檻的訂單自動獲得折扣。",
+  "family": "threshold (adj)",
+  "related": [
+   {
+    "w": "minimum",
+    "zh": "最小值",
+    "k": "syn"
+   },
+   {
+    "w": "point",
+    "zh": "點",
+    "k": "syn"
+   }
+  ],
+  "n": 926,
+  "day": 38,
+  "src": "BSL"
+ },
+ {
+  "word": "tier",
+  "pos": "n",
+  "pic": "📊",
+  "zh": "等級；層級",
+  "en": "level or rank in a system",
+  "simple": "Create tiered pricing.",
+  "simple_zh": "創建分級定價。",
+  "toeic": "Our tiered pricing structure offers options for all budgets.",
+  "toeic_zh": "我們的分級定價結構為所有預算提供選項。",
+  "family": "tiered (adj)",
+  "related": [
+   {
+    "w": "level",
+    "zh": "水平",
+    "k": "syn"
+   },
+   {
+    "w": "category",
+    "zh": "類別",
+    "k": "syn"
+   }
+  ],
+  "n": 927,
+  "day": 38,
+  "src": "BSL"
+ },
+ {
+  "word": "trader",
+  "pos": "n",
+  "pic": "📈",
+  "zh": "交易商；商人",
+  "en": "person or company that buys and sells goods or securities",
+  "simple": "The trader made good decisions.",
+  "simple_zh": "交易商做出了明智的決定。",
+  "toeic": "The grain trader negotiated contracts for the harvest season.",
+  "toeic_zh": "穀物交易商為收穫季節談判合同。",
+  "family": "trade (v), trade (n)",
+  "related": [
+   {
+    "w": "merchant",
+    "zh": "商人",
+    "k": "syn"
+   },
+   {
+    "w": "dealer",
+    "zh": "經銷商",
+    "k": "syn"
+   }
+  ],
+  "n": 928,
+  "day": 38,
+  "src": "BSL"
+ },
+ {
+  "word": "unveil",
+  "pos": "v",
+  "pic": "🎉",
+  "zh": "揭幕；首度發表",
+  "en": "To show a new product to the public for the first time.",
+  "simple": "They will unveil a new car.",
+  "simple_zh": "他們將發表一款新車。",
+  "toeic": "The company will unveil its latest smartphone at a press conference tomorrow.",
+  "toeic_zh": "該公司明天將在記者會上發表最新款智慧型手機。",
+  "family": "",
+  "related": [
+   {
+    "w": "reveal",
+    "zh": "揭露",
+    "k": "syn"
+   },
+   {
+    "w": "conceal",
+    "zh": "隱藏",
+    "k": "opp"
+   }
+  ],
+  "n": 929,
+  "day": 38,
+  "src": "BSL"
+ },
+ {
+  "word": "wholesale",
+  "pos": "n",
+  "pic": "📦",
+  "zh": "批發；批購",
+  "en": "selling goods in bulk at lower prices",
+  "simple": "Offer wholesale pricing.",
+  "simple_zh": "提供批發定價。",
+  "toeic": "Our wholesale division supplies 500 retail partners.",
+  "toeic_zh": "我們的批發部門為500家零售合作夥伴供應。",
+  "family": "wholesaler (n)",
+  "related": [
+   {
+    "w": "bulk",
+    "zh": "大量",
+    "k": "syn"
+   },
+   {
+    "w": "retail",
+    "zh": "零售",
+    "k": "opp"
+   }
+  ],
+  "n": 930,
+  "day": 38,
+  "src": "BSL"
+ },
+ {
+  "word": "alliance",
+  "pos": "n",
+  "pic": "🤝",
+  "zh": "聯盟；結盟",
+  "en": "A group or agreement of partners who work together.",
+  "simple": "The two firms formed an alliance.",
+  "simple_zh": "兩家公司結成聯盟。",
+  "toeic": "The strategic alliance will help both companies enter new markets.",
+  "toeic_zh": "這項策略聯盟將協助兩家公司進入新市場。",
+  "family": "ally (n/v), allied (adj)",
+  "related": [
+   {
+    "w": "partnership",
+    "zh": "合夥關係",
+    "k": "syn"
+   },
+   {
+    "w": "ally",
+    "zh": "盟友",
+    "k": "family"
+   }
+  ],
+  "src": "BSL",
+  "n": 931,
+  "day": 38
+ },
+ {
+  "word": "precious",
+  "pos": "adj",
+  "pic": "💎",
+  "zh": "珍貴的",
+  "en": "Very valuable and important.",
+  "simple": "Time is precious.",
+  "simple_zh": "時間很珍貴。",
+  "toeic": "Please handle the precious artwork with great care.",
+  "toeic_zh": "請小心處理這件珍貴的藝術品。",
+  "family": "",
+  "related": [
+   {
+    "w": "valuable",
+    "zh": "有價值的",
+    "k": "syn"
+   },
+   {
+    "w": "worthless",
+    "zh": "無價值的",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 932,
+  "day": 38
+ },
+ {
+  "word": "triple",
+  "pos": "v",
+  "pic": "3️⃣",
+  "zh": "增為三倍",
+  "en": "to become three times as large",
+  "simple": "Our sales will triple this year.",
+  "simple_zh": "我們今年的銷售額會成長三倍。",
+  "toeic": "The company plans to triple its output by next year.",
+  "toeic_zh": "公司計劃明年將產量增為三倍。",
+  "family": "triple (adj), triply (adv)",
+  "related": [
+   {
+    "w": "double",
+    "zh": "加倍",
+    "k": "syn"
+   },
+   {
+    "w": "treble",
+    "zh": "增為三倍",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 933,
+  "day": 38
+ },
+ {
+  "word": "sacrifice",
+  "pos": "v",
+  "pic": "🙏",
+  "zh": "犧牲；捨棄",
+  "en": "to give up something for a greater purpose",
+  "simple": "Parents sacrifice a lot for children.",
+  "simple_zh": "父母為孩子犧牲很多。",
+  "toeic": "We refuse to sacrifice quality to reduce costs.",
+  "toeic_zh": "我們拒絕為降低成本而犧牲品質。",
+  "family": "sacrifice (n), sacrificial (adj)",
+  "related": [
+   {
+    "w": "sacred",
+    "zh": "神聖的",
+    "k": "confuse"
+   },
+   {
+    "w": "surrender",
+    "zh": "放棄",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 934,
+  "day": 38
+ },
+ {
+  "word": "bold",
+  "pos": "adj",
+  "pic": "💥",
+  "zh": "大膽的；醒目的",
+  "en": "brave and confident, or strong and clear",
+  "simple": "She made a bold choice.",
+  "simple_zh": "她做了一個大膽的選擇。",
+  "toeic": "The bold headline on the flyer attracted many customers.",
+  "toeic_zh": "傳單上醒目的標題吸引了許多顧客。",
+  "family": "boldly (adv), boldness (n)",
+  "related": [
+   {
+    "w": "brave",
+    "zh": "勇敢的",
+    "k": "syn"
+   },
+   {
+    "w": "timid",
+    "zh": "膽小的",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 935,
+  "day": 38
+ },
+ {
+  "word": "mainstream",
+  "pos": "adj",
+  "pic": "📈",
+  "zh": "主流的",
+  "en": "accepted by most people",
+  "simple": "This is a mainstream brand.",
+  "simple_zh": "這是個主流品牌。",
+  "toeic": "Electric cars are now becoming mainstream in many markets.",
+  "toeic_zh": "電動車如今在許多市場已成為主流。",
+  "family": "mainstream (n)",
+  "related": [
+   {
+    "w": "popular",
+    "zh": "受歡迎的",
+    "k": "syn"
+   },
+   {
+    "w": "alternative",
+    "zh": "非主流的",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 936,
+  "day": 38
+ },
+ {
+  "word": "spectrum",
+  "pos": "n",
+  "pic": "🌈",
+  "zh": "範圍；光譜",
+  "en": "a wide range of different things",
+  "simple": "The store sells a wide spectrum of goods.",
+  "simple_zh": "這家店賣各式各樣的商品。",
+  "toeic": "The survey covered a broad spectrum of customer opinions.",
+  "toeic_zh": "這項調查涵蓋了廣泛的顧客意見。",
+  "family": "spectral (adj)",
+  "related": [
+   {
+    "w": "range",
+    "zh": "範圍",
+    "k": "syn"
+   },
+   {
+    "w": "spectator",
+    "zh": "觀眾",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 937,
+  "day": 38
+ },
+ {
+  "word": "dominant",
+  "pos": "adj",
+  "pic": "👑",
+  "zh": "佔優勢的；主要的",
+  "en": "stronger or more important than others",
+  "simple": "It is the dominant company in the market.",
+  "simple_zh": "它是市場上佔優勢的公司。",
+  "toeic": "The firm holds a dominant position in the online retail market.",
+  "toeic_zh": "該公司在線上零售市場佔有主導地位。",
+  "family": "dominate (v), dominance (n)",
+  "related": [
+   {
+    "w": "dominate",
+    "zh": "支配",
+    "k": "family"
+   },
+   {
+    "w": "leading",
+    "zh": "領先的",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 938,
+  "day": 38
+ },
+ {
+  "word": "clever",
+  "pos": "adj",
+  "pic": "💡",
+  "zh": "聰明的；巧妙的",
+  "en": "quick to learn or smart in ideas",
+  "simple": "She is a clever girl.",
+  "simple_zh": "她是個聰明的女孩。",
+  "toeic": "The clever design reduced our packaging costs by half.",
+  "toeic_zh": "這個巧妙的設計使我們的包裝成本減半。",
+  "family": "cleverly (adv), cleverness (n)",
+  "related": [
+   {
+    "w": "clear",
+    "zh": "清楚的",
+    "k": "confuse"
+   },
+   {
+    "w": "smart",
+    "zh": "聰明的",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 939,
+  "day": 38
+ },
+ {
+  "word": "census",
+  "pos": "n",
+  "pic": "📊",
+  "zh": "人口普查",
+  "en": "an official count of the people in a country",
+  "simple": "The census counts every person.",
+  "simple_zh": "人口普查會計算每一個人。",
+  "toeic": "The census data helps us choose where to open new stores.",
+  "toeic_zh": "人口普查資料幫助我們選擇新店開設地點。",
+  "family": "",
+  "related": [
+   {
+    "w": "sense",
+    "zh": "感覺",
+    "k": "confuse"
+   },
+   {
+    "w": "survey",
+    "zh": "調查",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 940,
+  "day": 38
+ },
+ {
+  "word": "widespread",
+  "pos": "adj",
+  "pic": "🌎",
+  "zh": "普遍的；廣泛的",
+  "en": "happening in many places or among many people",
+  "simple": "Rain is widespread today.",
+  "simple_zh": "今天各地都下雨。",
+  "toeic": "There is widespread support for the new return policy.",
+  "toeic_zh": "新的退貨政策獲得廣泛支持。",
+  "family": "spread (v)",
+  "related": [
+   {
+    "w": "common",
+    "zh": "常見的",
+    "k": "syn"
+   },
+   {
+    "w": "limited",
+    "zh": "有限的",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 941,
+  "day": 38
+ },
+ {
+  "word": "conscious",
+  "pos": "adj",
+  "pic": "🧐",
+  "zh": "意識到的；有意的",
+  "en": "aware of something",
+  "simple": "I was conscious of the noise.",
+  "simple_zh": "我意識到了那個噪音。",
+  "toeic": "Customers are more conscious of product safety these days.",
+  "toeic_zh": "現今顧客對產品安全更有意識。",
+  "family": "consciousness (n), consciously (adv)",
+  "related": [
+   {
+    "w": "conscience",
+    "zh": "良心",
+    "k": "confuse"
+   },
+   {
+    "w": "aware",
+    "zh": "察覺的",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 942,
+  "day": 38
+ },
+ {
+  "word": "revolutionary",
+  "pos": "adj",
+  "pic": "🚀",
+  "zh": "革命性的；創新的",
+  "en": "completely new and very different",
+  "simple": "It is a revolutionary phone.",
+  "simple_zh": "這是一支革命性的手機。",
+  "toeic": "The company introduced a revolutionary battery design this year.",
+  "toeic_zh": "公司今年推出了革命性的電池設計。",
+  "family": "revolution (n), revolutionize (v)",
+  "related": [
+   {
+    "w": "evolutionary",
+    "zh": "漸進的",
+    "k": "confuse"
+   },
+   {
+    "w": "innovative",
+    "zh": "創新的",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 943,
+  "day": 38
+ },
+ {
+  "word": "intensity",
+  "pos": "n",
+  "pic": "🔥",
+  "zh": "強度；強烈",
+  "en": "the strength or force of something",
+  "simple": "The heat has great intensity.",
+  "simple_zh": "高溫的強度很大。",
+  "toeic": "The intensity of competition in this market is rising.",
+  "toeic_zh": "這個市場的競爭強度正在上升。",
+  "family": "intense (adj), intensify (v)",
+  "related": [
+   {
+    "w": "intention",
+    "zh": "意圖",
+    "k": "confuse"
+   },
+   {
+    "w": "intense",
+    "zh": "強烈的",
+    "k": "family"
+   }
+  ],
+  "src": "BSL",
+  "n": 944,
+  "day": 38
+ },
+ {
+  "word": "pursuit",
+  "pos": "n",
+  "pic": "🏃",
+  "zh": "追求；追逐",
+  "en": "the act of chasing or trying to achieve something",
+  "simple": "He is in pursuit of a new job.",
+  "simple_zh": "他正在追求一份新工作。",
+  "toeic": "The firm is in pursuit of new markets in Southeast Asia.",
+  "toeic_zh": "該公司正在東南亞尋求新市場。",
+  "family": "pursue (v)",
+  "related": [
+   {
+    "w": "pursue",
+    "zh": "追求",
+    "k": "family"
+   },
+   {
+    "w": "persuade",
+    "zh": "說服",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 945,
+  "day": 38
+ },
+ {
+  "word": "array",
+  "pos": "n",
+  "pic": "🗂️",
+  "zh": "一系列；陣列",
+  "en": "a large and varied group of things",
+  "simple": "The shop has an array of toys.",
+  "simple_zh": "這家店有各式各樣的玩具。",
+  "toeic": "The store offers a wide array of products at low prices.",
+  "toeic_zh": "這家店以低價提供種類繁多的商品。",
+  "family": "",
+  "related": [
+   {
+    "w": "range",
+    "zh": "範圍；系列",
+    "k": "syn"
+   },
+   {
+    "w": "arrive",
+    "zh": "抵達",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 946,
+  "day": 38
+ },
+ {
+  "word": "myth",
+  "pos": "n",
+  "pic": "🐉",
+  "zh": "迷思；神話",
+  "en": "a widely held but false belief; an old story",
+  "simple": "That is just a myth.",
+  "simple_zh": "那只是個迷思。",
+  "toeic": "It is a myth that online shopping is always cheaper.",
+  "toeic_zh": "認為網購一定比較便宜是個迷思。",
+  "family": "mythical (adj)",
+  "related": [
+   {
+    "w": "misconception",
+    "zh": "誤解",
+    "k": "syn"
+   },
+   {
+    "w": "fact",
+    "zh": "事實",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 947,
+  "day": 38
+ },
+ {
+  "word": "subtle",
+  "pos": "adj",
+  "pic": "🌫️",
+  "zh": "細微的；微妙的",
+  "en": "small and not easy to notice",
+  "simple": "There is a subtle difference in color.",
+  "simple_zh": "顏色上有細微的差異。",
+  "toeic": "The ad uses a subtle message to attract younger buyers.",
+  "toeic_zh": "這則廣告用含蓄的訊息吸引年輕買家。",
+  "family": "subtlety (n), subtly (adv)",
+  "related": [
+   {
+    "w": "slight",
+    "zh": "輕微的",
+    "k": "syn"
+   },
+   {
+    "w": "obvious",
+    "zh": "明顯的",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 948,
+  "day": 38
+ },
+ {
+  "word": "freely",
+  "pos": "adv",
+  "pic": "🕊️",
+  "zh": "自由地；無拘束地",
+  "en": "without limits or control",
+  "simple": "You can speak freely here.",
+  "simple_zh": "你可以在這裡自由發言。",
+  "toeic": "Customers can freely choose from several payment options.",
+  "toeic_zh": "顧客可以自由選擇多種付款方式。",
+  "family": "free (adj), freedom (n)",
+  "related": [
+   {
+    "w": "free",
+    "zh": "自由的；免費的",
+    "k": "family"
+   },
+   {
+    "w": "openly",
+    "zh": "公開地",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 949,
+  "day": 38
+ },
+ {
+  "word": "momentum",
+  "pos": "n",
+  "pic": "🚀",
+  "zh": "動能；勢頭",
+  "en": "force or speed gained as something develops",
+  "simple": "The team gained momentum this month.",
+  "simple_zh": "這個團隊本月氣勢越來越強。",
+  "toeic": "The campaign is gaining momentum among young consumers.",
+  "toeic_zh": "這項活動在年輕消費者之間越來越有聲勢。",
+  "family": "",
+  "related": [
+   {
+    "w": "moment",
+    "zh": "片刻",
+    "k": "confuse"
+   },
+   {
+    "w": "drive",
+    "zh": "動力",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 950,
+  "day": 38
+ },
+ {
+  "word": "notable",
+  "pos": "adj",
+  "pic": "⭐",
+  "zh": "值得注意的；顯著的",
+  "en": "worth noticing because it is important",
+  "simple": "She is a notable writer.",
+  "simple_zh": "她是一位著名的作家。",
+  "toeic": "The report shows a notable rise in online orders.",
+  "toeic_zh": "報告顯示網路訂單有顯著增加。",
+  "family": "notably (adv), note (v)",
+  "related": [
+   {
+    "w": "noticeable",
+    "zh": "明顯的",
+    "k": "confuse"
+   },
+   {
+    "w": "remarkable",
+    "zh": "卓越的",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 951,
+  "day": 39
+ },
+ {
+  "word": "slim",
+  "pos": "adj",
+  "pic": "📏",
+  "zh": "苗條的；微小的",
+  "en": "thin; very small in amount",
+  "simple": "He is tall and slim.",
+  "simple_zh": "他又高又瘦。",
+  "toeic": "The chances of closing the deal are slim.",
+  "toeic_zh": "談成這筆交易的機會很渺茫。",
+  "family": "",
+  "related": [
+   {
+    "w": "slender",
+    "zh": "纖細的",
+    "k": "syn"
+   },
+   {
+    "w": "slime",
+    "zh": "黏液",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 952,
+  "day": 39
+ },
+ {
+  "word": "headline",
+  "pos": "n",
+  "pic": "📰",
+  "zh": "標題；頭條",
+  "en": "the title of a news story",
+  "simple": "I read the headline this morning.",
+  "simple_zh": "我今天早上看了頭條新聞。",
+  "toeic": "The merger was the top headline in the business news.",
+  "toeic_zh": "這樁併購案是財經新聞的頭條。",
+  "family": "",
+  "related": [
+   {
+    "w": "title",
+    "zh": "標題",
+    "k": "syn"
+   },
+   {
+    "w": "deadline",
+    "zh": "截止期限",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 953,
+  "day": 39
+ },
+ {
+  "word": "passive",
+  "pos": "adj",
+  "pic": "😶",
+  "zh": "被動的；消極的",
+  "en": "accepting without taking action",
+  "simple": "He is too passive at work.",
+  "simple_zh": "他工作時太被動了。",
+  "toeic": "A passive approach to sales will not bring new customers.",
+  "toeic_zh": "被動的銷售方式無法帶來新客戶。",
+  "family": "passively (adv)",
+  "related": [
+   {
+    "w": "active",
+    "zh": "主動的",
+    "k": "opp"
+   },
+   {
+    "w": "passion",
+    "zh": "熱情",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 954,
+  "day": 39
+ },
+ {
+  "word": "sentiment",
+  "pos": "n",
+  "pic": "💭",
+  "zh": "情緒；看法",
+  "en": "a feeling or opinion about something",
+  "simple": "I share your sentiment.",
+  "simple_zh": "我和你有同感。",
+  "toeic": "Consumer sentiment improved after the new law passed.",
+  "toeic_zh": "新法通過後，消費者信心有所改善。",
+  "family": "sentimental (adj)",
+  "related": [
+   {
+    "w": "sentimental",
+    "zh": "感傷的",
+    "k": "confuse"
+   },
+   {
+    "w": "opinion",
+    "zh": "意見",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 955,
+  "day": 39
+ },
+ {
+  "word": "loser",
+  "pos": "n",
+  "pic": "😞",
+  "zh": "輸家；失敗者",
+  "en": "a person or thing that does not win",
+  "simple": "Nobody wants to be the loser.",
+  "simple_zh": "沒有人想當輸家。",
+  "toeic": "Small shops may be the biggest losers if prices rise.",
+  "toeic_zh": "如果價格上漲，小店可能是最大的輸家。",
+  "family": "lose (v), loss (n)",
+  "related": [
+   {
+    "w": "winner",
+    "zh": "贏家",
+    "k": "opp"
+   },
+   {
+    "w": "looser",
+    "zh": "較鬆的",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 956,
+  "day": 39
+ },
+ {
+  "word": "notably",
+  "pos": "adv",
+  "pic": "🌟",
+  "zh": "尤其；顯著地",
+  "en": "especially; in a way that is easy to notice",
+  "simple": "Many cities, notably Taipei, are crowded.",
+  "simple_zh": "許多城市，尤其是台北，都很擁擠。",
+  "toeic": "Sales rose in several regions, notably in Asia.",
+  "toeic_zh": "多個地區的銷售額上升，尤其是亞洲。",
+  "family": "notable (adj), note (v)",
+  "related": [
+   {
+    "w": "particularly",
+    "zh": "特別地",
+    "k": "syn"
+   },
+   {
+    "w": "notable",
+    "zh": "顯著的",
+    "k": "family"
+   }
+  ],
+  "src": "BSL",
+  "n": 957,
+  "day": 39
+ },
+ {
+  "word": "distinctive",
+  "pos": "adj",
+  "pic": "🌟",
+  "zh": "獨特的",
+  "en": "clearly different from others and easy to recognize",
+  "simple": "This cake has a distinctive taste.",
+  "simple_zh": "這個蛋糕有獨特的味道。",
+  "toeic": "The company's distinctive logo makes its products easy to spot.",
+  "toeic_zh": "這間公司獨特的標誌讓產品很容易辨認。",
+  "family": "distinction (n), distinct (adj), distinctively (adv)",
+  "related": [
+   {
+    "w": "distinct",
+    "zh": "明顯不同的",
+    "k": "family"
+   },
+   {
+    "w": "unique",
+    "zh": "獨一無二的",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 958,
+  "day": 39
+ },
+ {
+  "word": "steep",
+  "pos": "adj",
+  "pic": "📈",
+  "zh": "陡峭的；（價格）過高的",
+  "en": "rising or falling very quickly; too high in price",
+  "simple": "The road is very steep here.",
+  "simple_zh": "這裡的路很陡。",
+  "toeic": "Customers complained about the steep rise in ticket prices.",
+  "toeic_zh": "顧客抱怨票價大幅上漲。",
+  "family": "steeply (adv)",
+  "related": [
+   {
+    "w": "sharp",
+    "zh": "急劇的",
+    "k": "syn"
+   },
+   {
+    "w": "gradual",
+    "zh": "漸進的",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 959,
+  "day": 39
+ },
+ {
+  "word": "randomly",
+  "pos": "adv",
+  "pic": "🎲",
+  "zh": "隨機地",
+  "en": "in a way that has no plan or pattern",
+  "simple": "Pick a card randomly.",
+  "simple_zh": "隨機抽一張牌。",
+  "toeic": "Winners will be randomly selected from all entries.",
+  "toeic_zh": "得獎者將從所有參加者中隨機抽出。",
+  "family": "random (adj)",
+  "related": [
+   {
+    "w": "random",
+    "zh": "隨機的",
+    "k": "family"
+   },
+   {
+    "w": "casually",
+    "zh": "隨意地",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 960,
+  "day": 39
+ },
+ {
+  "word": "triumph",
+  "pos": "n",
+  "pic": "🏆",
+  "zh": "勝利；成功",
+  "en": "a great success or victory",
+  "simple": "The show was a triumph.",
+  "simple_zh": "這場演出非常成功。",
+  "toeic": "The product launch was a triumph for the marketing team.",
+  "toeic_zh": "產品上市對行銷團隊來說是一大成功。",
+  "family": "triumphant (adj)",
+  "related": [
+   {
+    "w": "victory",
+    "zh": "勝利",
+    "k": "syn"
+   },
+   {
+    "w": "defeat",
+    "zh": "失敗",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 961,
+  "day": 39
+ },
+ {
+  "word": "fierce",
+  "pos": "adj",
+  "pic": "🦁",
+  "zh": "激烈的；兇猛的",
+  "en": "very strong or aggressive",
+  "simple": "The lion looks fierce.",
+  "simple_zh": "那隻獅子看起來很兇猛。",
+  "toeic": "The company faces fierce competition from overseas rivals.",
+  "toeic_zh": "該公司面臨來自海外對手的激烈競爭。",
+  "family": "fiercely (adv)",
+  "related": [
+   {
+    "w": "intense",
+    "zh": "激烈的",
+    "k": "syn"
+   },
+   {
+    "w": "fair",
+    "zh": "公平的",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 962,
+  "day": 39
+ },
+ {
+  "word": "undoubtedly",
+  "pos": "adv",
+  "pic": "💯",
+  "zh": "無疑地",
+  "en": "without any doubt",
+  "simple": "He is undoubtedly the best player.",
+  "simple_zh": "他無疑是最好的球員。",
+  "toeic": "Our new model will undoubtedly attract younger customers.",
+  "toeic_zh": "我們的新款無疑會吸引更年輕的客群。",
+  "family": "doubt (n,v), undoubted (adj)",
+  "related": [
+   {
+    "w": "certainly",
+    "zh": "當然",
+    "k": "syn"
+   },
+   {
+    "w": "doubtfully",
+    "zh": "懷疑地",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 963,
+  "day": 39
+ },
+ {
+  "word": "behavioral",
+  "pos": "adj",
+  "pic": "🧠",
+  "zh": "行為的",
+  "en": "Related to the way someone acts",
+  "simple": "He has a behavioral problem.",
+  "simple_zh": "他有行為問題。",
+  "toeic": "The company hired a behavioral expert to study customer habits.",
+  "toeic_zh": "公司聘請行為專家研究顧客習慣。",
+  "family": "behavior (n), behave (v)",
+  "related": [
+   {
+    "w": "behavior",
+    "zh": "行為",
+    "k": "family"
+   }
+  ],
+  "src": "BSL",
+  "n": 964,
+  "day": 39
+ },
+ {
+  "word": "bracket",
+  "pos": "n",
+  "pic": "📐",
+  "zh": "等級；括號；支架",
+  "en": "A group within a range, such as income level",
+  "simple": "He is in a high tax bracket.",
+  "simple_zh": "他屬於高稅率級距。",
+  "toeic": "Customers in this age bracket spend the most on gadgets.",
+  "toeic_zh": "這個年齡層的顧客在小工具上花費最多。",
+  "family": "",
+  "related": [
+   {
+    "w": "category",
+    "zh": "類別",
+    "k": "syn"
+   },
+   {
+    "w": "racket",
+    "zh": "球拍",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 965,
+  "day": 39
+ },
+ {
+  "word": "monopoly",
+  "pos": "n",
+  "pic": "🎩",
+  "zh": "壟斷；獨占",
+  "en": "Complete control of a market by one company",
+  "simple": "One firm has a monopoly here.",
+  "simple_zh": "一家公司在這裡獨占市場。",
+  "toeic": "The government broke up the telephone monopoly.",
+  "toeic_zh": "政府拆分了電話業的壟斷局面。",
+  "family": "monopolize (v)",
+  "related": [
+   {
+    "w": "competition",
+    "zh": "競爭",
+    "k": "opp"
+   },
+   {
+    "w": "monotony",
+    "zh": "單調",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 966,
+  "day": 39
+ },
+ {
+  "word": "dominance",
+  "pos": "n",
+  "pic": "👑",
+  "zh": "優勢；支配地位",
+  "en": "A position of power or control over others",
+  "simple": "The firm has market dominance.",
+  "simple_zh": "這家公司擁有市場優勢。",
+  "toeic": "The brand maintained its dominance in the smartphone market.",
+  "toeic_zh": "該品牌在智慧型手機市場維持其主導地位。",
+  "family": "dominate (v), dominant (adj)",
+  "related": [
+   {
+    "w": "control",
+    "zh": "控制",
+    "k": "syn"
+   },
+   {
+    "w": "dominant",
+    "zh": "主要的",
+    "k": "family"
+   }
+  ],
+  "src": "BSL",
+  "n": 967,
+  "day": 39
+ },
+ {
+  "word": "exploit",
+  "pos": "v",
+  "pic": "⛏️",
+  "zh": "利用；剝削",
+  "en": "To use something fully, often for gain",
+  "simple": "We must exploit this chance.",
+  "simple_zh": "我們必須利用這個機會。",
+  "toeic": "The startup plans to exploit new opportunities in Asian markets.",
+  "toeic_zh": "這家新創公司打算開發亞洲市場的新機會。",
+  "family": "exploitation (n)",
+  "related": [
+   {
+    "w": "explore",
+    "zh": "探索",
+    "k": "confuse"
+   },
+   {
+    "w": "utilize",
+    "zh": "利用",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 968,
+  "day": 39
+ },
+ {
+  "word": "marketplace",
+  "pos": "n",
+  "pic": "🏪",
+  "zh": "市集；市場",
+  "en": "A place or area where goods are bought and sold",
+  "simple": "The marketplace is very busy.",
+  "simple_zh": "市集非常熱鬧。",
+  "toeic": "Competition in the marketplace has become tougher.",
+  "toeic_zh": "市場上的競爭變得更激烈了。",
+  "family": "market (n)",
+  "related": [
+   {
+    "w": "market",
+    "zh": "市場",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 969,
+  "day": 39
+ },
+ {
+  "word": "boycott",
+  "pos": "v",
+  "pic": "✋",
+  "zh": "抵制",
+  "en": "To refuse to buy or use something as a protest",
+  "simple": "They will boycott the store.",
+  "simple_zh": "他們將抵制那家店。",
+  "toeic": "Many customers decided to boycott the brand after the scandal.",
+  "toeic_zh": "醜聞後許多顧客決定抵制該品牌。",
+  "family": "",
+  "related": [
+   {
+    "w": "protest",
+    "zh": "抗議",
+    "k": "syn"
+   },
+   {
+    "w": "support",
+    "zh": "支持",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 970,
+  "day": 39
+ },
+ {
+  "word": "forge",
+  "pos": "v",
+  "pic": "🔨",
+  "zh": "偽造；鍛造；建立",
+  "en": "To make a copy illegally, or to build with effort",
+  "simple": "He tried to forge a signature.",
+  "simple_zh": "他想偽造簽名。",
+  "toeic": "The two firms worked to forge a strong partnership.",
+  "toeic_zh": "兩家公司努力建立穩固的合作夥伴關係。",
+  "family": "forgery (n)",
+  "related": [
+   {
+    "w": "fake",
+    "zh": "偽造",
+    "k": "syn"
+   },
+   {
+    "w": "forgive",
+    "zh": "原諒",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 971,
+  "day": 39
+ },
+ {
+  "word": "complement",
+  "pos": "v",
+  "pic": "🧩",
+  "zh": "補足；搭配",
+  "en": "To add something that makes another thing complete",
+  "simple": "This wine will complement the meal.",
+  "simple_zh": "這款酒會與餐點很搭。",
+  "toeic": "The new software will complement our existing system.",
+  "toeic_zh": "新軟體將與我們現有的系統相輔相成。",
+  "family": "complementary (adj)",
+  "related": [
+   {
+    "w": "compliment",
+    "zh": "讚美",
+    "k": "confuse"
+   },
+   {
+    "w": "supplement",
+    "zh": "補充",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 972,
+  "day": 39
+ },
+ {
+  "word": "remarkably",
+  "pos": "adv",
+  "pic": "🌟",
+  "zh": "非常；顯著地",
+  "en": "In a surprising or very noticeable way",
+  "simple": "She is remarkably tall.",
+  "simple_zh": "她高得驚人。",
+  "toeic": "Sales grew remarkably well after the new campaign.",
+  "toeic_zh": "新活動後，銷售成長得非常好。",
+  "family": "remark (n, v), remarkable (adj)",
+  "related": [
+   {
+    "w": "notably",
+    "zh": "顯著地",
+    "k": "syn"
+   },
+   {
+    "w": "remarkable",
+    "zh": "非凡的",
+    "k": "family"
+   }
+  ],
+  "src": "BSL",
+  "n": 973,
+  "day": 39
+ },
+ {
+  "word": "simplicity",
+  "pos": "n",
+  "pic": "✨",
+  "zh": "簡單；簡易",
+  "en": "The quality of being easy to understand or use",
+  "simple": "I like the simplicity of it.",
+  "simple_zh": "我喜歡它的簡單。",
+  "toeic": "The simplicity of the design makes the product easy to use.",
+  "toeic_zh": "設計的簡潔使產品容易使用。",
+  "family": "simple (adj), simplify (v)",
+  "related": [
+   {
+    "w": "complexity",
+    "zh": "複雜",
+    "k": "opp"
+   },
+   {
+    "w": "simple",
+    "zh": "簡單的",
+    "k": "family"
+   }
+  ],
+  "src": "BSL",
+  "n": 974,
+  "day": 39
+ },
+ {
+  "word": "predictable",
+  "pos": "adj",
+  "pic": "🔮",
+  "zh": "可預測的",
+  "en": "Able to be known before it happens",
+  "simple": "The result was predictable.",
+  "simple_zh": "結果是可預測的。",
+  "toeic": "Customer demand in this market is fairly predictable.",
+  "toeic_zh": "這個市場的顧客需求相當可預測。",
+  "family": "predict (v), prediction (n)",
+  "related": [
+   {
+    "w": "unpredictable",
+    "zh": "難以預測的",
+    "k": "opp"
+   },
+   {
+    "w": "expected",
+    "zh": "預期的",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 975,
+  "day": 39
+ },
+ {
+  "word": "emergence",
+  "pos": "n",
+  "pic": "🌅",
+  "zh": "出現；興起",
+  "en": "the act of coming into view or existence",
+  "simple": "The emergence of the sun was beautiful.",
+  "simple_zh": "太陽升起的景象很美。",
+  "toeic": "The emergence of online shopping has changed the retail industry.",
+  "toeic_zh": "網路購物的興起改變了零售業。",
+  "family": "emerge (v), emergence (n)",
+  "related": [
+   {
+    "w": "emergency",
+    "zh": "緊急情況",
+    "k": "confuse"
+   },
+   {
+    "w": "emerge",
+    "zh": "出現",
+    "k": "family"
+   }
+  ],
+  "src": "BSL",
+  "n": 976,
+  "day": 40
+ },
+ {
+  "word": "quantitative",
+  "pos": "adj",
+  "pic": "🔢",
+  "zh": "量的；定量的",
+  "en": "related to amounts and numbers",
+  "simple": "We need quantitative data for the report.",
+  "simple_zh": "報告需要量化的資料。",
+  "toeic": "The survey provides quantitative data on customer spending habits.",
+  "toeic_zh": "這份調查提供了顧客消費習慣的量化數據。",
+  "family": "quantity (n), quantitative (adj)",
+  "related": [
+   {
+    "w": "qualitative",
+    "zh": "質的",
+    "k": "confuse"
+   },
+   {
+    "w": "quantity",
+    "zh": "數量",
+    "k": "family"
+   }
+  ],
+  "src": "BSL",
+  "n": 977,
+  "day": 40
+ },
+ {
+  "word": "regain",
+  "pos": "v",
+  "pic": "🔙",
+  "zh": "重新獲得；恢復",
+  "en": "to get something back after losing it",
+  "simple": "He wants to regain his strength.",
+  "simple_zh": "他想恢復體力。",
+  "toeic": "The company hopes to regain its market share next year.",
+  "toeic_zh": "公司希望明年能重新奪回市占率。",
+  "family": "gain (v), regain (v)",
+  "related": [
+   {
+    "w": "recover",
+    "zh": "恢復",
+    "k": "syn"
+   },
+   {
+    "w": "lose",
+    "zh": "失去",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 978,
+  "day": 40
+ },
+ {
+  "word": "thrive",
+  "pos": "v",
+  "pic": "🌱",
+  "zh": "繁榮；茁壯成長",
+  "en": "to grow and do very well",
+  "simple": "Plants thrive in this sunny room.",
+  "simple_zh": "植物在這間陽光充足的房間長得很好。",
+  "toeic": "Small businesses can thrive if they offer excellent customer service.",
+  "toeic_zh": "小型企業若提供優質客服就能蓬勃發展。",
+  "family": "thriving (adj), thrive (v)",
+  "related": [
+   {
+    "w": "flourish",
+    "zh": "繁榮",
+    "k": "syn"
+   },
+   {
+    "w": "decline",
+    "zh": "衰退",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 979,
+  "day": 40
+ },
+ {
+  "word": "sponsorship",
+  "pos": "n",
+  "pic": "🏷️",
+  "zh": "贊助",
+  "en": "financial support given to an event or person",
+  "simple": "The race has bank sponsorship.",
+  "simple_zh": "這場比賽有銀行贊助。",
+  "toeic": "Our company secured sponsorship for the annual charity concert.",
+  "toeic_zh": "我們公司為年度慈善音樂會取得了贊助。",
+  "family": "sponsor (n, v), sponsorship (n)",
+  "related": [
+   {
+    "w": "sponsor",
+    "zh": "贊助者",
+    "k": "family"
+   },
+   {
+    "w": "patronage",
+    "zh": "贊助；惠顧",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 980,
+  "day": 40
+ },
+ {
+  "word": "unpopular",
+  "pos": "adj",
+  "pic": "👎",
+  "zh": "不受歡迎的",
+  "en": "not liked by many people",
+  "simple": "That song is unpopular now.",
+  "simple_zh": "那首歌現在不受歡迎。",
+  "toeic": "The new pricing policy was unpopular with long-term customers.",
+  "toeic_zh": "新的定價政策不受長期客戶歡迎。",
+  "family": "popular (adj), popularity (n), unpopular (adj)",
+  "related": [
+   {
+    "w": "popular",
+    "zh": "受歡迎的",
+    "k": "opp"
+   },
+   {
+    "w": "unpopularity",
+    "zh": "不受歡迎",
+    "k": "family"
+   }
+  ],
+  "src": "BSL",
+  "n": 981,
+  "day": 40
+ },
+ {
+  "word": "backward",
+  "pos": "adv",
+  "pic": "⏪",
+  "zh": "向後地",
+  "en": "toward the back or in reverse direction",
+  "simple": "Please step backward slowly.",
+  "simple_zh": "請慢慢向後退。",
+  "toeic": "Sales moved backward for the third quarter in a row.",
+  "toeic_zh": "銷售額連續第三季倒退。",
+  "family": "backwards (adv), backward (adj)",
+  "related": [
+   {
+    "w": "forward",
+    "zh": "向前",
+    "k": "opp"
+   },
+   {
+    "w": "backwards",
+    "zh": "向後地",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 982,
+  "day": 40
+ },
+ {
+  "word": "disadvantage",
+  "pos": "n",
+  "pic": "⚠️",
+  "zh": "缺點；不利條件",
+  "en": "something that makes a situation worse",
+  "simple": "The small room is a disadvantage.",
+  "simple_zh": "房間小是個缺點。",
+  "toeic": "One disadvantage of this model is its high maintenance cost.",
+  "toeic_zh": "這款機型的一項缺點是維修成本高。",
+  "family": "advantage (n), disadvantage (n)",
+  "related": [
+   {
+    "w": "advantage",
+    "zh": "優點",
+    "k": "opp"
+   },
+   {
+    "w": "drawback",
+    "zh": "缺點",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 983,
+  "day": 40
+ },
+ {
+  "word": "slack",
+  "pos": "adj",
+  "pic": "😴",
+  "zh": "疲軟的；鬆弛的",
+  "en": "not busy or not tight",
+  "simple": "The rope is too slack.",
+  "simple_zh": "這條繩子太鬆了。",
+  "toeic": "Business is slack during the winter months in the tourism industry.",
+  "toeic_zh": "旅遊業在冬季月份生意清淡。",
+  "family": "slacken (v), slack (adj)",
+  "related": [
+   {
+    "w": "tight",
+    "zh": "緊的",
+    "k": "opp"
+   },
+   {
+    "w": "sluggish",
+    "zh": "不景氣的",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 984,
+  "day": 40
+ },
+ {
+  "word": "revive",
+  "pos": "v",
+  "pic": "🔄",
+  "zh": "使復甦",
+  "en": "to bring back to life or use",
+  "simple": "Water will revive the dry flowers.",
+  "simple_zh": "水能讓乾枯的花復活。",
+  "toeic": "The company launched a campaign to revive interest in its brand.",
+  "toeic_zh": "公司推出活動來重振品牌的關注度。",
+  "family": "revival (n), revive (v)",
+  "related": [
+   {
+    "w": "survive",
+    "zh": "存活",
+    "k": "confuse"
+   },
+   {
+    "w": "restore",
+    "zh": "恢復",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 985,
+  "day": 40
+ },
+ {
+  "word": "lag",
+  "pos": "v",
+  "pic": "🐌",
+  "zh": "落後；延遲",
+  "en": "to move or develop more slowly than others",
+  "simple": "My little brother always lags behind.",
+  "simple_zh": "我弟弟總是落在後面。",
+  "toeic": "Our sales continue to lag behind those of our main competitor.",
+  "toeic_zh": "我們的銷售持續落後主要競爭對手。",
+  "family": "lag (n)",
+  "related": [
+   {
+    "w": "fall behind",
+    "zh": "落後",
+    "k": "syn"
+   },
+   {
+    "w": "leg",
+    "zh": "腿",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 986,
+  "day": 40
+ },
+ {
+  "word": "lure",
+  "pos": "v",
+  "pic": "🎣",
+  "zh": "吸引；誘使",
+  "en": "to attract someone with something pleasing",
+  "simple": "Free food will lure many people.",
+  "simple_zh": "免費食物會吸引很多人。",
+  "toeic": "Discounts are used to lure new customers to the store.",
+  "toeic_zh": "折扣被用來吸引新顧客到店。",
+  "family": "lure (n)",
+  "related": [
+   {
+    "w": "attract",
+    "zh": "吸引",
+    "k": "syn"
+   },
+   {
+    "w": "allure",
+    "zh": "誘惑力",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 987,
+  "day": 40
+ },
+ {
+  "word": "statistically",
+  "pos": "adv",
+  "pic": "📈",
+  "zh": "統計上",
+  "en": "in a way that relates to statistics",
+  "simple": "This is statistically very rare.",
+  "simple_zh": "這在統計上非常罕見。",
+  "toeic": "The difference between the two groups was statistically significant.",
+  "toeic_zh": "兩組之間的差異在統計上具有顯著性。",
+  "family": "statistics (n), statistical (adj), statistically (adv)",
+  "related": [
+   {
+    "w": "statistical",
+    "zh": "統計的",
+    "k": "family"
+   },
+   {
+    "w": "statistic",
+    "zh": "統計數字",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 988,
+  "day": 40
+ },
+ {
+  "word": "ineffective",
+  "pos": "adj",
+  "pic": "🚫",
+  "zh": "無效的",
+  "en": "not producing the result you want",
+  "simple": "The medicine was ineffective.",
+  "simple_zh": "這種藥沒有效果。",
+  "toeic": "The advertising campaign proved ineffective at reaching young buyers.",
+  "toeic_zh": "這次廣告活動未能有效觸及年輕買家。",
+  "family": "effective (adj), effect (n), ineffective (adj)",
+  "related": [
+   {
+    "w": "effective",
+    "zh": "有效的",
+    "k": "opp"
+   },
+   {
+    "w": "inefficient",
+    "zh": "沒效率的",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 989,
+  "day": 40
+ },
+ {
+  "word": "spur",
+  "pos": "v",
+  "pic": "⚡",
+  "zh": "刺激；促進",
+  "en": "to encourage something to happen or grow",
+  "simple": "Good grades spur me to study.",
+  "simple_zh": "好成績促使我用功。",
+  "toeic": "Lower interest rates may spur consumer spending.",
+  "toeic_zh": "較低的利率可能刺激消費支出。",
+  "family": "spur (n)",
+  "related": [
+   {
+    "w": "stimulate",
+    "zh": "刺激",
+    "k": "syn"
+   },
+   {
+    "w": "spurn",
+    "zh": "拒絕",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 990,
+  "day": 40
+ },
+ {
+  "word": "hugely",
+  "pos": "adv",
+  "pic": "🐘",
+  "zh": "極大地",
+  "en": "to a very large degree",
+  "simple": "The movie was hugely popular.",
+  "simple_zh": "這部電影極受歡迎。",
+  "toeic": "The new app has been hugely successful among young users.",
+  "toeic_zh": "這款新應用程式在年輕用戶中大獲成功。",
+  "family": "huge (adj), hugely (adv)",
+  "related": [
+   {
+    "w": "enormously",
+    "zh": "極大地",
+    "k": "syn"
+   },
+   {
+    "w": "slightly",
+    "zh": "稍微",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 991,
+  "day": 40
+ },
+ {
+  "word": "swell",
+  "pos": "v",
+  "pic": "🎈",
+  "zh": "膨脹；增加",
+  "en": "to become larger or greater",
+  "simple": "My foot began to swell.",
+  "simple_zh": "我的腳開始腫起來。",
+  "toeic": "The number of online orders will swell during the holidays.",
+  "toeic_zh": "假期期間線上訂單數量將會暴增。",
+  "family": "swelling (n)",
+  "related": [
+   {
+    "w": "expand",
+    "zh": "擴大",
+    "k": "syn"
+   },
+   {
+    "w": "shrink",
+    "zh": "縮小",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 992,
+  "day": 40
+ },
+ {
+  "word": "portray",
+  "pos": "v",
+  "pic": "🎭",
+  "zh": "描繪；扮演",
+  "en": "to show or describe someone or something",
+  "simple": "The painting will portray a farm.",
+  "simple_zh": "這幅畫會描繪一座農場。",
+  "toeic": "The advertisement portrays the brand as modern and reliable.",
+  "toeic_zh": "這則廣告將品牌描繪成現代且可靠。",
+  "family": "portrayal (n)",
+  "related": [
+   {
+    "w": "depict",
+    "zh": "描繪",
+    "k": "syn"
+   },
+   {
+    "w": "betray",
+    "zh": "背叛",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 993,
+  "day": 40
+ },
+ {
+  "word": "proliferation",
+  "pos": "n",
+  "pic": "📈",
+  "zh": "激增；擴散",
+  "en": "a rapid increase in number",
+  "simple": "There is a proliferation of new shops.",
+  "simple_zh": "新商店大量出現。",
+  "toeic": "The proliferation of smartphones changed how we shop.",
+  "toeic_zh": "智慧型手機的激增改變了我們購物的方式。",
+  "family": "proliferate (v)",
+  "related": [
+   {
+    "w": "spread",
+    "zh": "擴散",
+    "k": "syn"
+   },
+   {
+    "w": "profession",
+    "zh": "職業",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 994,
+  "day": 40
+ },
+ {
+  "word": "cartel",
+  "pos": "n",
+  "pic": "🛢️",
+  "zh": "卡特爾；聯合壟斷組織",
+  "en": "a group of firms that fix prices together",
+  "simple": "The oil cartel raised prices.",
+  "simple_zh": "石油卡特爾提高了價格。",
+  "toeic": "The regulator fined the cartel for fixing prices.",
+  "toeic_zh": "監管機構因操縱價格而對該卡特爾處以罰款。",
+  "family": "",
+  "related": [
+   {
+    "w": "monopoly",
+    "zh": "壟斷",
+    "k": "syn"
+   },
+   {
+    "w": "carton",
+    "zh": "紙箱",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 995,
+  "day": 40
+ },
+ {
+  "word": "discourage",
+  "pos": "v",
+  "pic": "😞",
+  "zh": "使氣餒；勸阻",
+  "en": "to make someone less willing to do something",
+  "simple": "Do not discourage the children.",
+  "simple_zh": "不要讓孩子們氣餒。",
+  "toeic": "High fees may discourage customers from using the service.",
+  "toeic_zh": "高額費用可能使顧客不願使用這項服務。",
+  "family": "discouragement (n), encourage (v)",
+  "related": [
+   {
+    "w": "encourage",
+    "zh": "鼓勵",
+    "k": "opp"
+   },
+   {
+    "w": "deter",
+    "zh": "阻止",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 996,
+  "day": 40
+ },
+ {
+  "word": "disposable",
+  "pos": "adj",
+  "pic": "🥤",
+  "zh": "用完即丟的；可支配的",
+  "en": "made to be thrown away after use",
+  "simple": "We used disposable cups.",
+  "simple_zh": "我們用了免洗杯。",
+  "toeic": "Disposable income rose by two percent last year.",
+  "toeic_zh": "去年可支配所得增加了百分之二。",
+  "family": "dispose (v), disposal (n)",
+  "related": [
+   {
+    "w": "reusable",
+    "zh": "可重複使用的",
+    "k": "opp"
+   },
+   {
+    "w": "disposal",
+    "zh": "處置",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 997,
+  "day": 40
+ },
+ {
+  "word": "follower",
+  "pos": "n",
+  "pic": "👥",
+  "zh": "追隨者；粉絲",
+  "en": "a person who follows or supports someone",
+  "simple": "She has many followers online.",
+  "simple_zh": "她在網路上有很多追蹤者。",
+  "toeic": "The brand gained ten thousand followers after the campaign.",
+  "toeic_zh": "這個品牌在宣傳活動後增加了一萬名追蹤者。",
+  "family": "follow (v), following (n)",
+  "related": [
+   {
+    "w": "supporter",
+    "zh": "支持者",
+    "k": "syn"
+   },
+   {
+    "w": "leader",
+    "zh": "領導者",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 998,
+  "day": 40
+ },
+ {
+  "word": "induce",
+  "pos": "v",
+  "pic": "🧲",
+  "zh": "誘使；引起",
+  "en": "to persuade or cause something to happen",
+  "simple": "Coffee can induce sleeplessness.",
+  "simple_zh": "咖啡可能引起失眠。",
+  "toeic": "Discounts are used to induce customers to buy more.",
+  "toeic_zh": "折扣是用來誘使顧客買更多。",
+  "family": "inducement (n)",
+  "related": [
+   {
+    "w": "persuade",
+    "zh": "說服",
+    "k": "syn"
+   },
+   {
+    "w": "introduce",
+    "zh": "介紹",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 999,
+  "day": 40
+ },
+ {
+  "word": "flourish",
+  "pos": "v",
+  "pic": "🌸",
+  "zh": "繁榮；茁壯",
+  "en": "to grow well and be successful",
+  "simple": "Flowers flourish in the sun.",
+  "simple_zh": "花在陽光下長得很好。",
+  "toeic": "Small businesses flourish in this part of the city.",
+  "toeic_zh": "小型企業在這個城區蓬勃發展。",
+  "family": "flourishing (adj)",
+  "related": [
+   {
+    "w": "thrive",
+    "zh": "興盛",
+    "k": "syn"
+   },
+   {
+    "w": "decline",
+    "zh": "衰退",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 1000,
+  "day": 40
+ }
+]

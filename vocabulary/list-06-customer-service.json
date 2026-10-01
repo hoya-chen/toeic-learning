@@ -1,0 +1,5377 @@
+[
+ {
+  "word": "accent",
+  "pos": "n",
+  "pic": "🗣️",
+  "zh": "口音；重音",
+  "en": "a way of pronouncing words in a region",
+  "simple": "She has a British accent.",
+  "simple_zh": "她有英國口音。",
+  "toeic": "The new manager speaks English with a strong accent.",
+  "toeic_zh": "新經理說英語帶有濃厚的口音。",
+  "family": "accentuate (v)",
+  "related": [
+   {
+    "w": "access",
+    "zh": "進入",
+    "k": "confuse"
+   },
+   {
+    "w": "dialect",
+    "zh": "方言",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1001,
+  "day": 41
+ },
+ {
+  "word": "accessible",
+  "pos": "adj",
+  "pic": "🚪",
+  "zh": "可訪問的",
+  "en": "able to be easily reached or entered; easy to obtain",
+  "simple": "Our customer support is easily accessible online.",
+  "simple_zh": "我們的客支持在線上很容易訪問。",
+  "toeic": "Accessible customer service channels include phone, email, and live chat.",
+  "toeic_zh": "可訪問的客服渠道包括電話、電郵和即時聊天。",
+  "family": "accessible (adj), accessibility (n), access (v)",
+  "related": [
+   {
+    "w": "available",
+    "zh": "可用的",
+    "k": "syn"
+   },
+   {
+    "w": "reachable",
+    "zh": "可以聯繫的",
+    "k": "syn"
+   }
+  ],
+  "n": 1002,
+  "day": 41,
+  "src": "TSL"
+ },
+ {
+  "word": "adhere",
+  "pos": "v",
+  "pic": "📌",
+  "zh": "堅持",
+  "en": "to support or follow closely; to stick firmly",
+  "simple": "Adhere to company service standards at all times.",
+  "simple_zh": "始終堅持公司服務標準。",
+  "toeic": "Adhere strictly to ethical practices in customer interactions.",
+  "toeic_zh": "在顧客互動中嚴格堅持倫理實踐。",
+  "family": "adhere (v), adherence (n), adherent (n)",
+  "related": [
+   {
+    "w": "comply",
+    "zh": "遵守",
+    "k": "syn"
+   },
+   {
+    "w": "follow",
+    "zh": "遵循",
+    "k": "syn"
+   }
+  ],
+  "n": 1003,
+  "day": 41,
+  "src": "TSL"
+ },
+ {
+  "word": "affirmative",
+  "pos": "adj",
+  "pic": "👌",
+  "zh": "肯定的；贊成的",
+  "en": "saying yes or showing agreement",
+  "simple": "She gave an affirmative answer.",
+  "simple_zh": "她給了肯定的答覆。",
+  "toeic": "We received an affirmative reply from the client this morning.",
+  "toeic_zh": "我們今天早上收到客戶肯定的回覆。",
+  "family": "affirm (v), affirmation (n)",
+  "related": [
+   {
+    "w": "negative",
+    "zh": "否定的",
+    "k": "opp"
+   },
+   {
+    "w": "positive",
+    "zh": "正面的",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1004,
+  "day": 41
+ },
+ {
+  "word": "alternatively",
+  "pos": "adv",
+  "pic": "🔀",
+  "zh": "或者；另一種選擇",
+  "en": "as another choice or possibility",
+  "simple": "Take a bus, or alternatively, a taxi.",
+  "simple_zh": "搭公車，或者搭計程車。",
+  "toeic": "You can pay by card or, alternatively, in cash.",
+  "toeic_zh": "您可以刷卡付款，或者付現金。",
+  "family": "alternative (n), alternate (adj)",
+  "related": [
+   {
+    "w": "instead",
+    "zh": "反而",
+    "k": "syn"
+   },
+   {
+    "w": "alternate",
+    "zh": "交替的",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1005,
+  "day": 41
+ },
+ {
+  "word": "announcer",
+  "pos": "n",
+  "pic": "📣",
+  "zh": "播報員；宣告者",
+  "en": "a person who gives news or information on air",
+  "simple": "The announcer read the news.",
+  "simple_zh": "播報員念了新聞。",
+  "toeic": "The announcer asked passengers to go to gate twelve.",
+  "toeic_zh": "廣播員請乘客前往十二號登機門。",
+  "family": "announce (v), announcement (n)",
+  "related": [
+   {
+    "w": "announcement",
+    "zh": "公告",
+    "k": "family"
+   },
+   {
+    "w": "broadcaster",
+    "zh": "廣播員",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1006,
+  "day": 41
+ },
+ {
+  "word": "annoy",
+  "pos": "v",
+  "pic": "😠",
+  "zh": "使惱怒；打擾",
+  "en": "to make someone a little angry",
+  "simple": "Loud noise can annoy me.",
+  "simple_zh": "吵雜聲會惹惱我。",
+  "toeic": "Long waiting times may annoy customers and hurt our reputation.",
+  "toeic_zh": "漫長的等待時間可能惹惱顧客並損害我們的聲譽。",
+  "family": "annoyance (n), annoyed (adj)",
+  "related": [
+   {
+    "w": "annoyed",
+    "zh": "惱怒的",
+    "k": "family"
+   },
+   {
+    "w": "please",
+    "zh": "取悅",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1007,
+  "day": 41
+ },
+ {
+  "word": "anytime",
+  "pos": "adv",
+  "pic": "🕒",
+  "zh": "隨時",
+  "en": "at any time you want",
+  "simple": "Call me anytime.",
+  "simple_zh": "隨時打給我。",
+  "toeic": "Customers can cancel their subscription anytime online.",
+  "toeic_zh": "客戶可以隨時在線上取消訂閱。",
+  "family": "",
+  "related": [
+   {
+    "w": "sometime",
+    "zh": "某個時候",
+    "k": "confuse"
+   },
+   {
+    "w": "always",
+    "zh": "總是",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1008,
+  "day": 41
+ },
+ {
+  "word": "apology",
+  "pos": "n",
+  "pic": "🙇",
+  "zh": "道歉",
+  "en": "words that say you are sorry",
+  "simple": "Please accept my apology.",
+  "simple_zh": "請接受我的道歉。",
+  "toeic": "The company issued a public apology for the billing error.",
+  "toeic_zh": "公司針對帳單錯誤發表了公開道歉。",
+  "family": "apology (n); apologize (v) for; make/offer an apology to；apologetic (adj)",
+  "related": [
+   {
+    "w": "apologize",
+    "zh": "道歉",
+    "k": "family"
+   },
+   {
+    "w": "regret",
+    "zh": "遺憾；歉意",
+    "k": "syn"
+   }
+  ],
+  "n": 1009,
+  "day": 41,
+  "src": "TSL"
+ },
+ {
+  "word": "appreciation",
+  "pos": "n",
+  "pic": "🙏",
+  "zh": "感激；欣賞；增值",
+  "en": "thanks, or a feeling of gratitude",
+  "simple": "She showed her appreciation with a card.",
+  "simple_zh": "她用一張卡片表達感謝。",
+  "toeic": "The manager gave a gift in appreciation of our hard work.",
+  "toeic_zh": "經理送了禮物，感謝我們的辛勤工作。",
+  "family": "appreciate (v), appreciative (adj)",
+  "related": [
+   {
+    "w": "depreciation",
+    "zh": "貶值",
+    "k": "opp"
+   },
+   {
+    "w": "gratitude",
+    "zh": "感謝",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1010,
+  "day": 41
+ },
+ {
+  "word": "assurance",
+  "pos": "n",
+  "pic": "🛡️",
+  "zh": "保證；信心",
+  "en": "a promise that something will be true",
+  "simple": "He gave me his assurance.",
+  "simple_zh": "他向我保證。",
+  "toeic": "The supplier gave us assurance that the goods will arrive on time.",
+  "toeic_zh": "供應商向我們保證貨物會準時送達。",
+  "family": "assure (v)",
+  "related": [
+   {
+    "w": "insurance",
+    "zh": "保險",
+    "k": "confuse"
+   },
+   {
+    "w": "guarantee",
+    "zh": "保證",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1011,
+  "day": 41
+ },
+ {
+  "word": "await",
+  "pos": "v",
+  "pic": "⏳",
+  "zh": "等候；期待",
+  "en": "to wait for something",
+  "simple": "We await your reply.",
+  "simple_zh": "我們等候您的回覆。",
+  "toeic": "We eagerly await your confirmation of the order.",
+  "toeic_zh": "我們熱切等候您確認訂單。",
+  "family": "",
+  "related": [
+   {
+    "w": "awake",
+    "zh": "醒著",
+    "k": "confuse"
+   },
+   {
+    "w": "expect",
+    "zh": "預期",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1012,
+  "day": 41
+ },
+ {
+  "word": "behalf",
+  "pos": "n",
+  "pic": "🧑‍🤝‍🧑",
+  "zh": "代表；利益",
+  "en": "used in 'on behalf of' to mean for someone",
+  "simple": "I spoke on behalf of my team.",
+  "simple_zh": "我代表我的團隊發言。",
+  "toeic": "I am writing on behalf of the entire sales department.",
+  "toeic_zh": "我謹代表整個業務部門來信。",
+  "family": "",
+  "related": [
+   {
+    "w": "behave",
+    "zh": "表現",
+    "k": "confuse"
+   },
+   {
+    "w": "representative",
+    "zh": "代表",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1013,
+  "day": 41
+ },
+ {
+  "word": "browse",
+  "pos": "v",
+  "pic": "🔍",
+  "zh": "瀏覽",
+  "en": "To look through things casually without a fixed aim.",
+  "simple": "I like to browse the shop.",
+  "simple_zh": "我喜歡逛逛這家店。",
+  "toeic": "Customers can browse our full catalog on the website.",
+  "toeic_zh": "顧客可在網站上瀏覽我們的完整型錄。",
+  "family": "browser (n)",
+  "related": [
+   {
+    "w": "browser",
+    "zh": "瀏覽器",
+    "k": "family"
+   },
+   {
+    "w": "brows",
+    "zh": "眉毛",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1014,
+  "day": 41
+ },
+ {
+  "word": "bulletin",
+  "pos": "n",
+  "pic": "📌",
+  "zh": "公告;簡報",
+  "en": "A short official announcement or news report.",
+  "simple": "Read the bulletin on the wall.",
+  "simple_zh": "請看牆上的公告。",
+  "toeic": "The company bulletin lists all upcoming training sessions.",
+  "toeic_zh": "公司公告列出了所有即將舉行的訓練課程。",
+  "family": "",
+  "related": [
+   {
+    "w": "announcement",
+    "zh": "公告",
+    "k": "syn"
+   },
+   {
+    "w": "bullet",
+    "zh": "子彈;項目符號",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1015,
+  "day": 41
+ },
+ {
+  "word": "bye",
+  "pos": "n",
+  "pic": "👋",
+  "zh": "再見",
+  "en": "A casual word you say when leaving.",
+  "simple": "Say bye to your friends.",
+  "simple_zh": "跟你的朋友說再見。",
+  "toeic": "She said bye to the clients and left the office.",
+  "toeic_zh": "她向客戶道別後離開了辦公室。",
+  "family": "",
+  "related": [
+   {
+    "w": "buy",
+    "zh": "購買",
+    "k": "confuse"
+   },
+   {
+    "w": "farewell",
+    "zh": "告別",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1016,
+  "day": 41
+ },
+ {
+  "word": "caller",
+  "pos": "n",
+  "pic": "📞",
+  "zh": "來電者",
+  "en": "a person who makes a phone call",
+  "simple": "The caller wants to speak to you.",
+  "simple_zh": "來電者想和你說話。",
+  "toeic": "Please ask each caller for an account number before checking the order.",
+  "toeic_zh": "查詢訂單前，請先向每位來電者詢問帳號。",
+  "family": "call (n, v)",
+  "related": [
+   {
+    "w": "customer",
+    "zh": "顧客",
+    "k": "syn"
+   },
+   {
+    "w": "receiver",
+    "zh": "接聽者",
+    "k": "opp"
+   }
+  ],
+  "n": 1017,
+  "day": 41,
+  "src": "TSL"
+ },
+ {
+  "word": "cellphone",
+  "pos": "n",
+  "pic": "📱",
+  "zh": "手機",
+  "en": "A small phone you can carry anywhere.",
+  "simple": "My cellphone is on the table.",
+  "simple_zh": "我的手機在桌上。",
+  "toeic": "Please turn off your cellphone during the presentation.",
+  "toeic_zh": "簡報期間請關閉您的手機。",
+  "family": "",
+  "related": [
+   {
+    "w": "smartphone",
+    "zh": "智慧型手機",
+    "k": "syn"
+   },
+   {
+    "w": "telephone",
+    "zh": "電話",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1018,
+  "day": 41
+ },
+ {
+  "word": "circulate",
+  "pos": "v",
+  "pic": "🔄",
+  "zh": "傳閱;循環",
+  "en": "To move around, or pass from person to person.",
+  "simple": "Please circulate the notice.",
+  "simple_zh": "請傳閱這份通知。",
+  "toeic": "Please circulate the agenda to all team members before Monday.",
+  "toeic_zh": "請在週一前將議程傳給所有團隊成員。",
+  "family": "circulation (n), circular (adj, n)",
+  "related": [
+   {
+    "w": "circulation",
+    "zh": "流通;發行量",
+    "k": "family"
+   },
+   {
+    "w": "distribute",
+    "zh": "分發",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1019,
+  "day": 41
+ },
+ {
+  "word": "clarify",
+  "pos": "v",
+  "pic": "💡",
+  "zh": "澄清",
+  "en": "to make something clear or easier to understand",
+  "simple": "Can you clarify what you mean by that?",
+  "simple_zh": "您能澄清您的意思嗎？",
+  "toeic": "Service representatives clarify product specifications to prevent misunderstandings.",
+  "toeic_zh": "服務代表澄清產品規格以防止誤解。",
+  "family": "clarify (v), clarification (n), clear (adj)",
+  "related": [
+   {
+    "w": "explain",
+    "zh": "解釋",
+    "k": "syn"
+   },
+   {
+    "w": "simplify",
+    "zh": "簡化",
+    "k": "syn"
+   }
+  ],
+  "n": 1020,
+  "day": 41,
+  "src": "TSL"
+ },
+ {
+  "word": "clue",
+  "pos": "n",
+  "pic": "🕵️",
+  "zh": "線索",
+  "en": "A piece of information that helps solve a problem.",
+  "simple": "I have no clue.",
+  "simple_zh": "我完全不知道。",
+  "toeic": "The survey gave us a clue about customer needs.",
+  "toeic_zh": "這項調查讓我們對顧客需求有了線索。",
+  "family": "",
+  "related": [
+   {
+    "w": "hint",
+    "zh": "提示",
+    "k": "syn"
+   },
+   {
+    "w": "glue",
+    "zh": "膠水",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1021,
+  "day": 41
+ },
+ {
+  "word": "compensate",
+  "pos": "v",
+  "pic": "💳",
+  "zh": "補償",
+  "en": "to pay someone money or give them something to make up for loss or damage",
+  "simple": "We will compensate you for the damaged goods.",
+  "simple_zh": "我們將為損壞的商品補償您。",
+  "toeic": "Customers who suffered damages are entitled to compensate through insurance claims.",
+  "toeic_zh": "遭受損害的顧客有權通過保險索賠獲得補償。",
+  "family": "compensate (v), compensation (n), compensatory (adj)",
+  "related": [
+   {
+    "w": "reimburse",
+    "zh": "償還",
+    "k": "syn"
+   },
+   {
+    "w": "indemnify",
+    "zh": "賠償",
+    "k": "syn"
+   }
+  ],
+  "n": 1022,
+  "day": 41,
+  "src": "TSL"
+ },
+ {
+  "word": "compliment",
+  "pos": "n",
+  "pic": "😊",
+  "zh": "讚美",
+  "en": "a kind thing you say about someone",
+  "simple": "She gave me a compliment.",
+  "simple_zh": "她稱讚了我。",
+  "toeic": "Customers often leave a compliment about our friendly staff in the survey.",
+  "toeic_zh": "顧客常在問卷中稱讚我們友善的員工。",
+  "family": "complimentary (adj)",
+  "related": [
+   {
+    "w": "complement",
+    "zh": "補足；搭配",
+    "k": "confuse"
+   },
+   {
+    "w": "praise",
+    "zh": "稱讚",
+    "k": "syn"
+   }
+  ],
+  "n": 1023,
+  "day": 41,
+  "src": "TSL"
+ },
+ {
+  "word": "confidential",
+  "pos": "adj",
+  "pic": "🤐",
+  "zh": "機密的",
+  "en": "intended to be kept secret or private; not for public disclosure",
+  "simple": "Treat all customer information as confidential.",
+  "simple_zh": "將所有顧客信息視為機密。",
+  "toeic": "Confidential customer data requires secure storage and limited access.",
+  "toeic_zh": "機密顧客數據需要安全存儲和有限訪問。",
+  "family": "confidential (adj), confidentiality (n), confidentially (adv)",
+  "related": [
+   {
+    "w": "secret",
+    "zh": "秘密",
+    "k": "syn"
+   },
+   {
+    "w": "private",
+    "zh": "私人的",
+    "k": "syn"
+   }
+  ],
+  "n": 1024,
+  "day": 41,
+  "src": "TSL"
+ },
+ {
+  "word": "congratulate",
+  "pos": "v",
+  "pic": "🎉",
+  "zh": "祝賀",
+  "en": "To tell someone you are happy about their success.",
+  "simple": "I want to congratulate you.",
+  "simple_zh": "我想向你道賀。",
+  "toeic": "I would like to congratulate the team on a successful launch.",
+  "toeic_zh": "我要恭喜團隊成功完成產品上市。",
+  "family": "congratulation (n), congratulations (n)",
+  "related": [
+   {
+    "w": "congratulation",
+    "zh": "祝賀",
+    "k": "family"
+   },
+   {
+    "w": "celebrate",
+    "zh": "慶祝",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1025,
+  "day": 41
+ },
+ {
+  "word": "congratulation",
+  "pos": "n",
+  "pic": "🥳",
+  "zh": "祝賀",
+  "en": "A message of praise for someone's success.",
+  "simple": "Congratulation on your new job.",
+  "simple_zh": "恭喜你找到新工作。",
+  "toeic": "A congratulation card was sent to the new manager.",
+  "toeic_zh": "一張賀卡被寄給了新任經理。",
+  "family": "congratulate (v)",
+  "related": [
+   {
+    "w": "congratulate",
+    "zh": "祝賀",
+    "k": "family"
+   },
+   {
+    "w": "celebration",
+    "zh": "慶祝",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1026,
+  "day": 42
+ },
+ {
+  "word": "considerate",
+  "pos": "adj",
+  "pic": "🤝",
+  "zh": "體貼的；考慮周到的",
+  "en": "thinking about the feelings of other people",
+  "simple": "He is a considerate neighbor.",
+  "simple_zh": "他是個體貼的鄰居。",
+  "toeic": "It was considerate of you to reschedule the meeting for me.",
+  "toeic_zh": "你體貼地為我重新安排會議，真是貼心。",
+  "family": "consideration (n), consider (v), considerate (adj)",
+  "related": [
+   {
+    "w": "considerable",
+    "zh": "相當大的",
+    "k": "confuse"
+   },
+   {
+    "w": "thoughtful",
+    "zh": "體貼的",
+    "k": "syn"
+   },
+   {
+    "w": "inconsiderate",
+    "zh": "不體貼的",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1027,
+  "day": 42
+ },
+ {
+  "word": "convenience",
+  "pos": "n",
+  "pic": "🏪",
+  "zh": "方便；便利",
+  "en": "the quality of being easy or useful",
+  "simple": "The store is open late for your convenience.",
+  "simple_zh": "商店很晚才關門，方便你。",
+  "toeic": "Please return the form at your earliest convenience.",
+  "toeic_zh": "請在您方便時盡早寄回表格。",
+  "family": "convenient (adj), conveniently (adv), convenience (n)",
+  "related": [
+   {
+    "w": "convenient",
+    "zh": "方便的",
+    "k": "family"
+   },
+   {
+    "w": "inconvenience",
+    "zh": "不便",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1028,
+  "day": 42
+ },
+ {
+  "word": "convenient",
+  "pos": "adj",
+  "pic": "⏰",
+  "zh": "方便的",
+  "en": "fitting in well with a person's needs; not troublesome",
+  "simple": "Our store hours are very convenient for customers.",
+  "simple_zh": "我們的營業時間對顧客來說很方便。",
+  "toeic": "Online shopping provides convenient access to products 24/7.",
+  "toeic_zh": "在線購物提供24/7方便的產品訪問。",
+  "family": "convenient (adj), conveniently (adv), convenience (n)",
+  "related": [
+   {
+    "w": "accessible",
+    "zh": "可訪問的",
+    "k": "syn"
+   },
+   {
+    "w": "handy",
+    "zh": "方便的",
+    "k": "syn"
+   }
+  ],
+  "n": 1029,
+  "day": 42,
+  "src": "TSL"
+ },
+ {
+  "word": "convey",
+  "pos": "v",
+  "pic": "📢",
+  "zh": "傳達",
+  "en": "to communicate or express an idea, feeling, or information",
+  "simple": "Convey important information clearly to customers.",
+  "simple_zh": "向顧客清楚地傳達重要信息。",
+  "toeic": "Convey service limitations clearly to manage customer expectations.",
+  "toeic_zh": "清楚地傳達服務限制以管理顧客期望。",
+  "family": "convey (v), conveyance (n)",
+  "related": [
+   {
+    "w": "express",
+    "zh": "表達",
+    "k": "syn"
+   },
+   {
+    "w": "communicate",
+    "zh": "溝通",
+    "k": "syn"
+   }
+  ],
+  "n": 1030,
+  "day": 42,
+  "src": "TSL"
+ },
+ {
+  "word": "correction",
+  "pos": "n",
+  "pic": "✏️",
+  "zh": "更正；修正",
+  "en": "a change that fixes a mistake",
+  "simple": "The teacher made a correction.",
+  "simple_zh": "老師做了更正。",
+  "toeic": "Please make the necessary corrections and resubmit the report by Friday.",
+  "toeic_zh": "請做必要的修正，並於週五前重新提交報告。",
+  "family": "correct (v/adj), correctly (adv), correction (n)",
+  "related": [
+   {
+    "w": "correct",
+    "zh": "更正",
+    "k": "family"
+   },
+   {
+    "w": "collection",
+    "zh": "收藏",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1031,
+  "day": 42
+ },
+ {
+  "word": "correctly",
+  "pos": "adv",
+  "pic": "✅",
+  "zh": "正確地",
+  "en": "in a way that is right",
+  "simple": "She answered correctly.",
+  "simple_zh": "她回答正確。",
+  "toeic": "Please make sure the form is filled out correctly before submitting it.",
+  "toeic_zh": "送出前請確認表格填寫正確。",
+  "family": "correct (adj/v), correction (n), correctly (adv)",
+  "related": [
+   {
+    "w": "accurately",
+    "zh": "準確地",
+    "k": "syn"
+   },
+   {
+    "w": "incorrectly",
+    "zh": "不正確地",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1032,
+  "day": 42
+ },
+ {
+  "word": "correspondence",
+  "pos": "n",
+  "pic": "✉️",
+  "zh": "信件往來；通信",
+  "en": "letters or emails sent and received",
+  "simple": "I answer my correspondence each morning.",
+  "simple_zh": "我每天早上回覆信件。",
+  "toeic": "All correspondence should be addressed to the customer service department.",
+  "toeic_zh": "所有信件應寄給客服部門。",
+  "family": "correspond (v), correspondent (n), correspondence (n)",
+  "related": [
+   {
+    "w": "correspond",
+    "zh": "通信；符合",
+    "k": "family"
+   },
+   {
+    "w": "respondent",
+    "zh": "受訪者",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1033,
+  "day": 42
+ },
+ {
+  "word": "courtesy",
+  "pos": "n",
+  "pic": "🙇",
+  "zh": "禮貌；好意",
+  "en": "polite behavior or a free favor",
+  "simple": "He thanked her with courtesy.",
+  "simple_zh": "他很有禮貌地向她道謝。",
+  "toeic": "The shuttle bus is provided as a courtesy to hotel guests.",
+  "toeic_zh": "接駁巴士是提供給飯店房客的免費服務。",
+  "family": "courteous (adj), courtesy (n)",
+  "related": [
+   {
+    "w": "courteous",
+    "zh": "有禮的",
+    "k": "family"
+   },
+   {
+    "w": "curtsy",
+    "zh": "屈膝禮",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1034,
+  "day": 42
+ },
+ {
+  "word": "daytime",
+  "pos": "n",
+  "pic": "☀️",
+  "zh": "白天",
+  "en": "the hours when it is light",
+  "simple": "I work in the daytime.",
+  "simple_zh": "我白天工作。",
+  "toeic": "Call our daytime hotline between nine and five for assistance.",
+  "toeic_zh": "請於九點至五點致電我們的日間專線尋求協助。",
+  "family": "",
+  "related": [
+   {
+    "w": "nighttime",
+    "zh": "夜間",
+    "k": "opp"
+   },
+   {
+    "w": "daily",
+    "zh": "每日的",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1035,
+  "day": 42
+ },
+ {
+  "word": "defect",
+  "pos": "n/v",
+  "pic": "❌",
+  "zh": "瑕疵",
+  "en": "a fault or imperfection in something",
+  "simple": "The product has a manufacturing defect.",
+  "simple_zh": "該產品有製造瑕疵。",
+  "toeic": "Defects discovered within the warranty period are covered under our guarantee.",
+  "toeic_zh": "在保修期內發現的缺陷由我們的保證覆蓋。",
+  "family": "defect (v), defect (n), defective (adj)",
+  "related": [
+   {
+    "w": "flaw",
+    "zh": "缺陷",
+    "k": "syn"
+   },
+   {
+    "w": "fault",
+    "zh": "故障",
+    "k": "syn"
+   }
+  ],
+  "n": 1036,
+  "day": 42,
+  "src": "TSL"
+ },
+ {
+  "word": "defective",
+  "pos": "adj",
+  "pic": "❌",
+  "zh": "有缺陷的",
+  "en": "imperfect or faulty; not working as it should",
+  "simple": "The defective product was recalled by the manufacturer.",
+  "simple_zh": "製造商召回了有缺陷的產品。",
+  "toeic": "Defective merchandise returned within the policy timeframe receives replacements.",
+  "toeic_zh": "在政策時間內退回的有缺陷的商品可獲得更換。",
+  "family": "defect (n), defective (adj), deficiency (n)",
+  "related": [
+   {
+    "w": "faulty",
+    "zh": "故障的",
+    "k": "syn"
+   },
+   {
+    "w": "imperfect",
+    "zh": "不完美的",
+    "k": "syn"
+   }
+  ],
+  "n": 1037,
+  "day": 42,
+  "src": "TSL"
+ },
+ {
+  "word": "diagnose",
+  "pos": "v",
+  "pic": "🔍",
+  "zh": "診斷",
+  "en": "to identify the cause or nature of a problem by examination",
+  "simple": "We need to diagnose the problem first.",
+  "simple_zh": "我們首先需要診斷問題。",
+  "toeic": "Diagnose customer issues promptly through systematic questioning and testing.",
+  "toeic_zh": "通過系統提問和測試及時診斷顧客問題。",
+  "family": "diagnose (v), diagnosis (n), diagnostic (adj)",
+  "related": [
+   {
+    "w": "identify",
+    "zh": "識別",
+    "k": "syn"
+   },
+   {
+    "w": "determine",
+    "zh": "確定",
+    "k": "syn"
+   }
+  ],
+  "n": 1038,
+  "day": 42,
+  "src": "TSL"
+ },
+ {
+  "word": "dial",
+  "pos": "v",
+  "pic": "☎️",
+  "zh": "撥號",
+  "en": "to press numbers on a phone",
+  "simple": "Dial 911 in an emergency.",
+  "simple_zh": "緊急時請撥 911。",
+  "toeic": "To reach the operator, please dial zero from any hotel phone.",
+  "toeic_zh": "若要聯絡總機，請用任何飯店電話撥零。",
+  "family": "dial (n/v)",
+  "related": [
+   {
+    "w": "call",
+    "zh": "打電話",
+    "k": "syn"
+   },
+   {
+    "w": "dialogue",
+    "zh": "對話",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1039,
+  "day": 42
+ },
+ {
+  "word": "diner",
+  "pos": "n",
+  "pic": "🍔",
+  "zh": "用餐者；簡餐店",
+  "en": "a person eating at a restaurant; a small cheap restaurant",
+  "simple": "The diner ordered soup.",
+  "simple_zh": "那位用餐者點了湯。",
+  "toeic": "Each diner will receive a free drink with the set menu.",
+  "toeic_zh": "每位用餐者點套餐都將獲得一杯免費飲料。",
+  "family": "dine (v), diner (n)",
+  "related": [
+   {
+    "w": "dinner",
+    "zh": "晚餐",
+    "k": "confuse"
+   },
+   {
+    "w": "customer",
+    "zh": "顧客",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1040,
+  "day": 42
+ },
+ {
+  "word": "directory",
+  "pos": "n",
+  "pic": "📒",
+  "zh": "名錄；目錄",
+  "en": "a list of names, addresses or files",
+  "simple": "Look in the phone directory.",
+  "simple_zh": "查一下電話簿。",
+  "toeic": "You can find her extension in the company directory.",
+  "toeic_zh": "你可以在公司通訊錄中找到她的分機號碼。",
+  "family": "direct (v/adj), direction (n), directory (n)",
+  "related": [
+   {
+    "w": "director",
+    "zh": "主任",
+    "k": "confuse"
+   },
+   {
+    "w": "listing",
+    "zh": "名單",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1041,
+  "day": 42
+ },
+ {
+  "word": "disappointment",
+  "pos": "n",
+  "pic": "😞",
+  "zh": "失望",
+  "en": "a sad feeling when hopes are not met",
+  "simple": "The result was a disappointment.",
+  "simple_zh": "結果令人失望。",
+  "toeic": "The delay in shipping was a disappointment to many customers.",
+  "toeic_zh": "出貨延遲令許多顧客感到失望。",
+  "family": "disappoint (v), disappointed (adj), disappointment (n)",
+  "related": [
+   {
+    "w": "disappointed",
+    "zh": "失望的",
+    "k": "family"
+   },
+   {
+    "w": "satisfaction",
+    "zh": "滿意",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1042,
+  "day": 42
+ },
+ {
+  "word": "disgust",
+  "pos": "n",
+  "pic": "🤢",
+  "zh": "厭惡；噁心",
+  "en": "a strong feeling of dislike",
+  "simple": "He showed disgust at the smell.",
+  "simple_zh": "他對那個味道感到噁心。",
+  "toeic": "The customer expressed disgust at the dirty restaurant kitchen.",
+  "toeic_zh": "顧客對餐廳骯髒的廚房表示厭惡。",
+  "family": "disgusted (adj), disgusting (adj), disgust (n/v)",
+  "related": [
+   {
+    "w": "dislike",
+    "zh": "不喜歡",
+    "k": "syn"
+   },
+   {
+    "w": "discuss",
+    "zh": "討論",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1043,
+  "day": 42
+ },
+ {
+  "word": "dislike",
+  "pos": "v",
+  "pic": "👎",
+  "zh": "不喜歡",
+  "en": "to not enjoy something",
+  "simple": "I dislike loud music.",
+  "simple_zh": "我不喜歡吵鬧的音樂。",
+  "toeic": "Many customers dislike waiting in long lines at the counter.",
+  "toeic_zh": "許多顧客不喜歡在櫃台排長隊等候。",
+  "family": "like (v), dislike (n/v)",
+  "related": [
+   {
+    "w": "like",
+    "zh": "喜歡",
+    "k": "opp"
+   },
+   {
+    "w": "hate",
+    "zh": "討厭",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1044,
+  "day": 42
+ },
+ {
+  "word": "dissatisfy",
+  "pos": "v",
+  "pic": "😠",
+  "zh": "使不滿",
+  "en": "to make someone unhappy with something",
+  "simple": "Slow service may dissatisfy guests.",
+  "simple_zh": "服務慢可能讓客人不滿。",
+  "toeic": "Long delays dissatisfy customers and harm the company's reputation.",
+  "toeic_zh": "長時間延誤會讓顧客不滿並損害公司聲譽。",
+  "family": "dissatisfied (adj), dissatisfaction (n), dissatisfy (v)",
+  "related": [
+   {
+    "w": "satisfy",
+    "zh": "使滿意",
+    "k": "opp"
+   },
+   {
+    "w": "dissatisfaction",
+    "zh": "不滿",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 1045,
+  "day": 42
+ },
+ {
+  "word": "editorial",
+  "pos": "n",
+  "pic": "📰",
+  "zh": "社論；編輯的",
+  "en": "a newspaper article giving the paper's opinion",
+  "simple": "I read the editorial this morning.",
+  "simple_zh": "我今天早上讀了社論。",
+  "toeic": "The editorial praised the city's new recycling program.",
+  "toeic_zh": "這篇社論稱讚了市政府的新資源回收計畫。",
+  "family": "edit (v), editor (n), editorial (n/adj)",
+  "related": [
+   {
+    "w": "editor",
+    "zh": "編輯",
+    "k": "family"
+   },
+   {
+    "w": "column",
+    "zh": "專欄",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1046,
+  "day": 42
+ },
+ {
+  "word": "enclose",
+  "pos": "v",
+  "pic": "📎",
+  "zh": "隨函附上；圍住",
+  "en": "to put something inside an envelope or area",
+  "simple": "I enclose a photo with this letter.",
+  "simple_zh": "我在這封信裡附上一張照片。",
+  "toeic": "Please enclose a copy of your résumé with the application.",
+  "toeic_zh": "請在申請書中附上履歷影本。",
+  "family": "enclose (v), enclosure (n)",
+  "related": [
+   {
+    "w": "attach",
+    "zh": "附上",
+    "k": "syn"
+   },
+   {
+    "w": "enclosure",
+    "zh": "附件",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 1047,
+  "day": 42
+ },
+ {
+  "word": "enjoyable",
+  "pos": "adj",
+  "pic": "😊",
+  "zh": "愉快的；有趣的",
+  "en": "giving you pleasure or fun",
+  "simple": "The trip was very enjoyable.",
+  "simple_zh": "這趟旅行非常愉快。",
+  "toeic": "We hope your stay at our resort is enjoyable.",
+  "toeic_zh": "我們希望您在本度假村住得愉快。",
+  "family": "enjoy (v), enjoyable (adj), enjoyment (n)",
+  "related": [
+   {
+    "w": "pleasant",
+    "zh": "愉快的",
+    "k": "syn"
+   },
+   {
+    "w": "unpleasant",
+    "zh": "不愉快的",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1048,
+  "day": 42
+ },
+ {
+  "word": "enthusiastic",
+  "pos": "adj",
+  "pic": "😃",
+  "zh": "熱心的；熱情的",
+  "en": "feeling or showing strong interest and excitement",
+  "simple": "The crowd was enthusiastic.",
+  "simple_zh": "群眾非常熱情。",
+  "toeic": "Customers were enthusiastic about the new product line.",
+  "toeic_zh": "顧客對新產品系列反應熱烈。",
+  "family": "enthusiasm (n), enthusiast (n), enthusiastic (adj), enthusiastically (adv)",
+  "related": [
+   {
+    "w": "eager",
+    "zh": "熱切的",
+    "k": "syn"
+   },
+   {
+    "w": "indifferent",
+    "zh": "漠不關心的",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1049,
+  "day": 42
+ },
+ {
+  "word": "exceptional",
+  "pos": "adj",
+  "pic": "🌟",
+  "zh": "傑出的；特別的",
+  "en": "unusually good or special",
+  "simple": "She has exceptional skills.",
+  "simple_zh": "她有傑出的技能。",
+  "toeic": "The hotel is known for its exceptional customer service.",
+  "toeic_zh": "這間飯店以卓越的客戶服務聞名。",
+  "family": "exception (n), exceptional (adj), exceptionally (adv)",
+  "related": [
+   {
+    "w": "exceptionally",
+    "zh": "格外地",
+    "k": "family"
+   },
+   {
+    "w": "ordinary",
+    "zh": "普通的",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1050,
+  "day": 42
+ },
+ {
+  "word": "exclusively",
+  "pos": "adv",
+  "pic": "🔒",
+  "zh": "專門地；僅僅",
+  "en": "only, without including others",
+  "simple": "This room is exclusively for staff.",
+  "simple_zh": "這個房間只限員工使用。",
+  "toeic": "The sale is available exclusively to registered members.",
+  "toeic_zh": "這次特賣僅限註冊會員。",
+  "family": "exclusive (adj), exclusively (adv), exclusion (n)",
+  "related": [
+   {
+    "w": "only",
+    "zh": "僅僅",
+    "k": "syn"
+   },
+   {
+    "w": "exclusive",
+    "zh": "獨家的",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 1051,
+  "day": 43
+ },
+ {
+  "word": "expire",
+  "pos": "v",
+  "pic": "⏱️",
+  "zh": "過期",
+  "en": "to come to an end; to become no longer valid or usable",
+  "simple": "The warranty will expire next month.",
+  "simple_zh": "保修將於下月過期。",
+  "toeic": "Expired warranties no longer provide coverage for product defects.",
+  "toeic_zh": "過期保修不再為產品缺陷提供保障。",
+  "family": "expire (v), expiration (n), expired (adj)",
+  "related": [
+   {
+    "w": "lapse",
+    "zh": "失效",
+    "k": "syn"
+   },
+   {
+    "w": "end",
+    "zh": "結束",
+    "k": "syn"
+   }
+  ],
+  "n": 1052,
+  "day": 43,
+  "src": "TSL"
+ },
+ {
+  "word": "explanatory",
+  "pos": "adj",
+  "pic": "💡",
+  "zh": "說明的；解釋性的",
+  "en": "giving information to make something clear",
+  "simple": "There is an explanatory note.",
+  "simple_zh": "有一則說明附註。",
+  "toeic": "An explanatory brochure is included with every package.",
+  "toeic_zh": "每個包裹都附有一份說明手冊。",
+  "family": "explain (v), explanation (n), explanatory (adj)",
+  "related": [
+   {
+    "w": "explanation",
+    "zh": "解釋",
+    "k": "family"
+   },
+   {
+    "w": "descriptive",
+    "zh": "描述性的",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1053,
+  "day": 43
+ },
+ {
+  "word": "factual",
+  "pos": "adj",
+  "pic": "📊",
+  "zh": "事實的；真實的",
+  "en": "based on facts and real information",
+  "simple": "The report is factual and clear.",
+  "simple_zh": "這份報告真實又清楚。",
+  "toeic": "Please make sure the article is factual before you publish it.",
+  "toeic_zh": "發表前請確認這篇文章屬實。",
+  "family": "fact (n), factual (adj)",
+  "related": [
+   {
+    "w": "fact",
+    "zh": "事實",
+    "k": "family"
+   },
+   {
+    "w": "fictional",
+    "zh": "虛構的",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1054,
+  "day": 43
+ },
+ {
+  "word": "flaw",
+  "pos": "n",
+  "pic": "🪲",
+  "zh": "缺陷",
+  "en": "a small fault or imperfection in something",
+  "simple": "There is a small flaw in the glass.",
+  "simple_zh": "玻璃上有個小缺陷。",
+  "toeic": "Flaws discovered during quality inspection prevent defects reaching customers.",
+  "toeic_zh": "質量檢查中發現的缺陷可防止缺陷到達顧客。",
+  "family": "flaw (n), flawless (adj), flawed (adj)",
+  "related": [
+   {
+    "w": "defect",
+    "zh": "瑕疵",
+    "k": "syn"
+   },
+   {
+    "w": "imperfection",
+    "zh": "不完美",
+    "k": "syn"
+   }
+  ],
+  "n": 1055,
+  "day": 43,
+  "src": "TSL"
+ },
+ {
+  "word": "frustrate",
+  "pos": "v",
+  "pic": "😤",
+  "zh": "使沮喪",
+  "en": "to cause someone to feel annoyed or upset by preventing success",
+  "simple": "Technical problems frustrate many online shoppers.",
+  "simple_zh": "技術問題讓許多在線購物者沮喪。",
+  "toeic": "Frustrate customer anger by offering immediate compensation.",
+  "toeic_zh": "通過提供即時補償來消除顧客的憤怒沮喪。",
+  "family": "frustrate (v), frustration (n), frustrated (adj)",
+  "related": [
+   {
+    "w": "annoy",
+    "zh": "惹惱",
+    "k": "syn"
+   },
+   {
+    "w": "exasperate",
+    "zh": "激怒",
+    "k": "syn"
+   }
+  ],
+  "n": 1056,
+  "day": 43,
+  "src": "TSL"
+ },
+ {
+  "word": "generalization",
+  "pos": "n",
+  "pic": "💭",
+  "zh": "概括；籠統的說法",
+  "en": "a broad statement based on a few examples",
+  "simple": "That is a generalization.",
+  "simple_zh": "那是一種籠統的說法。",
+  "toeic": "It is a generalization to say all customers prefer lower prices.",
+  "toeic_zh": "說所有顧客都偏好低價是一種以偏概全。",
+  "family": "general (adj), generalize (v), generalization (n)",
+  "related": [
+   {
+    "w": "generalize",
+    "zh": "概括",
+    "k": "family"
+   },
+   {
+    "w": "specific",
+    "zh": "具體的",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1057,
+  "day": 43
+ },
+ {
+  "word": "generous",
+  "pos": "adj",
+  "pic": "🎁",
+  "zh": "寬慷的",
+  "en": "freely giving more than is necessary or expected; ample",
+  "simple": "Our generous return policy satisfies most customers.",
+  "simple_zh": "我們慷慨的退貨政策滿足大多數顧客。",
+  "toeic": "Generous discounts and loyalty rewards encourage repeat purchases.",
+  "toeic_zh": "慷慨的折扣和忠誠度獎勵鼓勵重複購買。",
+  "family": "generous (adj), generosity (n), generously (adv)",
+  "related": [
+   {
+    "w": "ample",
+    "zh": "充足的",
+    "k": "syn"
+   },
+   {
+    "w": "liberal",
+    "zh": "慷慨的",
+    "k": "syn"
+   }
+  ],
+  "n": 1058,
+  "day": 43,
+  "src": "TSL"
+ },
+ {
+  "word": "hazard",
+  "pos": "n",
+  "pic": "☢️",
+  "zh": "危險",
+  "en": "a source of danger; a potential source of risk or harm",
+  "simple": "Report safety hazards immediately.",
+  "simple_zh": "立即報告安全危險。",
+  "toeic": "Hazard assessment ensures customer safety standards.",
+  "toeic_zh": "危險評估確保顧客安全標準。",
+  "family": "hazard (v), hazard (n), hazardous (adj)",
+  "related": [
+   {
+    "w": "risk",
+    "zh": "風險",
+    "k": "syn"
+   },
+   {
+    "w": "danger",
+    "zh": "危險",
+    "k": "syn"
+   }
+  ],
+  "n": 1059,
+  "day": 43,
+  "src": "TSL"
+ },
+ {
+  "word": "headache",
+  "pos": "n",
+  "pic": "🤕",
+  "zh": "頭痛；麻煩事",
+  "en": "a pain in your head; a problem",
+  "simple": "I have a bad headache.",
+  "simple_zh": "我頭很痛。",
+  "toeic": "The delayed shipment became a major headache for the sales team.",
+  "toeic_zh": "延遲的貨運成了業務團隊的一大麻煩。",
+  "family": "",
+  "related": [
+   {
+    "w": "nuisance",
+    "zh": "麻煩",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1060,
+  "day": 43
+ },
+ {
+  "word": "hereby",
+  "pos": "adv",
+  "pic": "📜",
+  "zh": "特此；藉此",
+  "en": "by this statement or document, formally",
+  "simple": "I hereby say thank you.",
+  "simple_zh": "我特此致謝。",
+  "toeic": "We hereby confirm receipt of your order dated March 3.",
+  "toeic_zh": "我們特此確認收到您三月三日的訂單。",
+  "family": "",
+  "related": [
+   {
+    "w": "thereby",
+    "zh": "藉此",
+    "k": "confuse"
+   },
+   {
+    "w": "herewith",
+    "zh": "隨函",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1061,
+  "day": 43
+ },
+ {
+  "word": "hesitant",
+  "pos": "adj",
+  "pic": "🤔",
+  "zh": "猶豫的",
+  "en": "slow to act because you are not sure",
+  "simple": "He is hesitant to speak.",
+  "simple_zh": "他不太敢說話。",
+  "toeic": "Many investors are hesitant to buy shares in the new company.",
+  "toeic_zh": "許多投資人對購買這家新公司的股票持猶豫態度。",
+  "family": "hesitate (v), hesitation (n)",
+  "related": [
+   {
+    "w": "reluctant",
+    "zh": "不情願的",
+    "k": "syn"
+   },
+   {
+    "w": "eager",
+    "zh": "熱切的",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1062,
+  "day": 43
+ },
+ {
+  "word": "hesitation",
+  "pos": "n",
+  "pic": "⏳",
+  "zh": "猶豫；躊躇",
+  "en": "a short pause before doing something because of doubt",
+  "simple": "She answered without hesitation.",
+  "simple_zh": "她毫不猶豫地回答。",
+  "toeic": "Please contact us without hesitation if you have any questions.",
+  "toeic_zh": "若有任何問題，請不要猶豫，直接與我們聯絡。",
+  "family": "hesitate (v), hesitant (adj)",
+  "related": [
+   {
+    "w": "hesitant",
+    "zh": "猶豫的",
+    "k": "family"
+   },
+   {
+    "w": "delay",
+    "zh": "延遲",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1063,
+  "day": 43
+ },
+ {
+  "word": "homeless",
+  "pos": "adj",
+  "pic": "🏚️",
+  "zh": "無家可歸的",
+  "en": "having no place to live",
+  "simple": "The homeless man needs food.",
+  "simple_zh": "那位無家可歸的男子需要食物。",
+  "toeic": "The company donated blankets to help homeless families this winter.",
+  "toeic_zh": "公司捐贈毛毯，協助今年冬天無家可歸的家庭。",
+  "family": "home (n)",
+  "related": [
+   {
+    "w": "homeowner",
+    "zh": "屋主",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1064,
+  "day": 43
+ },
+ {
+  "word": "honestly",
+  "pos": "adv",
+  "pic": "🤝",
+  "zh": "老實說；誠實地",
+  "en": "in a truthful way",
+  "simple": "Please answer honestly.",
+  "simple_zh": "請誠實回答。",
+  "toeic": "Honestly, we cannot complete the project before the deadline.",
+  "toeic_zh": "老實說，我們無法在期限前完成這個專案。",
+  "family": "honest (adj), honesty (n)",
+  "related": [
+   {
+    "w": "sincerely",
+    "zh": "誠摯地",
+    "k": "syn"
+   },
+   {
+    "w": "dishonestly",
+    "zh": "不誠實地",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1065,
+  "day": 43
+ },
+ {
+  "word": "hospitality",
+  "pos": "n",
+  "pic": "🏨",
+  "zh": "款待；好客",
+  "en": "friendly and generous treatment of guests",
+  "simple": "Thank you for your hospitality.",
+  "simple_zh": "謝謝你的款待。",
+  "toeic": "The hotel is known for its warm hospitality and fast service.",
+  "toeic_zh": "這間飯店以熱情款待與快速服務聞名。",
+  "family": "hospitable (adj)",
+  "related": [
+   {
+    "w": "hospital",
+    "zh": "醫院",
+    "k": "confuse"
+   },
+   {
+    "w": "welcome",
+    "zh": "歡迎",
+    "k": "syn"
+   }
+  ],
+  "n": 1066,
+  "day": 43,
+  "src": "TSL"
+ },
+ {
+  "word": "hotline",
+  "pos": "n",
+  "pic": "☎️",
+  "zh": "服務專線",
+  "en": "a phone number for quick help or information",
+  "simple": "Call the hotline for help.",
+  "simple_zh": "請撥打服務專線尋求協助。",
+  "toeic": "Customers with billing questions can call the hotline any time of day.",
+  "toeic_zh": "有帳單問題的顧客可隨時撥打服務專線。",
+  "family": "",
+  "related": [
+   {
+    "w": "helpline",
+    "zh": "諮詢專線",
+    "k": "syn"
+   },
+   {
+    "w": "switchboard",
+    "zh": "總機",
+    "k": "confuse"
+   }
+  ],
+  "n": 1067,
+  "day": 43,
+  "src": "TSL"
+ },
+ {
+  "word": "impact",
+  "pos": "n/v",
+  "pic": "💥",
+  "zh": "影響",
+  "en": "the strong effect or influence of something; to have a strong effect on",
+  "simple": "Positive service impacts customer lifetime value.",
+  "simple_zh": "正面服務影響顧客終身價值。",
+  "toeic": "Impact analysis reveals service improvements' business benefits.",
+  "toeic_zh": "影響分析揭示服務改進的業務利益。",
+  "family": "impact (v), impact (n), impactful (adj)",
+  "related": [
+   {
+    "w": "effect",
+    "zh": "影響",
+    "k": "syn"
+   },
+   {
+    "w": "influence",
+    "zh": "影響",
+    "k": "syn"
+   }
+  ],
+  "n": 1068,
+  "day": 43,
+  "src": "TSL"
+ },
+ {
+  "word": "impatient",
+  "pos": "adj",
+  "pic": "⌚",
+  "zh": "不耐煩的",
+  "en": "unable to wait calmly for something",
+  "simple": "The man looks very impatient.",
+  "simple_zh": "那位男士看起來很不耐煩。",
+  "toeic": "Callers who are impatient often hang up after five minutes on hold.",
+  "toeic_zh": "不耐煩的來電者常在等候五分鐘後掛斷。",
+  "family": "impatience (n), impatiently (adv)",
+  "related": [
+   {
+    "w": "patient",
+    "zh": "有耐心的",
+    "k": "opp"
+   },
+   {
+    "w": "restless",
+    "zh": "躁動不安的",
+    "k": "syn"
+   }
+  ],
+  "n": 1069,
+  "day": 43,
+  "src": "TSL"
+ },
+ {
+  "word": "incoming",
+  "pos": "adj",
+  "pic": "📥",
+  "zh": "進來的；新上任的",
+  "en": "arriving or coming in",
+  "simple": "I have an incoming call.",
+  "simple_zh": "我有來電。",
+  "toeic": "The receptionist handles all incoming calls and visitors.",
+  "toeic_zh": "接待員負責處理所有來電和訪客。",
+  "family": "",
+  "related": [
+   {
+    "w": "outgoing",
+    "zh": "外出的",
+    "k": "opp"
+   },
+   {
+    "w": "arriving",
+    "zh": "到達的",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1070,
+  "day": 43
+ },
+ {
+  "word": "inconvenience",
+  "pos": "n",
+  "pic": "😣",
+  "zh": "不便；麻煩",
+  "en": "a small problem or trouble that makes things difficult",
+  "simple": "Sorry for the inconvenience.",
+  "simple_zh": "造成不便，敬請見諒。",
+  "toeic": "We apologize for any inconvenience caused by the system outage.",
+  "toeic_zh": "對於系統中斷所造成的任何不便，我們深表歉意。",
+  "family": "inconvenience (n/v); inconvenient (adj) 不方便的；cause inconvenience；apologize for the inconvenience",
+  "related": [
+   {
+    "w": "inconvenient",
+    "zh": "不方便的",
+    "k": "confuse"
+   },
+   {
+    "w": "convenience",
+    "zh": "方便",
+    "k": "opp"
+   }
+  ],
+  "n": 1071,
+  "day": 43,
+  "src": "TSL"
+ },
+ {
+  "word": "incur",
+  "pos": "v",
+  "pic": "💸",
+  "zh": "招致；承擔（費用）",
+  "en": "to experience or have to pay something unpleasant",
+  "simple": "You may incur extra costs.",
+  "simple_zh": "您可能要承擔額外費用。",
+  "toeic": "Customers will incur a fee if they cancel after the deadline.",
+  "toeic_zh": "客戶若在期限後取消，將須負擔費用。",
+  "family": "",
+  "related": [
+   {
+    "w": "occur",
+    "zh": "發生",
+    "k": "confuse"
+   },
+   {
+    "w": "suffer",
+    "zh": "蒙受",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1072,
+  "day": 43
+ },
+ {
+  "word": "informative",
+  "pos": "adj",
+  "pic": "ℹ️",
+  "zh": "提供資訊的；有益的",
+  "en": "giving useful information",
+  "simple": "The book is very informative.",
+  "simple_zh": "這本書提供很多資訊。",
+  "toeic": "The informative brochure explains all of our services clearly.",
+  "toeic_zh": "這份資訊豐富的小冊子清楚說明了我們所有的服務。",
+  "family": "inform (v), information (n)",
+  "related": [
+   {
+    "w": "instructive",
+    "zh": "有教育意義的",
+    "k": "syn"
+   },
+   {
+    "w": "information",
+    "zh": "資訊",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 1073,
+  "day": 43
+ },
+ {
+  "word": "inquire",
+  "pos": "v",
+  "pic": "❓",
+  "zh": "詢問",
+  "en": "to ask a question or seek information about something",
+  "simple": "Customers can inquire about product availability online.",
+  "simple_zh": "顧客可以在線詢問產品可用性。",
+  "toeic": "Please inquire about our premium membership benefits at the service desk.",
+  "toeic_zh": "請在服務台詢問我們的高級會員福利。",
+  "family": "inquire (v), inquiry (n), inquiring (adj)",
+  "related": [
+   {
+    "w": "ask",
+    "zh": "詢問",
+    "k": "syn"
+   },
+   {
+    "w": "question",
+    "zh": "提問",
+    "k": "syn"
+   }
+  ],
+  "n": 1074,
+  "day": 43,
+  "src": "TSL"
+ },
+ {
+  "word": "intonation",
+  "pos": "n",
+  "pic": "🎼",
+  "zh": "語調",
+  "en": "the rise and fall of your voice when speaking",
+  "simple": "Her intonation is very clear.",
+  "simple_zh": "她的語調非常清楚。",
+  "toeic": "Good intonation helps customers understand your tone on the phone.",
+  "toeic_zh": "良好的語調有助於顧客在電話中理解您的語氣。",
+  "family": "",
+  "related": [
+   {
+    "w": "pitch",
+    "zh": "音調",
+    "k": "syn"
+   },
+   {
+    "w": "tone",
+    "zh": "語氣",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1075,
+  "day": 43
+ },
+ {
+  "word": "invaluable",
+  "pos": "adj",
+  "pic": "💎",
+  "zh": "極其寶貴的",
+  "en": "extremely useful or important",
+  "simple": "Her help was invaluable.",
+  "simple_zh": "她的幫助極其寶貴。",
+  "toeic": "Your advice has been invaluable to our team.",
+  "toeic_zh": "您的建議對我們團隊極其寶貴。",
+  "family": "value (n, v), valuable (adj)",
+  "related": [
+   {
+    "w": "valuable",
+    "zh": "有價值的",
+    "k": "confuse"
+   },
+   {
+    "w": "worthless",
+    "zh": "無價值的",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1076,
+  "day": 44
+ },
+ {
+  "word": "irritate",
+  "pos": "v",
+  "pic": "😠",
+  "zh": "惹惱；刺激",
+  "en": "to make someone annoyed",
+  "simple": "Loud music can irritate me.",
+  "simple_zh": "大聲的音樂會惹惱我。",
+  "toeic": "Long waiting times can irritate customers and hurt our reputation.",
+  "toeic_zh": "過長的等候時間可能惹惱顧客並損害我們的聲譽。",
+  "family": "irritation (n), irritating (adj)",
+  "related": [
+   {
+    "w": "annoy",
+    "zh": "使煩惱",
+    "k": "syn"
+   },
+   {
+    "w": "please",
+    "zh": "取悅",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1077,
+  "day": 44
+ },
+ {
+  "word": "journalism",
+  "pos": "n",
+  "pic": "📰",
+  "zh": "新聞業",
+  "en": "The work of collecting and writing news",
+  "simple": "He studied journalism at university.",
+  "simple_zh": "他在大學主修新聞學。",
+  "toeic": "She started a career in journalism after graduation.",
+  "toeic_zh": "她畢業後開始從事新聞業。",
+  "family": "journalist (n)",
+  "related": [
+   {
+    "w": "journalist",
+    "zh": "記者",
+    "k": "family"
+   },
+   {
+    "w": "journal",
+    "zh": "期刊",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1078,
+  "day": 44
+ },
+ {
+  "word": "knowledgeable",
+  "pos": "adj",
+  "pic": "🧠",
+  "zh": "知識淵博的",
+  "en": "having a lot of knowledge or information about something",
+  "simple": "Our knowledgeable staff can help you choose the right product.",
+  "simple_zh": "我們知識淵博的工作人員可以幫助您選擇合適的產品。",
+  "toeic": "Knowledgeable representatives provide accurate information about product features.",
+  "toeic_zh": "知識淵博的代表提供關於產品功能的準確信息。",
+  "family": "knowledgeable (adj), knowledge (n), knowingly (adv)",
+  "related": [
+   {
+    "w": "informed",
+    "zh": "了解情況的",
+    "k": "syn"
+   },
+   {
+    "w": "expert",
+    "zh": "專家",
+    "k": "syn"
+   }
+  ],
+  "n": 1079,
+  "day": 44,
+  "src": "TSL"
+ },
+ {
+  "word": "likewise",
+  "pos": "adv",
+  "pic": "🤝",
+  "zh": "同樣地",
+  "en": "In the same way",
+  "simple": "He smiled, and I did likewise.",
+  "simple_zh": "他笑了，我也一樣。",
+  "toeic": "Please sign the form and ask your manager to do likewise.",
+  "toeic_zh": "請在表格上簽名，並請你的經理也這樣做。",
+  "family": "",
+  "related": [
+   {
+    "w": "similarly",
+    "zh": "同樣地",
+    "k": "syn"
+   },
+   {
+    "w": "otherwise",
+    "zh": "否則",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1080,
+  "day": 44
+ },
+ {
+  "word": "loudly",
+  "pos": "adv",
+  "pic": "📢",
+  "zh": "大聲地",
+  "en": "With a lot of sound",
+  "simple": "He spoke loudly in the room.",
+  "simple_zh": "他在房間裡大聲說話。",
+  "toeic": "Please do not talk loudly in the quiet reading area.",
+  "toeic_zh": "請勿在安靜閱讀區大聲交談。",
+  "family": "loud (adj)",
+  "related": [
+   {
+    "w": "quietly",
+    "zh": "安靜地",
+    "k": "opp"
+   },
+   {
+    "w": "aloud",
+    "zh": "出聲地",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1081,
+  "day": 44
+ },
+ {
+  "word": "ma'am",
+  "pos": "n",
+  "pic": "🙋‍♀️",
+  "zh": "女士",
+  "en": "A polite way to address a woman",
+  "simple": "Can I help you, ma'am?",
+  "simple_zh": "女士，需要幫忙嗎？",
+  "toeic": "Thank you for calling, ma'am, how may I help you?",
+  "toeic_zh": "女士，感謝您來電，請問有什麼能為您服務？",
+  "family": "",
+  "related": [
+   {
+    "w": "sir",
+    "zh": "先生",
+    "k": "opp"
+   },
+   {
+    "w": "madam",
+    "zh": "女士",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1082,
+  "day": 44
+ },
+ {
+  "word": "malfunction",
+  "pos": "n/v",
+  "pic": "⚠️",
+  "zh": "故障",
+  "en": "a failure to work normally or properly",
+  "simple": "Report any product malfunction to customer service.",
+  "simple_zh": "向客服報告任何產品故障。",
+  "toeic": "Malfunctioning products are covered under our extended warranty.",
+  "toeic_zh": "故障產品由我們的延長保修承保。",
+  "family": "malfunction (v), malfunction (n)",
+  "related": [
+   {
+    "w": "failure",
+    "zh": "故障",
+    "k": "syn"
+   },
+   {
+    "w": "breakdown",
+    "zh": "故障",
+    "k": "syn"
+   }
+  ],
+  "n": 1083,
+  "day": 44,
+  "src": "TSL"
+ },
+ {
+  "word": "maximize",
+  "pos": "v",
+  "pic": "📈",
+  "zh": "最大化",
+  "en": "to make something as large or as great as possible",
+  "simple": "Maximize customer satisfaction through excellent service.",
+  "simple_zh": "通過優秀服務最大化顧客滿意度。",
+  "toeic": "Maximize operational efficiency without compromising service quality.",
+  "toeic_zh": "最大化運營效率而不損害服務質量。",
+  "family": "maximize (v), maximum (n), maximal (adj)",
+  "related": [
+   {
+    "w": "increase",
+    "zh": "增加",
+    "k": "syn"
+   },
+   {
+    "w": "enhance",
+    "zh": "增強",
+    "k": "syn"
+   }
+  ],
+  "n": 1084,
+  "day": 44,
+  "src": "TSL"
+ },
+ {
+  "word": "meaningful",
+  "pos": "adj",
+  "pic": "🎯",
+  "zh": "有意義的",
+  "en": "Having a clear and important purpose",
+  "simple": "She wants a meaningful job.",
+  "simple_zh": "她想要一份有意義的工作。",
+  "toeic": "The survey gave us meaningful feedback from customers.",
+  "toeic_zh": "這項調查讓我們獲得客戶有意義的回饋。",
+  "family": "meaning (n), mean (v)",
+  "related": [
+   {
+    "w": "significant",
+    "zh": "重要的",
+    "k": "syn"
+   },
+   {
+    "w": "meaningless",
+    "zh": "無意義的",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1085,
+  "day": 44
+ },
+ {
+  "word": "media",
+  "pos": "n",
+  "pic": "📺",
+  "zh": "媒體",
+  "en": "TV, newspapers and the internet that give news",
+  "simple": "The media reported the news.",
+  "simple_zh": "媒體報導了這則新聞。",
+  "toeic": "The company will advertise through social media.",
+  "toeic_zh": "公司將透過社群媒體進行宣傳。",
+  "family": "medium (n)",
+  "related": [
+   {
+    "w": "medium",
+    "zh": "媒介",
+    "k": "family"
+   },
+   {
+    "w": "medial",
+    "zh": "中間的",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1086,
+  "day": 44
+ },
+ {
+  "word": "minimize",
+  "pos": "v",
+  "pic": "📉",
+  "zh": "最小化",
+  "en": "to reduce something to the smallest possible amount or degree",
+  "simple": "Minimize customer waiting times through efficient systems.",
+  "simple_zh": "通過高效系統最小化顧客等待時間。",
+  "toeic": "Minimize service disruptions through proactive maintenance.",
+  "toeic_zh": "通過主動維護最小化服務中斷。",
+  "family": "minimize (v), minimum (n), minimal (adj)",
+  "related": [
+   {
+    "w": "reduce",
+    "zh": "減少",
+    "k": "syn"
+   },
+   {
+    "w": "decrease",
+    "zh": "減少",
+    "k": "syn"
+   }
+  ],
+  "n": 1087,
+  "day": 44,
+  "src": "TSL"
+ },
+ {
+  "word": "misidentify",
+  "pos": "v",
+  "pic": "❓",
+  "zh": "誤認",
+  "en": "To wrongly say who or what someone is",
+  "simple": "Don't misidentify the package.",
+  "simple_zh": "別把包裹認錯了。",
+  "toeic": "Staff may misidentify the item if the label is unclear.",
+  "toeic_zh": "如果標籤不清楚，員工可能會誤認該物品。",
+  "family": "identify (v), identification (n)",
+  "related": [
+   {
+    "w": "identify",
+    "zh": "辨認",
+    "k": "family"
+   },
+   {
+    "w": "mistake",
+    "zh": "誤認",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1088,
+  "day": 44
+ },
+ {
+  "word": "mislead",
+  "pos": "v",
+  "pic": "🧭",
+  "zh": "誤導",
+  "en": "to make someone believe something that is not true",
+  "simple": "The sign can mislead people.",
+  "simple_zh": "這個標誌可能誤導人們。",
+  "toeic": "Advertisements must not mislead customers about the price.",
+  "toeic_zh": "廣告不得就價格誤導顧客。",
+  "family": "misleading (adj)",
+  "related": [
+   {
+    "w": "deceive",
+    "zh": "欺騙",
+    "k": "syn"
+   },
+   {
+    "w": "misread",
+    "zh": "誤讀",
+    "k": "confuse"
+   }
+  ],
+  "n": 1089,
+  "day": 44,
+  "src": "TSL"
+ },
+ {
+  "word": "mister",
+  "pos": "n",
+  "pic": "🧔",
+  "zh": "先生",
+  "en": "A polite title for a man",
+  "simple": "Good morning, mister Lee.",
+  "simple_zh": "早安，李先生。",
+  "toeic": "Please give this report to mister Chen at reception.",
+  "toeic_zh": "請把這份報告交給接待處的陳先生。",
+  "family": "",
+  "related": [
+   {
+    "w": "miss",
+    "zh": "小姐",
+    "k": "opp"
+   },
+   {
+    "w": "mistress",
+    "zh": "女主人",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1090,
+  "day": 44
+ },
+ {
+  "word": "overcharge",
+  "pos": "v",
+  "pic": "💸",
+  "zh": "多收費；索價過高",
+  "en": "to ask for too much money",
+  "simple": "They overcharge tourists.",
+  "simple_zh": "他們向觀光客多收錢。",
+  "toeic": "Please contact us if you think we overcharge you.",
+  "toeic_zh": "如果您認為我們多收了費用，請與我們聯絡。",
+  "family": "overcharge (n), charge (v)",
+  "related": [
+   {
+    "w": "overpay",
+    "zh": "多付",
+    "k": "family"
+   },
+   {
+    "w": "undercharge",
+    "zh": "少收費",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1091,
+  "day": 44
+ },
+ {
+  "word": "overlook",
+  "pos": "v",
+  "pic": "🙈",
+  "zh": "忽略；疏忽",
+  "en": "to fail to notice or consider something",
+  "simple": "Do not overlook this detail.",
+  "simple_zh": "別忽略這個細節。",
+  "toeic": "Please do not overlook the warranty terms listed on page two.",
+  "toeic_zh": "請別忽略第二頁所列的保固條款。",
+  "family": "",
+  "related": [
+   {
+    "w": "oversee",
+    "zh": "監督",
+    "k": "confuse"
+   },
+   {
+    "w": "neglect",
+    "zh": "忽視",
+    "k": "syn"
+   }
+  ],
+  "n": 1092,
+  "day": 44,
+  "src": "TSL"
+ },
+ {
+  "word": "pamphlet",
+  "pos": "n",
+  "pic": "📄",
+  "zh": "小冊子",
+  "en": "a thin booklet with information",
+  "simple": "He read the pamphlet.",
+  "simple_zh": "他讀了那本小冊子。",
+  "toeic": "The clinic gives every visitor a pamphlet about healthy eating.",
+  "toeic_zh": "診所給每位訪客一本健康飲食的小冊子。",
+  "family": "",
+  "related": [
+   {
+    "w": "brochure",
+    "zh": "手冊",
+    "k": "syn"
+   },
+   {
+    "w": "leaflet",
+    "zh": "傳單",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1093,
+  "day": 44
+ },
+ {
+  "word": "paraphrase",
+  "pos": "v",
+  "pic": "✍️",
+  "zh": "改述；意譯",
+  "en": "to say something again in other words",
+  "simple": "Please paraphrase the sentence.",
+  "simple_zh": "請改寫這個句子。",
+  "toeic": "Try to paraphrase the customer's request to confirm you understand.",
+  "toeic_zh": "試著改述客戶的需求以確認你理解了。",
+  "family": "paraphrase (n)",
+  "related": [
+   {
+    "w": "rephrase",
+    "zh": "重新措辭",
+    "k": "syn"
+   },
+   {
+    "w": "quote",
+    "zh": "引用",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1094,
+  "day": 44
+ },
+ {
+  "word": "password",
+  "pos": "n",
+  "pic": "🔑",
+  "zh": "密碼",
+  "en": "a secret word you use to enter an account",
+  "simple": "I forgot my password.",
+  "simple_zh": "我忘記密碼了。",
+  "toeic": "Click the link below to reset your password if you cannot log in.",
+  "toeic_zh": "若無法登入，請點擊下方連結重設您的密碼。",
+  "family": "",
+  "related": [
+   {
+    "w": "passport",
+    "zh": "護照",
+    "k": "confuse"
+   },
+   {
+    "w": "username",
+    "zh": "使用者名稱",
+    "k": "family"
+   }
+  ],
+  "n": 1095,
+  "day": 44,
+  "src": "TSL"
+ },
+ {
+  "word": "patience",
+  "pos": "n",
+  "pic": "⏳",
+  "zh": "耐心",
+  "en": "ability to wait calmly",
+  "simple": "Thank you for your patience.",
+  "simple_zh": "謝謝你的耐心。",
+  "toeic": "Customer service staff need patience when handling complaints.",
+  "toeic_zh": "客服人員處理客訴時需要有耐心。",
+  "family": "patient (adj, n)",
+  "related": [
+   {
+    "w": "patient",
+    "zh": "病人；有耐心的",
+    "k": "confuse"
+   },
+   {
+    "w": "tolerance",
+    "zh": "容忍",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1096,
+  "day": 44
+ },
+ {
+  "word": "patron",
+  "pos": "n",
+  "pic": "🍽️",
+  "zh": "老主顧",
+  "en": "a regular customer of a shop or restaurant",
+  "simple": "He is a patron of this cafe.",
+  "simple_zh": "他是這家咖啡店的常客。",
+  "toeic": "The restaurant offers a free dessert to every patron on their birthday.",
+  "toeic_zh": "餐廳在每位老主顧生日時贈送免費甜點。",
+  "family": "patronage (n), patronize (v)",
+  "related": [
+   {
+    "w": "patrol",
+    "zh": "巡邏",
+    "k": "confuse"
+   },
+   {
+    "w": "customer",
+    "zh": "顧客",
+    "k": "syn"
+   }
+  ],
+  "n": 1097,
+  "day": 44,
+  "src": "TSL"
+ },
+ {
+  "word": "petition",
+  "pos": "n",
+  "pic": "📋",
+  "zh": "請願書；連署",
+  "en": "a written request signed by many people",
+  "simple": "They signed the petition.",
+  "simple_zh": "他們在請願書上簽名。",
+  "toeic": "Residents submitted a petition to stop the new road.",
+  "toeic_zh": "居民提出請願書，要求停止興建新道路。",
+  "family": "petition (v)",
+  "related": [
+   {
+    "w": "request",
+    "zh": "請求",
+    "k": "syn"
+   },
+   {
+    "w": "appeal",
+    "zh": "呼籲",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1098,
+  "day": 44
+ },
+ {
+  "word": "pharmacist",
+  "pos": "n",
+  "pic": "⚕️",
+  "zh": "藥師",
+  "en": "a person trained to prepare medicine",
+  "simple": "Ask the pharmacist.",
+  "simple_zh": "去問藥師。",
+  "toeic": "The pharmacist explained how to take the medicine.",
+  "toeic_zh": "藥師說明了這種藥的服用方式。",
+  "family": "pharmacy (n)",
+  "related": [
+   {
+    "w": "pharmacy",
+    "zh": "藥局",
+    "k": "family"
+   },
+   {
+    "w": "doctor",
+    "zh": "醫生",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1099,
+  "day": 44
+ },
+ {
+  "word": "plausible",
+  "pos": "adj",
+  "pic": "🤔",
+  "zh": "似乎合理的",
+  "en": "seeming likely to be true",
+  "simple": "His story is plausible.",
+  "simple_zh": "他的說法聽起來合理。",
+  "toeic": "The manager gave a plausible reason for the delay.",
+  "toeic_zh": "經理對延誤提出了合理的原因。",
+  "family": "plausibly (adv)",
+  "related": [
+   {
+    "w": "believable",
+    "zh": "可信的",
+    "k": "syn"
+   },
+   {
+    "w": "implausible",
+    "zh": "不可信的",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1100,
+  "day": 44
+ },
+ {
+  "word": "polite",
+  "pos": "adj",
+  "pic": "🙇",
+  "zh": "有禮貌的",
+  "en": "showing good manners toward other people",
+  "simple": "The boy is very polite.",
+  "simple_zh": "那個男孩很有禮貌。",
+  "toeic": "Always be polite and clear when you answer customer emails.",
+  "toeic_zh": "回覆客戶電子郵件時，務必保持禮貌且清楚。",
+  "family": "politely (adv), politeness (n)",
+  "related": [
+   {
+    "w": "rude",
+    "zh": "無禮的",
+    "k": "opp"
+   },
+   {
+    "w": "policy",
+    "zh": "政策",
+    "k": "confuse"
+   }
+  ],
+  "n": 1101,
+  "day": 45,
+  "src": "TSL"
+ },
+ {
+  "word": "poorly",
+  "pos": "adv",
+  "pic": "👎",
+  "zh": "差勁地；不佳地",
+  "en": "in a bad way",
+  "simple": "He did poorly on the test.",
+  "simple_zh": "他考試考得不好。",
+  "toeic": "The poorly designed website frustrated many customers.",
+  "toeic_zh": "設計不良的網站讓許多顧客感到沮喪。",
+  "family": "poor (adj)",
+  "related": [
+   {
+    "w": "badly",
+    "zh": "糟糕地",
+    "k": "syn"
+   },
+   {
+    "w": "well",
+    "zh": "好地",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1102,
+  "day": 45
+ },
+ {
+  "word": "popularity",
+  "pos": "n",
+  "pic": "⭐",
+  "zh": "人氣；受歡迎程度",
+  "en": "the state of being liked by many",
+  "simple": "The song gained popularity.",
+  "simple_zh": "這首歌變得很受歡迎。",
+  "toeic": "The popularity of online shopping keeps growing each year.",
+  "toeic_zh": "網路購物的普及度逐年成長。",
+  "family": "popular (adj)",
+  "related": [
+   {
+    "w": "fame",
+    "zh": "名聲",
+    "k": "syn"
+   },
+   {
+    "w": "popular",
+    "zh": "受歡迎的",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 1103,
+  "day": 45
+ },
+ {
+  "word": "poster",
+  "pos": "n",
+  "pic": "🖼️",
+  "zh": "海報",
+  "en": "a large printed notice or picture",
+  "simple": "The poster is on the wall.",
+  "simple_zh": "海報貼在牆上。",
+  "toeic": "We will put up a poster to promote the new product.",
+  "toeic_zh": "我們會張貼海報來宣傳新產品。",
+  "family": "post (v)",
+  "related": [
+   {
+    "w": "banner",
+    "zh": "橫幅",
+    "k": "syn"
+   },
+   {
+    "w": "postage",
+    "zh": "郵資",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1104,
+  "day": 45
+ },
+ {
+  "word": "professionally",
+  "pos": "adv",
+  "pic": "👔",
+  "zh": "專業地",
+  "en": "in a skilled, businesslike way",
+  "simple": "She dresses professionally.",
+  "simple_zh": "她穿著很專業。",
+  "toeic": "The staff handled the complaint professionally and politely.",
+  "toeic_zh": "員工以專業又禮貌的方式處理了客訴。",
+  "family": "professional (adj, n), profession (n)",
+  "related": [
+   {
+    "w": "skillfully",
+    "zh": "熟練地",
+    "k": "syn"
+   },
+   {
+    "w": "casually",
+    "zh": "隨意地",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1105,
+  "day": 45
+ },
+ {
+  "word": "promotional",
+  "pos": "adj",
+  "pic": "📣",
+  "zh": "促銷的；宣傳的",
+  "en": "used to advertise a product",
+  "simple": "We sent promotional emails.",
+  "simple_zh": "我們寄出了促銷電子郵件。",
+  "toeic": "The promotional campaign increased sales by twenty percent.",
+  "toeic_zh": "這項促銷活動使銷售增加了百分之二十。",
+  "family": "promote (v), promotion (n)",
+  "related": [
+   {
+    "w": "advertising",
+    "zh": "廣告的",
+    "k": "syn"
+   },
+   {
+    "w": "promotion",
+    "zh": "促銷；升遷",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 1106,
+  "day": 45
+ },
+ {
+  "word": "publicize",
+  "pos": "v",
+  "pic": "📢",
+  "zh": "宣傳；公開",
+  "en": "to make something known to the public",
+  "simple": "We will publicize the sale.",
+  "simple_zh": "我們會宣傳這次特賣。",
+  "toeic": "The firm will publicize its new product at the trade show.",
+  "toeic_zh": "公司將在商展上宣傳其新產品。",
+  "family": "public (adj, n), publicity (n)",
+  "related": [
+   {
+    "w": "advertise",
+    "zh": "廣告",
+    "k": "syn"
+   },
+   {
+    "w": "conceal",
+    "zh": "隱瞞",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1107,
+  "day": 45
+ },
+ {
+  "word": "purser",
+  "pos": "n",
+  "pic": "✈️",
+  "zh": "事務長（船或飛機）",
+  "en": "an officer who looks after passengers and money",
+  "simple": "The purser helped the passengers.",
+  "simple_zh": "事務長協助了乘客。",
+  "toeic": "The purser announced that the flight would be delayed.",
+  "toeic_zh": "事務長宣布班機將延誤。",
+  "family": "purse (n)",
+  "related": [
+   {
+    "w": "flight attendant",
+    "zh": "空服員",
+    "k": "syn"
+   },
+   {
+    "w": "purse",
+    "zh": "皮包",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1108,
+  "day": 45
+ },
+ {
+  "word": "query",
+  "pos": "n",
+  "pic": "❓",
+  "zh": "詢問；疑問",
+  "en": "a question, often asking for information",
+  "simple": "I have a query about my bill.",
+  "simple_zh": "我對帳單有疑問。",
+  "toeic": "The customer sent a query about the delivery date.",
+  "toeic_zh": "顧客寄來詢問交貨日期的信件。",
+  "family": "query (v)",
+  "related": [
+   {
+    "w": "inquiry",
+    "zh": "詢問",
+    "k": "syn"
+   },
+   {
+    "w": "answer",
+    "zh": "回答",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1109,
+  "day": 45
+ },
+ {
+  "word": "reassure",
+  "pos": "v",
+  "pic": "🤗",
+  "zh": "使安心；向…保證",
+  "en": "to make someone feel less worried",
+  "simple": "I try to reassure my mom.",
+  "simple_zh": "我努力讓媽媽安心。",
+  "toeic": "The agent tried to reassure the customer that the order would arrive on time.",
+  "toeic_zh": "客服人員努力向客戶保證訂單會準時送達。",
+  "family": "reassurance (n), reassuring (adj)",
+  "related": [
+   {
+    "w": "ensure",
+    "zh": "確保",
+    "k": "confuse"
+   },
+   {
+    "w": "comfort",
+    "zh": "安慰",
+    "k": "syn"
+   }
+  ],
+  "n": 1110,
+  "day": 45,
+  "src": "TSL"
+ },
+ {
+  "word": "reception",
+  "pos": "n",
+  "pic": "🛎️",
+  "zh": "接待處；接待",
+  "en": "the place where visitors are met and checked in",
+  "simple": "Please wait at reception.",
+  "simple_zh": "請在接待處等候。",
+  "toeic": "Please leave any complaints in writing at reception before you check out.",
+  "toeic_zh": "退房前如有投訴，請以書面留在接待處。",
+  "family": "receptionist (n), receive (v)",
+  "related": [
+   {
+    "w": "receipt",
+    "zh": "收據",
+    "k": "confuse"
+   },
+   {
+    "w": "front desk",
+    "zh": "櫃檯",
+    "k": "syn"
+   }
+  ],
+  "n": 1111,
+  "day": 45,
+  "src": "TSL"
+ },
+ {
+  "word": "refundable",
+  "pos": "adj",
+  "pic": "💸",
+  "zh": "可退款的",
+  "en": "able to be paid back to you",
+  "simple": "This ticket is refundable.",
+  "simple_zh": "這張票可以退款。",
+  "toeic": "The deposit is refundable if you cancel within seven days.",
+  "toeic_zh": "若您在七天內取消，訂金可以退還。",
+  "family": "refund (n, v)",
+  "related": [
+   {
+    "w": "nonrefundable",
+    "zh": "不可退款的",
+    "k": "opp"
+   },
+   {
+    "w": "refund",
+    "zh": "退款",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 1112,
+  "day": 45
+ },
+ {
+  "word": "reluctant",
+  "pos": "adj",
+  "pic": "😬",
+  "zh": "不情願的",
+  "en": "not willing to do something",
+  "simple": "He was reluctant to leave.",
+  "simple_zh": "他不情願離開。",
+  "toeic": "Many customers are reluctant to share personal data online.",
+  "toeic_zh": "許多顧客不願在網路上分享個人資料。",
+  "family": "reluctance (n), reluctantly (adv)",
+  "related": [
+   {
+    "w": "willing",
+    "zh": "願意的",
+    "k": "opp"
+   },
+   {
+    "w": "unwilling",
+    "zh": "不願意的",
+    "k": "syn"
+   }
+  ],
+  "n": 1113,
+  "day": 45,
+  "src": "TSL"
+ },
+ {
+  "word": "renewal",
+  "pos": "n",
+  "pic": "🔃",
+  "zh": "更新；續約",
+  "en": "the act of making something valid again",
+  "simple": "The renewal is due today.",
+  "simple_zh": "續期今天到期。",
+  "toeic": "Your membership renewal must be completed before December 1.",
+  "toeic_zh": "您的會員續約必須在十二月一日前完成。",
+  "family": "renew (v), renewable (adj)",
+  "related": [
+   {
+    "w": "renew",
+    "zh": "續約",
+    "k": "family"
+   },
+   {
+    "w": "expiration",
+    "zh": "到期",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1114,
+  "day": 45
+ },
+ {
+  "word": "repeatedly",
+  "pos": "adv",
+  "pic": "🔂",
+  "zh": "一再地；反覆地",
+  "en": "again and again",
+  "simple": "He called me repeatedly.",
+  "simple_zh": "他一再打電話給我。",
+  "toeic": "Customers have repeatedly asked for a faster delivery option.",
+  "toeic_zh": "顧客一再要求更快速的配送選項。",
+  "family": "repeat (v), repetition (n)",
+  "related": [
+   {
+    "w": "frequently",
+    "zh": "頻繁地",
+    "k": "syn"
+   },
+   {
+    "w": "once",
+    "zh": "一次",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1115,
+  "day": 45
+ },
+ {
+  "word": "respondent",
+  "pos": "n",
+  "pic": "🙋",
+  "zh": "受訪者；回答者",
+  "en": "a person who answers a survey",
+  "simple": "Each respondent answered ten questions.",
+  "simple_zh": "每位受訪者回答了十個問題。",
+  "toeic": "Most respondents said they were satisfied with the service.",
+  "toeic_zh": "大多數受訪者表示對服務感到滿意。",
+  "family": "respond (v), response (n)",
+  "related": [
+   {
+    "w": "correspondent",
+    "zh": "通訊記者",
+    "k": "confuse"
+   },
+   {
+    "w": "response",
+    "zh": "回應",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 1116,
+  "day": 45
+ },
+ {
+  "word": "restatement",
+  "pos": "n",
+  "pic": "🗣️",
+  "zh": "重述；重申",
+  "en": "saying something again in a clear way",
+  "simple": "I need a restatement of the rule.",
+  "simple_zh": "我需要這條規則的重述。",
+  "toeic": "The report included a restatement of last year's earnings.",
+  "toeic_zh": "報告中包含對去年盈餘的重新表述。",
+  "family": "state (v), statement (n)",
+  "related": [
+   {
+    "w": "statement",
+    "zh": "聲明；報表",
+    "k": "family"
+   },
+   {
+    "w": "repetition",
+    "zh": "重複",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1117,
+  "day": 45
+ },
+ {
+  "word": "salesman",
+  "pos": "n",
+  "pic": "🧑‍💼",
+  "zh": "男業務員；推銷員",
+  "en": "a man whose job is to sell things",
+  "simple": "The salesman showed me a car.",
+  "simple_zh": "業務員帶我看了一輛車。",
+  "toeic": "The salesman called to confirm our order for office chairs.",
+  "toeic_zh": "業務員來電確認我們訂購辦公椅的訂單。",
+  "family": "sales (n), salespeople (n)",
+  "related": [
+   {
+    "w": "salespeople",
+    "zh": "業務人員",
+    "k": "family"
+   },
+   {
+    "w": "customer",
+    "zh": "顧客",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1118,
+  "day": 45
+ },
+ {
+  "word": "sincerely",
+  "pos": "adv",
+  "pic": "❤️",
+  "zh": "誠摯地；真心地",
+  "en": "in a way that is honest and truly meant",
+  "simple": "She thanked us sincerely.",
+  "simple_zh": "她真心地感謝我們。",
+  "toeic": "We sincerely apologize for the late delivery of your order.",
+  "toeic_zh": "對於您的訂單延遲送達，我們由衷致歉。",
+  "family": "sincerely (adv); sincere (adj) 真誠的；sincerity (n)；Yours sincerely 謹啟",
+  "related": [
+   {
+    "w": "severely",
+    "zh": "嚴重地",
+    "k": "confuse"
+   },
+   {
+    "w": "truly",
+    "zh": "真誠地",
+    "k": "syn"
+   }
+  ],
+  "n": 1119,
+  "day": 45,
+  "src": "TSL"
+ },
+ {
+  "word": "subscribe",
+  "pos": "v",
+  "pic": "📰",
+  "zh": "訂閱",
+  "en": "to pay to receive a service regularly",
+  "simple": "I subscribe to a magazine.",
+  "simple_zh": "我訂閱一本雜誌。",
+  "toeic": "Customers can subscribe to our newsletter on the website.",
+  "toeic_zh": "顧客可以在網站上訂閱我們的電子報。",
+  "family": "subscribe (v), subscriber (n), subscription (n)",
+  "related": [
+   {
+    "w": "subscription",
+    "zh": "訂閱",
+    "k": "family"
+   },
+   {
+    "w": "describe",
+    "zh": "描述",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1120,
+  "day": 45
+ },
+ {
+  "word": "subscriber",
+  "pos": "n",
+  "pic": "🔔",
+  "zh": "訂閱者；用戶",
+  "en": "a person who pays for a regular service",
+  "simple": "She is a new subscriber.",
+  "simple_zh": "她是新訂閱者。",
+  "toeic": "The magazine has over ten thousand subscribers.",
+  "toeic_zh": "這本雜誌有超過一萬名訂閱者。",
+  "family": "subscribe (v), subscriber (n), subscription (n)",
+  "related": [
+   {
+    "w": "subscribe",
+    "zh": "訂閱",
+    "k": "family"
+   },
+   {
+    "w": "customer",
+    "zh": "顧客",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1121,
+  "day": 45
+ },
+ {
+  "word": "sue",
+  "pos": "v",
+  "pic": "⚖️",
+  "zh": "控告；提告",
+  "en": "to take someone to court",
+  "simple": "He may sue the company.",
+  "simple_zh": "他可能會控告公司。",
+  "toeic": "The customer threatened to sue the company for damages.",
+  "toeic_zh": "這位顧客威脅要控告公司求償。",
+  "family": "sue (v), suit (n)",
+  "related": [
+   {
+    "w": "suit",
+    "zh": "訴訟；西裝",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1122,
+  "day": 45
+ },
+ {
+  "word": "superb",
+  "pos": "adj",
+  "pic": "🏆",
+  "zh": "極佳的；一流的",
+  "en": "of very high quality",
+  "simple": "The food was superb.",
+  "simple_zh": "食物非常棒。",
+  "toeic": "The hotel offers superb service and a beautiful view.",
+  "toeic_zh": "這間飯店提供一流的服務和美麗的景色。",
+  "family": "superb (adj)",
+  "related": [
+   {
+    "w": "superior",
+    "zh": "較優的",
+    "k": "confuse"
+   },
+   {
+    "w": "excellent",
+    "zh": "優秀的",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1123,
+  "day": 45
+ },
+ {
+  "word": "tailor",
+  "pos": "n",
+  "pic": "🧵",
+  "zh": "裁縫師",
+  "en": "a person who makes or fixes clothes",
+  "simple": "The tailor made my suit.",
+  "simple_zh": "裁縫師幫我做了西裝。",
+  "toeic": "The tailor can adjust the jacket by tomorrow.",
+  "toeic_zh": "裁縫師明天前可以修改好這件外套。",
+  "family": "tailor (n, v), tailored (adj)",
+  "related": [
+   {
+    "w": "trailer",
+    "zh": "拖車",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1124,
+  "day": 45
+ },
+ {
+  "word": "teller",
+  "pos": "n",
+  "pic": "🏦",
+  "zh": "銀行櫃員",
+  "en": "a bank worker who handles customers' money",
+  "simple": "The teller helped me.",
+  "simple_zh": "櫃員協助了我。",
+  "toeic": "Please give your deposit slip to the teller.",
+  "toeic_zh": "請把存款單交給櫃員。",
+  "family": "tell (v), teller (n)",
+  "related": [
+   {
+    "w": "cashier",
+    "zh": "收銀員",
+    "k": "syn"
+   },
+   {
+    "w": "tailor",
+    "zh": "裁縫師",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1125,
+  "day": 45
+ },
+ {
+  "word": "terrific",
+  "pos": "adj",
+  "pic": "🌟",
+  "zh": "極好的",
+  "en": "very good or excellent",
+  "simple": "You did a terrific job.",
+  "simple_zh": "你做得太棒了。",
+  "toeic": "The team did a terrific job on the presentation.",
+  "toeic_zh": "團隊的簡報做得非常出色。",
+  "family": "terrific (adj)",
+  "related": [
+   {
+    "w": "terrible",
+    "zh": "糟糕的",
+    "k": "confuse"
+   },
+   {
+    "w": "excellent",
+    "zh": "極好的",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1126,
+  "day": 46
+ },
+ {
+  "word": "translation",
+  "pos": "n",
+  "pic": "🌐",
+  "zh": "翻譯",
+  "en": "a text changed into another language",
+  "simple": "I need a translation.",
+  "simple_zh": "我需要一份翻譯。",
+  "toeic": "The translation of the manual will be ready by Friday.",
+  "toeic_zh": "手冊的翻譯將在週五前完成。",
+  "family": "translate (v), translation (n), translator (n)",
+  "related": [
+   {
+    "w": "transition",
+    "zh": "轉變",
+    "k": "confuse"
+   },
+   {
+    "w": "translator",
+    "zh": "翻譯者",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 1127,
+  "day": 46
+ },
+ {
+  "word": "translator",
+  "pos": "n",
+  "pic": "🗣️",
+  "zh": "翻譯人員",
+  "en": "a person who changes words into another language",
+  "simple": "She works as a translator.",
+  "simple_zh": "她是翻譯人員。",
+  "toeic": "We hired a translator for the international conference.",
+  "toeic_zh": "我們為國際會議聘請了一位翻譯人員。",
+  "family": "translate (v), translation (n), translator (n)",
+  "related": [
+   {
+    "w": "translation",
+    "zh": "翻譯",
+    "k": "family"
+   },
+   {
+    "w": "interpreter",
+    "zh": "口譯員",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1128,
+  "day": 46
+ },
+ {
+  "word": "tremendous",
+  "pos": "adj",
+  "pic": "💪",
+  "zh": "極大的；驚人的",
+  "en": "very large or great",
+  "simple": "He made a tremendous effort.",
+  "simple_zh": "他付出了極大的努力。",
+  "toeic": "The new product has been a tremendous success.",
+  "toeic_zh": "這項新產品取得了極大的成功。",
+  "family": "tremendous (adj), tremendously (adv)",
+  "related": [
+   {
+    "w": "enormous",
+    "zh": "巨大的",
+    "k": "syn"
+   },
+   {
+    "w": "tremendously",
+    "zh": "極大地",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 1129,
+  "day": 46
+ },
+ {
+  "word": "unhappy",
+  "pos": "adj",
+  "pic": "☹️",
+  "zh": "不開心的",
+  "en": "Not happy; sad or not satisfied.",
+  "simple": "The child looks unhappy.",
+  "simple_zh": "那個孩子看起來不開心。",
+  "toeic": "Unhappy customers should be directed to the service desk.",
+  "toeic_zh": "不滿意的顧客應被引導至服務台。",
+  "family": "happy (adj), happiness (n)",
+  "related": [
+   {
+    "w": "dissatisfied",
+    "zh": "不滿的",
+    "k": "syn"
+   },
+   {
+    "w": "happy",
+    "zh": "快樂的",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1130,
+  "day": 46
+ },
+ {
+  "word": "unpleasant",
+  "pos": "adj",
+  "pic": "🤢",
+  "zh": "令人不愉快的",
+  "en": "Not nice or enjoyable.",
+  "simple": "The room has an unpleasant smell.",
+  "simple_zh": "房間有令人不舒服的味道。",
+  "toeic": "The hotel refunded us after our unpleasant experience.",
+  "toeic_zh": "在我們經歷不愉快的住宿後，飯店退款給我們。",
+  "family": "please (v), pleasant (adj)",
+  "related": [
+   {
+    "w": "pleasant",
+    "zh": "愉快的",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1131,
+  "day": 46
+ },
+ {
+  "word": "unsure",
+  "pos": "adj",
+  "pic": "🤔",
+  "zh": "不確定的",
+  "en": "Not certain about something.",
+  "simple": "I am unsure about the answer.",
+  "simple_zh": "我不確定答案。",
+  "toeic": "Customers who are unsure about sizes can call our hotline.",
+  "toeic_zh": "對尺寸不確定的顧客可以撥打我們的專線。",
+  "family": "sure (adj)",
+  "related": [
+   {
+    "w": "uncertain",
+    "zh": "不確定的",
+    "k": "syn"
+   },
+   {
+    "w": "sure",
+    "zh": "確定的",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1132,
+  "day": 46
+ },
+ {
+  "word": "verbal",
+  "pos": "adj",
+  "pic": "🗣️",
+  "zh": "口頭的",
+  "en": "Spoken, not written.",
+  "simple": "He gave a verbal answer.",
+  "simple_zh": "他給了口頭回答。",
+  "toeic": "A verbal agreement is not enough; please sign the contract.",
+  "toeic_zh": "口頭協議不夠，請簽署合約。",
+  "family": "verbally (adv)",
+  "related": [
+   {
+    "w": "oral",
+    "zh": "口頭的",
+    "k": "syn"
+   },
+   {
+    "w": "written",
+    "zh": "書面的",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1133,
+  "day": 46
+ },
+ {
+  "word": "waiter",
+  "pos": "n",
+  "pic": "🤵",
+  "zh": "男服務生",
+  "en": "A man who serves food in a restaurant.",
+  "simple": "The waiter brought our soup.",
+  "simple_zh": "服務生送來了我們的湯。",
+  "toeic": "The waiter recommended the fish special to our clients.",
+  "toeic_zh": "服務生向我們的客戶推薦了特餐魚料理。",
+  "family": "waitress (n)",
+  "related": [
+   {
+    "w": "waitress",
+    "zh": "女服務生",
+    "k": "family"
+   },
+   {
+    "w": "server",
+    "zh": "服務生",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1134,
+  "day": 46
+ },
+ {
+  "word": "waive",
+  "pos": "v",
+  "pic": "✋",
+  "zh": "免除；放棄",
+  "en": "To choose not to require something.",
+  "simple": "They will waive the fee.",
+  "simple_zh": "他們會免收費用。",
+  "toeic": "The bank agreed to waive the late payment fee this month.",
+  "toeic_zh": "銀行同意本月免收逾期付款費用。",
+  "family": "waiver (n)",
+  "related": [
+   {
+    "w": "wave",
+    "zh": "揮手",
+    "k": "confuse"
+   },
+   {
+    "w": "cancel",
+    "zh": "取消",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1135,
+  "day": 46
+ },
+ {
+  "word": "accountable",
+  "pos": "adj",
+  "pic": "📊",
+  "zh": "可說明的",
+  "en": "required to explain and justify one's actions; responsible",
+  "simple": "We hold staff accountable for service quality.",
+  "simple_zh": "我們對工作人員的服務質量負責。",
+  "toeic": "Accountable employees take ownership of customer satisfaction.",
+  "toeic_zh": "負責任的員工擁有顧客滿意度的所有權。",
+  "family": "account (v), accountability (n), accountable (adj)",
+  "related": [
+   {
+    "w": "responsible",
+    "zh": "負責的",
+    "k": "syn"
+   },
+   {
+    "w": "liable",
+    "zh": "有責任的",
+    "k": "syn"
+   }
+  ],
+  "n": 1136,
+  "day": 46,
+  "src": "BSL"
+ },
+ {
+  "word": "breakdown",
+  "pos": "n",
+  "pic": "🚧",
+  "zh": "故障；中斷",
+  "en": "a failure when a machine or system stops working",
+  "simple": "The car had a breakdown.",
+  "simple_zh": "那輛車故障了。",
+  "toeic": "A system breakdown delayed all online orders on Monday.",
+  "toeic_zh": "系統故障使週一所有線上訂單延遲。",
+  "family": "",
+  "related": [
+   {
+    "w": "failure",
+    "zh": "失敗；故障",
+    "k": "syn"
+   },
+   {
+    "w": "breakthrough",
+    "zh": "突破",
+    "k": "confuse"
+   }
+  ],
+  "n": 1137,
+  "day": 46,
+  "src": "BSL"
+ },
+ {
+  "word": "competence",
+  "pos": "n",
+  "pic": "✅",
+  "zh": "能力",
+  "en": "the ability to do something successfully or efficiently",
+  "simple": "Demonstrate competence in your customer interactions.",
+  "simple_zh": "在顧客互動中展示能力。",
+  "toeic": "Competence assessment identifies training needs for staff.",
+  "toeic_zh": "能力評估識別員工的培訓需求。",
+  "family": "competence (n), competent (adj), competently (adv)",
+  "related": [
+   {
+    "w": "ability",
+    "zh": "能力",
+    "k": "syn"
+   },
+   {
+    "w": "skill",
+    "zh": "技能",
+    "k": "syn"
+   }
+  ],
+  "n": 1138,
+  "day": 46,
+  "src": "BSL"
+ },
+ {
+  "word": "concession",
+  "pos": "n",
+  "pic": "🤲",
+  "zh": "讓步；優惠",
+  "en": "something given up to settle an argument",
+  "simple": "He made a small concession.",
+  "simple_zh": "他做了小小的讓步。",
+  "toeic": "The company made a concession and agreed to cover the repair costs.",
+  "toeic_zh": "公司讓步，同意負擔維修費用。",
+  "family": "concede (v)",
+  "related": [
+   {
+    "w": "compromise",
+    "zh": "妥協",
+    "k": "syn"
+   },
+   {
+    "w": "conception",
+    "zh": "構想",
+    "k": "confuse"
+   }
+  ],
+  "n": 1139,
+  "day": 46,
+  "src": "BSL"
+ },
+ {
+  "word": "differentiate",
+  "pos": "v",
+  "pic": "🌟",
+  "zh": "區別",
+  "en": "to recognize or make a distinction between things; to make different",
+  "simple": "Differentiate your service from competitors.",
+  "simple_zh": "區別您的服務與競爭對手。",
+  "toeic": "Differentiate through personalized customer service excellence.",
+  "toeic_zh": "通過個性化客服卓越進行區別。",
+  "family": "differentiate (v), differentiation (n), different (adj)",
+  "related": [
+   {
+    "w": "distinguish",
+    "zh": "區分",
+    "k": "syn"
+   },
+   {
+    "w": "separate",
+    "zh": "分離",
+    "k": "syn"
+   }
+  ],
+  "n": 1140,
+  "day": 46,
+  "src": "BSL"
+ },
+ {
+  "word": "dilemma",
+  "pos": "n",
+  "pic": "🤔",
+  "zh": "困境",
+  "en": "a difficult situation where a choice must be made between undesirable options",
+  "simple": "The dilemma is between cost and customer satisfaction.",
+  "simple_zh": "困境在於成本和顧客滿意度之間。",
+  "toeic": "Dilemma resolution requires careful weighing of consequences.",
+  "toeic_zh": "困境解決需要仔細權衡後果。",
+  "family": "dilemma (n)",
+  "related": [
+   {
+    "w": "problem",
+    "zh": "問題",
+    "k": "syn"
+   },
+   {
+    "w": "predicament",
+    "zh": "困境",
+    "k": "syn"
+   }
+  ],
+  "n": 1141,
+  "day": 46,
+  "src": "BSL"
+ },
+ {
+  "word": "integration",
+  "pos": "n",
+  "pic": "🔗",
+  "zh": "集成",
+  "en": "the process of combining parts or elements into a whole",
+  "simple": "Integration of systems improves service efficiency.",
+  "simple_zh": "系統集成提高服務效率。",
+  "toeic": "Integration of customer data across departments enables holistic service.",
+  "toeic_zh": "跨部門顧客數據集成實現整體服務。",
+  "family": "integrate (v), integration (n), integrated (adj)",
+  "related": [
+   {
+    "w": "combination",
+    "zh": "組合",
+    "k": "syn"
+   },
+   {
+    "w": "connection",
+    "zh": "連接",
+    "k": "syn"
+   }
+  ],
+  "n": 1142,
+  "day": 46,
+  "src": "BSL"
+ },
+ {
+  "word": "intervene",
+  "pos": "v",
+  "pic": "🤲",
+  "zh": "干預",
+  "en": "to come between and help resolve a situation; to take action to influence events",
+  "simple": "Management will intervene in complex cases.",
+  "simple_zh": "管理層將在複雜案件中進行干預。",
+  "toeic": "Intervene when frontline staff cannot resolve customer issues.",
+  "toeic_zh": "當前線員工無法解決顧客問題時進行干預。",
+  "family": "intervene (v), intervention (n), interventional (adj)",
+  "related": [
+   {
+    "w": "interfere",
+    "zh": "干涉",
+    "k": "syn"
+   },
+   {
+    "w": "step in",
+    "zh": "介入",
+    "k": "syn"
+   }
+  ],
+  "n": 1143,
+  "day": 46,
+  "src": "BSL"
+ },
+ {
+  "word": "liable",
+  "pos": "adj",
+  "pic": "⚖️",
+  "zh": "有責任的",
+  "en": "legally responsible for something; subject to a penalty",
+  "simple": "The company is liable for product defects.",
+  "simple_zh": "公司對產品缺陷負責。",
+  "toeic": "Liable parties must compensate customers for verified damages.",
+  "toeic_zh": "有責任方必須為經證實的損害賠償顧客。",
+  "family": "liable (adj), liability (n), liably (adv)",
+  "related": [
+   {
+    "w": "responsible",
+    "zh": "負責的",
+    "k": "syn"
+   },
+   {
+    "w": "accountable",
+    "zh": "可說明的",
+    "k": "syn"
+   }
+  ],
+  "n": 1144,
+  "day": 46,
+  "src": "BSL"
+ },
+ {
+  "word": "obstacle",
+  "pos": "n",
+  "pic": "⛔",
+  "zh": "障礙",
+  "en": "a thing that blocks one's way or prevents or hinders progress",
+  "simple": "Remove obstacles to better customer service.",
+  "simple_zh": "消除更好客服的障礙。",
+  "toeic": "Obstacles in service delivery should be identified and addressed.",
+  "toeic_zh": "應識別和解決服務交付中的障礙。",
+  "family": "obstacle (n)",
+  "related": [
+   {
+    "w": "barrier",
+    "zh": "障礙",
+    "k": "syn"
+   },
+   {
+    "w": "hindrance",
+    "zh": "阻礙",
+    "k": "syn"
+   }
+  ],
+  "n": 1145,
+  "day": 46,
+  "src": "BSL"
+ },
+ {
+  "word": "pending",
+  "pos": "adj",
+  "pic": "⏳",
+  "zh": "待處理的；未決的",
+  "en": "waiting to be decided or completed",
+  "simple": "My request is still pending.",
+  "simple_zh": "我的申請還在待處理。",
+  "toeic": "Your refund is pending and should be completed within five business days.",
+  "toeic_zh": "您的退款正在處理中，應會在五個工作天內完成。",
+  "family": "pend (v)",
+  "related": [
+   {
+    "w": "pendant",
+    "zh": "垂飾",
+    "k": "confuse"
+   },
+   {
+    "w": "completed",
+    "zh": "已完成的",
+    "k": "opp"
+   }
+  ],
+  "n": 1146,
+  "day": 46,
+  "src": "BSL"
+ },
+ {
+  "word": "privacy",
+  "pos": "n",
+  "pic": "🔒",
+  "zh": "隱私",
+  "en": "the state of being free from public attention or intrusion; confidentiality",
+  "simple": "We respect your privacy and protect your personal information.",
+  "simple_zh": "我們尊重您的隱私並保護您的個人信息。",
+  "toeic": "Privacy policies must clearly explain customer data usage practices.",
+  "toeic_zh": "隱私政策必須清楚解釋顧客數據使用慣例。",
+  "family": "private (adj), privacy (n), privately (adv)",
+  "related": [
+   {
+    "w": "confidentiality",
+    "zh": "保密",
+    "k": "syn"
+   },
+   {
+    "w": "secrecy",
+    "zh": "保密",
+    "k": "syn"
+   }
+  ],
+  "n": 1147,
+  "day": 46,
+  "src": "BSL"
+ },
+ {
+  "word": "queue",
+  "pos": "n/v",
+  "pic": "📋",
+  "zh": "隊列",
+  "en": "a line of people or things waiting; a list of items waiting to be processed",
+  "simple": "Please wait in the queue for the next available representative.",
+  "simple_zh": "請在隊列中等待下一位可用的代表。",
+  "toeic": "Queue management systems help reduce customer waiting times.",
+  "toeic_zh": "隊列管理系統有助於減少顧客等待時間。",
+  "family": "queue (v), queue (n), queuing (v)",
+  "related": [
+   {
+    "w": "line",
+    "zh": "隊列",
+    "k": "syn"
+   },
+   {
+    "w": "waiting list",
+    "zh": "等候名單",
+    "k": "syn"
+   }
+  ],
+  "n": 1148,
+  "day": 46,
+  "src": "BSL"
+ },
+ {
+  "word": "refine",
+  "pos": "v",
+  "pic": "🔍",
+  "zh": "改進",
+  "en": "to improve something by small changes or additions",
+  "simple": "Refine your approach based on feedback.",
+  "simple_zh": "根據反饋改進您的方法。",
+  "toeic": "Refine processes to eliminate bottlenecks in service delivery.",
+  "toeic_zh": "改進流程以消除服務交付中的瓶頸。",
+  "family": "refine (v), refinement (n), refined (adj)",
+  "related": [
+   {
+    "w": "improve",
+    "zh": "改進",
+    "k": "syn"
+   },
+   {
+    "w": "perfect",
+    "zh": "完善",
+    "k": "syn"
+   }
+  ],
+  "n": 1149,
+  "day": 46,
+  "src": "BSL"
+ },
+ {
+  "word": "remedy",
+  "pos": "n",
+  "pic": "💊",
+  "zh": "補救辦法",
+  "en": "a way to correct something that went wrong",
+  "simple": "Tea is a remedy for a cold.",
+  "simple_zh": "茶是治感冒的良方。",
+  "toeic": "As a remedy, the store offered a free repair and an apology.",
+  "toeic_zh": "作為補救，商店提供免費維修並致歉。",
+  "family": "remedy (v), remedial (adj)",
+  "related": [
+   {
+    "w": "cure",
+    "zh": "療法",
+    "k": "syn"
+   },
+   {
+    "w": "memory",
+    "zh": "記憶",
+    "k": "confuse"
+   }
+  ],
+  "n": 1150,
+  "day": 46,
+  "src": "BSL"
+ },
+ {
+  "word": "swap",
+  "pos": "v",
+  "pic": "🔄",
+  "zh": "交換；調換",
+  "en": "to give one thing and receive another in exchange",
+  "simple": "Can I swap this shirt?",
+  "simple_zh": "我可以換這件襯衫嗎？",
+  "toeic": "You may swap the item for a different size at any branch.",
+  "toeic_zh": "您可在任何分店將商品換成不同尺寸。",
+  "family": "swap (n)",
+  "related": [
+   {
+    "w": "exchange",
+    "zh": "交換",
+    "k": "syn"
+   },
+   {
+    "w": "swamp",
+    "zh": "沼澤；淹沒",
+    "k": "confuse"
+   }
+  ],
+  "n": 1151,
+  "day": 47,
+  "src": "BSL"
+ },
+ {
+  "word": "swiftly",
+  "pos": "adv",
+  "pic": "💨",
+  "zh": "迅速地",
+  "en": "very quickly",
+  "simple": "She swiftly answered the phone.",
+  "simple_zh": "她迅速接起電話。",
+  "toeic": "Our support team acts swiftly to fix any reported issue.",
+  "toeic_zh": "我們的支援團隊會迅速處理任何通報的問題。",
+  "family": "swift (adj)",
+  "related": [
+   {
+    "w": "quickly",
+    "zh": "快速地",
+    "k": "syn"
+   },
+   {
+    "w": "slowly",
+    "zh": "緩慢地",
+    "k": "opp"
+   }
+  ],
+  "n": 1152,
+  "day": 47,
+  "src": "BSL"
+ },
+ {
+  "word": "script",
+  "pos": "n",
+  "pic": "📜",
+  "zh": "腳本；講稿",
+  "en": "The written words for a speech or video.",
+  "simple": "He read from a script.",
+  "simple_zh": "他照著講稿唸。",
+  "toeic": "Please review the script before we record the training video.",
+  "toeic_zh": "錄製訓練影片前，請先審閱腳本。",
+  "family": "",
+  "related": [
+   {
+    "w": "scripture",
+    "zh": "聖經",
+    "k": "confuse"
+   },
+   {
+    "w": "manuscript",
+    "zh": "手稿",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1153,
+  "day": 47
+ },
+ {
+  "word": "awkward",
+  "pos": "adj",
+  "pic": "😬",
+  "zh": "尷尬的；不便的",
+  "en": "uncomfortable or difficult to deal with",
+  "simple": "It was an awkward moment.",
+  "simple_zh": "那是個尷尬的時刻。",
+  "toeic": "The awkward shape of the box made shipping expensive.",
+  "toeic_zh": "這個箱子形狀不便，使運費變貴。",
+  "family": "awkwardly (adv), awkwardness (n)",
+  "related": [
+   {
+    "w": "embarrassing",
+    "zh": "令人尷尬的",
+    "k": "syn"
+   },
+   {
+    "w": "inconvenient",
+    "zh": "不便的",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1154,
+  "day": 47
+ },
+ {
+  "word": "loop",
+  "pos": "n",
+  "pic": "➰",
+  "zh": "環；迴圈",
+  "en": "a shape made by a curved line crossing itself",
+  "simple": "Make a loop with the rope.",
+  "simple_zh": "用繩子打一個圈。",
+  "toeic": "Please keep me in the loop about the shipment status.",
+  "toeic_zh": "請讓我隨時掌握出貨狀況。",
+  "family": "loop (v)",
+  "related": [
+   {
+    "w": "circle",
+    "zh": "圓圈",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1155,
+  "day": 47
+ },
+ {
+  "word": "publicly",
+  "pos": "adv",
+  "pic": "📢",
+  "zh": "公開地",
+  "en": "in a way that everyone can see or know",
+  "simple": "He spoke publicly about the problem.",
+  "simple_zh": "他公開談論這個問題。",
+  "toeic": "The company publicly announced its quarterly results on Monday.",
+  "toeic_zh": "公司週一公開宣布了季度業績。",
+  "family": "public (adj, n), publicity (n)",
+  "related": [
+   {
+    "w": "openly",
+    "zh": "公開地",
+    "k": "syn"
+   },
+   {
+    "w": "privately",
+    "zh": "私下地",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 1156,
+  "day": 47
+ },
+ {
+  "word": "conspiracy",
+  "pos": "n",
+  "pic": "🕵️",
+  "zh": "陰謀",
+  "en": "a secret plan to do something harmful",
+  "simple": "The movie is about a conspiracy.",
+  "simple_zh": "這部電影是關於一個陰謀。",
+  "toeic": "Executives denied any conspiracy to fix prices.",
+  "toeic_zh": "高階主管否認有任何操縱價格的陰謀。",
+  "family": "conspire (v), conspirator (n)",
+  "related": [
+   {
+    "w": "plot",
+    "zh": "陰謀",
+    "k": "syn"
+   },
+   {
+    "w": "inspiration",
+    "zh": "靈感",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1157,
+  "day": 47
+ },
+ {
+  "word": "spy",
+  "pos": "n",
+  "pic": "🕵️‍♂️",
+  "zh": "間諜",
+  "en": "a person who secretly gets information",
+  "simple": "The movie is about a spy.",
+  "simple_zh": "這部電影是關於一名間諜。",
+  "toeic": "A spy was caught stealing data from the rival firm.",
+  "toeic_zh": "一名間諜被抓到從競爭公司竊取資料。",
+  "family": "spy (v), spying (n)",
+  "related": [
+   {
+    "w": "spray",
+    "zh": "噴灑",
+    "k": "confuse"
+   },
+   {
+    "w": "agent",
+    "zh": "特工",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1158,
+  "day": 47
+ },
+ {
+  "word": "legitimate",
+  "pos": "adj",
+  "pic": "✅",
+  "zh": "合法的；合理的",
+  "en": "allowed by law or reasonable",
+  "simple": "This is a legitimate business.",
+  "simple_zh": "這是一家合法的企業。",
+  "toeic": "The customer made a legitimate complaint about the delay.",
+  "toeic_zh": "顧客對延誤提出了合理的申訴。",
+  "family": "legitimacy (n), legitimately (adv)",
+  "related": [
+   {
+    "w": "legal",
+    "zh": "合法的",
+    "k": "syn"
+   },
+   {
+    "w": "illegitimate",
+    "zh": "非法的",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 1159,
+  "day": 47
+ },
+ {
+  "word": "sadly",
+  "pos": "adv",
+  "pic": "😢",
+  "zh": "遺憾地；悲傷地",
+  "en": "in a sad way, or unfortunately",
+  "simple": "Sadly, the shop is closed.",
+  "simple_zh": "很遺憾，這家店關門了。",
+  "toeic": "Sadly, we cannot offer a refund after thirty days.",
+  "toeic_zh": "很遺憾，三十天後我們無法提供退款。",
+  "family": "sad (adj), sadness (n)",
+  "related": [
+   {
+    "w": "unfortunately",
+    "zh": "不幸地",
+    "k": "syn"
+   },
+   {
+    "w": "happily",
+    "zh": "快樂地",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 1160,
+  "day": 47
+ },
+ {
+  "word": "scratch",
+  "pos": "n",
+  "pic": "🐾",
+  "zh": "刮痕；抓痕",
+  "en": "a thin mark made by something sharp",
+  "simple": "There is a scratch on the car.",
+  "simple_zh": "車子上有一道刮痕。",
+  "toeic": "The customer returned the laptop because of a scratch on the screen.",
+  "toeic_zh": "顧客因螢幕上有刮痕而退回筆電。",
+  "family": "scratch (v)",
+  "related": [
+   {
+    "w": "scrape",
+    "zh": "刮擦",
+    "k": "syn"
+   },
+   {
+    "w": "screech",
+    "zh": "尖叫聲",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1161,
+  "day": 47
+ },
+ {
+  "word": "reportedly",
+  "pos": "adv",
+  "pic": "🗞️",
+  "zh": "據報導",
+  "en": "according to what people say or report",
+  "simple": "He reportedly left the company.",
+  "simple_zh": "據報導他已離開公司。",
+  "toeic": "The merger will reportedly be announced next week.",
+  "toeic_zh": "據報導，合併案將於下週宣布。",
+  "family": "report (n, v), reported (adj)",
+  "related": [
+   {
+    "w": "allegedly",
+    "zh": "據稱",
+    "k": "syn"
+   },
+   {
+    "w": "reporter",
+    "zh": "記者",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1162,
+  "day": 47
+ },
+ {
+  "word": "diplomatic",
+  "pos": "adj",
+  "pic": "🤝",
+  "zh": "外交的；有技巧的",
+  "en": "related to diplomacy; careful not to upset people",
+  "simple": "She gave a diplomatic answer.",
+  "simple_zh": "她給了一個圓滑得體的回答。",
+  "toeic": "The manager was diplomatic when she rejected the proposal.",
+  "toeic_zh": "經理在拒絕提案時措辭十分得體。",
+  "family": "diplomat (n), diplomacy (n), diplomatically (adv)",
+  "related": [
+   {
+    "w": "tactful",
+    "zh": "圓滑的",
+    "k": "syn"
+   },
+   {
+    "w": "diplomat",
+    "zh": "外交官",
+    "k": "family"
+   }
+  ],
+  "src": "BSL",
+  "n": 1163,
+  "day": 47
+ },
+ {
+  "word": "openly",
+  "pos": "adv",
+  "pic": "🗣️",
+  "zh": "公開地；坦率地",
+  "en": "in a way that is honest and not hidden",
+  "simple": "She spoke openly about her plan.",
+  "simple_zh": "她坦率地談到她的計畫。",
+  "toeic": "Employees are encouraged to speak openly about workplace concerns.",
+  "toeic_zh": "公司鼓勵員工坦率說出對工作場所的疑慮。",
+  "family": "open (adj), openness (n)",
+  "related": [
+   {
+    "w": "publicly",
+    "zh": "公開地",
+    "k": "syn"
+   },
+   {
+    "w": "secretly",
+    "zh": "祕密地",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 1164,
+  "day": 47
+ },
+ {
+  "word": "rage",
+  "pos": "n",
+  "pic": "😡",
+  "zh": "暴怒；盛怒",
+  "en": "very strong anger",
+  "simple": "He shouted in rage.",
+  "simple_zh": "他憤怒地大吼。",
+  "toeic": "The customer's rage calmed down after the manager apologized.",
+  "toeic_zh": "經理道歉後，客人的怒氣才平息下來。",
+  "family": "",
+  "related": [
+   {
+    "w": "anger",
+    "zh": "憤怒",
+    "k": "syn"
+   },
+   {
+    "w": "range",
+    "zh": "範圍",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1165,
+  "day": 47
+ },
+ {
+  "word": "genuinely",
+  "pos": "adv",
+  "pic": "💯",
+  "zh": "真誠地；確實",
+  "en": "in a real and honest way",
+  "simple": "She is genuinely happy today.",
+  "simple_zh": "她今天真的很開心。",
+  "toeic": "We are genuinely sorry for the delay in your shipment.",
+  "toeic_zh": "對於您的貨物延誤，我們由衷感到抱歉。",
+  "family": "genuine (adj)",
+  "related": [
+   {
+    "w": "genuine",
+    "zh": "真正的",
+    "k": "family"
+   },
+   {
+    "w": "really",
+    "zh": "真正地",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1166,
+  "day": 47
+ },
+ {
+  "word": "interact",
+  "pos": "v",
+  "pic": "🗨️",
+  "zh": "互動；交流",
+  "en": "to communicate or work with others",
+  "simple": "Kids interact with each other at school.",
+  "simple_zh": "孩子們在學校彼此互動。",
+  "toeic": "Sales staff interact with customers every day.",
+  "toeic_zh": "業務人員每天都與顧客互動。",
+  "family": "interaction (n), interactive (adj)",
+  "related": [
+   {
+    "w": "interaction",
+    "zh": "互動",
+    "k": "family"
+   },
+   {
+    "w": "interrupt",
+    "zh": "打斷",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1167,
+  "day": 47
+ },
+ {
+  "word": "deliberately",
+  "pos": "adv",
+  "pic": "🎯",
+  "zh": "故意地；審慎地",
+  "en": "on purpose; in a careful way",
+  "simple": "He deliberately left the door open.",
+  "simple_zh": "他故意讓門開著。",
+  "toeic": "The error was not made deliberately, and we apologize.",
+  "toeic_zh": "這個錯誤並非故意，我們深表歉意。",
+  "family": "deliberate (adj), deliberation (n)",
+  "related": [
+   {
+    "w": "intentionally",
+    "zh": "有意地",
+    "k": "syn"
+   },
+   {
+    "w": "accidentally",
+    "zh": "意外地",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 1168,
+  "day": 47
+ },
+ {
+  "word": "privately",
+  "pos": "adv",
+  "pic": "🤫",
+  "zh": "私下地；私人地",
+  "en": "in a way that others cannot see or hear",
+  "simple": "Can we talk privately?",
+  "simple_zh": "我們可以私下談談嗎？",
+  "toeic": "The manager asked to speak with him privately after the meeting.",
+  "toeic_zh": "經理要求會後和他私下談談。",
+  "family": "private (adj), privacy (n)",
+  "related": [
+   {
+    "w": "private",
+    "zh": "私人的",
+    "k": "family"
+   },
+   {
+    "w": "publicly",
+    "zh": "公開地",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 1169,
+  "day": 47
+ },
+ {
+  "word": "sympathy",
+  "pos": "n",
+  "pic": "🤗",
+  "zh": "同情；慰問",
+  "en": "care and understanding for someone's trouble",
+  "simple": "I feel sympathy for him.",
+  "simple_zh": "我很同情他。",
+  "toeic": "Please accept our sympathy for the inconvenience you experienced.",
+  "toeic_zh": "對於您所遭遇的不便，請接受我們的歉意與慰問。",
+  "family": "sympathetic (adj), sympathize (v)",
+  "related": [
+   {
+    "w": "empathy",
+    "zh": "同理心",
+    "k": "confuse"
+   },
+   {
+    "w": "sympathetic",
+    "zh": "同情的",
+    "k": "family"
+   }
+  ],
+  "src": "BSL",
+  "n": 1170,
+  "day": 47
+ },
+ {
+  "word": "pledge",
+  "pos": "n",
+  "pic": "🤝",
+  "zh": "承諾；保證",
+  "en": "a serious promise to do something",
+  "simple": "She made a pledge to help us.",
+  "simple_zh": "她承諾會幫助我們。",
+  "toeic": "The firm made a pledge to reduce its carbon emissions by 2030.",
+  "toeic_zh": "該公司承諾在2030年前減少碳排放。",
+  "family": "pledge (v)",
+  "related": [
+   {
+    "w": "promise",
+    "zh": "承諾",
+    "k": "syn"
+   },
+   {
+    "w": "plead",
+    "zh": "懇求",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1171,
+  "day": 47
+ },
+ {
+  "word": "spark",
+  "pos": "v",
+  "pic": "✨",
+  "zh": "引發；激起",
+  "en": "to cause something to start",
+  "simple": "The news may spark a big debate.",
+  "simple_zh": "這則消息可能引發大辯論。",
+  "toeic": "The new policy sparked complaints from many employees.",
+  "toeic_zh": "這項新政策引起許多員工的抱怨。",
+  "family": "spark (n)",
+  "related": [
+   {
+    "w": "trigger",
+    "zh": "觸發",
+    "k": "syn"
+   },
+   {
+    "w": "spike",
+    "zh": "激增",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1172,
+  "day": 47
+ },
+ {
+  "word": "frustration",
+  "pos": "n",
+  "pic": "😤",
+  "zh": "挫折感；沮煩",
+  "en": "a feeling of being upset when you cannot do something",
+  "simple": "He shouted in frustration.",
+  "simple_zh": "他沮喪地大叫。",
+  "toeic": "Customers expressed frustration over the long wait for support.",
+  "toeic_zh": "顧客對客服等待時間過長表達不滿。",
+  "family": "frustrate (v), frustrated (adj)",
+  "related": [
+   {
+    "w": "frustrated",
+    "zh": "受挫的",
+    "k": "family"
+   },
+   {
+    "w": "annoyance",
+    "zh": "惱怒",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1173,
+  "day": 47
+ },
+ {
+  "word": "explicit",
+  "pos": "adj",
+  "pic": "📝",
+  "zh": "明確的",
+  "en": "clearly and fully stated",
+  "simple": "Give me explicit directions.",
+  "simple_zh": "請給我明確的指示。",
+  "toeic": "The contract contains explicit terms about late payments.",
+  "toeic_zh": "合約中有關於逾期付款的明確條款。",
+  "family": "explicitly (adv)",
+  "related": [
+   {
+    "w": "implicit",
+    "zh": "隱含的",
+    "k": "opp"
+   },
+   {
+    "w": "clear",
+    "zh": "清楚的",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1174,
+  "day": 47
+ },
+ {
+  "word": "explicitly",
+  "pos": "adv",
+  "pic": "📝",
+  "zh": "明確地",
+  "en": "in a clear and direct way",
+  "simple": "She explicitly told me to wait.",
+  "simple_zh": "她明確地要我等。",
+  "toeic": "The policy explicitly forbids the use of personal email for work.",
+  "toeic_zh": "該政策明確禁止使用個人電子郵件處理工作。",
+  "family": "explicit (adj)",
+  "related": [
+   {
+    "w": "implicitly",
+    "zh": "含蓄地",
+    "k": "opp"
+   },
+   {
+    "w": "clearly",
+    "zh": "清楚地",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1175,
+  "day": 47
+ },
+ {
+  "word": "distress",
+  "pos": "n",
+  "pic": "😰",
+  "zh": "痛苦；危難",
+  "en": "great worry, pain or trouble",
+  "simple": "He was in distress.",
+  "simple_zh": "他處於痛苦中。",
+  "toeic": "The airline offered refunds to passengers in financial distress.",
+  "toeic_zh": "航空公司為財務困難的乘客提供退款。",
+  "family": "distress (v), distressed (adj)",
+  "related": [
+   {
+    "w": "stress",
+    "zh": "壓力",
+    "k": "confuse"
+   },
+   {
+    "w": "anxiety",
+    "zh": "焦慮",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1176,
+  "day": 48
+ },
+ {
+  "word": "sensitivity",
+  "pos": "n",
+  "pic": "🌡️",
+  "zh": "敏感度；靈敏度",
+  "en": "the quality of reacting quickly or strongly",
+  "simple": "Her skin has high sensitivity.",
+  "simple_zh": "她的皮膚非常敏感。",
+  "toeic": "Staff need cultural sensitivity when dealing with overseas clients.",
+  "toeic_zh": "員工與海外客戶往來時需要具備文化敏感度。",
+  "family": "sense (n), sensitive (adj)",
+  "related": [
+   {
+    "w": "sensitive",
+    "zh": "敏感的",
+    "k": "family"
+   },
+   {
+    "w": "sensibility",
+    "zh": "感受力",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1177,
+  "day": 48
+ },
+ {
+  "word": "incorrect",
+  "pos": "adj",
+  "pic": "❌",
+  "zh": "不正確的",
+  "en": "not right or true",
+  "simple": "Your answer is incorrect.",
+  "simple_zh": "你的答案不正確。",
+  "toeic": "The invoice contained an incorrect billing address.",
+  "toeic_zh": "發票上的帳單地址有誤。",
+  "family": "incorrectly (adv), correct (adj)",
+  "related": [
+   {
+    "w": "correct",
+    "zh": "正確的",
+    "k": "opp"
+   },
+   {
+    "w": "wrong",
+    "zh": "錯誤的",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1178,
+  "day": 48
+ },
+ {
+  "word": "continually",
+  "pos": "adv",
+  "pic": "🔁",
+  "zh": "一再地；頻繁地",
+  "en": "again and again over time",
+  "simple": "The phone rang continually.",
+  "simple_zh": "電話一直響個不停。",
+  "toeic": "Our team continually improves the product based on feedback.",
+  "toeic_zh": "我們的團隊根據意見回饋不斷改進產品。",
+  "family": "continue (v), continual (adj)",
+  "related": [
+   {
+    "w": "continuously",
+    "zh": "持續不斷地",
+    "k": "confuse"
+   },
+   {
+    "w": "repeatedly",
+    "zh": "反覆地",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1179,
+  "day": 48
+ },
+ {
+  "word": "clarity",
+  "pos": "n",
+  "pic": "🔎",
+  "zh": "清晰；明確",
+  "en": "the quality of being clear and easy to understand",
+  "simple": "Please speak with more clarity.",
+  "simple_zh": "請說得更清楚一點。",
+  "toeic": "The manager asked for clarity on the project deadlines.",
+  "toeic_zh": "經理要求釐清專案的截止日期。",
+  "family": "clarify (v), clear (adj)",
+  "related": [
+   {
+    "w": "clarify",
+    "zh": "澄清",
+    "k": "family"
+   },
+   {
+    "w": "charity",
+    "zh": "慈善",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1180,
+  "day": 48
+ },
+ {
+  "word": "persistent",
+  "pos": "adj",
+  "pic": "🔂",
+  "zh": "持續的；堅持不懈的",
+  "en": "continuing for a long time; not giving up",
+  "simple": "He has a persistent cough.",
+  "simple_zh": "他一直咳個不停。",
+  "toeic": "Persistent delays are hurting our relationship with clients.",
+  "toeic_zh": "持續的延誤正在損害我們與客戶的關係。",
+  "family": "persist (v), persistence (n)",
+  "related": [
+   {
+    "w": "consistent",
+    "zh": "一致的",
+    "k": "confuse"
+   },
+   {
+    "w": "constant",
+    "zh": "持續的",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1181,
+  "day": 48
+ },
+ {
+  "word": "positively",
+  "pos": "adv",
+  "pic": "👍",
+  "zh": "正面地；確實地",
+  "en": "in a good way; definitely",
+  "simple": "She smiled positively.",
+  "simple_zh": "她正面地微笑。",
+  "toeic": "Customers responded positively to the new service plan.",
+  "toeic_zh": "顧客對新的服務方案反應良好。",
+  "family": "positive (adj)",
+  "related": [
+   {
+    "w": "favorably",
+    "zh": "有利地",
+    "k": "syn"
+   },
+   {
+    "w": "negatively",
+    "zh": "負面地",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 1182,
+  "day": 48
+ },
+ {
+  "word": "vague",
+  "pos": "adj",
+  "pic": "🌫️",
+  "zh": "模糊的；含糊的",
+  "en": "Not clear or exact",
+  "simple": "His answer was vague.",
+  "simple_zh": "他的回答很含糊。",
+  "toeic": "The contract language is too vague, so please revise it.",
+  "toeic_zh": "合約用語太含糊，請修改。",
+  "family": "vaguely (adv), vagueness (n)",
+  "related": [
+   {
+    "w": "ambiguous",
+    "zh": "模稜兩可的",
+    "k": "syn"
+   },
+   {
+    "w": "clear",
+    "zh": "清楚的",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 1183,
+  "day": 48
+ },
+ {
+  "word": "correspondent",
+  "pos": "n",
+  "pic": "📰",
+  "zh": "通訊記者；通信者",
+  "en": "A person who writes letters or reports news",
+  "simple": "She is a news correspondent.",
+  "simple_zh": "她是新聞記者。",
+  "toeic": "Our foreign correspondent filed a story from Tokyo.",
+  "toeic_zh": "我們的駐外記者從東京發回一篇報導。",
+  "family": "correspond (v), correspondence (n)",
+  "related": [
+   {
+    "w": "correspondence",
+    "zh": "信件往來",
+    "k": "family"
+   },
+   {
+    "w": "respondent",
+    "zh": "受訪者",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1184,
+  "day": 48
+ },
+ {
+  "word": "obscure",
+  "pos": "adj",
+  "pic": "🔍",
+  "zh": "不清楚的；冷僻的",
+  "en": "Hard to see or understand",
+  "simple": "The meaning is obscure.",
+  "simple_zh": "意思不清楚。",
+  "toeic": "The instructions were so obscure that no one could follow them.",
+  "toeic_zh": "說明太晦澀，沒有人能照著做。",
+  "family": "obscurity (n)",
+  "related": [
+   {
+    "w": "vague",
+    "zh": "模糊的",
+    "k": "syn"
+   },
+   {
+    "w": "obvious",
+    "zh": "明顯的",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 1185,
+  "day": 48
+ },
+ {
+  "word": "outrage",
+  "pos": "n",
+  "pic": "😡",
+  "zh": "憤怒；暴行",
+  "en": "Strong anger about something unfair",
+  "simple": "The price rise caused public outrage.",
+  "simple_zh": "漲價引起大眾憤怒。",
+  "toeic": "The new fee caused outrage among loyal customers.",
+  "toeic_zh": "新收費引起忠實顧客的憤怒。",
+  "family": "outrageous (adj)",
+  "related": [
+   {
+    "w": "anger",
+    "zh": "憤怒",
+    "k": "syn"
+   },
+   {
+    "w": "outrageous",
+    "zh": "令人憤慨的",
+    "k": "family"
+   }
+  ],
+  "src": "BSL",
+  "n": 1186,
+  "day": 48
+ },
+ {
+  "word": "refusal",
+  "pos": "n",
+  "pic": "🚫",
+  "zh": "拒絕",
+  "en": "The act of saying no",
+  "simple": "I got a refusal letter.",
+  "simple_zh": "我收到一封拒絕信。",
+  "toeic": "The supplier's refusal to lower prices delayed the contract.",
+  "toeic_zh": "供應商拒絕降價，使合約延宕。",
+  "family": "refuse (v)",
+  "related": [
+   {
+    "w": "rejection",
+    "zh": "拒絕",
+    "k": "syn"
+   },
+   {
+    "w": "acceptance",
+    "zh": "接受",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 1187,
+  "day": 48
+ },
+ {
+  "word": "spokesman",
+  "pos": "n",
+  "pic": "🎤",
+  "zh": "發言人",
+  "en": "A man who speaks for a group or company",
+  "simple": "The spokesman answered questions.",
+  "simple_zh": "發言人回答了問題。",
+  "toeic": "A company spokesman denied the rumors about layoffs.",
+  "toeic_zh": "公司發言人否認了裁員的傳聞。",
+  "family": "spokesperson (n)",
+  "related": [
+   {
+    "w": "spokesperson",
+    "zh": "發言人",
+    "k": "syn"
+   },
+   {
+    "w": "speaker",
+    "zh": "演講者",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1188,
+  "day": 48
+ },
+ {
+  "word": "render",
+  "pos": "v",
+  "pic": "🎨",
+  "zh": "使成為；提供；呈現",
+  "en": "To cause to be, or to provide a service",
+  "simple": "The rain rendered the road unsafe.",
+  "simple_zh": "雨讓道路變得不安全。",
+  "toeic": "The firm will render services to clients across the country.",
+  "toeic_zh": "公司將為全國的客戶提供服務。",
+  "family": "rendering (n)",
+  "related": [
+   {
+    "w": "provide",
+    "zh": "提供",
+    "k": "syn"
+   },
+   {
+    "w": "tender",
+    "zh": "投標",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1189,
+  "day": 48
+ },
+ {
+  "word": "credible",
+  "pos": "adj",
+  "pic": "🏅",
+  "zh": "可信的",
+  "en": "Able to be believed or trusted",
+  "simple": "He is a credible witness.",
+  "simple_zh": "他是可信的證人。",
+  "toeic": "The report comes from a credible source.",
+  "toeic_zh": "這份報告來自可信的消息來源。",
+  "family": "credibility (n), credit (n)",
+  "related": [
+   {
+    "w": "credulous",
+    "zh": "輕信的",
+    "k": "confuse"
+   },
+   {
+    "w": "reliable",
+    "zh": "可靠的",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1190,
+  "day": 48
+ },
+ {
+  "word": "appropriately",
+  "pos": "adv",
+  "pic": "👍",
+  "zh": "適當地",
+  "en": "in a way that is right for the situation",
+  "simple": "Please dress appropriately for the party.",
+  "simple_zh": "請穿著適合派對的服裝。",
+  "toeic": "All complaints will be handled appropriately by the customer service team.",
+  "toeic_zh": "所有客訴都將由客服團隊妥善處理。",
+  "family": "appropriate (adj), appropriately (adv)",
+  "related": [
+   {
+    "w": "properly",
+    "zh": "恰當地",
+    "k": "syn"
+   },
+   {
+    "w": "inappropriately",
+    "zh": "不當地",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 1191,
+  "day": 48
+ },
+ {
+  "word": "rightly",
+  "pos": "adv",
+  "pic": "✅",
+  "zh": "正確地；理所當然地",
+  "en": "in a correct or fair way",
+  "simple": "She rightly said no to the offer.",
+  "simple_zh": "她拒絕那個提議是對的。",
+  "toeic": "Customers rightly expect a quick reply to their complaints.",
+  "toeic_zh": "顧客理所當然期待客訴能迅速獲得回覆。",
+  "family": "right (adj), rightly (adv)",
+  "related": [
+   {
+    "w": "correctly",
+    "zh": "正確地",
+    "k": "syn"
+   },
+   {
+    "w": "wrongly",
+    "zh": "錯誤地",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 1192,
+  "day": 48
+ },
+ {
+  "word": "condemn",
+  "pos": "v",
+  "pic": "👎",
+  "zh": "譴責；判定",
+  "en": "to say strongly that something is wrong",
+  "simple": "Many people condemn the crime.",
+  "simple_zh": "大家譴責這項罪行。",
+  "toeic": "Several leaders condemn the new policy as unfair to workers.",
+  "toeic_zh": "數位領袖譴責這項新政策對工人不公平。",
+  "family": "condemnation (n), condemn (v)",
+  "related": [
+   {
+    "w": "criticize",
+    "zh": "批評",
+    "k": "syn"
+   },
+   {
+    "w": "praise",
+    "zh": "讚揚",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 1193,
+  "day": 48
+ },
+ {
+  "word": "confrontation",
+  "pos": "n",
+  "pic": "😠",
+  "zh": "對抗；衝突",
+  "en": "an angry meeting between opposing people",
+  "simple": "There was a confrontation at the door.",
+  "simple_zh": "門口發生了衝突。",
+  "toeic": "The manager tried to avoid a confrontation with the angry client.",
+  "toeic_zh": "經理試圖避免與憤怒的客戶發生衝突。",
+  "family": "confront (v), confrontation (n)",
+  "related": [
+   {
+    "w": "conflict",
+    "zh": "衝突",
+    "k": "syn"
+   },
+   {
+    "w": "confront",
+    "zh": "面對",
+    "k": "family"
+   }
+  ],
+  "src": "BSL",
+  "n": 1194,
+  "day": 48
+ },
+ {
+  "word": "strive",
+  "pos": "v",
+  "pic": "💪",
+  "zh": "努力；力求",
+  "en": "to try very hard to achieve something",
+  "simple": "We strive to do our best.",
+  "simple_zh": "我們努力做到最好。",
+  "toeic": "We strive to deliver every order on time.",
+  "toeic_zh": "我們力求每筆訂單都準時送達。",
+  "family": "striving (n), strive (v)",
+  "related": [
+   {
+    "w": "endeavor",
+    "zh": "努力",
+    "k": "syn"
+   },
+   {
+    "w": "drive",
+    "zh": "驅動",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1195,
+  "day": 48
+ },
+ {
+  "word": "pronounce",
+  "pos": "v",
+  "pic": "🗣️",
+  "zh": "發音；宣布",
+  "en": "to say a word in a certain way; to declare",
+  "simple": "How do you pronounce this word?",
+  "simple_zh": "這個字怎麼發音？",
+  "toeic": "The judge will pronounce the final decision on Friday.",
+  "toeic_zh": "法官將於週五宣布最終裁決。",
+  "family": "pronunciation (n), pronounce (v)",
+  "related": [
+   {
+    "w": "announce",
+    "zh": "宣布",
+    "k": "confuse"
+   },
+   {
+    "w": "pronunciation",
+    "zh": "發音",
+    "k": "family"
+   }
+  ],
+  "src": "BSL",
+  "n": 1196,
+  "day": 48
+ },
+ {
+  "word": "suppress",
+  "pos": "v",
+  "pic": "🤐",
+  "zh": "壓制；抑制",
+  "en": "to stop something from growing or being known",
+  "simple": "He tried to suppress a laugh.",
+  "simple_zh": "他試著忍住笑。",
+  "toeic": "The firm tried to suppress news of the product defect.",
+  "toeic_zh": "公司試圖壓下產品瑕疵的消息。",
+  "family": "suppression (n), suppress (v)",
+  "related": [
+   {
+    "w": "oppress",
+    "zh": "壓迫",
+    "k": "confuse"
+   },
+   {
+    "w": "restrain",
+    "zh": "抑制",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1197,
+  "day": 48
+ },
+ {
+  "word": "undermine",
+  "pos": "v",
+  "pic": "🪓",
+  "zh": "逐漸削弱",
+  "en": "to weaken something slowly",
+  "simple": "Lies can undermine trust.",
+  "simple_zh": "謊言會逐漸破壞信任。",
+  "toeic": "Frequent delays could undermine our reputation with customers.",
+  "toeic_zh": "頻繁延誤可能損害我們在客戶心中的信譽。",
+  "family": "mine (n), undermine (v)",
+  "related": [
+   {
+    "w": "weaken",
+    "zh": "削弱",
+    "k": "syn"
+   },
+   {
+    "w": "strengthen",
+    "zh": "加強",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 1198,
+  "day": 48
+ },
+ {
+  "word": "plead",
+  "pos": "v",
+  "pic": "🙏",
+  "zh": "懇求；辯護",
+  "en": "to ask in an emotional or serious way",
+  "simple": "The child began to plead for candy.",
+  "simple_zh": "孩子開始懇求要糖果。",
+  "toeic": "The customer pleaded with the manager for a full refund.",
+  "toeic_zh": "顧客懇求經理給予全額退款。",
+  "family": "plea (n)",
+  "related": [
+   {
+    "w": "beg",
+    "zh": "乞求",
+    "k": "syn"
+   },
+   {
+    "w": "please",
+    "zh": "請；使高興",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1199,
+  "day": 48
+ },
+ {
+  "word": "persist",
+  "pos": "v",
+  "pic": "🔁",
+  "zh": "持續；堅持",
+  "en": "to continue to exist or keep trying",
+  "simple": "If the pain persists, see a doctor.",
+  "simple_zh": "如果疼痛持續，請看醫生。",
+  "toeic": "If the problem persists, please contact our support team.",
+  "toeic_zh": "如果問題持續，請聯絡我們的支援團隊。",
+  "family": "persistent (adj), persistence (n)",
+  "related": [
+   {
+    "w": "continue",
+    "zh": "持續",
+    "k": "syn"
+   },
+   {
+    "w": "resist",
+    "zh": "抵抗",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1200,
+  "day": 48
+ }
+]

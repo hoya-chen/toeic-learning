@@ -1,0 +1,5422 @@
+[
+ {
+  "word": "acceptance",
+  "pos": "n",
+  "pic": "✅",
+  "zh": "接受；認可",
+  "en": "the act of agreeing to take something",
+  "simple": "He wrote a letter of acceptance.",
+  "simple_zh": "他寫了一封接受函。",
+  "toeic": "Please send your acceptance of the job offer by Friday.",
+  "toeic_zh": "請在週五前回覆您接受這份工作的意願。",
+  "family": "accept (v), acceptable (adj)",
+  "related": [
+   {
+    "w": "acceptable",
+    "zh": "可接受的",
+    "k": "family"
+   },
+   {
+    "w": "rejection",
+    "zh": "拒絕",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 401,
+  "day": 17
+ },
+ {
+  "word": "accomplishment",
+  "pos": "n",
+  "pic": "🏆",
+  "zh": "成就；完成",
+  "en": "something successfully achieved",
+  "simple": "Finishing school was a big accomplishment.",
+  "simple_zh": "完成學業是很大的成就。",
+  "toeic": "Her greatest accomplishment was doubling the annual sales.",
+  "toeic_zh": "她最大的成就是讓年度銷售額翻倍。",
+  "family": "accomplish (v)",
+  "related": [
+   {
+    "w": "achievement",
+    "zh": "成就",
+    "k": "syn"
+   },
+   {
+    "w": "failure",
+    "zh": "失敗",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 402,
+  "day": 17
+ },
+ {
+  "word": "accustom",
+  "pos": "v",
+  "pic": "🔄",
+  "zh": "使習慣",
+  "en": "to make someone get used to something",
+  "simple": "He must accustom himself to early mornings.",
+  "simple_zh": "他必須讓自己習慣早起。",
+  "toeic": "New staff will accustom themselves to the system within a week.",
+  "toeic_zh": "新進員工會在一週內習慣這套系統。",
+  "family": "accustomed (adj)",
+  "related": [
+   {
+    "w": "custom",
+    "zh": "習俗",
+    "k": "confuse"
+   },
+   {
+    "w": "adapt",
+    "zh": "適應",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 403,
+  "day": 17
+ },
+ {
+  "word": "actively",
+  "pos": "adv",
+  "pic": "🏃",
+  "zh": "積極地",
+  "en": "in a way that involves energy and effort",
+  "simple": "She actively helps her team.",
+  "simple_zh": "她積極幫助她的團隊。",
+  "toeic": "We are actively looking for a new marketing manager.",
+  "toeic_zh": "我們正積極尋找新的行銷經理。",
+  "family": "active (adj), activity (n)",
+  "related": [
+   {
+    "w": "passively",
+    "zh": "被動地",
+    "k": "opp"
+   },
+   {
+    "w": "eagerly",
+    "zh": "熱切地",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 404,
+  "day": 17
+ },
+ {
+  "word": "administer",
+  "pos": "v",
+  "pic": "🗂️",
+  "zh": "管理；實施；給藥",
+  "en": "to manage or carry out something officially",
+  "simple": "She will administer the test.",
+  "simple_zh": "她將主持這場測驗。",
+  "toeic": "The HR department will administer the employee survey.",
+  "toeic_zh": "人資部門將辦理員工問卷調查。",
+  "family": "administration (n), administrator (n)",
+  "related": [
+   {
+    "w": "administrate",
+    "zh": "管理",
+    "k": "syn"
+   },
+   {
+    "w": "minister",
+    "zh": "部長",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 405,
+  "day": 17
+ },
+ {
+  "word": "administrative",
+  "pos": "adj",
+  "pic": "🗄️",
+  "zh": "行政的；管理的",
+  "en": "relating to running an organization",
+  "simple": "She does administrative work.",
+  "simple_zh": "她做行政工作。",
+  "toeic": "We are hiring an administrative assistant for the front desk.",
+  "toeic_zh": "我們正在為櫃檯招聘一名行政助理。",
+  "family": "administer (v), administration (n)",
+  "related": [
+   {
+    "w": "administration",
+    "zh": "行政",
+    "k": "family"
+   },
+   {
+    "w": "clerical",
+    "zh": "文書的",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 406,
+  "day": 17
+ },
+ {
+  "word": "advancement",
+  "pos": "n",
+  "pic": "⬆️",
+  "zh": "進步",
+  "en": "the process of moving forward in position or rank",
+  "simple": "Advancement depends on performance.",
+  "simple_zh": "進步取決於績效。",
+  "toeic": "Career advancement is achieved through consistent performance, skill development, and leadership demonstration.",
+  "toeic_zh": "職業進步通過持續績效、技能發展和領導力表現而實現。",
+  "family": "advance (v), advanced (adj)",
+  "related": [
+   {
+    "w": "promotion",
+    "zh": "晉升",
+    "k": "syn"
+   },
+   {
+    "w": "progress",
+    "zh": "進步",
+    "k": "syn"
+   }
+  ],
+  "n": 407,
+  "day": 17,
+  "src": "TSL"
+ },
+ {
+  "word": "advisor",
+  "pos": "n",
+  "pic": "🧑‍🏫",
+  "zh": "顧問；指導者",
+  "en": "a person who gives expert advice",
+  "simple": "My advisor helped me choose a class.",
+  "simple_zh": "我的指導老師幫我選課。",
+  "toeic": "The financial advisor recommended a new investment plan.",
+  "toeic_zh": "財務顧問建議了一項新的投資計畫。",
+  "family": "advise (v), advice (n), advisory (adj)",
+  "related": [
+   {
+    "w": "adviser",
+    "zh": "顧問",
+    "k": "syn"
+   },
+   {
+    "w": "advertiser",
+    "zh": "廣告商",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 408,
+  "day": 17
+ },
+ {
+  "word": "ambitious",
+  "pos": "adj",
+  "pic": "🚀",
+  "zh": "有野心的；雄心勃勃的",
+  "en": "having a strong wish to succeed",
+  "simple": "She is an ambitious student.",
+  "simple_zh": "她是個有抱負的學生。",
+  "toeic": "The company has set an ambitious goal for next year.",
+  "toeic_zh": "公司為明年設定了一個雄心勃勃的目標。",
+  "family": "ambition (n)",
+  "related": [
+   {
+    "w": "ambiguous",
+    "zh": "模糊的",
+    "k": "confuse"
+   },
+   {
+    "w": "determined",
+    "zh": "堅決的",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 409,
+  "day": 17
+ },
+ {
+  "word": "applicant",
+  "pos": "n",
+  "pic": "🙋",
+  "zh": "應徵者；申請人",
+  "en": "a person who asks for a job",
+  "simple": "The applicant waits outside the office.",
+  "simple_zh": "應徵者在辦公室外等候。",
+  "toeic": "Every applicant will be contacted within two weeks of the closing date.",
+  "toeic_zh": "每位應徵者都會在截止日後兩週內接獲通知。",
+  "family": "apply (v); application (n); applicant (n); apply for a job 應徵工作",
+  "related": [
+   {
+    "w": "appliance",
+    "zh": "家電用品",
+    "k": "confuse"
+   },
+   {
+    "w": "application",
+    "zh": "申請；申請書",
+    "k": "family"
+   },
+   {
+    "w": "candidate",
+    "zh": "候選人",
+    "k": "syn"
+   }
+  ],
+  "n": 410,
+  "day": 17,
+  "src": "TSL"
+ },
+ {
+  "word": "appraisal",
+  "pos": "n",
+  "pic": "⭐",
+  "zh": "評估",
+  "en": "formal assessment of an employee's performance",
+  "simple": "Annual appraisals are scheduled.",
+  "simple_zh": "年度評估已安排。",
+  "toeic": "The annual appraisal includes feedback on strengths and areas for improvement.",
+  "toeic_zh": "年度評估包括對優勢和改進領域的反饋。",
+  "family": "appraise (v), appraised (adj)",
+  "related": [
+   {
+    "w": "evaluation",
+    "zh": "評估",
+    "k": "syn"
+   },
+   {
+    "w": "review",
+    "zh": "審查",
+    "k": "syn"
+   }
+  ],
+  "n": 411,
+  "day": 17,
+  "src": "TSL"
+ },
+ {
+  "word": "apprehensive",
+  "pos": "adj",
+  "pic": "😟",
+  "zh": "憂慮的；擔心的",
+  "en": "worried that something bad may happen",
+  "simple": "He felt apprehensive before the test.",
+  "simple_zh": "考試前他感到不安。",
+  "toeic": "Investors are apprehensive about the upcoming market changes.",
+  "toeic_zh": "投資人對即將到來的市場變動感到憂心。",
+  "family": "apprehension (n)",
+  "related": [
+   {
+    "w": "comprehensive",
+    "zh": "全面的",
+    "k": "confuse"
+   },
+   {
+    "w": "anxious",
+    "zh": "焦慮的",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 412,
+  "day": 17
+ },
+ {
+  "word": "audition",
+  "pos": "n",
+  "pic": "🎤",
+  "zh": "試演；試鏡",
+  "en": "a short test performance for a role",
+  "simple": "She has an audition today.",
+  "simple_zh": "她今天有一場試演。",
+  "toeic": "The audition for the commercial will be held on Monday.",
+  "toeic_zh": "廣告的試鏡將在週一舉行。",
+  "family": "audition (v)",
+  "related": [
+   {
+    "w": "addition",
+    "zh": "增加",
+    "k": "confuse"
+   },
+   {
+    "w": "tryout",
+    "zh": "試演",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 413,
+  "day": 17
+ },
+ {
+  "word": "beginner",
+  "pos": "n",
+  "pic": "🔰",
+  "zh": "初學者；新手",
+  "en": "a person who is just starting to learn",
+  "simple": "I am a beginner at golf.",
+  "simple_zh": "我是高爾夫初學者。",
+  "toeic": "The workshop is designed for beginners with no experience.",
+  "toeic_zh": "這個工作坊是為沒有經驗的初學者而設計的。",
+  "family": "begin (v), beginning (n)",
+  "related": [
+   {
+    "w": "novice",
+    "zh": "新手",
+    "k": "syn"
+   },
+   {
+    "w": "expert",
+    "zh": "專家",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 414,
+  "day": 17
+ },
+ {
+  "word": "biology",
+  "pos": "n",
+  "pic": "🧬",
+  "zh": "生物學",
+  "en": "The scientific study of living things.",
+  "simple": "She studies biology at school.",
+  "simple_zh": "她在學校學生物學。",
+  "toeic": "The university is hiring a new professor of biology.",
+  "toeic_zh": "這所大學正在招聘一位新的生物學教授。",
+  "family": "biological (adj), biologist (n)",
+  "related": [
+   {
+    "w": "biologist",
+    "zh": "生物學家",
+    "k": "family"
+   },
+   {
+    "w": "chemistry",
+    "zh": "化學",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 415,
+  "day": 17
+ },
+ {
+  "word": "bonus",
+  "pos": "n",
+  "pic": "🎉",
+  "zh": "獎金",
+  "en": "additional payment given for good performance or special occasions",
+  "simple": "Employees receive a yearly bonus.",
+  "simple_zh": "員工獲得每年獎金。",
+  "toeic": "Performance bonuses are awarded quarterly to employees who exceed their targets.",
+  "toeic_zh": "績效獎金按季度授予超出目標的員工。",
+  "family": "bonus (adj)",
+  "related": [
+   {
+    "w": "incentive",
+    "zh": "獎勵",
+    "k": "syn"
+   },
+   {
+    "w": "commission",
+    "zh": "傭金",
+    "k": "family"
+   }
+  ],
+  "n": 416,
+  "day": 17,
+  "src": "TSL"
+ },
+ {
+  "word": "campus",
+  "pos": "n",
+  "pic": "🏫",
+  "zh": "校園;園區",
+  "en": "The grounds and buildings of a school or company.",
+  "simple": "The campus is very big.",
+  "simple_zh": "這個校園非常大。",
+  "toeic": "Our company campus includes a gym and two cafeterias.",
+  "toeic_zh": "我們的公司園區內有一間健身房和兩間餐廳。",
+  "family": "",
+  "related": [
+   {
+    "w": "camp",
+    "zh": "營地",
+    "k": "confuse"
+   },
+   {
+    "w": "grounds",
+    "zh": "場地",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 417,
+  "day": 17
+ },
+ {
+  "word": "casual",
+  "pos": "adj",
+  "pic": "👕",
+  "zh": "休閒的;隨意的",
+  "en": "Relaxed and informal, not formal.",
+  "simple": "I wear casual clothes on Fridays.",
+  "simple_zh": "我星期五穿休閒服。",
+  "toeic": "The company allows casual dress every Friday.",
+  "toeic_zh": "公司允許每週五穿著休閒服裝。",
+  "family": "casually (adv)",
+  "related": [
+   {
+    "w": "causal",
+    "zh": "因果的",
+    "k": "confuse"
+   },
+   {
+    "w": "formal",
+    "zh": "正式的",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 418,
+  "day": 17
+ },
+ {
+  "word": "certification",
+  "pos": "n",
+  "pic": "✅",
+  "zh": "認證",
+  "en": "an official document proving someone has skills in a particular area",
+  "simple": "He has a professional certification.",
+  "simple_zh": "他擁有專業認證。",
+  "toeic": "Industry certifications strengthen your resume and improve job prospects.",
+  "toeic_zh": "行業認證加強你的履歷並改善就業前景。",
+  "family": "certify (v), certified (adj)",
+  "related": [
+   {
+    "w": "credential",
+    "zh": "證書",
+    "k": "syn"
+   },
+   {
+    "w": "license",
+    "zh": "執照",
+    "k": "family"
+   }
+  ],
+  "n": 419,
+  "day": 17,
+  "src": "TSL"
+ },
+ {
+  "word": "checkup",
+  "pos": "n",
+  "pic": "🩺",
+  "zh": "健康檢查",
+  "en": "A medical examination to check your health.",
+  "simple": "I have a checkup today.",
+  "simple_zh": "我今天要做健康檢查。",
+  "toeic": "All employees receive a free annual checkup.",
+  "toeic_zh": "所有員工每年都可享有免費健康檢查。",
+  "family": "",
+  "related": [
+   {
+    "w": "examination",
+    "zh": "檢查",
+    "k": "syn"
+   },
+   {
+    "w": "checkout",
+    "zh": "結帳",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 420,
+  "day": 17
+ },
+ {
+  "word": "chef",
+  "pos": "n",
+  "pic": "👨‍🍳",
+  "zh": "主廚",
+  "en": "A professional cook, especially the head cook.",
+  "simple": "The chef cooks very well.",
+  "simple_zh": "這位主廚很會做菜。",
+  "toeic": "The hotel hired a new chef from Paris.",
+  "toeic_zh": "這家飯店從巴黎聘請了一位新主廚。",
+  "family": "",
+  "related": [
+   {
+    "w": "cook",
+    "zh": "廚師",
+    "k": "syn"
+   },
+   {
+    "w": "chief",
+    "zh": "首長",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 421,
+  "day": 17
+ },
+ {
+  "word": "chronic",
+  "pos": "adj",
+  "pic": "⏳",
+  "zh": "慢性的;長期的",
+  "en": "Lasting for a long time or happening again and again.",
+  "simple": "He has a chronic cough.",
+  "simple_zh": "他有慢性咳嗽。",
+  "toeic": "The company faces a chronic shortage of skilled workers.",
+  "toeic_zh": "公司長期面臨技術人員短缺。",
+  "family": "chronically (adv)",
+  "related": [
+   {
+    "w": "acute",
+    "zh": "急性的",
+    "k": "opp"
+   },
+   {
+    "w": "chronicle",
+    "zh": "編年史",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 422,
+  "day": 17
+ },
+ {
+  "word": "classmate",
+  "pos": "n",
+  "pic": "🧑‍🎓",
+  "zh": "同班同學",
+  "en": "A person who is in the same class as you.",
+  "simple": "My classmate lent me a pen.",
+  "simple_zh": "我的同學借我一支筆。",
+  "toeic": "I met an old classmate at the trade show.",
+  "toeic_zh": "我在貿易展上遇到一位老同學。",
+  "family": "",
+  "related": [
+   {
+    "w": "colleague",
+    "zh": "同事",
+    "k": "confuse"
+   },
+   {
+    "w": "schoolmate",
+    "zh": "校友",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 423,
+  "day": 17
+ },
+ {
+  "word": "clinic",
+  "pos": "n",
+  "pic": "🏥",
+  "zh": "診所",
+  "en": "A place where people see a doctor for treatment.",
+  "simple": "The clinic opens at eight.",
+  "simple_zh": "診所八點開門。",
+  "toeic": "The company runs a small clinic for its employees.",
+  "toeic_zh": "公司為員工設有一間小診所。",
+  "family": "clinical (adj)",
+  "related": [
+   {
+    "w": "hospital",
+    "zh": "醫院",
+    "k": "confuse"
+   },
+   {
+    "w": "surgery",
+    "zh": "診療室",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 424,
+  "day": 17
+ },
+ {
+  "word": "comprehension",
+  "pos": "n",
+  "pic": "🧠",
+  "zh": "理解力",
+  "en": "The ability to understand something.",
+  "simple": "Reading comprehension is hard for me.",
+  "simple_zh": "閱讀理解對我來說很難。",
+  "toeic": "The test measures listening and reading comprehension.",
+  "toeic_zh": "這項測驗評量聽力與閱讀理解能力。",
+  "family": "comprehend (v), comprehensive (adj)",
+  "related": [
+   {
+    "w": "comprehensive",
+    "zh": "全面的",
+    "k": "confuse"
+   },
+   {
+    "w": "understanding",
+    "zh": "理解",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 425,
+  "day": 17
+ },
+ {
+  "word": "counselor",
+  "pos": "n",
+  "pic": "🧑‍🏫",
+  "zh": "顧問；輔導員",
+  "en": "a person who gives advice or guidance",
+  "simple": "The school counselor helped him.",
+  "simple_zh": "學校輔導員幫助了他。",
+  "toeic": "A career counselor will meet with each new graduate this week.",
+  "toeic_zh": "職涯顧問本週將與每位新鮮人面談。",
+  "family": "counsel (n/v), counselor (n)",
+  "related": [
+   {
+    "w": "council",
+    "zh": "委員會",
+    "k": "confuse"
+   },
+   {
+    "w": "adviser",
+    "zh": "顧問",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 426,
+  "day": 18
+ },
+ {
+  "word": "coworker",
+  "pos": "n",
+  "pic": "👥",
+  "zh": "同事",
+  "en": "a person you work with",
+  "simple": "My coworker is very kind.",
+  "simple_zh": "我的同事人很好。",
+  "toeic": "I will ask a coworker to cover my shift on Friday.",
+  "toeic_zh": "我會請一位同事在週五代我的班。",
+  "family": "",
+  "related": [
+   {
+    "w": "colleague",
+    "zh": "同事",
+    "k": "syn"
+   },
+   {
+    "w": "employer",
+    "zh": "雇主",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 427,
+  "day": 18
+ },
+ {
+  "word": "creativity",
+  "pos": "n",
+  "pic": "🎨",
+  "zh": "創意",
+  "en": "ability to generate new and original ideas",
+  "simple": "Creativity is encouraged.",
+  "simple_zh": "創意受到鼓勵。",
+  "toeic": "Supporting employee creativity and experimentation leads to breakthrough solutions and improved processes.",
+  "toeic_zh": "支持員工創意和實驗導致突破性解決方案和改進的流程。",
+  "family": "creative (adj)",
+  "related": [
+   {
+    "w": "innovation",
+    "zh": "創新",
+    "k": "syn"
+   },
+   {
+    "w": "imagination",
+    "zh": "想像",
+    "k": "syn"
+   }
+  ],
+  "n": 428,
+  "day": 18,
+  "src": "TSL"
+ },
+ {
+  "word": "culinary",
+  "pos": "adj",
+  "pic": "👨‍🍳",
+  "zh": "烹飪的；廚藝的",
+  "en": "related to cooking or kitchens",
+  "simple": "He studies at a culinary school.",
+  "simple_zh": "他就讀烹飪學校。",
+  "toeic": "The hotel is hiring a chef with strong culinary skills.",
+  "toeic_zh": "這間飯店正在招聘具有優秀廚藝的主廚。",
+  "family": "",
+  "related": [
+   {
+    "w": "cooking",
+    "zh": "烹飪",
+    "k": "syn"
+   },
+   {
+    "w": "culture",
+    "zh": "文化",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 429,
+  "day": 18
+ },
+ {
+  "word": "dedication",
+  "pos": "n",
+  "pic": "🎖️",
+  "zh": "奉獻；敬業",
+  "en": "hard work and loyalty to a goal",
+  "simple": "Her dedication is clear.",
+  "simple_zh": "她的奉獻精神很明顯。",
+  "toeic": "We thank Ms. Lin for her dedication to the company over twenty years.",
+  "toeic_zh": "我們感謝林女士二十年來對公司的奉獻。",
+  "family": "dedicate (v), dedicated (adj), dedication (n)",
+  "related": [
+   {
+    "w": "commitment",
+    "zh": "承諾",
+    "k": "syn"
+   },
+   {
+    "w": "dedicate",
+    "zh": "奉獻",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 430,
+  "day": 18
+ },
+ {
+  "word": "deduction",
+  "pos": "n",
+  "pic": "➖",
+  "zh": "扣除；扣除額",
+  "en": "an amount taken away from a total",
+  "simple": "There is a deduction from my pay.",
+  "simple_zh": "我的薪水有一筆扣除額。",
+  "toeic": "The tax deduction applies to all business travel expenses.",
+  "toeic_zh": "此稅額扣除適用於所有商務差旅費用。",
+  "family": "deduct (v), deductible (adj), deduction (n)",
+  "related": [
+   {
+    "w": "deduct",
+    "zh": "扣除",
+    "k": "family"
+   },
+   {
+    "w": "reduction",
+    "zh": "減少",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 431,
+  "day": 18
+ },
+ {
+  "word": "dental",
+  "pos": "adj",
+  "pic": "🦷",
+  "zh": "牙齒的；牙科的",
+  "en": "related to teeth",
+  "simple": "I have a dental appointment.",
+  "simple_zh": "我有牙科預約。",
+  "toeic": "The company provides dental insurance for all full-time employees.",
+  "toeic_zh": "公司為所有全職員工提供牙科保險。",
+  "family": "dentist (n), dental (adj)",
+  "related": [
+   {
+    "w": "dentist",
+    "zh": "牙醫",
+    "k": "family"
+   },
+   {
+    "w": "medical",
+    "zh": "醫療的",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 432,
+  "day": 18
+ },
+ {
+  "word": "departure",
+  "pos": "n",
+  "pic": "👋",
+  "zh": "離職",
+  "en": "the act of leaving a job or organization",
+  "simple": "His departure was sudden.",
+  "simple_zh": "他的離職是突然的。",
+  "toeic": "Employee departure procedures include exit interviews and knowledge transfer to ensure continuity.",
+  "toeic_zh": "員工離職程序包括離職面試和知識轉移以確保連續性。",
+  "family": "depart (v), departed (adj)",
+  "related": [
+   {
+    "w": "resignation",
+    "zh": "辭職",
+    "k": "syn"
+   },
+   {
+    "w": "leaving",
+    "zh": "離開",
+    "k": "syn"
+   }
+  ],
+  "n": 433,
+  "day": 18,
+  "src": "TSL"
+ },
+ {
+  "word": "desirable",
+  "pos": "adj",
+  "pic": "🌟",
+  "zh": "令人嚮往的；理想的",
+  "en": "worth wanting or having",
+  "simple": "It is a desirable job.",
+  "simple_zh": "這是一份令人嚮往的工作。",
+  "toeic": "Experience in marketing is desirable but not required for this position.",
+  "toeic_zh": "具備行銷經驗為佳，但並非必要。",
+  "family": "desire (n/v), desirable (adj)",
+  "related": [
+   {
+    "w": "desirous",
+    "zh": "渴望的",
+    "k": "confuse"
+   },
+   {
+    "w": "attractive",
+    "zh": "吸引人的",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 434,
+  "day": 18
+ },
+ {
+  "word": "desperate",
+  "pos": "adj",
+  "pic": "🆘",
+  "zh": "迫切的；絕望的",
+  "en": "needing something very badly",
+  "simple": "They are desperate for help.",
+  "simple_zh": "他們迫切需要幫助。",
+  "toeic": "The firm is desperate for skilled engineers this season.",
+  "toeic_zh": "公司本季迫切需要有技術的工程師。",
+  "family": "desperately (adv), desperation (n), desperate (adj)",
+  "related": [
+   {
+    "w": "urgent",
+    "zh": "緊急的",
+    "k": "syn"
+   },
+   {
+    "w": "separate",
+    "zh": "分開的",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 435,
+  "day": 18
+ },
+ {
+  "word": "diploma",
+  "pos": "n",
+  "pic": "🎓",
+  "zh": "文憑；畢業證書",
+  "en": "an official paper showing you finished school",
+  "simple": "He received his diploma.",
+  "simple_zh": "他拿到了畢業證書。",
+  "toeic": "Applicants must have a high school diploma or equivalent.",
+  "toeic_zh": "應徵者須具備高中文憑或同等學歷。",
+  "family": "",
+  "related": [
+   {
+    "w": "degree",
+    "zh": "學位",
+    "k": "syn"
+   },
+   {
+    "w": "diplomat",
+    "zh": "外交官",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 436,
+  "day": 18
+ },
+ {
+  "word": "distractor",
+  "pos": "n",
+  "pic": "❓",
+  "zh": "干擾選項；使分心的事物",
+  "en": "a wrong answer choice meant to mislead you",
+  "simple": "Pick the best answer, not a distractor.",
+  "simple_zh": "選最佳答案，不要選干擾選項。",
+  "toeic": "Each test question includes one correct answer and three distractors.",
+  "toeic_zh": "每道測驗題包含一個正確答案和三個干擾選項。",
+  "family": "distract (v), distraction (n), distractor (n)",
+  "related": [
+   {
+    "w": "distraction",
+    "zh": "分心",
+    "k": "family"
+   },
+   {
+    "w": "detractor",
+    "zh": "批評者",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 437,
+  "day": 18
+ },
+ {
+  "word": "downsize",
+  "pos": "v",
+  "pic": "📉",
+  "zh": "縮編；裁減人員",
+  "en": "to reduce the number of employees in a company",
+  "simple": "The shop will downsize this year.",
+  "simple_zh": "這家店今年會縮編。",
+  "toeic": "The firm decided to downsize its sales department to cut costs.",
+  "toeic_zh": "公司決定縮編業務部門以降低成本。",
+  "family": "downsizing (n), downsize (v)",
+  "related": [
+   {
+    "w": "expand",
+    "zh": "擴編",
+    "k": "opp"
+   },
+   {
+    "w": "layoff",
+    "zh": "裁員",
+    "k": "syn"
+   }
+  ],
+  "n": 438,
+  "day": 18,
+  "src": "TSL"
+ },
+ {
+  "word": "eager",
+  "pos": "adj",
+  "pic": "🤩",
+  "zh": "渴望的；熱切的",
+  "en": "wanting very much to do or have something",
+  "simple": "She is eager to learn English.",
+  "simple_zh": "她很渴望學英文。",
+  "toeic": "We are eager to start working with your team.",
+  "toeic_zh": "我們很期待與貴團隊合作。",
+  "family": "eager (adj), eagerly (adv)",
+  "related": [
+   {
+    "w": "eagerly",
+    "zh": "熱切地",
+    "k": "family"
+   },
+   {
+    "w": "keen",
+    "zh": "熱衷的",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 439,
+  "day": 18
+ },
+ {
+  "word": "effectiveness",
+  "pos": "n",
+  "pic": "✅",
+  "zh": "有效性",
+  "en": "the degree to which something succeeds in producing results",
+  "simple": "Employee effectiveness varies.",
+  "simple_zh": "員工有效性各不相同。",
+  "toeic": "The effectiveness of training programs is measured through employee performance improvements.",
+  "toeic_zh": "培訓計畫的有效性通過員工績效改進來衡量。",
+  "family": "effective (adj), effectively (adv)",
+  "related": [
+   {
+    "w": "efficiency",
+    "zh": "效率",
+    "k": "confuse"
+   },
+   {
+    "w": "success",
+    "zh": "成功",
+    "k": "syn"
+   }
+  ],
+  "n": 440,
+  "day": 18,
+  "src": "TSL"
+ },
+ {
+  "word": "eligible",
+  "pos": "adj",
+  "pic": "✅",
+  "zh": "符合資格的",
+  "en": "allowed to do or get something because you meet the rules",
+  "simple": "You are eligible for this prize.",
+  "simple_zh": "你有資格獲得這個獎。",
+  "toeic": "Staff who have worked here for a year are eligible for paid leave.",
+  "toeic_zh": "在此工作滿一年的員工可享有帶薪假。",
+  "family": "eligibility (n); be eligible for 有……的資格; ineligible (adj)",
+  "related": [
+   {
+    "w": "illegible",
+    "zh": "難以辨認的",
+    "k": "confuse"
+   },
+   {
+    "w": "eligibility",
+    "zh": "資格",
+    "k": "family"
+   },
+   {
+    "w": "qualified",
+    "zh": "有資格的",
+    "k": "syn"
+   }
+  ],
+  "n": 441,
+  "day": 18,
+  "src": "TSL"
+ },
+ {
+  "word": "energetic",
+  "pos": "adj",
+  "pic": "🔋",
+  "zh": "精力充沛的",
+  "en": "full of energy and ready to be active",
+  "simple": "The kids are very energetic.",
+  "simple_zh": "孩子們精力非常充沛。",
+  "toeic": "We are looking for an energetic person to join our sales team.",
+  "toeic_zh": "我們正在找一位精力充沛的人加入業務團隊。",
+  "family": "energy (n), energetic (adj)",
+  "related": [
+   {
+    "w": "lively",
+    "zh": "活潑的",
+    "k": "syn"
+   },
+   {
+    "w": "lazy",
+    "zh": "懶惰的",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 442,
+  "day": 18
+ },
+ {
+  "word": "engagement",
+  "pos": "n",
+  "pic": "💼",
+  "zh": "參與",
+  "en": "the degree of enthusiasm and commitment to a job",
+  "simple": "Employee engagement is crucial.",
+  "simple_zh": "員工參與至關重要。",
+  "toeic": "High employee engagement correlates with better performance, retention, and customer satisfaction.",
+  "toeic_zh": "高員工參與與更好的績效、保留和客戶滿意度相關聯。",
+  "family": "engage (v), engaged (adj)",
+  "related": [
+   {
+    "w": "involvement",
+    "zh": "參與",
+    "k": "syn"
+   },
+   {
+    "w": "commitment",
+    "zh": "承諾",
+    "k": "syn"
+   }
+  ],
+  "n": 443,
+  "day": 18,
+  "src": "TSL"
+ },
+ {
+  "word": "enroll",
+  "pos": "v",
+  "pic": "📝",
+  "zh": "註冊；登記入學",
+  "en": "to officially join a course or school",
+  "simple": "I will enroll in a class.",
+  "simple_zh": "我要報名一個課程。",
+  "toeic": "Employees may enroll in the training course online.",
+  "toeic_zh": "員工可以在線上報名參加訓練課程。",
+  "family": "enroll (v), enrollment (n)",
+  "related": [
+   {
+    "w": "register",
+    "zh": "註冊",
+    "k": "syn"
+   },
+   {
+    "w": "withdraw",
+    "zh": "退出",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 444,
+  "day": 18
+ },
+ {
+  "word": "enrollment",
+  "pos": "n",
+  "pic": "🎓",
+  "zh": "註冊；入學人數",
+  "en": "the act of joining a course, or the number joined",
+  "simple": "Enrollment starts on Monday.",
+  "simple_zh": "註冊週一開始。",
+  "toeic": "Enrollment for the workshop closes at the end of this week.",
+  "toeic_zh": "工作坊的報名將於本週末截止。",
+  "family": "enroll (v), enrollment (n)",
+  "related": [
+   {
+    "w": "registration",
+    "zh": "登記",
+    "k": "syn"
+   },
+   {
+    "w": "enroll",
+    "zh": "註冊",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 445,
+  "day": 18
+ },
+ {
+  "word": "enthusiasm",
+  "pos": "n",
+  "pic": "🔥",
+  "zh": "熱情；熱忱",
+  "en": "strong interest and excitement about something",
+  "simple": "He shows great enthusiasm for work.",
+  "simple_zh": "他對工作充滿熱情。",
+  "toeic": "Her enthusiasm for the project inspired the whole team.",
+  "toeic_zh": "她對這項專案的熱忱激勵了整個團隊。",
+  "family": "enthusiasm (n), enthusiast (n), enthusiastic (adj), enthusiastically (adv)",
+  "related": [
+   {
+    "w": "passion",
+    "zh": "熱情",
+    "k": "syn"
+   },
+   {
+    "w": "apathy",
+    "zh": "冷漠",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 446,
+  "day": 18
+ },
+ {
+  "word": "ethics",
+  "pos": "n",
+  "pic": "⚖️",
+  "zh": "倫理",
+  "en": "principles of right and wrong behavior",
+  "simple": "Business ethics matter.",
+  "simple_zh": "商業倫理很重要。",
+  "toeic": "Company ethics standards require employees to maintain professional integrity and confidentiality.",
+  "toeic_zh": "公司倫理標準要求員工保持專業誠信和保密性。",
+  "family": "ethical (adj), ethic (n)",
+  "related": [
+   {
+    "w": "integrity",
+    "zh": "誠信",
+    "k": "syn"
+   },
+   {
+    "w": "conduct",
+    "zh": "行為",
+    "k": "family"
+   }
+  ],
+  "n": 447,
+  "day": 18,
+  "src": "TSL"
+ },
+ {
+  "word": "excellence",
+  "pos": "n",
+  "pic": "⭐",
+  "zh": "卓越",
+  "en": "state of being extremely good or outstanding",
+  "simple": "Excellence is our standard.",
+  "simple_zh": "卓越是我們的標準。",
+  "toeic": "Pursuing excellence requires continuous improvement, high standards, and commitment to quality in all work.",
+  "toeic_zh": "追求卓越需要持續改進、高標準和對所有工作質量的承諾。",
+  "family": "excellent (adj), excel (v)",
+  "related": [
+   {
+    "w": "achievement",
+    "zh": "成就",
+    "k": "syn"
+   },
+   {
+    "w": "mastery",
+    "zh": "掌握",
+    "k": "syn"
+   }
+  ],
+  "n": 448,
+  "day": 18,
+  "src": "TSL"
+ },
+ {
+  "word": "expertise",
+  "pos": "n",
+  "pic": "🎓",
+  "zh": "專業知識",
+  "en": "expert skill or knowledge in a particular area",
+  "simple": "She has valuable expertise.",
+  "simple_zh": "她具有寶貴的專業知識。",
+  "toeic": "Industry expertise is highly valued in senior positions and specialized technical roles.",
+  "toeic_zh": "行業專業知識在高級職位和專業技術職位中受到高度重視。",
+  "family": "expert (n, adj)",
+  "related": [
+   {
+    "w": "skill",
+    "zh": "技能",
+    "k": "syn"
+   },
+   {
+    "w": "knowledge",
+    "zh": "知識",
+    "k": "syn"
+   }
+  ],
+  "n": 449,
+  "day": 18,
+  "src": "TSL"
+ },
+ {
+  "word": "faculty",
+  "pos": "n",
+  "pic": "🏫",
+  "zh": "全體教職員；系所",
+  "en": "teachers at a school, or a school department",
+  "simple": "The faculty meets every Monday.",
+  "simple_zh": "教職員每週一開會。",
+  "toeic": "The faculty will host a seminar for local business owners.",
+  "toeic_zh": "教職員將為當地企業主舉辦研討會。",
+  "family": "",
+  "related": [
+   {
+    "w": "facility",
+    "zh": "設施",
+    "k": "confuse"
+   },
+   {
+    "w": "staff",
+    "zh": "員工",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 450,
+  "day": 18
+ },
+ {
+  "word": "familiarity",
+  "pos": "n",
+  "pic": "🤝",
+  "zh": "熟悉；熟知",
+  "en": "good knowledge of something",
+  "simple": "He has familiarity with the system.",
+  "simple_zh": "他熟悉這個系統。",
+  "toeic": "Familiarity with spreadsheet software is required for this position.",
+  "toeic_zh": "這個職位要求熟悉試算表軟體。",
+  "family": "familiar (adj), familiarity (n), familiarize (v)",
+  "related": [
+   {
+    "w": "familiar",
+    "zh": "熟悉的",
+    "k": "family"
+   },
+   {
+    "w": "unfamiliarity",
+    "zh": "不熟悉",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 451,
+  "day": 19
+ },
+ {
+  "word": "familiarize",
+  "pos": "v",
+  "pic": "📖",
+  "zh": "使熟悉",
+  "en": "to learn about something until you know it well",
+  "simple": "Please familiarize yourself with the rules.",
+  "simple_zh": "請先熟悉這些規定。",
+  "toeic": "New employees should familiarize themselves with the safety procedures.",
+  "toeic_zh": "新進員工應熟悉安全程序。",
+  "family": "familiar (adj), familiarity (n), familiarize (v)",
+  "related": [
+   {
+    "w": "acquaint",
+    "zh": "使認識",
+    "k": "syn"
+   },
+   {
+    "w": "familiar",
+    "zh": "熟悉的",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 452,
+  "day": 19
+ },
+ {
+  "word": "farewell",
+  "pos": "n",
+  "pic": "👋",
+  "zh": "告別；歡送",
+  "en": "the act of saying goodbye",
+  "simple": "They had a farewell party.",
+  "simple_zh": "他們辦了一場歡送會。",
+  "toeic": "The staff held a farewell luncheon for the retiring manager.",
+  "toeic_zh": "員工為即將退休的經理舉辦了歡送午餐會。",
+  "family": "",
+  "related": [
+   {
+    "w": "goodbye",
+    "zh": "再見",
+    "k": "syn"
+   },
+   {
+    "w": "welcome",
+    "zh": "歡迎",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 453,
+  "day": 19
+ },
+ {
+  "word": "flextime",
+  "pos": "n",
+  "pic": "🕐",
+  "zh": "彈性工時",
+  "en": "a system where workers choose their own hours",
+  "simple": "My job has flextime.",
+  "simple_zh": "我的工作有彈性工時。",
+  "toeic": "The company introduced flextime to help employees balance work and family.",
+  "toeic_zh": "公司引進彈性工時，協助員工兼顧工作與家庭。",
+  "family": "",
+  "related": [
+   {
+    "w": "flexible",
+    "zh": "有彈性的",
+    "k": "family"
+   },
+   {
+    "w": "overtime",
+    "zh": "加班",
+    "k": "confuse"
+   }
+  ],
+  "n": 454,
+  "day": 19,
+  "src": "TSL"
+ },
+ {
+  "word": "fluent",
+  "pos": "adj",
+  "pic": "🗣️",
+  "zh": "流利的",
+  "en": "able to speak a language easily and well",
+  "simple": "He is fluent in French.",
+  "simple_zh": "他法語說得很流利。",
+  "toeic": "The position requires someone fluent in both English and Japanese.",
+  "toeic_zh": "此職位需要英語與日語都流利的人。",
+  "family": "fluency (n), fluent (adj)",
+  "related": [
+   {
+    "w": "flexible",
+    "zh": "有彈性的",
+    "k": "confuse"
+   },
+   {
+    "w": "proficient",
+    "zh": "精通的",
+    "k": "syn"
+   }
+  ],
+  "n": 455,
+  "day": 19,
+  "src": "TSL"
+ },
+ {
+  "word": "foster",
+  "pos": "v",
+  "pic": "🌿",
+  "zh": "培養；促進",
+  "en": "to help something develop over time",
+  "simple": "Teachers foster a love of reading.",
+  "simple_zh": "老師培養閱讀的興趣。",
+  "toeic": "The manager works to foster teamwork in the department.",
+  "toeic_zh": "經理致力於在部門內培養團隊合作。",
+  "family": "",
+  "related": [
+   {
+    "w": "promote",
+    "zh": "促進",
+    "k": "syn"
+   },
+   {
+    "w": "hinder",
+    "zh": "阻礙",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 456,
+  "day": 19
+ },
+ {
+  "word": "freelance",
+  "pos": "adj",
+  "pic": "💻",
+  "zh": "自由接案的",
+  "en": "working for different companies, not one employer",
+  "simple": "He does freelance design work.",
+  "simple_zh": "他做自由接案的設計工作。",
+  "toeic": "We hired a freelance writer to update the company handbook.",
+  "toeic_zh": "我們聘請了一位自由撰稿人來更新公司手冊。",
+  "family": "freelancer (n), freelance (adj)",
+  "related": [
+   {
+    "w": "permanent",
+    "zh": "長期的",
+    "k": "opp"
+   },
+   {
+    "w": "contractor",
+    "zh": "承包人",
+    "k": "syn"
+   }
+  ],
+  "n": 457,
+  "day": 19,
+  "src": "TSL"
+ },
+ {
+  "word": "graduation",
+  "pos": "n",
+  "pic": "🎓",
+  "zh": "畢業；畢業典禮",
+  "en": "finishing school, or the ceremony for it",
+  "simple": "Her graduation is in June.",
+  "simple_zh": "她的畢業典禮在六月。",
+  "toeic": "Many companies hire new staff soon after graduation.",
+  "toeic_zh": "許多公司在畢業後不久就會僱用新員工。",
+  "family": "graduate (v/n), graduation (n)",
+  "related": [
+   {
+    "w": "graduate",
+    "zh": "畢業",
+    "k": "family"
+   },
+   {
+    "w": "gradual",
+    "zh": "逐漸的",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 458,
+  "day": 19
+ },
+ {
+  "word": "guidance",
+  "pos": "n",
+  "pic": "🧭",
+  "zh": "指導",
+  "en": "advice or information about what should be done",
+  "simple": "Seek guidance from managers.",
+  "simple_zh": "向經理尋求指導。",
+  "toeic": "Career guidance from senior leaders helps employees navigate organizational structures and plan advancement.",
+  "toeic_zh": "來自資深領導者的職業指導幫助員工導航組織結構並規劃進步。",
+  "family": "guide (v, n)",
+  "related": [
+   {
+    "w": "direction",
+    "zh": "方向",
+    "k": "syn"
+   },
+   {
+    "w": "advice",
+    "zh": "建議",
+    "k": "syn"
+   }
+  ],
+  "n": 459,
+  "day": 19,
+  "src": "TSL"
+ },
+ {
+  "word": "habitual",
+  "pos": "adj",
+  "pic": "🔁",
+  "zh": "習慣性的",
+  "en": "done regularly as a habit",
+  "simple": "He is a habitual late comer.",
+  "simple_zh": "他習慣性遲到。",
+  "toeic": "Habitual lateness may result in disciplinary action by the company.",
+  "toeic_zh": "習慣性遲到可能導致公司給予處分。",
+  "family": "habit (n), habitually (adv)",
+  "related": [
+   {
+    "w": "customary",
+    "zh": "慣例的",
+    "k": "syn"
+   },
+   {
+    "w": "occasional",
+    "zh": "偶爾的",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 460,
+  "day": 19
+ },
+ {
+  "word": "handbook",
+  "pos": "n",
+  "pic": "📘",
+  "zh": "手冊",
+  "en": "a small book of rules or instructions",
+  "simple": "Read the handbook on your first day.",
+  "simple_zh": "第一天請閱讀手冊。",
+  "toeic": "New employees will receive an employee handbook at orientation.",
+  "toeic_zh": "新進員工將在新人訓練時收到員工手冊。",
+  "family": "",
+  "related": [
+   {
+    "w": "manual",
+    "zh": "手冊",
+    "k": "syn"
+   },
+   {
+    "w": "guidebook",
+    "zh": "指南",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 461,
+  "day": 19
+ },
+ {
+  "word": "hardworking",
+  "pos": "adj",
+  "pic": "💪",
+  "zh": "勤奮的",
+  "en": "working with energy and effort",
+  "simple": "She is a hardworking student.",
+  "simple_zh": "她是個勤奮的學生。",
+  "toeic": "We are seeking a hardworking and reliable assistant manager.",
+  "toeic_zh": "我們正在尋找勤奮可靠的副理。",
+  "family": "",
+  "related": [
+   {
+    "w": "diligent",
+    "zh": "勤勉的",
+    "k": "syn"
+   },
+   {
+    "w": "lazy",
+    "zh": "懶惰的",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 462,
+  "day": 19
+ },
+ {
+  "word": "healthcare",
+  "pos": "n",
+  "pic": "⚕️",
+  "zh": "醫療保健",
+  "en": "services for treating and preventing illness",
+  "simple": "Healthcare benefits are included.",
+  "simple_zh": "醫療保健福利包括在內。",
+  "toeic": "Comprehensive healthcare benefits include dental, vision, and prescription medication coverage.",
+  "toeic_zh": "全面的醫療保健福利包括牙科、眼科和處方藥物保險。",
+  "family": "health (n, adj)",
+  "related": [
+   {
+    "w": "insurance",
+    "zh": "保險",
+    "k": "family"
+   },
+   {
+    "w": "medical",
+    "zh": "醫療的",
+    "k": "syn"
+   }
+  ],
+  "n": 463,
+  "day": 19,
+  "src": "TSL"
+ },
+ {
+  "word": "hourly",
+  "pos": "adj",
+  "pic": "⏰",
+  "zh": "每小時的；按時計酬的",
+  "en": "happening or paid every hour",
+  "simple": "There is an hourly bus.",
+  "simple_zh": "有每小時一班的公車。",
+  "toeic": "The hourly wage for this part-time position is fifteen dollars.",
+  "toeic_zh": "這份兼職的時薪是十五美元。",
+  "family": "hour (n)",
+  "related": [
+   {
+    "w": "daily",
+    "zh": "每日的",
+    "k": "syn"
+   },
+   {
+    "w": "salary",
+    "zh": "月薪",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 464,
+  "day": 19
+ },
+ {
+  "word": "ideally",
+  "pos": "adv",
+  "pic": "🌟",
+  "zh": "理想上；最好是",
+  "en": "in the best possible situation",
+  "simple": "Ideally, I sleep eight hours.",
+  "simple_zh": "理想上，我睡八小時。",
+  "toeic": "Ideally, the candidate should have three years of sales experience.",
+  "toeic_zh": "理想上，應徵者應具備三年銷售經驗。",
+  "family": "ideal (adj, n)",
+  "related": [
+   {
+    "w": "perfectly",
+    "zh": "完美地",
+    "k": "syn"
+   },
+   {
+    "w": "ideal",
+    "zh": "理想的",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 465,
+  "day": 19
+ },
+ {
+  "word": "inappropriate",
+  "pos": "adj",
+  "pic": "🚫",
+  "zh": "不適當的",
+  "en": "not suitable for a situation",
+  "simple": "That shirt is inappropriate for work.",
+  "simple_zh": "那件襯衫不適合穿去上班。",
+  "toeic": "Inappropriate use of company e-mail may lead to dismissal.",
+  "toeic_zh": "不當使用公司電子郵件可能導致解僱。",
+  "family": "appropriate (adj)",
+  "related": [
+   {
+    "w": "appropriate",
+    "zh": "適當的",
+    "k": "opp"
+   },
+   {
+    "w": "unsuitable",
+    "zh": "不合適的",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 466,
+  "day": 19
+ },
+ {
+  "word": "incomplete",
+  "pos": "adj",
+  "pic": "🧩",
+  "zh": "不完整的",
+  "en": "not finished or missing parts",
+  "simple": "My homework is incomplete.",
+  "simple_zh": "我的作業還沒完成。",
+  "toeic": "Incomplete application forms will not be processed.",
+  "toeic_zh": "填寫不完整的申請表將不予處理。",
+  "family": "complete (adj, v)",
+  "related": [
+   {
+    "w": "complete",
+    "zh": "完整的",
+    "k": "opp"
+   },
+   {
+    "w": "unfinished",
+    "zh": "未完成的",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 467,
+  "day": 19
+ },
+ {
+  "word": "induction",
+  "pos": "n",
+  "pic": "📖",
+  "zh": "入職",
+  "en": "process of introducing new employees to the company",
+  "simple": "The induction process helps employees adjust.",
+  "simple_zh": "入職過程幫助員工適應。",
+  "toeic": "A comprehensive induction program includes company history, culture, and workplace safety.",
+  "toeic_zh": "全面的入職計畫包括公司歷史、文化和工作場所安全。",
+  "family": "induct (v), inducted (adj)",
+  "related": [
+   {
+    "w": "onboarding",
+    "zh": "入職",
+    "k": "syn"
+   },
+   {
+    "w": "orientation",
+    "zh": "介紹",
+    "k": "syn"
+   }
+  ],
+  "n": 468,
+  "day": 19,
+  "src": "TSL"
+ },
+ {
+  "word": "inexperience",
+  "pos": "n",
+  "pic": "🔰",
+  "zh": "缺乏經驗",
+  "en": "lack of knowledge or practice",
+  "simple": "His inexperience is a problem.",
+  "simple_zh": "他缺乏經驗是個問題。",
+  "toeic": "Her inexperience did not stop her from leading the project well.",
+  "toeic_zh": "缺乏經驗並未妨礙她把專案領導得很好。",
+  "family": "experience (n), inexperienced (adj)",
+  "related": [
+   {
+    "w": "experience",
+    "zh": "經驗",
+    "k": "opp"
+   },
+   {
+    "w": "inexperienced",
+    "zh": "缺乏經驗的",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 469,
+  "day": 19
+ },
+ {
+  "word": "instruct",
+  "pos": "v",
+  "pic": "👩‍🏫",
+  "zh": "指導；指示",
+  "en": "to teach or tell someone what to do",
+  "simple": "The teacher will instruct us.",
+  "simple_zh": "老師會指導我們。",
+  "toeic": "The manager will instruct new staff on how to use the system.",
+  "toeic_zh": "經理將指導新進員工如何使用系統。",
+  "family": "instruction (n), instructor (n)",
+  "related": [
+   {
+    "w": "instructor",
+    "zh": "講師",
+    "k": "family"
+   },
+   {
+    "w": "obstruct",
+    "zh": "阻礙",
+    "k": "confuse"
+   },
+   {
+    "w": "direct",
+    "zh": "指示",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 470,
+  "day": 19
+ },
+ {
+  "word": "instructor",
+  "pos": "n",
+  "pic": "🧑‍🏫",
+  "zh": "講師；教練",
+  "en": "a person who teaches a skill",
+  "simple": "The instructor is very kind.",
+  "simple_zh": "這位講師人很好。",
+  "toeic": "The instructor will lead the training session on Tuesday morning.",
+  "toeic_zh": "講師將於星期二早上主持訓練課程。",
+  "family": "instruct (v), instruction (n)",
+  "related": [
+   {
+    "w": "trainer",
+    "zh": "培訓師",
+    "k": "syn"
+   },
+   {
+    "w": "instruction",
+    "zh": "指示",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 471,
+  "day": 19
+ },
+ {
+  "word": "intern",
+  "pos": "n",
+  "pic": "☕",
+  "zh": "實習生",
+  "en": "a student or new worker who learns a job for a short time",
+  "simple": "The intern makes coffee for us.",
+  "simple_zh": "實習生幫我們泡咖啡。",
+  "toeic": "Our intern will help the team with data entry this summer.",
+  "toeic_zh": "我們的實習生今年夏天會協助團隊進行資料輸入。",
+  "family": "internship (n) 實習; summer intern 暑期實習生; intern (v) 實習",
+  "related": [
+   {
+    "w": "internal",
+    "zh": "內部的",
+    "k": "confuse"
+   },
+   {
+    "w": "internship",
+    "zh": "實習",
+    "k": "family"
+   },
+   {
+    "w": "trainee",
+    "zh": "受訓者",
+    "k": "syn"
+   }
+  ],
+  "n": 472,
+  "day": 19,
+  "src": "TSL"
+ },
+ {
+  "word": "internship",
+  "pos": "n",
+  "pic": "🎓",
+  "zh": "實習",
+  "en": "a short job to gain work experience",
+  "simple": "She has a summer internship.",
+  "simple_zh": "她有一份暑期實習。",
+  "toeic": "The firm offers a three-month internship to university students.",
+  "toeic_zh": "公司提供大學生為期三個月的實習機會。",
+  "family": "intern (n)",
+  "related": [
+   {
+    "w": "intern",
+    "zh": "實習生",
+    "k": "family"
+   },
+   {
+    "w": "apprenticeship",
+    "zh": "學徒制",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 473,
+  "day": 19
+ },
+ {
+  "word": "introductory",
+  "pos": "adj",
+  "pic": "👋",
+  "zh": "入門的；介紹性的",
+  "en": "given at the start to introduce something",
+  "simple": "This is an introductory class.",
+  "simple_zh": "這是一堂入門課程。",
+  "toeic": "We are offering an introductory price for new members this month.",
+  "toeic_zh": "本月我們為新會員提供優惠的入門價。",
+  "family": "introduce (v), introduction (n)",
+  "related": [
+   {
+    "w": "preliminary",
+    "zh": "初步的",
+    "k": "syn"
+   },
+   {
+    "w": "introduction",
+    "zh": "介紹",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 474,
+  "day": 19
+ },
+ {
+  "word": "junior",
+  "pos": "adj",
+  "pic": "🧑‍🎓",
+  "zh": "資淺的",
+  "en": "Lower in rank or less experienced",
+  "simple": "He is a junior member of the team.",
+  "simple_zh": "他是團隊裡的資淺成員。",
+  "toeic": "A junior accountant will assist the finance director.",
+  "toeic_zh": "一名初級會計師將協助財務主管。",
+  "family": "",
+  "related": [
+   {
+    "w": "senior",
+    "zh": "資深的",
+    "k": "opp"
+   },
+   {
+    "w": "junior high",
+    "zh": "國中",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 475,
+  "day": 19
+ },
+ {
+  "word": "layoff",
+  "pos": "n",
+  "pic": "📉",
+  "zh": "裁員",
+  "en": "The act of ending jobs because of lack of work",
+  "simple": "The layoff made many workers sad.",
+  "simple_zh": "裁員讓許多工人很難過。",
+  "toeic": "The company announced a layoff of two hundred employees.",
+  "toeic_zh": "公司宣布裁員兩百名員工。",
+  "family": "lay off (phr v)",
+  "related": [
+   {
+    "w": "dismissal",
+    "zh": "解僱",
+    "k": "syn"
+   },
+   {
+    "w": "hiring",
+    "zh": "聘僱",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 476,
+  "day": 20
+ },
+ {
+  "word": "managerial",
+  "pos": "adj",
+  "pic": "👔",
+  "zh": "管理的",
+  "en": "Related to the work of a manager",
+  "simple": "She has managerial experience.",
+  "simple_zh": "她有管理經驗。",
+  "toeic": "The position requires strong managerial skills.",
+  "toeic_zh": "這個職位需要很強的管理能力。",
+  "family": "manager (n), manage (v), management (n)",
+  "related": [
+   {
+    "w": "manager",
+    "zh": "經理",
+    "k": "family"
+   },
+   {
+    "w": "administrative",
+    "zh": "行政的",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 477,
+  "day": 20
+ },
+ {
+  "word": "memorize",
+  "pos": "v",
+  "pic": "🧠",
+  "zh": "背誦；記住",
+  "en": "To learn something so you can remember it exactly",
+  "simple": "I memorize ten words a day.",
+  "simple_zh": "我每天背十個單字。",
+  "toeic": "New staff must memorize the emergency exit procedures.",
+  "toeic_zh": "新進員工必須記住緊急逃生程序。",
+  "family": "memory (n)",
+  "related": [
+   {
+    "w": "memory",
+    "zh": "記憶",
+    "k": "family"
+   },
+   {
+    "w": "remember",
+    "zh": "記得",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 478,
+  "day": 20
+ },
+ {
+  "word": "mentor",
+  "pos": "n",
+  "pic": "👨‍🏫",
+  "zh": "導師",
+  "en": "an experienced person who guides and advises someone",
+  "simple": "He has a senior mentor.",
+  "simple_zh": "他有一位資深導師。",
+  "toeic": "A mentor provides guidance and support to help junior employees navigate career advancement.",
+  "toeic_zh": "導師提供指導和支持，幫助初級員工尋求職業進步。",
+  "family": "mentor (v), mentorship (n)",
+  "related": [
+   {
+    "w": "coach",
+    "zh": "教練",
+    "k": "syn"
+   },
+   {
+    "w": "advisor",
+    "zh": "顧問",
+    "k": "syn"
+   }
+  ],
+  "n": 479,
+  "day": 20,
+  "src": "TSL"
+ },
+ {
+  "word": "merit",
+  "pos": "n",
+  "pic": "🏅",
+  "zh": "優點；功績",
+  "en": "A good quality that deserves praise",
+  "simple": "His idea has real merit.",
+  "simple_zh": "他的想法確實有價值。",
+  "toeic": "Promotions are based on merit, not seniority.",
+  "toeic_zh": "升遷依據功績，而非年資。",
+  "family": "meritorious (adj)",
+  "related": [
+   {
+    "w": "virtue",
+    "zh": "優點",
+    "k": "syn"
+   },
+   {
+    "w": "demerit",
+    "zh": "缺點",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 480,
+  "day": 20
+ },
+ {
+  "word": "morale",
+  "pos": "n",
+  "pic": "😃",
+  "zh": "士氣",
+  "en": "the confidence and spirit of a group",
+  "simple": "Team morale is high today.",
+  "simple_zh": "今天團隊士氣很高。",
+  "toeic": "Staff morale dropped after the company announced salary cuts.",
+  "toeic_zh": "公司宣布減薪後，員工士氣下降了。",
+  "family": "",
+  "related": [
+   {
+    "w": "moral",
+    "zh": "道德的",
+    "k": "confuse"
+   },
+   {
+    "w": "motivation",
+    "zh": "動機",
+    "k": "syn"
+   }
+  ],
+  "n": 481,
+  "day": 20,
+  "src": "TSL"
+ },
+ {
+  "word": "nominate",
+  "pos": "v",
+  "pic": "🏆",
+  "zh": "提名",
+  "en": "To suggest someone for a job or prize",
+  "simple": "They will nominate her for the prize.",
+  "simple_zh": "他們會提名她角逐獎項。",
+  "toeic": "Employees may nominate a colleague for the annual award.",
+  "toeic_zh": "員工可以提名同事角逐年度獎項。",
+  "family": "nomination (n), nominee (n)",
+  "related": [
+   {
+    "w": "nomination",
+    "zh": "提名",
+    "k": "family"
+   },
+   {
+    "w": "elect",
+    "zh": "選舉",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 482,
+  "day": 20
+ },
+ {
+  "word": "nomination",
+  "pos": "n",
+  "pic": "🗳️",
+  "zh": "提名",
+  "en": "The act of suggesting someone for a job or prize",
+  "simple": "His nomination was a surprise.",
+  "simple_zh": "他獲得提名讓人意外。",
+  "toeic": "The deadline for nomination is the end of this month.",
+  "toeic_zh": "提名截止日期是本月底。",
+  "family": "nominate (v), nominee (n)",
+  "related": [
+   {
+    "w": "nominate",
+    "zh": "提名",
+    "k": "family"
+   },
+   {
+    "w": "election",
+    "zh": "選舉",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 483,
+  "day": 20
+ },
+ {
+  "word": "occupant",
+  "pos": "n",
+  "pic": "🏠",
+  "zh": "居住者；佔用者",
+  "en": "A person who lives in or uses a place",
+  "simple": "The occupant of the room left.",
+  "simple_zh": "房間的住戶離開了。",
+  "toeic": "The occupant of the apartment must pay the utility bills.",
+  "toeic_zh": "公寓的住戶必須支付水電費。",
+  "family": "occupy (v), occupation (n)",
+  "related": [
+   {
+    "w": "tenant",
+    "zh": "房客",
+    "k": "syn"
+   },
+   {
+    "w": "occupation",
+    "zh": "職業",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 484,
+  "day": 20
+ },
+ {
+  "word": "occupation",
+  "pos": "n",
+  "pic": "👷",
+  "zh": "職業",
+  "en": "A person's job",
+  "simple": "What is your occupation?",
+  "simple_zh": "你的職業是什麼？",
+  "toeic": "Please write your name and occupation on the form.",
+  "toeic_zh": "請在表格上填寫您的姓名和職業。",
+  "family": "occupy (v), occupant (n)",
+  "related": [
+   {
+    "w": "profession",
+    "zh": "職業",
+    "k": "syn"
+   },
+   {
+    "w": "occupant",
+    "zh": "居住者",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 485,
+  "day": 20
+ },
+ {
+  "word": "orientation",
+  "pos": "n",
+  "pic": "🧭",
+  "zh": "介紹",
+  "en": "introduction and training for new employees",
+  "simple": "Orientation lasts three days.",
+  "simple_zh": "介紹課程持續三天。",
+  "toeic": "New employees attend an orientation program to learn company policies and procedures.",
+  "toeic_zh": "新員工參加介紹計畫以了解公司政策和程序。",
+  "family": "orient (v), oriented (adj)",
+  "related": [
+   {
+    "w": "induction",
+    "zh": "入職",
+    "k": "syn"
+   },
+   {
+    "w": "onboarding",
+    "zh": "入職",
+    "k": "syn"
+   }
+  ],
+  "n": 486,
+  "day": 20,
+  "src": "TSL"
+ },
+ {
+  "word": "outstanding",
+  "pos": "adj",
+  "pic": "🌟",
+  "zh": "傑出的",
+  "en": "exceptionally good or impressive",
+  "simple": "The service was outstanding.",
+  "simple_zh": "服務傑出。",
+  "toeic": "Outstanding performance in this quarter exceeded all expectations and contributed to company growth.",
+  "toeic_zh": "本季度的傑出績效超越了所有期望並促進了公司增長。",
+  "family": "outstand (v)",
+  "related": [
+   {
+    "w": "excellent",
+    "zh": "優異的",
+    "k": "syn"
+   },
+   {
+    "w": "exceptional",
+    "zh": "例外的",
+    "k": "syn"
+   }
+  ],
+  "n": 487,
+  "day": 20,
+  "src": "TSL"
+ },
+ {
+  "word": "packet",
+  "pos": "n",
+  "pic": "📦",
+  "zh": "小包；一份資料",
+  "en": "a small flat package or set of papers",
+  "simple": "I got a packet of seeds.",
+  "simple_zh": "我拿到一包種子。",
+  "toeic": "Each new employee will receive an information packet on the first day.",
+  "toeic_zh": "每位新進員工第一天都會收到一份資料袋。",
+  "family": "package (n)",
+  "related": [
+   {
+    "w": "package",
+    "zh": "包裹",
+    "k": "confuse"
+   },
+   {
+    "w": "bundle",
+    "zh": "一束",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 488,
+  "day": 20
+ },
+ {
+  "word": "paralegal",
+  "pos": "n",
+  "pic": "⚖️",
+  "zh": "律師助理",
+  "en": "a person who helps a lawyer",
+  "simple": "My sister is a paralegal.",
+  "simple_zh": "我姊姊是律師助理。",
+  "toeic": "The law firm is looking for an experienced paralegal.",
+  "toeic_zh": "這家律師事務所正在徵求有經驗的律師助理。",
+  "family": "legal (adj)",
+  "related": [
+   {
+    "w": "lawyer",
+    "zh": "律師",
+    "k": "syn"
+   },
+   {
+    "w": "assistant",
+    "zh": "助理",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 489,
+  "day": 20
+ },
+ {
+  "word": "paycheck",
+  "pos": "n",
+  "pic": "💵",
+  "zh": "薪水支票；薪資",
+  "en": "money paid to a worker for work",
+  "simple": "I got my paycheck today.",
+  "simple_zh": "我今天拿到薪水了。",
+  "toeic": "Your paycheck will be deposited every second Friday.",
+  "toeic_zh": "您的薪資會在每隔一週的週五存入帳戶。",
+  "family": "pay (v, n)",
+  "related": [
+   {
+    "w": "salary",
+    "zh": "薪水",
+    "k": "syn"
+   },
+   {
+    "w": "wage",
+    "zh": "工資",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 490,
+  "day": 20
+ },
+ {
+  "word": "permanently",
+  "pos": "adv",
+  "pic": "♾️",
+  "zh": "永久地",
+  "en": "in a way that lasts forever",
+  "simple": "The shop closed permanently.",
+  "simple_zh": "這家店永久歇業了。",
+  "toeic": "The branch office will be closed permanently next month.",
+  "toeic_zh": "這間分公司下個月將永久關閉。",
+  "family": "permanent (adj)",
+  "related": [
+   {
+    "w": "temporarily",
+    "zh": "暫時地",
+    "k": "opp"
+   },
+   {
+    "w": "forever",
+    "zh": "永遠",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 491,
+  "day": 20
+ },
+ {
+  "word": "physician",
+  "pos": "n",
+  "pic": "🩺",
+  "zh": "內科醫師",
+  "en": "a doctor of medicine",
+  "simple": "My physician is kind.",
+  "simple_zh": "我的醫師很親切。",
+  "toeic": "Please consult your physician before starting the program.",
+  "toeic_zh": "開始這項計畫前請先諮詢您的醫師。",
+  "family": "physical (adj)",
+  "related": [
+   {
+    "w": "physicist",
+    "zh": "物理學家",
+    "k": "confuse"
+   },
+   {
+    "w": "doctor",
+    "zh": "醫生",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 492,
+  "day": 20
+ },
+ {
+  "word": "placement",
+  "pos": "n",
+  "pic": "📍",
+  "zh": "安置；擺放；就業安排",
+  "en": "the act of putting something in a place",
+  "simple": "The placement of the sign is good.",
+  "simple_zh": "招牌的位置很好。",
+  "toeic": "The agency helps with job placement for recent graduates.",
+  "toeic_zh": "這家仲介公司協助應屆畢業生就業安置。",
+  "family": "place (v, n)",
+  "related": [
+   {
+    "w": "position",
+    "zh": "位置",
+    "k": "syn"
+   },
+   {
+    "w": "replacement",
+    "zh": "替換",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 493,
+  "day": 20
+ },
+ {
+  "word": "portfolio",
+  "pos": "n",
+  "pic": "📁",
+  "zh": "作品集",
+  "en": "collection of work samples showing skills and experience",
+  "simple": "Bring your portfolio to the interview.",
+  "simple_zh": "帶上你的作品集去面試。",
+  "toeic": "Portfolios of past projects demonstrate technical skills and experience relevant to the applied position.",
+  "toeic_zh": "過去項目的作品集展示了與申請職位相關的技術技能和經驗。",
+  "family": "portfolio (adj)",
+  "related": [
+   {
+    "w": "resume",
+    "zh": "履歷",
+    "k": "family"
+   },
+   {
+    "w": "sample",
+    "zh": "樣本",
+    "k": "syn"
+   }
+  ],
+  "n": 494,
+  "day": 20,
+  "src": "TSL"
+ },
+ {
+  "word": "prescribe",
+  "pos": "v",
+  "pic": "🧾",
+  "zh": "開處方；規定",
+  "en": "to order a medicine for a patient",
+  "simple": "The doctor will prescribe medicine.",
+  "simple_zh": "醫生會開藥。",
+  "toeic": "The physician may prescribe a stronger treatment.",
+  "toeic_zh": "醫師可能會開立藥效更強的治療。",
+  "family": "prescription (n)",
+  "related": [
+   {
+    "w": "describe",
+    "zh": "描述",
+    "k": "confuse"
+   },
+   {
+    "w": "recommend",
+    "zh": "建議",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 495,
+  "day": 20
+ },
+ {
+  "word": "prestigious",
+  "pos": "adj",
+  "pic": "🏆",
+  "zh": "享有聲望的",
+  "en": "respected and admired by many",
+  "simple": "It is a prestigious school.",
+  "simple_zh": "這是一所名校。",
+  "toeic": "She won a prestigious award for her design.",
+  "toeic_zh": "她因設計獲得一座享有盛名的獎項。",
+  "family": "prestige (n)",
+  "related": [
+   {
+    "w": "respected",
+    "zh": "受尊敬的",
+    "k": "syn"
+   },
+   {
+    "w": "ordinary",
+    "zh": "普通的",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 496,
+  "day": 20
+ },
+ {
+  "word": "productivity",
+  "pos": "n",
+  "pic": "📈",
+  "zh": "生產力",
+  "en": "the quality of being productive and accomplishing tasks",
+  "simple": "Productivity increased this quarter.",
+  "simple_zh": "本季度生產力增加。",
+  "toeic": "Employee productivity is tracked through performance metrics and output measurements.",
+  "toeic_zh": "員工生產力通過績效指標和產出測量進行追蹤。",
+  "family": "produce (v), productive (adj)",
+  "related": [
+   {
+    "w": "output",
+    "zh": "產出",
+    "k": "syn"
+   },
+   {
+    "w": "performance",
+    "zh": "績效",
+    "k": "syn"
+   }
+  ],
+  "n": 497,
+  "day": 20,
+  "src": "TSL"
+ },
+ {
+  "word": "proficiency",
+  "pos": "n",
+  "pic": "🎓",
+  "zh": "精通；熟練",
+  "en": "a high level of skill",
+  "simple": "Her English proficiency is high.",
+  "simple_zh": "她的英語程度很高。",
+  "toeic": "The job requires proficiency in Spanish and Excel.",
+  "toeic_zh": "這份工作要求精通西班牙文和 Excel。",
+  "family": "proficient (adj)",
+  "related": [
+   {
+    "w": "skill",
+    "zh": "技能",
+    "k": "syn"
+   },
+   {
+    "w": "efficiency",
+    "zh": "效率",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 498,
+  "day": 20
+ },
+ {
+  "word": "prominent",
+  "pos": "adj",
+  "pic": "🌟",
+  "zh": "著名的；顯眼的",
+  "en": "well known or easy to see",
+  "simple": "He is a prominent lawyer.",
+  "simple_zh": "他是一位著名的律師。",
+  "toeic": "The logo is placed in a prominent position on the box.",
+  "toeic_zh": "標誌放在盒子上顯眼的位置。",
+  "family": "prominence (n)",
+  "related": [
+   {
+    "w": "famous",
+    "zh": "有名的",
+    "k": "syn"
+   },
+   {
+    "w": "minor",
+    "zh": "次要的",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 499,
+  "day": 20
+ },
+ {
+  "word": "prospective",
+  "pos": "adj",
+  "pic": "🔮",
+  "zh": "預期的；未來的",
+  "en": "likely to become something in future",
+  "simple": "We met a prospective client.",
+  "simple_zh": "我們見了一位潛在客戶。",
+  "toeic": "The firm interviewed several prospective employees this week.",
+  "toeic_zh": "公司本週面試了幾位未來可能錄用的員工。",
+  "family": "prospect (n)",
+  "related": [
+   {
+    "w": "potential",
+    "zh": "潛在的",
+    "k": "syn"
+   },
+   {
+    "w": "current",
+    "zh": "現任的",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 500,
+  "day": 20
+ },
+ {
+  "word": "quit",
+  "pos": "v",
+  "pic": "🚪",
+  "zh": "辭職；停止",
+  "en": "to leave a job or stop doing",
+  "simple": "He will quit his job.",
+  "simple_zh": "他要辭掉工作。",
+  "toeic": "Several staff members plan to quit after the merger.",
+  "toeic_zh": "合併後有幾名員工打算辭職。",
+  "family": "quitter (n)",
+  "related": [
+   {
+    "w": "resign",
+    "zh": "辭職",
+    "k": "syn"
+   },
+   {
+    "w": "quite",
+    "zh": "相當",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 501,
+  "day": 21
+ },
+ {
+  "word": "recruiter",
+  "pos": "n",
+  "pic": "🎯",
+  "zh": "招聘人員",
+  "en": "a person whose job is to find and hire new employees",
+  "simple": "The recruiter called me today.",
+  "simple_zh": "招聘人員今天給我打電話。",
+  "toeic": "Our company recruiter visited universities to find top talent for internship programs.",
+  "toeic_zh": "我們公司的招聘人員訪問了大學，為實習計畫尋找頂級人才。",
+  "family": "recruit (v, n)",
+  "related": [
+   {
+    "w": "headhunter",
+    "zh": "獵頭",
+    "k": "family"
+   },
+   {
+    "w": "HR specialist",
+    "zh": "人力資源專家",
+    "k": "family"
+   }
+  ],
+  "n": 502,
+  "day": 21,
+  "src": "TSL"
+ },
+ {
+  "word": "recruitment",
+  "pos": "n",
+  "pic": "🧑‍💼",
+  "zh": "招募；徵才",
+  "en": "the process of finding new workers",
+  "simple": "Recruitment starts next week.",
+  "simple_zh": "招募下週開始。",
+  "toeic": "The recruitment of new engineers will begin in January.",
+  "toeic_zh": "新工程師的招募將於一月開始。",
+  "family": "recruit (v, n), recruiter (n)",
+  "related": [
+   {
+    "w": "hiring",
+    "zh": "聘僱",
+    "k": "syn"
+   },
+   {
+    "w": "retirement",
+    "zh": "退休",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 503,
+  "day": 21
+ },
+ {
+  "word": "referral",
+  "pos": "n",
+  "pic": "🤝",
+  "zh": "推薦；引薦",
+  "en": "a recommendation of a person for a job",
+  "simple": "I got this job by referral.",
+  "simple_zh": "我是經人推薦得到這份工作的。",
+  "toeic": "Employees receive a bonus for every successful referral.",
+  "toeic_zh": "員工每成功推薦一人即可獲得獎金。",
+  "family": "referral (n), refer (v)",
+  "related": [
+   {
+    "w": "reference",
+    "zh": "推薦信；參考",
+    "k": "confuse"
+   },
+   {
+    "w": "recommendation",
+    "zh": "推薦",
+    "k": "syn"
+   }
+  ],
+  "n": 504,
+  "day": 21,
+  "src": "TSL"
+ },
+ {
+  "word": "reinforce",
+  "pos": "v",
+  "pic": "💪",
+  "zh": "加強；增強",
+  "en": "to make something stronger",
+  "simple": "We must reinforce the wall.",
+  "simple_zh": "我們必須加固這面牆。",
+  "toeic": "The training session will reinforce the new safety rules.",
+  "toeic_zh": "這次培訓將強化新的安全規定。",
+  "family": "reinforcement (n), force (n)",
+  "related": [
+   {
+    "w": "strengthen",
+    "zh": "加強",
+    "k": "syn"
+   },
+   {
+    "w": "weaken",
+    "zh": "削弱",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 505,
+  "day": 21
+ },
+ {
+  "word": "reliability",
+  "pos": "n",
+  "pic": "✅",
+  "zh": "可靠性",
+  "en": "quality of being trustworthy and dependable",
+  "simple": "Reliability is essential.",
+  "simple_zh": "可靠性是必要的。",
+  "toeic": "Employee reliability in meeting deadlines and commitments strengthens team trust and project outcomes.",
+  "toeic_zh": "員工在滿足截止日期和承諾方面的可靠性加強了團隊信任和項目成果。",
+  "family": "reliable (adj), rely (v)",
+  "related": [
+   {
+    "w": "dependability",
+    "zh": "可依賴性",
+    "k": "syn"
+   },
+   {
+    "w": "trustworthiness",
+    "zh": "可信性",
+    "k": "syn"
+   }
+  ],
+  "n": 506,
+  "day": 21,
+  "src": "TSL"
+ },
+ {
+  "word": "relocation",
+  "pos": "n",
+  "pic": "📦",
+  "zh": "搬遷；調職異地",
+  "en": "the act of moving to a new place",
+  "simple": "The relocation starts in May.",
+  "simple_zh": "搬遷從五月開始。",
+  "toeic": "The company will cover all relocation costs for the new manager.",
+  "toeic_zh": "公司將負擔新經理的所有搬遷費用。",
+  "family": "relocation (n), relocate (v)",
+  "related": [
+   {
+    "w": "location",
+    "zh": "地點",
+    "k": "confuse"
+   },
+   {
+    "w": "transfer",
+    "zh": "調動",
+    "k": "syn"
+   }
+  ],
+  "n": 507,
+  "day": 21,
+  "src": "TSL"
+ },
+ {
+  "word": "resignation",
+  "pos": "n",
+  "pic": "📝",
+  "zh": "辭職；辭呈",
+  "en": "the act of formally leaving a job",
+  "simple": "He gave his resignation today.",
+  "simple_zh": "他今天提出了辭呈。",
+  "toeic": "The manager submitted her resignation after ten years with the firm.",
+  "toeic_zh": "這位經理在公司任職十年後遞出了辭呈。",
+  "family": "resign (v)",
+  "related": [
+   {
+    "w": "retirement",
+    "zh": "退休",
+    "k": "confuse"
+   },
+   {
+    "w": "quit",
+    "zh": "辭職",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 508,
+  "day": 21
+ },
+ {
+  "word": "résumé",
+  "pos": "n",
+  "pic": "📄",
+  "zh": "履歷表",
+  "en": "a paper listing your education and work",
+  "simple": "I sent my résumé yesterday.",
+  "simple_zh": "我昨天寄出了我的履歷。",
+  "toeic": "Please attach your résumé to the online application form.",
+  "toeic_zh": "請將您的履歷附在線上申請表上。",
+  "family": "",
+  "related": [
+   {
+    "w": "resume",
+    "zh": "重新開始",
+    "k": "confuse"
+   },
+   {
+    "w": "CV",
+    "zh": "履歷",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 509,
+  "day": 21
+ },
+ {
+  "word": "resume",
+  "pos": "n",
+  "pic": "📄",
+  "zh": "履歷",
+  "en": "a document listing someone's work experience and education",
+  "simple": "Please send your resume.",
+  "simple_zh": "請寄出你的履歷。",
+  "toeic": "Your resume should highlight relevant experience and achievements.",
+  "toeic_zh": "你的履歷應該突出相關經驗和成就。",
+  "family": "resume (v)",
+  "related": [
+   {
+    "w": "CV",
+    "zh": "簡歷",
+    "k": "syn"
+   },
+   {
+    "w": "application",
+    "zh": "申請",
+    "k": "family"
+   }
+  ],
+  "n": 510,
+  "day": 21,
+  "src": "TSL"
+ },
+ {
+  "word": "salespeople",
+  "pos": "n",
+  "pic": "🛍️",
+  "zh": "業務人員；銷售員",
+  "en": "people whose job is to sell things",
+  "simple": "The salespeople are very friendly.",
+  "simple_zh": "這些業務人員非常友善。",
+  "toeic": "Our salespeople will attend a training workshop on Monday.",
+  "toeic_zh": "我們的業務人員將於週一參加培訓工作坊。",
+  "family": "salesman (n), sales (n)",
+  "related": [
+   {
+    "w": "salesman",
+    "zh": "男業務員",
+    "k": "family"
+   },
+   {
+    "w": "clerk",
+    "zh": "店員",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 511,
+  "day": 21
+ },
+ {
+  "word": "satisfactory",
+  "pos": "adj",
+  "pic": "✓",
+  "zh": "令人滿意的",
+  "en": "meeting requirements or expectations adequately",
+  "simple": "Performance was satisfactory.",
+  "simple_zh": "績效令人滿意。",
+  "toeic": "Employees with satisfactory performance reviews maintain their current salary and benefits.",
+  "toeic_zh": "績效評估令人滿意的員工保持其目前的薪水和福利。",
+  "family": "satisfy (v), satisfaction (n)",
+  "related": [
+   {
+    "w": "adequate",
+    "zh": "充分的",
+    "k": "syn"
+   },
+   {
+    "w": "acceptable",
+    "zh": "可接受的",
+    "k": "syn"
+   }
+  ],
+  "n": 512,
+  "day": 21,
+  "src": "TSL"
+ },
+ {
+  "word": "scholarship",
+  "pos": "n",
+  "pic": "🎓",
+  "zh": "獎學金",
+  "en": "money given to a student to pay for study",
+  "simple": "She won a scholarship.",
+  "simple_zh": "她獲得了獎學金。",
+  "toeic": "The firm offers a scholarship to students who study engineering.",
+  "toeic_zh": "這家公司為就讀工程的學生提供獎學金。",
+  "family": "scholar (n)",
+  "related": [
+   {
+    "w": "scholar",
+    "zh": "學者",
+    "k": "family"
+   },
+   {
+    "w": "grant",
+    "zh": "補助金",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 513,
+  "day": 21
+ },
+ {
+  "word": "seeker",
+  "pos": "n",
+  "pic": "🔍",
+  "zh": "尋找者；求職者",
+  "en": "a person who is looking for something",
+  "simple": "He is a job seeker.",
+  "simple_zh": "他是求職者。",
+  "toeic": "Every job seeker should prepare a clear and short résumé.",
+  "toeic_zh": "每位求職者都應準備一份清楚簡短的履歷。",
+  "family": "seek (v)",
+  "related": [
+   {
+    "w": "seek",
+    "zh": "尋求",
+    "k": "family"
+   },
+   {
+    "w": "applicant",
+    "zh": "應徵者",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 514,
+  "day": 21
+ },
+ {
+  "word": "semester",
+  "pos": "n",
+  "pic": "🏫",
+  "zh": "學期",
+  "en": "half of a school year",
+  "simple": "The semester starts in September.",
+  "simple_zh": "學期九月開始。",
+  "toeic": "Students must pay tuition at the start of each semester.",
+  "toeic_zh": "學生必須在每學期開始時繳交學費。",
+  "family": "",
+  "related": [
+   {
+    "w": "term",
+    "zh": "學期",
+    "k": "syn"
+   },
+   {
+    "w": "quarter",
+    "zh": "季",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 515,
+  "day": 21
+ },
+ {
+  "word": "spouse",
+  "pos": "n",
+  "pic": "💑",
+  "zh": "配偶",
+  "en": "a husband or wife",
+  "simple": "His spouse works at a bank.",
+  "simple_zh": "他的配偶在銀行工作。",
+  "toeic": "Employees may add a spouse to their health insurance plan.",
+  "toeic_zh": "員工可以將配偶加入健康保險計畫。",
+  "family": "spouse (n)",
+  "related": [
+   {
+    "w": "sponsor",
+    "zh": "贊助者",
+    "k": "confuse"
+   },
+   {
+    "w": "partner",
+    "zh": "伴侶",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 516,
+  "day": 21
+ },
+ {
+  "word": "strategic",
+  "pos": "adj",
+  "pic": "🎯",
+  "zh": "戰略的",
+  "en": "planned and designed to achieve specific goals",
+  "simple": "Strategic planning is essential.",
+  "simple_zh": "戰略規劃是必要的。",
+  "toeic": "Strategic workforce planning aligns employee capabilities with organizational objectives and future growth.",
+  "toeic_zh": "戰略人力資源規劃將員工能力與組織目標和未來增長相一致。",
+  "family": "strategy (n), strategically (adv)",
+  "related": [
+   {
+    "w": "plan",
+    "zh": "計畫",
+    "k": "family"
+   },
+   {
+    "w": "goal",
+    "zh": "目標",
+    "k": "syn"
+   }
+  ],
+  "n": 517,
+  "day": 21,
+  "src": "TSL"
+ },
+ {
+  "word": "superior",
+  "pos": "adj",
+  "pic": "🥇",
+  "zh": "較優的；上級的",
+  "en": "better than others",
+  "simple": "This phone is superior.",
+  "simple_zh": "這支手機比較好。",
+  "toeic": "Our product is superior to those of our competitors.",
+  "toeic_zh": "我們的產品優於競爭對手的產品。",
+  "family": "superior (adj, n), superiority (n)",
+  "related": [
+   {
+    "w": "inferior",
+    "zh": "較差的",
+    "k": "opp"
+   },
+   {
+    "w": "superb",
+    "zh": "極佳的",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 518,
+  "day": 21
+ },
+ {
+  "word": "supervise",
+  "pos": "v",
+  "pic": "👀",
+  "zh": "監督；指導",
+  "en": "to watch and direct people or work",
+  "simple": "She will supervise the children.",
+  "simple_zh": "她會看管孩子們。",
+  "toeic": "Managers supervise the work of new employees.",
+  "toeic_zh": "主管負責監督新進員工的工作。",
+  "family": "supervise (v), supervisor (n), supervision (n)",
+  "related": [
+   {
+    "w": "supervisor",
+    "zh": "主管",
+    "k": "family"
+   },
+   {
+    "w": "oversee",
+    "zh": "監督",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 519,
+  "day": 21
+ },
+ {
+  "word": "terminate",
+  "pos": "v",
+  "pic": "🛑",
+  "zh": "終止",
+  "en": "to end an employment relationship",
+  "simple": "The company terminated his contract.",
+  "simple_zh": "公司終止了他的合同。",
+  "toeic": "Employees may be terminated for violation of company policies or unsatisfactory performance.",
+  "toeic_zh": "員工可因違反公司政策或績效不滿意而被終止。",
+  "family": "termination (n), terminated (adj)",
+  "related": [
+   {
+    "w": "dismiss",
+    "zh": "解僱",
+    "k": "syn"
+   },
+   {
+    "w": "end",
+    "zh": "結束",
+    "k": "syn"
+   }
+  ],
+  "n": 520,
+  "day": 21,
+  "src": "TSL"
+ },
+ {
+  "word": "termination",
+  "pos": "n",
+  "pic": "🔚",
+  "zh": "終止；解僱",
+  "en": "the act of ending something",
+  "simple": "The termination is final.",
+  "simple_zh": "終止是最終決定。",
+  "toeic": "Early termination of the contract requires written notice.",
+  "toeic_zh": "提前終止合約需要書面通知。",
+  "family": "terminate (v), termination (n)",
+  "related": [
+   {
+    "w": "terminate",
+    "zh": "終止",
+    "k": "family"
+   },
+   {
+    "w": "renewal",
+    "zh": "續約",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 521,
+  "day": 21
+ },
+ {
+  "word": "trainee",
+  "pos": "n",
+  "pic": "🎓",
+  "zh": "受訓者；實習生",
+  "en": "a person who is learning a job",
+  "simple": "She is a new trainee.",
+  "simple_zh": "她是新的受訓者。",
+  "toeic": "Each trainee will receive a mentor for the first month.",
+  "toeic_zh": "每位受訓者在第一個月都會有一位導師。",
+  "family": "train (v), trainer (n), trainee (n)",
+  "related": [
+   {
+    "w": "trainer",
+    "zh": "訓練員",
+    "k": "family"
+   },
+   {
+    "w": "intern",
+    "zh": "實習生",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 522,
+  "day": 21
+ },
+ {
+  "word": "trainer",
+  "pos": "n",
+  "pic": "🏋️",
+  "zh": "訓練員；教練",
+  "en": "a person who teaches skills to others",
+  "simple": "The trainer is friendly.",
+  "simple_zh": "教練很友善。",
+  "toeic": "A professional trainer will lead the safety workshop.",
+  "toeic_zh": "一位專業講師將帶領安全工作坊。",
+  "family": "train (v), trainer (n), trainee (n)",
+  "related": [
+   {
+    "w": "trainee",
+    "zh": "受訓者",
+    "k": "family"
+   },
+   {
+    "w": "coach",
+    "zh": "教練",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 523,
+  "day": 21
+ },
+ {
+  "word": "tuition",
+  "pos": "n",
+  "pic": "🎓",
+  "zh": "學費",
+  "en": "Money paid for classes at a school.",
+  "simple": "The tuition is very high here.",
+  "simple_zh": "這裡的學費很高。",
+  "toeic": "The company will cover your tuition for evening courses.",
+  "toeic_zh": "公司會負擔你夜間課程的學費。",
+  "family": "",
+  "related": [
+   {
+    "w": "fee",
+    "zh": "費用",
+    "k": "syn"
+   },
+   {
+    "w": "intuition",
+    "zh": "直覺",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 524,
+  "day": 21
+ },
+ {
+  "word": "turnover",
+  "pos": "n",
+  "pic": "🔄",
+  "zh": "離職率",
+  "en": "the rate at which employees leave a job or organization",
+  "simple": "Staff turnover is high.",
+  "simple_zh": "員工離職率很高。",
+  "toeic": "High employee turnover increases recruitment and training costs for the organization.",
+  "toeic_zh": "高員工離職率增加了組織的招聘和培訓成本。",
+  "family": "turn over (v)",
+  "related": [
+   {
+    "w": "departure",
+    "zh": "離職",
+    "k": "syn"
+   },
+   {
+    "w": "attrition",
+    "zh": "流失",
+    "k": "syn"
+   }
+  ],
+  "n": 525,
+  "day": 21,
+  "src": "TSL"
+ },
+ {
+  "word": "unemployed",
+  "pos": "adj",
+  "pic": "🧑‍💼",
+  "zh": "失業的",
+  "en": "Without a job.",
+  "simple": "He has been unemployed for a month.",
+  "simple_zh": "他已經失業一個月了。",
+  "toeic": "The number of unemployed workers fell slightly last quarter.",
+  "toeic_zh": "上一季失業人數略微下降。",
+  "family": "employ (v), employment (n), unemployment (n)",
+  "related": [
+   {
+    "w": "employed",
+    "zh": "就業的",
+    "k": "opp"
+   },
+   {
+    "w": "unemployment",
+    "zh": "失業",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 526,
+  "day": 22
+ },
+ {
+  "word": "unpaid",
+  "pos": "adj",
+  "pic": "🧾",
+  "zh": "未付的；無薪的",
+  "en": "Not yet paid, or without pay.",
+  "simple": "The bill is still unpaid.",
+  "simple_zh": "帳單還沒付。",
+  "toeic": "Please settle all unpaid invoices before the end of the month.",
+  "toeic_zh": "請在月底前結清所有未付發票。",
+  "family": "pay (v), payment (n)",
+  "related": [
+   {
+    "w": "overdue",
+    "zh": "逾期的",
+    "k": "syn"
+   },
+   {
+    "w": "paid",
+    "zh": "已付的",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 527,
+  "day": 22
+ },
+ {
+  "word": "vacancy",
+  "pos": "n",
+  "pic": "📢",
+  "zh": "空缺",
+  "en": "an unfilled job position",
+  "simple": "There is a vacancy in our team.",
+  "simple_zh": "我們的團隊有一個空缺。",
+  "toeic": "The company announced three job vacancies in the marketing department.",
+  "toeic_zh": "公司在市場行銷部門宣布了三個空缺。",
+  "family": "vacant (adj)",
+  "related": [
+   {
+    "w": "opening",
+    "zh": "職位",
+    "k": "syn"
+   },
+   {
+    "w": "position",
+    "zh": "職位",
+    "k": "syn"
+   }
+  ],
+  "n": 528,
+  "day": 22,
+  "src": "TSL"
+ },
+ {
+  "word": "vacation",
+  "pos": "n",
+  "pic": "🏖️",
+  "zh": "假期；度假",
+  "en": "A period of time away from work or school.",
+  "simple": "We are on vacation this week.",
+  "simple_zh": "我們這週在度假。",
+  "toeic": "Employees must submit vacation requests at least two weeks ahead.",
+  "toeic_zh": "員工須至少提前兩週提出休假申請。",
+  "family": "vacate (v)",
+  "related": [
+   {
+    "w": "vocation",
+    "zh": "職業",
+    "k": "confuse"
+   },
+   {
+    "w": "holiday",
+    "zh": "假日",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 529,
+  "day": 22
+ },
+ {
+  "word": "wellness",
+  "pos": "n",
+  "pic": "❤️",
+  "zh": "健康",
+  "en": "the state of being in good physical and mental health",
+  "simple": "Wellness programs are offered.",
+  "simple_zh": "提供健康計畫。",
+  "toeic": "Comprehensive wellness programs include fitness classes, mental health support, and nutrition counseling.",
+  "toeic_zh": "全面的健康計畫包括健身課程、心理健康支持和營養諮詢。",
+  "family": "well (adv, adj)",
+  "related": [
+   {
+    "w": "health",
+    "zh": "健康",
+    "k": "syn"
+   },
+   {
+    "w": "wellbeing",
+    "zh": "福祉",
+    "k": "syn"
+   }
+  ],
+  "n": 530,
+  "day": 22,
+  "src": "TSL"
+ },
+ {
+  "word": "willingness",
+  "pos": "n",
+  "pic": "🤝",
+  "zh": "意願；樂意",
+  "en": "The feeling of being ready to do something.",
+  "simple": "I like his willingness to help.",
+  "simple_zh": "我喜歡他樂意幫忙。",
+  "toeic": "We value your willingness to work flexible hours.",
+  "toeic_zh": "我們重視您願意彈性工作的態度。",
+  "family": "willing (adj), willingly (adv)",
+  "related": [
+   {
+    "w": "readiness",
+    "zh": "意願",
+    "k": "syn"
+   },
+   {
+    "w": "reluctance",
+    "zh": "不情願",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 531,
+  "day": 22
+ },
+ {
+  "word": "workbook",
+  "pos": "n",
+  "pic": "📘",
+  "zh": "習作；練習本",
+  "en": "A book with exercises for students.",
+  "simple": "Open your workbook to page ten.",
+  "simple_zh": "請把練習本翻到第十頁。",
+  "toeic": "Each trainee receives a workbook at the start of the course.",
+  "toeic_zh": "每位受訓者在課程開始時會領到一本練習手冊。",
+  "family": "work (n), book (n)",
+  "related": [
+   {
+    "w": "handbook",
+    "zh": "手冊",
+    "k": "confuse"
+   },
+   {
+    "w": "textbook",
+    "zh": "教科書",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 532,
+  "day": 22
+ },
+ {
+  "word": "workforce",
+  "pos": "n",
+  "pic": "👫",
+  "zh": "勞動力",
+  "en": "all the people employed in a company or industry",
+  "simple": "The workforce is aging.",
+  "simple_zh": "勞動力正在老化。",
+  "toeic": "The company is developing strategies to attract younger talent to its aging workforce.",
+  "toeic_zh": "公司正在制定戰略以吸引年輕人才到其老化的勞動力隊伍。",
+  "family": "work (n, v)",
+  "related": [
+   {
+    "w": "staff",
+    "zh": "員工",
+    "k": "syn"
+   },
+   {
+    "w": "employees",
+    "zh": "員工",
+    "k": "syn"
+   }
+  ],
+  "n": 533,
+  "day": 22,
+  "src": "TSL"
+ },
+ {
+  "word": "workplace",
+  "pos": "n",
+  "pic": "🏢",
+  "zh": "工作場所",
+  "en": "the place where someone works",
+  "simple": "The workplace is modern.",
+  "simple_zh": "工作場所是現代的。",
+  "toeic": "A positive workplace culture encourages collaboration, innovation, and employee satisfaction.",
+  "toeic_zh": "積極的工作場所文化鼓勵協作、創新和員工滿意度。",
+  "family": "work (n, v)",
+  "related": [
+   {
+    "w": "office",
+    "zh": "辦公室",
+    "k": "syn"
+   },
+   {
+    "w": "environment",
+    "zh": "環境",
+    "k": "syn"
+   },
+   {
+    "w": "office",
+    "zh": "辦公室",
+    "k": "confuse"
+   }
+  ],
+  "n": 534,
+  "day": 22,
+  "src": "TSL"
+ },
+ {
+  "word": "allowance",
+  "pos": "n",
+  "pic": "💰",
+  "zh": "津貼",
+  "en": "a sum of money provided for a specific purpose",
+  "simple": "Travel allowance is provided.",
+  "simple_zh": "提供出差津貼。",
+  "toeic": "Monthly allowances for transportation and meals are provided to field representatives.",
+  "toeic_zh": "為外場代表提供月度運輸和膳食津貼。",
+  "family": "allow (v)",
+  "related": [
+   {
+    "w": "benefit",
+    "zh": "福利",
+    "k": "syn"
+   },
+   {
+    "w": "compensation",
+    "zh": "報酬",
+    "k": "syn"
+   }
+  ],
+  "n": 535,
+  "day": 22,
+  "src": "BSL"
+ },
+ {
+  "word": "autonomy",
+  "pos": "n",
+  "pic": "🎯",
+  "zh": "自主",
+  "en": "independence and freedom to make decisions in one's work",
+  "simple": "Autonomy increases job satisfaction.",
+  "simple_zh": "自主增加工作滿意度。",
+  "toeic": "Giving employees autonomy in decision-making improves engagement and develops leadership capabilities.",
+  "toeic_zh": "給員工決策自主權改善參與度並發展領導能力。",
+  "family": "autonomous (adj)",
+  "related": [
+   {
+    "w": "independence",
+    "zh": "獨立",
+    "k": "syn"
+   },
+   {
+    "w": "freedom",
+    "zh": "自由",
+    "k": "syn"
+   }
+  ],
+  "n": 536,
+  "day": 22,
+  "src": "BSL"
+ },
+ {
+  "word": "competency",
+  "pos": "n",
+  "pic": "💡",
+  "zh": "能力",
+  "en": "a demonstrated ability to perform tasks",
+  "simple": "Leadership is a key competency.",
+  "simple_zh": "領導力是關鍵能力。",
+  "toeic": "Core competencies for this role include communication and problem-solving.",
+  "toeic_zh": "公司通過定期績效評估來評估員工能力。",
+  "family": "competent (adj)",
+  "related": [
+   {
+    "w": "skill",
+    "zh": "技能",
+    "k": "syn"
+   },
+   {
+    "w": "capability",
+    "zh": "能力",
+    "k": "syn"
+   }
+  ],
+  "n": 537,
+  "day": 22,
+  "src": "BSL"
+ },
+ {
+  "word": "competent",
+  "pos": "adj",
+  "pic": "💪",
+  "zh": "有能力的",
+  "en": "having the knowledge and ability to do something successfully",
+  "simple": "He is a competent engineer.",
+  "simple_zh": "他是一位有能力的工程師。",
+  "toeic": "A competent workforce with strong technical skills is essential for company success.",
+  "toeic_zh": "具有強大技術技能的有能力的勞動力對公司成功至關重要。",
+  "family": "competence (n), competently (adv)",
+  "related": [
+   {
+    "w": "capable",
+    "zh": "有能力的",
+    "k": "syn"
+   },
+   {
+    "w": "skilled",
+    "zh": "熟練的",
+    "k": "syn"
+   }
+  ],
+  "n": 538,
+  "day": 22,
+  "src": "BSL"
+ },
+ {
+  "word": "credential",
+  "pos": "n",
+  "pic": "🏅",
+  "zh": "證書",
+  "en": "a qualification or achievement showing someone's ability",
+  "simple": "Her credentials are impressive.",
+  "simple_zh": "她的證書令人印象深刻。",
+  "toeic": "Candidates should present relevant credentials such as certifications and awards.",
+  "toeic_zh": "候選人應提供相關證書，如認證和獎項。",
+  "family": "credible (adj)",
+  "related": [
+   {
+    "w": "qualification",
+    "zh": "資格",
+    "k": "syn"
+   },
+   {
+    "w": "certificate",
+    "zh": "證書",
+    "k": "family"
+   }
+  ],
+  "n": 539,
+  "day": 22,
+  "src": "BSL"
+ },
+ {
+  "word": "discrimination",
+  "pos": "n",
+  "pic": "🚫",
+  "zh": "歧視",
+  "en": "unjust or prejudicial treatment of different categories of people",
+  "simple": "Discrimination is illegal.",
+  "simple_zh": "歧視是非法的。",
+  "toeic": "Zero-tolerance discrimination policies ensure equal treatment regardless of race, gender, or age.",
+  "toeic_zh": "零容忍歧視政策確保不分種族、性別或年齡的平等待遇。",
+  "family": "discriminate (v), discriminatory (adj)",
+  "related": [
+   {
+    "w": "bias",
+    "zh": "偏見",
+    "k": "syn"
+   },
+   {
+    "w": "prejudice",
+    "zh": "偏見",
+    "k": "syn"
+   }
+  ],
+  "n": 540,
+  "day": 22,
+  "src": "BSL"
+ },
+ {
+  "word": "enhancement",
+  "pos": "n",
+  "pic": "✨",
+  "zh": "增強",
+  "en": "improvement or increase in value or quality",
+  "simple": "Enhancement initiatives boost morale.",
+  "simple_zh": "增強計畫提升士氣。",
+  "toeic": "Career enhancement programs provide training and development opportunities to strengthen employee capabilities.",
+  "toeic_zh": "職業增強計畫提供培訓和發展機會以加強員工能力。",
+  "family": "enhance (v), enhanced (adj)",
+  "related": [
+   {
+    "w": "improvement",
+    "zh": "改進",
+    "k": "syn"
+   },
+   {
+    "w": "advancement",
+    "zh": "進步",
+    "k": "syn"
+   }
+  ],
+  "n": 541,
+  "day": 22,
+  "src": "BSL"
+ },
+ {
+  "word": "inclusion",
+  "pos": "n",
+  "pic": "👥",
+  "zh": "包容",
+  "en": "the practice of including and welcoming all people",
+  "simple": "Inclusion is a company priority.",
+  "simple_zh": "包容是公司的優先事項。",
+  "toeic": "Inclusion of diverse perspectives strengthens team outcomes.",
+  "toeic_zh": "包容性的工作場所文化歡迎多元化員工並提供平等的晉升機會。",
+  "family": "include (v), inclusive (adj)",
+  "related": [
+   {
+    "w": "diversity",
+    "zh": "多樣性",
+    "k": "family"
+   },
+   {
+    "w": "acceptance",
+    "zh": "接受",
+    "k": "syn"
+   }
+  ],
+  "n": 542,
+  "day": 22,
+  "src": "BSL"
+ },
+ {
+  "word": "optimization",
+  "pos": "n",
+  "pic": "📈",
+  "zh": "優化",
+  "en": "process of making something as good or effective as possible",
+  "simple": "Optimization improves results.",
+  "simple_zh": "優化改善結果。",
+  "toeic": "Continuous optimization of workflows and systems increases employee productivity and organizational effectiveness.",
+  "toeic_zh": "工作流程和系統的持續優化提高了員工生產力和組織有效性。",
+  "family": "optimize (v), optimal (adj)",
+  "related": [
+   {
+    "w": "improvement",
+    "zh": "改進",
+    "k": "syn"
+   },
+   {
+    "w": "efficiency",
+    "zh": "效率",
+    "k": "syn"
+   }
+  ],
+  "n": 543,
+  "day": 22,
+  "src": "BSL"
+ },
+ {
+  "word": "outsource",
+  "pos": "v",
+  "pic": "🌍",
+  "zh": "外包",
+  "en": "to pay another company to do work for you",
+  "simple": "They outsource their cleaning.",
+  "simple_zh": "他們把清潔工作外包。",
+  "toeic": "The firm chose to outsource its payroll processing to a specialist.",
+  "toeic_zh": "公司選擇將薪資處理外包給專業業者。",
+  "family": "outsourcing (n), outsource (v)",
+  "related": [
+   {
+    "w": "source",
+    "zh": "來源",
+    "k": "confuse"
+   },
+   {
+    "w": "in-house",
+    "zh": "內部的",
+    "k": "opp"
+   }
+  ],
+  "n": 544,
+  "day": 22,
+  "src": "BSL"
+ },
+ {
+  "word": "punish",
+  "pos": "v",
+  "pic": "⚖️",
+  "zh": "懲罰",
+  "en": "to cause someone to suffer a penalty for wrongdoing",
+  "simple": "Misconduct will be punished.",
+  "simple_zh": "不當行為將被懲罰。",
+  "toeic": "The company punishes violations of workplace conduct policies through warnings or suspension.",
+  "toeic_zh": "公司通過警告或暫停來懲罰違反工作場所行為政策的行為。",
+  "family": "punishment (n), punitive (adj)",
+  "related": [
+   {
+    "w": "penalize",
+    "zh": "懲罰",
+    "k": "syn"
+   },
+   {
+    "w": "discipline",
+    "zh": "紀律",
+    "k": "syn"
+   }
+  ],
+  "n": 545,
+  "day": 22,
+  "src": "BSL"
+ },
+ {
+  "word": "tenure",
+  "pos": "n",
+  "pic": "⏳",
+  "zh": "任期；任職年資",
+  "en": "the period of time someone holds a job",
+  "simple": "His tenure here is ten years.",
+  "simple_zh": "他在這裡任職十年。",
+  "toeic": "During her tenure as HR director, staff turnover fell sharply.",
+  "toeic_zh": "在她擔任人資主管期間，員工流動率大幅下降。",
+  "family": "",
+  "related": [
+   {
+    "w": "tenor",
+    "zh": "大意；男高音",
+    "k": "confuse"
+   },
+   {
+    "w": "seniority",
+    "zh": "資歷",
+    "k": "syn"
+   }
+  ],
+  "n": 546,
+  "day": 22,
+  "src": "BSL"
+ },
+ {
+  "word": "decent",
+  "pos": "adj",
+  "pic": "👌",
+  "zh": "像樣的；不錯的",
+  "en": "Good enough; of acceptable quality.",
+  "simple": "They offer a decent salary.",
+  "simple_zh": "他們提供不錯的薪水。",
+  "toeic": "The hotel offers decent rooms at a reasonable price.",
+  "toeic_zh": "這間飯店以合理價格提供不錯的客房。",
+  "family": "decency (n)",
+  "related": [
+   {
+    "w": "descent",
+    "zh": "下降",
+    "k": "confuse"
+   },
+   {
+    "w": "adequate",
+    "zh": "足夠的",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 547,
+  "day": 22
+ },
+ {
+  "word": "corruption",
+  "pos": "n",
+  "pic": "💰",
+  "zh": "貪腐",
+  "en": "Dishonest or illegal behavior by powerful people.",
+  "simple": "The news reported on corruption.",
+  "simple_zh": "新聞報導了貪腐問題。",
+  "toeic": "The audit uncovered corruption within the purchasing department.",
+  "toeic_zh": "稽核發現採購部門內部有貪腐情事。",
+  "family": "corrupt (adj/v)",
+  "related": [
+   {
+    "w": "bribery",
+    "zh": "賄賂",
+    "k": "syn"
+   },
+   {
+    "w": "integrity",
+    "zh": "正直",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 548,
+  "day": 22
+ },
+ {
+  "word": "progressive",
+  "pos": "adj",
+  "pic": "📈",
+  "zh": "漸進的；進步的",
+  "en": "Developing step by step; favoring change.",
+  "simple": "It is a progressive company.",
+  "simple_zh": "這是一家進步的公司。",
+  "toeic": "The firm adopted a progressive pay system to reward performance.",
+  "toeic_zh": "公司採用漸進式薪資制度來獎勵績效。",
+  "family": "progress (n/v), progressively (adv)",
+  "related": [
+   {
+    "w": "conservative",
+    "zh": "保守的",
+    "k": "opp"
+   },
+   {
+    "w": "gradual",
+    "zh": "逐漸的",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 549,
+  "day": 22
+ },
+ {
+  "word": "punishment",
+  "pos": "n",
+  "pic": "⚖️",
+  "zh": "處罰",
+  "en": "Something done to a person who broke a rule.",
+  "simple": "The punishment was too heavy.",
+  "simple_zh": "處罰太重了。",
+  "toeic": "The policy lists the punishment for late reports and missed deadlines.",
+  "toeic_zh": "政策列出了延遲報告與錯過期限的處罰。",
+  "family": "punish (v)",
+  "related": [
+   {
+    "w": "penalty",
+    "zh": "罰款",
+    "k": "syn"
+   },
+   {
+    "w": "reward",
+    "zh": "獎勵",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 550,
+  "day": 22
+ },
+ {
+  "word": "psychology",
+  "pos": "n",
+  "pic": "🧠",
+  "zh": "心理學",
+  "en": "The study of the mind and behavior.",
+  "simple": "She studies psychology at school.",
+  "simple_zh": "她在學校讀心理學。",
+  "toeic": "Consumer psychology helps marketers understand buying habits.",
+  "toeic_zh": "消費者心理學幫助行銷人員了解購買習慣。",
+  "family": "psychologist (n), psychological (adj)",
+  "related": [
+   {
+    "w": "psychiatry",
+    "zh": "精神醫學",
+    "k": "confuse"
+   },
+   {
+    "w": "sociology",
+    "zh": "社會學",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 551,
+  "day": 23
+ },
+ {
+  "word": "intelligent",
+  "pos": "adj",
+  "pic": "🧠",
+  "zh": "聰明的；智慧的",
+  "en": "able to learn and understand things well",
+  "simple": "She is an intelligent student.",
+  "simple_zh": "她是個聰明的學生。",
+  "toeic": "We hired an intelligent analyst to review the market data.",
+  "toeic_zh": "我們聘請了一位聰明的分析師來檢視市場數據。",
+  "family": "intelligence (n), intelligently (adv)",
+  "related": [
+   {
+    "w": "intelligible",
+    "zh": "可理解的",
+    "k": "confuse"
+   },
+   {
+    "w": "smart",
+    "zh": "聰明的",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 552,
+  "day": 23
+ },
+ {
+  "word": "dual",
+  "pos": "adj",
+  "pic": "✌️",
+  "zh": "雙重的；雙的",
+  "en": "having two parts or purposes",
+  "simple": "This room has dual beds.",
+  "simple_zh": "這個房間有雙床。",
+  "toeic": "The new role has a dual responsibility for sales and service.",
+  "toeic_zh": "這個新職位同時負責銷售與服務兩部分。",
+  "family": "duality (n), dually (adv)",
+  "related": [
+   {
+    "w": "duel",
+    "zh": "決鬥",
+    "k": "confuse"
+   },
+   {
+    "w": "double",
+    "zh": "雙倍的",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 553,
+  "day": 23
+ },
+ {
+  "word": "equality",
+  "pos": "n",
+  "pic": "⚖️",
+  "zh": "平等",
+  "en": "the state of being equal in rights",
+  "simple": "We believe in equality for all.",
+  "simple_zh": "我們相信人人平等。",
+  "toeic": "The firm promotes gender equality in hiring and pay.",
+  "toeic_zh": "公司在聘雇與薪資上推動性別平等。",
+  "family": "equal (adj), equally (adv)",
+  "related": [
+   {
+    "w": "equal",
+    "zh": "平等的",
+    "k": "family"
+   },
+   {
+    "w": "inequality",
+    "zh": "不平等",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 554,
+  "day": 23
+ },
+ {
+  "word": "diverse",
+  "pos": "adj",
+  "pic": "🌐",
+  "zh": "多元的；不同的",
+  "en": "including many different types",
+  "simple": "We have a diverse team.",
+  "simple_zh": "我們有一支多元的團隊。",
+  "toeic": "The company serves a diverse range of clients worldwide.",
+  "toeic_zh": "公司服務全球各種不同的客戶。",
+  "family": "diversity (n), diversify (v)",
+  "related": [
+   {
+    "w": "divers",
+    "zh": "數個的",
+    "k": "confuse"
+   },
+   {
+    "w": "varied",
+    "zh": "各式的",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 555,
+  "day": 23
+ },
+ {
+  "word": "formerly",
+  "pos": "adv",
+  "pic": "⏪",
+  "zh": "以前；從前",
+  "en": "at an earlier time",
+  "simple": "She formerly worked in Tokyo.",
+  "simple_zh": "她以前在東京工作。",
+  "toeic": "Mr. Lee, formerly of Sales, is now our operations director.",
+  "toeic_zh": "李先生先前任職業務部，現為我們的營運總監。",
+  "family": "former (adj)",
+  "related": [
+   {
+    "w": "formally",
+    "zh": "正式地",
+    "k": "confuse"
+   },
+   {
+    "w": "previously",
+    "zh": "先前",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 556,
+  "day": 23
+ },
+ {
+  "word": "shed",
+  "pos": "v",
+  "pic": "🍂",
+  "zh": "脫落；棄置；減少",
+  "en": "to get rid of something",
+  "simple": "Trees shed leaves in autumn.",
+  "simple_zh": "樹木在秋天落葉。",
+  "toeic": "The company plans to shed 200 jobs this year.",
+  "toeic_zh": "公司計劃今年裁減兩百個職位。",
+  "family": "shed (n)",
+  "related": [
+   {
+    "w": "shred",
+    "zh": "撕碎",
+    "k": "confuse"
+   },
+   {
+    "w": "cut",
+    "zh": "削減",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 557,
+  "day": 23
+ },
+ {
+  "word": "disability",
+  "pos": "n",
+  "pic": "♿",
+  "zh": "殘疾；身心障礙",
+  "en": "a condition that limits what a person can do",
+  "simple": "He has a hearing disability.",
+  "simple_zh": "他有聽力障礙。",
+  "toeic": "The building provides full access for people with a disability.",
+  "toeic_zh": "這棟大樓為身心障礙者提供完整的無障礙設施。",
+  "family": "disable (v), disabled (adj)",
+  "related": [
+   {
+    "w": "inability",
+    "zh": "無能",
+    "k": "confuse"
+   },
+   {
+    "w": "handicap",
+    "zh": "障礙",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 558,
+  "day": 23
+ },
+ {
+  "word": "legally",
+  "pos": "adv",
+  "pic": "⚖️",
+  "zh": "合法地；依法",
+  "en": "in a way allowed by law",
+  "simple": "You must legally sign the form.",
+  "simple_zh": "你必須依法簽署這份表格。",
+  "toeic": "The firm is legally required to protect customer data.",
+  "toeic_zh": "公司依法必須保護客戶資料。",
+  "family": "legal (adj), legality (n)",
+  "related": [
+   {
+    "w": "legal",
+    "zh": "合法的",
+    "k": "family"
+   },
+   {
+    "w": "illegally",
+    "zh": "非法地",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 559,
+  "day": 23
+ },
+ {
+  "word": "unfair",
+  "pos": "adj",
+  "pic": "🙅",
+  "zh": "不公平的",
+  "en": "not treating people equally or fairly",
+  "simple": "That rule is unfair.",
+  "simple_zh": "那條規定不公平。",
+  "toeic": "Employees filed a complaint about unfair treatment.",
+  "toeic_zh": "員工針對不公平待遇提出申訴。",
+  "family": "unfairly (adv), unfairness (n)",
+  "related": [
+   {
+    "w": "fair",
+    "zh": "公平的",
+    "k": "opp"
+   },
+   {
+    "w": "unfit",
+    "zh": "不適合的",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 560,
+  "day": 23
+ },
+ {
+  "word": "presidency",
+  "pos": "n",
+  "pic": "🏛️",
+  "zh": "總統職位；會長任期",
+  "en": "the position or term of a president",
+  "simple": "His presidency lasted four years.",
+  "simple_zh": "他的總統任期為四年。",
+  "toeic": "She took over the presidency of the company last month.",
+  "toeic_zh": "她上個月接任公司總裁職位。",
+  "family": "president (n), preside (v)",
+  "related": [
+   {
+    "w": "president",
+    "zh": "總裁",
+    "k": "family"
+   },
+   {
+    "w": "residency",
+    "zh": "居住",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 561,
+  "day": 23
+ },
+ {
+  "word": "classroom",
+  "pos": "n",
+  "pic": "🏫",
+  "zh": "教室",
+  "en": "a room where students learn",
+  "simple": "The classroom is very big.",
+  "simple_zh": "這間教室很大。",
+  "toeic": "The training will be held in the classroom on the third floor.",
+  "toeic_zh": "訓練將在三樓的教室舉行。",
+  "family": "class (n)",
+  "related": [
+   {
+    "w": "class",
+    "zh": "班級",
+    "k": "family"
+   },
+   {
+    "w": "seminar room",
+    "zh": "研討室",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 562,
+  "day": 23
+ },
+ {
+  "word": "cognitive",
+  "pos": "adj",
+  "pic": "🧠",
+  "zh": "認知的",
+  "en": "related to thinking and understanding",
+  "simple": "Reading helps cognitive growth in children.",
+  "simple_zh": "閱讀有助於兒童的認知發展。",
+  "toeic": "The training program improves cognitive skills such as problem solving.",
+  "toeic_zh": "這個訓練課程可提升解決問題等認知能力。",
+  "family": "cognition (n)",
+  "related": [
+   {
+    "w": "mental",
+    "zh": "心智的",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 563,
+  "day": 23
+ },
+ {
+  "word": "handful",
+  "pos": "n",
+  "pic": "🤲",
+  "zh": "少數；一把",
+  "en": "a small number or amount",
+  "simple": "Only a handful of people came.",
+  "simple_zh": "只有少數人來了。",
+  "toeic": "Only a handful of applicants met all the requirements.",
+  "toeic_zh": "只有少數應徵者符合所有條件。",
+  "family": "hand (n)",
+  "related": [
+   {
+    "w": "few",
+    "zh": "少數",
+    "k": "syn"
+   },
+   {
+    "w": "majority",
+    "zh": "多數",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 564,
+  "day": 23
+ },
+ {
+  "word": "citizenship",
+  "pos": "n",
+  "pic": "🛂",
+  "zh": "公民身分；國籍",
+  "en": "the legal status of belonging to a country",
+  "simple": "She has Canadian citizenship.",
+  "simple_zh": "她擁有加拿大國籍。",
+  "toeic": "Applicants must show proof of citizenship or a valid work visa.",
+  "toeic_zh": "應徵者必須提供公民身分證明或有效的工作簽證。",
+  "family": "citizen (n)",
+  "related": [
+   {
+    "w": "citizen",
+    "zh": "公民",
+    "k": "family"
+   },
+   {
+    "w": "nationality",
+    "zh": "國籍",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 565,
+  "day": 23
+ },
+ {
+  "word": "ethical",
+  "pos": "adj",
+  "pic": "😇",
+  "zh": "道德的；合乎倫理的",
+  "en": "right and fair according to moral rules",
+  "simple": "It is not ethical to lie.",
+  "simple_zh": "說謊是不道德的。",
+  "toeic": "All staff must follow the company's ethical standards.",
+  "toeic_zh": "所有員工都必須遵守公司的道德標準。",
+  "family": "ethics (n), ethically (adv)",
+  "related": [
+   {
+    "w": "ethics",
+    "zh": "倫理",
+    "k": "family"
+   },
+   {
+    "w": "moral",
+    "zh": "道德的",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 566,
+  "day": 23
+ },
+ {
+  "word": "intensive",
+  "pos": "adj",
+  "pic": "🔥",
+  "zh": "密集的；深入的",
+  "en": "involving a lot of work in a short time",
+  "simple": "I took an intensive English course.",
+  "simple_zh": "我上了一個英語密集課程。",
+  "toeic": "New staff must complete an intensive training program.",
+  "toeic_zh": "新進員工必須完成密集的訓練課程。",
+  "family": "intensity (n), intensify (v)",
+  "related": [
+   {
+    "w": "intense",
+    "zh": "強烈的",
+    "k": "confuse"
+   },
+   {
+    "w": "extensive",
+    "zh": "廣泛的",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 567,
+  "day": 23
+ },
+ {
+  "word": "collar",
+  "pos": "n",
+  "pic": "👔",
+  "zh": "衣領；領子",
+  "en": "the part of a shirt around the neck",
+  "simple": "His shirt collar is white.",
+  "simple_zh": "他的襯衫領子是白色的。",
+  "toeic": "Many white-collar workers now work from home.",
+  "toeic_zh": "許多白領工作者現在在家上班。",
+  "family": "",
+  "related": [
+   {
+    "w": "color",
+    "zh": "顏色",
+    "k": "confuse"
+   },
+   {
+    "w": "colleague",
+    "zh": "同事",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 568,
+  "day": 23
+ },
+ {
+  "word": "intermediate",
+  "pos": "adj",
+  "pic": "📶",
+  "zh": "中級的；中間的",
+  "en": "between beginner and advanced level",
+  "simple": "I am an intermediate English learner.",
+  "simple_zh": "我是中級的英語學習者。",
+  "toeic": "The course is designed for intermediate users of the software.",
+  "toeic_zh": "這門課是為軟體中級使用者設計的。",
+  "family": "",
+  "related": [
+   {
+    "w": "advanced",
+    "zh": "進階的",
+    "k": "opp"
+   },
+   {
+    "w": "immediate",
+    "zh": "立即的",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 569,
+  "day": 23
+ },
+ {
+  "word": "successor",
+  "pos": "n",
+  "pic": "👑",
+  "zh": "接班人；繼任者",
+  "en": "a person who takes over a job from someone",
+  "simple": "Who is his successor at work?",
+  "simple_zh": "誰是他工作上的接班人？",
+  "toeic": "The board will name a successor to the retiring CEO next week.",
+  "toeic_zh": "董事會將於下週宣布即將退休的執行長之繼任人選。",
+  "family": "succeed (v), succession (n)",
+  "related": [
+   {
+    "w": "predecessor",
+    "zh": "前任",
+    "k": "opp"
+   },
+   {
+    "w": "succession",
+    "zh": "繼承",
+    "k": "family"
+   }
+  ],
+  "src": "BSL",
+  "n": 570,
+  "day": 23
+ },
+ {
+  "word": "succession",
+  "pos": "n",
+  "pic": "🔢",
+  "zh": "連續；繼承",
+  "en": "a series of things in order; taking over a position",
+  "simple": "He won three games in succession.",
+  "simple_zh": "他連贏三場比賽。",
+  "toeic": "A clear succession plan helps the firm avoid leadership gaps.",
+  "toeic_zh": "明確的接班計畫有助於公司避免領導空窗。",
+  "family": "succeed (v), successor (n), successive (adj)",
+  "related": [
+   {
+    "w": "successor",
+    "zh": "接班人",
+    "k": "family"
+   },
+   {
+    "w": "success",
+    "zh": "成功",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 571,
+  "day": 23
+ },
+ {
+  "word": "enforce",
+  "pos": "v",
+  "pic": "👮",
+  "zh": "執行；強制實施",
+  "en": "to make people obey a rule or law",
+  "simple": "The school will enforce the rule.",
+  "simple_zh": "學校會執行這項規定。",
+  "toeic": "Inspectors will enforce the new safety regulations strictly.",
+  "toeic_zh": "檢查人員將嚴格執行新的安全法規。",
+  "family": "enforcement (n)",
+  "related": [
+   {
+    "w": "reinforce",
+    "zh": "加強",
+    "k": "confuse"
+   },
+   {
+    "w": "impose",
+    "zh": "強制實行",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 572,
+  "day": 23
+ },
+ {
+  "word": "motive",
+  "pos": "n",
+  "pic": "🎯",
+  "zh": "動機",
+  "en": "the reason why someone does something",
+  "simple": "What was his motive?",
+  "simple_zh": "他的動機是什麼？",
+  "toeic": "The investigator looked for a motive behind the data leak.",
+  "toeic_zh": "調查人員尋找資料外洩背後的動機。",
+  "family": "motivate (v), motivation (n)",
+  "related": [
+   {
+    "w": "motivation",
+    "zh": "動機；動力",
+    "k": "family"
+   },
+   {
+    "w": "motif",
+    "zh": "主題圖案",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 573,
+  "day": 23
+ },
+ {
+  "word": "discharge",
+  "pos": "n",
+  "pic": "📤",
+  "zh": "解僱；排放；出院",
+  "en": "to let someone go or release something",
+  "simple": "The hospital will discharge him today.",
+  "simple_zh": "醫院今天會讓他出院。",
+  "toeic": "The factory was fined for the illegal discharge of waste.",
+  "toeic_zh": "該工廠因將廢棄物排入河中而被罰款。",
+  "family": "discharge (n)",
+  "related": [
+   {
+    "w": "release",
+    "zh": "釋放",
+    "k": "syn"
+   },
+   {
+    "w": "recharge",
+    "zh": "充電",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 574,
+  "day": 23
+ },
+ {
+  "word": "inequality",
+  "pos": "n",
+  "pic": "⚖️",
+  "zh": "不平等",
+  "en": "an unfair difference between groups of people",
+  "simple": "There is income inequality here.",
+  "simple_zh": "這裡有收入不平等的問題。",
+  "toeic": "The report highlights pay inequality between men and women.",
+  "toeic_zh": "該報告凸顯了男女薪資不平等。",
+  "family": "unequal (adj), equality (n)",
+  "related": [
+   {
+    "w": "equality",
+    "zh": "平等",
+    "k": "opp"
+   },
+   {
+    "w": "disparity",
+    "zh": "差距",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 575,
+  "day": 23
+ },
+ {
+  "word": "ambition",
+  "pos": "n",
+  "pic": "🚀",
+  "zh": "抱負；野心",
+  "en": "a strong wish to succeed or achieve something",
+  "simple": "She has a big ambition.",
+  "simple_zh": "她有遠大的抱負。",
+  "toeic": "His ambition is to become the regional sales director.",
+  "toeic_zh": "他的抱負是成為區域銷售總監。",
+  "family": "ambitious (adj)",
+  "related": [
+   {
+    "w": "ambitious",
+    "zh": "有野心的",
+    "k": "family"
+   },
+   {
+    "w": "goal",
+    "zh": "目標",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 576,
+  "day": 24
+ },
+ {
+  "word": "arguably",
+  "pos": "adv",
+  "pic": "💭",
+  "zh": "可以說；按理",
+  "en": "in a way that many people could say is true",
+  "simple": "This is arguably the best cafe.",
+  "simple_zh": "這可以說是最棒的咖啡館。",
+  "toeic": "She is arguably the most qualified candidate for the position.",
+  "toeic_zh": "可以說她是這個職位最合格的人選。",
+  "family": "argue (v), argument (n)",
+  "related": [
+   {
+    "w": "possibly",
+    "zh": "可能地",
+    "k": "syn"
+   },
+   {
+    "w": "argument",
+    "zh": "爭論",
+    "k": "family"
+   }
+  ],
+  "src": "BSL",
+  "n": 577,
+  "day": 24
+ },
+ {
+  "word": "heir",
+  "pos": "n",
+  "pic": "👶",
+  "zh": "繼承人",
+  "en": "a person who will receive money or property from someone",
+  "simple": "He is the heir to the farm.",
+  "simple_zh": "他是這座農場的繼承人。",
+  "toeic": "The founder named his daughter as heir to the family business.",
+  "toeic_zh": "創辦人指定女兒為家族事業的繼承人。",
+  "family": "",
+  "related": [
+   {
+    "w": "air",
+    "zh": "空氣",
+    "k": "confuse"
+   },
+   {
+    "w": "successor",
+    "zh": "繼承人",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 578,
+  "day": 24
+ },
+ {
+  "word": "selective",
+  "pos": "adj",
+  "pic": "🎯",
+  "zh": "有選擇性的；挑剔的",
+  "en": "choosing carefully only some things or people",
+  "simple": "He is selective about food.",
+  "simple_zh": "他對食物很挑剔。",
+  "toeic": "The company is highly selective when hiring new engineers.",
+  "toeic_zh": "該公司在招聘新工程師時非常挑剔。",
+  "family": "select (v), selection (n)",
+  "related": [
+   {
+    "w": "select",
+    "zh": "挑選",
+    "k": "family"
+   },
+   {
+    "w": "elective",
+    "zh": "選修的",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 579,
+  "day": 24
+ },
+ {
+  "word": "fringe",
+  "pos": "n",
+  "pic": "🧵",
+  "zh": "邊緣；額外福利",
+  "en": "The outer edge of something; extra benefits",
+  "simple": "He lives on the city fringe.",
+  "simple_zh": "他住在城市邊緣。",
+  "toeic": "The job offers good fringe benefits, including health insurance.",
+  "toeic_zh": "這份工作提供良好的額外福利，包括健康保險。",
+  "family": "",
+  "related": [
+   {
+    "w": "margin",
+    "zh": "邊緣",
+    "k": "syn"
+   },
+   {
+    "w": "center",
+    "zh": "中心",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 580,
+  "day": 24
+ },
+ {
+  "word": "predecessor",
+  "pos": "n",
+  "pic": "⏮️",
+  "zh": "前任；前身",
+  "en": "A person who held a job before someone else",
+  "simple": "My predecessor left a note.",
+  "simple_zh": "我的前任留了一張字條。",
+  "toeic": "My predecessor set up the filing system we still use.",
+  "toeic_zh": "我的前任建立了我們至今仍在使用的歸檔系統。",
+  "family": "",
+  "related": [
+   {
+    "w": "successor",
+    "zh": "繼任者",
+    "k": "opp"
+   },
+   {
+    "w": "ancestor",
+    "zh": "祖先",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 581,
+  "day": 24
+ },
+ {
+  "word": "prejudice",
+  "pos": "n",
+  "pic": "⚠️",
+  "zh": "偏見",
+  "en": "An unfair opinion formed without enough knowledge",
+  "simple": "Prejudice is not welcome here.",
+  "simple_zh": "這裡不歡迎偏見。",
+  "toeic": "The company has a strict policy against prejudice in hiring.",
+  "toeic_zh": "公司有嚴格的政策禁止招聘中的偏見。",
+  "family": "prejudiced (adj)",
+  "related": [
+   {
+    "w": "bias",
+    "zh": "偏見",
+    "k": "syn"
+   },
+   {
+    "w": "fairness",
+    "zh": "公平",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 582,
+  "day": 24
+ },
+ {
+  "word": "subjective",
+  "pos": "adj",
+  "pic": "💭",
+  "zh": "主觀的",
+  "en": "Based on personal feelings, not facts",
+  "simple": "Taste is subjective.",
+  "simple_zh": "口味是主觀的。",
+  "toeic": "Performance reviews should not be too subjective.",
+  "toeic_zh": "績效評核不應太過主觀。",
+  "family": "subject (n), subjectively (adv)",
+  "related": [
+   {
+    "w": "objective",
+    "zh": "客觀的",
+    "k": "opp"
+   },
+   {
+    "w": "biased",
+    "zh": "有偏見的",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 583,
+  "day": 24
+ },
+ {
+  "word": "precedent",
+  "pos": "n",
+  "pic": "📖",
+  "zh": "先例",
+  "en": "An earlier case used as an example",
+  "simple": "This sets a precedent.",
+  "simple_zh": "這開了先例。",
+  "toeic": "The ruling set a precedent for future contract disputes.",
+  "toeic_zh": "該裁決為日後的合約糾紛樹立了先例。",
+  "family": "precede (v)",
+  "related": [
+   {
+    "w": "president",
+    "zh": "總裁",
+    "k": "confuse"
+   },
+   {
+    "w": "example",
+    "zh": "例子",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 584,
+  "day": 24
+ },
+ {
+  "word": "fairness",
+  "pos": "n",
+  "pic": "⚖️",
+  "zh": "公平",
+  "en": "The quality of treating people equally",
+  "simple": "I believe in fairness.",
+  "simple_zh": "我相信公平。",
+  "toeic": "The union demanded fairness in the way bonuses are given.",
+  "toeic_zh": "工會要求獎金發放要公平。",
+  "family": "fair (adj), fairly (adv)",
+  "related": [
+   {
+    "w": "justice",
+    "zh": "公正",
+    "k": "syn"
+   },
+   {
+    "w": "bias",
+    "zh": "偏見",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 585,
+  "day": 24
+ },
+ {
+  "word": "incumbent",
+  "pos": "n",
+  "pic": "🪑",
+  "zh": "現任者",
+  "en": "A person who currently holds a position",
+  "simple": "The incumbent will keep the job.",
+  "simple_zh": "現任者將保有這份工作。",
+  "toeic": "The incumbent manager plans to retire next year.",
+  "toeic_zh": "現任經理計劃明年退休。",
+  "family": "",
+  "related": [
+   {
+    "w": "successor",
+    "zh": "繼任者",
+    "k": "opp"
+   },
+   {
+    "w": "recumbent",
+    "zh": "斜躺的",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 586,
+  "day": 24
+ },
+ {
+  "word": "statutory",
+  "pos": "adj",
+  "pic": "⚖️",
+  "zh": "法定的",
+  "en": "required or set by law",
+  "simple": "Statutory leave is a right by law.",
+  "simple_zh": "法定假是依法享有的權利。",
+  "toeic": "Employees are entitled to statutory holidays in addition to their annual leave.",
+  "toeic_zh": "員工除了年假之外，還享有法定假日。",
+  "family": "statute (n), statutory (adj)",
+  "related": [
+   {
+    "w": "mandatory",
+    "zh": "強制的",
+    "k": "syn"
+   },
+   {
+    "w": "statutory",
+    "zh": "法定的",
+    "k": "family"
+   }
+  ],
+  "src": "BSL",
+  "n": 587,
+  "day": 24
+ },
+ {
+  "word": "migrant",
+  "pos": "n",
+  "pic": "🧳",
+  "zh": "移工；移民",
+  "en": "a person who moves to another place for work",
+  "simple": "The migrant came here to find work.",
+  "simple_zh": "這位移工來這裡找工作。",
+  "toeic": "Many migrant workers send part of their salary back home each month.",
+  "toeic_zh": "許多移工每月把部分薪水寄回家鄉。",
+  "family": "migrate (v), migration (n), migrant (n)",
+  "related": [
+   {
+    "w": "immigrant",
+    "zh": "移入的移民",
+    "k": "confuse"
+   },
+   {
+    "w": "migration",
+    "zh": "遷移",
+    "k": "family"
+   }
+  ],
+  "src": "BSL",
+  "n": 588,
+  "day": 24
+ },
+ {
+  "word": "analytical",
+  "pos": "adj",
+  "pic": "📊",
+  "zh": "分析的；善於分析的",
+  "en": "using careful study to understand something",
+  "simple": "She has strong analytical skills.",
+  "simple_zh": "她有很強的分析能力。",
+  "toeic": "The position requires strong analytical skills and attention to detail.",
+  "toeic_zh": "這個職位需要很強的分析能力與細心。",
+  "family": "analysis (n), analyze (v), analyst (n), analytical (adj)",
+  "related": [
+   {
+    "w": "analysis",
+    "zh": "分析",
+    "k": "family"
+   },
+   {
+    "w": "analyst",
+    "zh": "分析師",
+    "k": "family"
+   }
+  ],
+  "src": "BSL",
+  "n": 589,
+  "day": 24
+ },
+ {
+  "word": "dismissal",
+  "pos": "n",
+  "pic": "🚪",
+  "zh": "解僱",
+  "en": "the act of removing someone from a job",
+  "simple": "His dismissal surprised everyone.",
+  "simple_zh": "他被解僱讓大家很驚訝。",
+  "toeic": "The employee filed a complaint about his unfair dismissal.",
+  "toeic_zh": "該名員工針對不當解僱提出申訴。",
+  "family": "dismiss (v), dismissal (n)",
+  "related": [
+   {
+    "w": "termination",
+    "zh": "終止僱用",
+    "k": "syn"
+   },
+   {
+    "w": "hiring",
+    "zh": "僱用",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 590,
+  "day": 24
+ },
+ {
+  "word": "compulsory",
+  "pos": "adj",
+  "pic": "❗",
+  "zh": "強制的；必修的",
+  "en": "required by a rule or law",
+  "simple": "School is compulsory for children.",
+  "simple_zh": "孩子上學是強制的。",
+  "toeic": "Attendance at the safety training is compulsory for all new staff.",
+  "toeic_zh": "所有新進員工都必須參加安全訓練。",
+  "family": "compel (v), compulsory (adj)",
+  "related": [
+   {
+    "w": "mandatory",
+    "zh": "強制的",
+    "k": "syn"
+   },
+   {
+    "w": "optional",
+    "zh": "選擇性的",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 591,
+  "day": 24
+ },
+ {
+  "word": "contingent",
+  "pos": "adj",
+  "pic": "🔀",
+  "zh": "視情況而定的",
+  "en": "depending on something else happening",
+  "simple": "The trip is contingent on the weather.",
+  "simple_zh": "旅行要視天氣而定。",
+  "toeic": "The offer is contingent upon a successful background check.",
+  "toeic_zh": "這份聘書以通過背景調查為條件。",
+  "family": "contingency (n), contingent (adj)",
+  "related": [
+   {
+    "w": "dependent",
+    "zh": "依賴的",
+    "k": "syn"
+   },
+   {
+    "w": "contingency",
+    "zh": "應急措施",
+    "k": "family"
+   }
+  ],
+  "src": "BSL",
+  "n": 592,
+  "day": 24
+ },
+ {
+  "word": "trait",
+  "pos": "n",
+  "pic": "🧬",
+  "zh": "特質",
+  "en": "a particular quality of a person or thing",
+  "simple": "Honesty is a good trait.",
+  "simple_zh": "誠實是一種好特質。",
+  "toeic": "Leadership is an important trait for a team manager.",
+  "toeic_zh": "領導力是團隊經理的重要特質。",
+  "family": "",
+  "related": [
+   {
+    "w": "characteristic",
+    "zh": "特徵",
+    "k": "syn"
+   },
+   {
+    "w": "trail",
+    "zh": "小徑",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 593,
+  "day": 24
+ },
+ {
+  "word": "practitioner",
+  "pos": "n",
+  "pic": "🧑‍⚕️",
+  "zh": "從業者；開業醫生",
+  "en": "a person who works in a profession",
+  "simple": "My aunt is a medical practitioner.",
+  "simple_zh": "我阿姨是開業醫師。",
+  "toeic": "Legal practitioners attended the seminar on new regulations.",
+  "toeic_zh": "法律從業人員參加了關於新法規的研討會。",
+  "family": "practice (n, v)",
+  "related": [
+   {
+    "w": "professional",
+    "zh": "專業人士",
+    "k": "syn"
+   },
+   {
+    "w": "practice",
+    "zh": "實踐；業務",
+    "k": "family"
+   }
+  ],
+  "src": "BSL",
+  "n": 594,
+  "day": 24
+ },
+ {
+  "word": "conditional",
+  "pos": "adj",
+  "pic": "📋",
+  "zh": "有條件的",
+  "en": "depending on something else happening",
+  "simple": "This is a conditional offer.",
+  "simple_zh": "這是有條件的報價。",
+  "toeic": "The job offer is conditional on a successful background check.",
+  "toeic_zh": "這份工作錄取以通過背景調查為條件。",
+  "family": "condition (n), conditionally (adv)",
+  "related": [
+   {
+    "w": "unconditional",
+    "zh": "無條件的",
+    "k": "opp"
+   },
+   {
+    "w": "conditioner",
+    "zh": "調節器",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 595,
+  "day": 24
+ },
+ {
+  "word": "outsider",
+  "pos": "n",
+  "pic": "🚶",
+  "zh": "外人；局外人",
+  "en": "a person who is not part of a group",
+  "simple": "He felt like an outsider.",
+  "simple_zh": "他覺得自己像個局外人。",
+  "toeic": "The company hired an outsider as its new CEO.",
+  "toeic_zh": "公司聘請了外部人士擔任新任執行長。",
+  "family": "outside (adv, prep)",
+  "related": [
+   {
+    "w": "insider",
+    "zh": "內部人士",
+    "k": "opp"
+   },
+   {
+    "w": "outside",
+    "zh": "外面",
+    "k": "family"
+   }
+  ],
+  "src": "BSL",
+  "n": 596,
+  "day": 24
+ },
+ {
+  "word": "empowerment",
+  "pos": "n",
+  "pic": "💪",
+  "zh": "賦權；授權",
+  "en": "giving people more power or control",
+  "simple": "Education leads to empowerment.",
+  "simple_zh": "教育帶來賦權。",
+  "toeic": "Employee empowerment improved morale and productivity.",
+  "toeic_zh": "員工賦權提升了士氣與生產力。",
+  "family": "empower (v), power (n)",
+  "related": [
+   {
+    "w": "authorization",
+    "zh": "授權",
+    "k": "syn"
+   },
+   {
+    "w": "empower",
+    "zh": "授權",
+    "k": "family"
+   }
+  ],
+  "src": "BSL",
+  "n": 597,
+  "day": 24
+ },
+ {
+  "word": "diligence",
+  "pos": "n",
+  "pic": "🐜",
+  "zh": "勤勉；盡職",
+  "en": "careful and steady hard work",
+  "simple": "She works with great diligence.",
+  "simple_zh": "她工作非常勤奮。",
+  "toeic": "Due diligence is required before signing the deal.",
+  "toeic_zh": "簽約前需要進行盡職調查。",
+  "family": "diligent (adj), diligently (adv)",
+  "related": [
+   {
+    "w": "hard work",
+    "zh": "勤奮",
+    "k": "syn"
+   },
+   {
+    "w": "intelligence",
+    "zh": "智力",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 598,
+  "day": 24
+ },
+ {
+  "word": "discriminate",
+  "pos": "v",
+  "pic": "🚫",
+  "zh": "歧視；區別",
+  "en": "to treat people unfairly because of who they are",
+  "simple": "Do not discriminate against anyone.",
+  "simple_zh": "不要歧視任何人。",
+  "toeic": "The law forbids employers to discriminate on the basis of age.",
+  "toeic_zh": "法律禁止雇主以年齡為由歧視員工。",
+  "family": "discrimination (n)",
+  "related": [
+   {
+    "w": "distinguish",
+    "zh": "區分",
+    "k": "syn"
+   },
+   {
+    "w": "discriminating",
+    "zh": "有鑑別力的",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 599,
+  "day": 24
+ },
+ {
+  "word": "empower",
+  "pos": "v",
+  "pic": "🦸",
+  "zh": "授權；賦予力量",
+  "en": "to give someone the power to do something",
+  "simple": "Good teachers empower students.",
+  "simple_zh": "好老師能賦予學生力量。",
+  "toeic": "We empower our staff to solve customer problems quickly.",
+  "toeic_zh": "我們授權員工快速解決客戶問題。",
+  "family": "empowerment (n), power (n)",
+  "related": [
+   {
+    "w": "authorize",
+    "zh": "授權",
+    "k": "syn"
+   },
+   {
+    "w": "enable",
+    "zh": "使能夠",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 600,
+  "day": 24
+ }
+]

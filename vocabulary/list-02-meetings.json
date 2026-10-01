@@ -1,0 +1,5562 @@
+[
+ {
+  "word": "absent",
+  "pos": "adj",
+  "pic": "🚫",
+  "zh": "缺席的",
+  "en": "Not present at a place or event.",
+  "simple": "Tom is absent today.",
+  "simple_zh": "湯姆今天缺席。",
+  "toeic": "Two directors were absent from the annual general meeting.",
+  "toeic_zh": "有兩位董事缺席年度股東會。",
+  "family": "absence (n), absently (adv)",
+  "related": [
+   {
+    "w": "present",
+    "zh": "出席的",
+    "k": "opp"
+   },
+   {
+    "w": "abstain",
+    "zh": "棄權",
+    "k": "confuse"
+   }
+  ],
+  "n": 201,
+  "day": 9,
+  "src": "TSL"
+ },
+ {
+  "word": "accordingly",
+  "pos": "adv",
+  "pic": "🔁",
+  "zh": "相應地；因此",
+  "en": "in a way that suits the situation",
+  "simple": "Please dress accordingly.",
+  "simple_zh": "請穿著得宜。",
+  "toeic": "Prices will be adjusted accordingly after the new tax takes effect.",
+  "toeic_zh": "新稅制生效後，價格將會相應調整。",
+  "family": "accord (n), according (adj)",
+  "related": [
+   {
+    "w": "according to",
+    "zh": "根據",
+    "k": "confuse"
+   },
+   {
+    "w": "therefore",
+    "zh": "因此",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 202,
+  "day": 9
+ },
+ {
+  "word": "additionally",
+  "pos": "adv",
+  "pic": "➕",
+  "zh": "此外；另外",
+  "en": "also; used to add more information",
+  "simple": "Additionally, lunch is free.",
+  "simple_zh": "此外，午餐是免費的。",
+  "toeic": "Additionally, all participants will receive a free gift.",
+  "toeic_zh": "此外，所有參加者都會收到一份免費贈品。",
+  "family": "add (v), addition (n), additional (adj)",
+  "related": [
+   {
+    "w": "furthermore",
+    "zh": "此外",
+    "k": "syn"
+   },
+   {
+    "w": "moreover",
+    "zh": "而且",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 203,
+  "day": 9
+ },
+ {
+  "word": "afterward",
+  "pos": "adv",
+  "pic": "⏭️",
+  "zh": "之後；後來",
+  "en": "at a later time",
+  "simple": "We ate and went home afterward.",
+  "simple_zh": "我們吃完飯後就回家了。",
+  "toeic": "Please submit the form, and we will call you afterward.",
+  "toeic_zh": "請提交表格，我們之後會致電給您。",
+  "family": "",
+  "related": [
+   {
+    "w": "afterwards",
+    "zh": "之後",
+    "k": "syn"
+   },
+   {
+    "w": "beforehand",
+    "zh": "事先",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 204,
+  "day": 9
+ },
+ {
+  "word": "ambassador",
+  "pos": "n",
+  "pic": "🏛️",
+  "zh": "大使；代表",
+  "en": "an official representing a country or brand",
+  "simple": "The ambassador met the president.",
+  "simple_zh": "大使會見了總統。",
+  "toeic": "She was named brand ambassador for our new product line.",
+  "toeic_zh": "她被任命為我們新產品系列的品牌代言人。",
+  "family": "embassy (n)",
+  "related": [
+   {
+    "w": "embassy",
+    "zh": "大使館",
+    "k": "family"
+   },
+   {
+    "w": "representative",
+    "zh": "代表",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 205,
+  "day": 9
+ },
+ {
+  "word": "anew",
+  "pos": "adv",
+  "pic": "🆕",
+  "zh": "重新；再次",
+  "en": "again in a new way",
+  "simple": "Let us start anew today.",
+  "simple_zh": "我們今天重新開始吧。",
+  "toeic": "After the merger, the team had to begin anew.",
+  "toeic_zh": "合併後，團隊必須重新開始。",
+  "family": "",
+  "related": [
+   {
+    "w": "again",
+    "zh": "再次",
+    "k": "syn"
+   },
+   {
+    "w": "a new",
+    "zh": "一個新的",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 206,
+  "day": 9
+ },
+ {
+  "word": "anyhow",
+  "pos": "adv",
+  "pic": "🤷",
+  "zh": "無論如何；不管怎樣",
+  "en": "in any case; anyway",
+  "simple": "It rained, but we went anyhow.",
+  "simple_zh": "下雨了，但我們還是去了。",
+  "toeic": "The meeting may run late, but we will finish anyhow.",
+  "toeic_zh": "會議可能會延遲，但無論如何我們都會完成。",
+  "family": "",
+  "related": [
+   {
+    "w": "anyway",
+    "zh": "無論如何",
+    "k": "syn"
+   },
+   {
+    "w": "anywhere",
+    "zh": "任何地方",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 207,
+  "day": 9
+ },
+ {
+  "word": "applicable",
+  "pos": "adj",
+  "pic": "✓",
+  "zh": "適用的；可應用的",
+  "en": "relevant or suitable; can be applied",
+  "simple": "Applicable rules are enforced during meetings.",
+  "simple_zh": "在會議期間執行了適用的規則。",
+  "toeic": "Applicable standards ensure consistent quality.",
+  "toeic_zh": "適用的標準確保了一致的質量。",
+  "family": "apply (v), application (n)",
+  "related": [
+   {
+    "w": "relevant",
+    "zh": "相關的",
+    "k": "syn"
+   },
+   {
+    "w": "suitable",
+    "zh": "合適的",
+    "k": "syn"
+   },
+   {
+    "w": "pertinent",
+    "zh": "相關的；恰當的",
+    "k": "syn"
+   }
+  ],
+  "n": 208,
+  "day": 9,
+  "src": "TSL"
+ },
+ {
+  "word": "aspect",
+  "pos": "n",
+  "pic": "🔍",
+  "zh": "方面；層面",
+  "en": "one part or feature of something",
+  "simple": "This is a good aspect of the job.",
+  "simple_zh": "這是這份工作好的一面。",
+  "toeic": "We reviewed every aspect of the new project plan.",
+  "toeic_zh": "我們檢視了新專案計畫的每個層面。",
+  "family": "",
+  "related": [
+   {
+    "w": "respect",
+    "zh": "尊重",
+    "k": "confuse"
+   },
+   {
+    "w": "feature",
+    "zh": "特色",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 209,
+  "day": 9
+ },
+ {
+  "word": "assignment",
+  "pos": "n",
+  "pic": "📑",
+  "zh": "任務；分配；作業",
+  "en": "a task or piece of work allocated to someone",
+  "simple": "The assignment requires completing a detailed report.",
+  "simple_zh": "這項任務要求完成詳細報告。",
+  "toeic": "Team members received their assignments at the beginning of the project.",
+  "toeic_zh": "團隊成員在項目開始時收到了他們的任務分配。",
+  "family": "assigned (v past), assignee (n)",
+  "related": [
+   {
+    "w": "task",
+    "zh": "任務",
+    "k": "syn"
+   },
+   {
+    "w": "project",
+    "zh": "項目",
+    "k": "family"
+   },
+   {
+    "w": "responsibility",
+    "zh": "責任",
+    "k": "syn"
+   }
+  ],
+  "n": 210,
+  "day": 9,
+  "src": "TSL"
+ },
+ {
+  "word": "attendant",
+  "pos": "n",
+  "pic": "🛎️",
+  "zh": "服務員；隨行者",
+  "en": "a person who provides a service to others",
+  "simple": "The attendant will help check everyone in.",
+  "simple_zh": "服務員將幫助所有人簽到。",
+  "toeic": "Flight attendants will assist passengers during the conference trip.",
+  "toeic_zh": "空乘人員將在會議旅行期間協助乘客。",
+  "family": "attend (v), attendance (n)",
+  "related": [
+   {
+    "w": "attendee",
+    "zh": "參加者",
+    "k": "confuse"
+   },
+   {
+    "w": "staff",
+    "zh": "員工",
+    "k": "syn"
+   },
+   {
+    "w": "assistant",
+    "zh": "助手；助理",
+    "k": "syn"
+   }
+  ],
+  "n": 211,
+  "day": 9,
+  "src": "TSL"
+ },
+ {
+  "word": "attendee",
+  "pos": "n",
+  "pic": "👤",
+  "zh": "參加者；出席者",
+  "en": "a person who is present at an event",
+  "simple": "Every attendee must sign the attendance sheet.",
+  "simple_zh": "每位參加者都必須簽到。",
+  "toeic": "The attendees received a welcome package upon arrival.",
+  "toeic_zh": "參加者在到達時收到歡迎禮包。",
+  "family": "attend (v), attendance (n)",
+  "related": [
+   {
+    "w": "participant",
+    "zh": "參與者",
+    "k": "syn"
+   },
+   {
+    "w": "attendant",
+    "zh": "服務員；隨行者",
+    "k": "confuse"
+   },
+   {
+    "w": "guest",
+    "zh": "客人",
+    "k": "syn"
+   }
+  ],
+  "n": 212,
+  "day": 9,
+  "src": "TSL"
+ },
+ {
+  "word": "ballroom",
+  "pos": "n",
+  "pic": "💃",
+  "zh": "宴會廳；舞廳",
+  "en": "a large room for dances and events",
+  "simple": "They danced in the ballroom.",
+  "simple_zh": "他們在舞廳跳舞。",
+  "toeic": "The annual dinner will be held in the hotel ballroom.",
+  "toeic_zh": "年度晚宴將在飯店宴會廳舉行。",
+  "family": "",
+  "related": [
+   {
+    "w": "balloon",
+    "zh": "氣球",
+    "k": "confuse"
+   },
+   {
+    "w": "banquet hall",
+    "zh": "宴會廳",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 213,
+  "day": 9
+ },
+ {
+  "word": "banquet",
+  "pos": "n",
+  "pic": "🍽️",
+  "zh": "宴會；盛宴",
+  "en": "a large formal meal for many people",
+  "simple": "We went to a wedding banquet.",
+  "simple_zh": "我們去參加了婚宴。",
+  "toeic": "The company will host a banquet for retiring employees.",
+  "toeic_zh": "公司將為退休員工舉辦一場宴會。",
+  "family": "",
+  "related": [
+   {
+    "w": "bouquet",
+    "zh": "花束",
+    "k": "confuse"
+   },
+   {
+    "w": "feast",
+    "zh": "盛宴",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 214,
+  "day": 9
+ },
+ {
+  "word": "beforehand",
+  "pos": "adv",
+  "pic": "⏪",
+  "zh": "事先；預先",
+  "en": "earlier than a particular time",
+  "simple": "Please call me beforehand.",
+  "simple_zh": "請事先打電話給我。",
+  "toeic": "Please let us know beforehand if you need a special meal.",
+  "toeic_zh": "如果您需要特殊餐點，請事先告知我們。",
+  "family": "",
+  "related": [
+   {
+    "w": "afterward",
+    "zh": "之後",
+    "k": "opp"
+   },
+   {
+    "w": "in advance",
+    "zh": "預先",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 215,
+  "day": 9
+ },
+ {
+  "word": "beneficial",
+  "pos": "adj",
+  "pic": "✨",
+  "zh": "有益的；有利的",
+  "en": "favorable or promoting wellbeing",
+  "simple": "Beneficial changes were implemented post-meeting.",
+  "simple_zh": "會議後實施了有益的變更。",
+  "toeic": "Beneficial partnerships enhance business growth.",
+  "toeic_zh": "有益的伙伴關係促進了業務增長。",
+  "family": "benefit (n/v), beneficiary (n)",
+  "related": [
+   {
+    "w": "valuable",
+    "zh": "有價值的",
+    "k": "syn"
+   },
+   {
+    "w": "helpful",
+    "zh": "有幫助的",
+    "k": "syn"
+   },
+   {
+    "w": "advantageous",
+    "zh": "有利的",
+    "k": "syn"
+   }
+  ],
+  "n": 216,
+  "day": 9,
+  "src": "TSL"
+ },
+ {
+  "word": "boardroom",
+  "pos": "n",
+  "pic": "🏢",
+  "zh": "董事會會議室",
+  "en": "A room where company directors hold meetings.",
+  "simple": "The boss is in the boardroom.",
+  "simple_zh": "老闆在董事會會議室裡。",
+  "toeic": "The quarterly review will take place in the boardroom at ten.",
+  "toeic_zh": "季度檢討將於十點在董事會會議室舉行。",
+  "family": "board (n)",
+  "related": [
+   {
+    "w": "conference room",
+    "zh": "會議室",
+    "k": "syn"
+   },
+   {
+    "w": "classroom",
+    "zh": "教室",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 217,
+  "day": 9
+ },
+ {
+  "word": "booklet",
+  "pos": "n",
+  "pic": "📘",
+  "zh": "小冊子",
+  "en": "A small, thin book with a paper cover.",
+  "simple": "I got a booklet at the museum.",
+  "simple_zh": "我在博物館拿到一本小冊子。",
+  "toeic": "Each participant will receive a booklet with the workshop schedule.",
+  "toeic_zh": "每位參加者都會收到一本附有工作坊日程的小冊子。",
+  "family": "book (n)",
+  "related": [
+   {
+    "w": "brochure",
+    "zh": "宣傳冊",
+    "k": "syn"
+   },
+   {
+    "w": "bullet",
+    "zh": "子彈",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 218,
+  "day": 9
+ },
+ {
+  "word": "brainstorm",
+  "pos": "v",
+  "pic": "💡",
+  "zh": "腦力激盪",
+  "en": "To share many ideas quickly in a group.",
+  "simple": "We brainstorm ideas every Friday.",
+  "simple_zh": "我們每週五腦力激盪想點子。",
+  "toeic": "The team will brainstorm solutions during the afternoon workshop.",
+  "toeic_zh": "團隊將在下午的工作坊中腦力激盪尋找解決方案。",
+  "family": "brainstorming (n)",
+  "related": [
+   {
+    "w": "discuss",
+    "zh": "討論",
+    "k": "syn"
+   },
+   {
+    "w": "idea",
+    "zh": "點子",
+    "k": "family"
+   }
+  ],
+  "n": 219,
+  "day": 9,
+  "src": "TSL"
+ },
+ {
+  "word": "buffet",
+  "pos": "n",
+  "pic": "🍽️",
+  "zh": "自助餐",
+  "en": "A meal where guests serve themselves from a table.",
+  "simple": "We ate at a buffet.",
+  "simple_zh": "我們吃了自助餐。",
+  "toeic": "A buffet lunch will be provided for all conference attendees.",
+  "toeic_zh": "所有會議出席者將享用自助午餐。",
+  "family": "",
+  "related": [
+   {
+    "w": "banquet",
+    "zh": "宴會",
+    "k": "confuse"
+   },
+   {
+    "w": "cafeteria",
+    "zh": "自助餐廳",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 220,
+  "day": 9
+ },
+ {
+  "word": "calendar",
+  "pos": "n",
+  "pic": "📅",
+  "zh": "日曆;行事曆",
+  "en": "A chart showing the days, weeks and months of a year.",
+  "simple": "Check the calendar for Friday.",
+  "simple_zh": "看一下日曆上的星期五。",
+  "toeic": "Please add the meeting to the shared calendar.",
+  "toeic_zh": "請把會議加到共用行事曆上。",
+  "family": "",
+  "related": [
+   {
+    "w": "schedule",
+    "zh": "時程表",
+    "k": "syn"
+   },
+   {
+    "w": "calender",
+    "zh": "軋光機",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 221,
+  "day": 9
+ },
+ {
+  "word": "cater",
+  "pos": "v",
+  "pic": "🍱",
+  "zh": "提供餐飲;迎合",
+  "en": "To provide food and drinks, or meet particular needs.",
+  "simple": "They cater for big parties.",
+  "simple_zh": "他們承辦大型派對的餐飲。",
+  "toeic": "Our company will cater the awards dinner next Friday.",
+  "toeic_zh": "我們公司將承辦下週五的頒獎晚宴餐飲。",
+  "family": "caterer (n), catering (n)",
+  "related": [
+   {
+    "w": "caterer",
+    "zh": "外燴業者",
+    "k": "family"
+   },
+   {
+    "w": "cater to",
+    "zh": "迎合",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 222,
+  "day": 9
+ },
+ {
+  "word": "caterer",
+  "pos": "n",
+  "pic": "👩‍🍳",
+  "zh": "外燴業者",
+  "en": "A person or company that provides food for events.",
+  "simple": "The caterer brought the food.",
+  "simple_zh": "外燴業者把食物送來了。",
+  "toeic": "We hired a caterer for the product launch event.",
+  "toeic_zh": "我們為產品發表會聘請了一家外燴業者。",
+  "family": "cater (v), catering (n)",
+  "related": [
+   {
+    "w": "cater",
+    "zh": "提供餐飲",
+    "k": "family"
+   },
+   {
+    "w": "chef",
+    "zh": "主廚",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 223,
+  "day": 9
+ },
+ {
+  "word": "chairperson",
+  "pos": "n",
+  "pic": "🧑‍⚖️",
+  "zh": "主席;會議主持人",
+  "en": "The person who leads a meeting or committee.",
+  "simple": "The chairperson opened the meeting.",
+  "simple_zh": "主席宣布會議開始。",
+  "toeic": "The chairperson will announce the results of the vote.",
+  "toeic_zh": "主席將宣布投票結果。",
+  "family": "chair (n)",
+  "related": [
+   {
+    "w": "chairman",
+    "zh": "主席",
+    "k": "syn"
+   },
+   {
+    "w": "chair",
+    "zh": "椅子;主持",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 224,
+  "day": 9
+ },
+ {
+  "word": "clap",
+  "pos": "v",
+  "pic": "👏",
+  "zh": "拍手",
+  "en": "To hit your hands together to show you like something.",
+  "simple": "Everyone began to clap.",
+  "simple_zh": "大家開始拍手。",
+  "toeic": "The audience stood up to clap for the speaker.",
+  "toeic_zh": "觀眾起立為講者鼓掌。",
+  "family": "",
+  "related": [
+   {
+    "w": "applaud",
+    "zh": "鼓掌",
+    "k": "syn"
+   },
+   {
+    "w": "clip",
+    "zh": "夾子",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 225,
+  "day": 9
+ },
+ {
+  "word": "compact",
+  "pos": "adj",
+  "pic": "📦",
+  "zh": "緊湊的；結實的；合同",
+  "en": "closely packed together; occupying little space",
+  "simple": "The compact meeting room fits ten people.",
+  "simple_zh": "緊湊的會議室可容納10人。",
+  "toeic": "A compact schedule maximizes productivity.",
+  "toeic_zh": "緊湊的日程最大化了生產力。",
+  "family": "compactly (adv), compactness (n)",
+  "related": [
+   {
+    "w": "condensed",
+    "zh": "縮小的；濃縮的",
+    "k": "syn"
+   },
+   {
+    "w": "tight",
+    "zh": "緊的",
+    "k": "syn"
+   },
+   {
+    "w": "concise",
+    "zh": "簡潔的",
+    "k": "syn"
+   }
+  ],
+  "n": 226,
+  "day": 10,
+  "src": "TSL"
+ },
+ {
+  "word": "consecutive",
+  "pos": "adj",
+  "pic": "🔢",
+  "zh": "連續的",
+  "en": "Following one after another without a break.",
+  "simple": "It rained for three consecutive days.",
+  "simple_zh": "連續三天下雨。",
+  "toeic": "Sales rose for the fourth consecutive quarter.",
+  "toeic_zh": "銷售額連續第四季成長。",
+  "family": "consecutively (adv)",
+  "related": [
+   {
+    "w": "successive",
+    "zh": "接連的",
+    "k": "syn"
+   },
+   {
+    "w": "consequent",
+    "zh": "隨之而來的",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 227,
+  "day": 10
+ },
+ {
+  "word": "contradict",
+  "pos": "v",
+  "pic": "🙅",
+  "zh": "與…矛盾；反駁",
+  "en": "to say the opposite of or disagree with",
+  "simple": "Please do not contradict your boss.",
+  "simple_zh": "請不要反駁你的老闆。",
+  "toeic": "The new data seems to contradict the earlier findings.",
+  "toeic_zh": "新數據似乎與先前的研究結果相矛盾。",
+  "family": "contradiction (n), contradict (v), contradictory (adj)",
+  "related": [
+   {
+    "w": "contradiction",
+    "zh": "矛盾",
+    "k": "family"
+   },
+   {
+    "w": "confirm",
+    "zh": "證實",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 228,
+  "day": 10
+ },
+ {
+  "word": "contrary",
+  "pos": "adj",
+  "pic": "↔️",
+  "zh": "相反的",
+  "en": "completely different or opposite",
+  "simple": "He has a contrary opinion.",
+  "simple_zh": "他的意見相反。",
+  "toeic": "Contrary to expectations, the new product sold poorly.",
+  "toeic_zh": "與預期相反，新產品賣得不好。",
+  "family": "contrarily (adv), contrary (adj/n)",
+  "related": [
+   {
+    "w": "opposite",
+    "zh": "相反的",
+    "k": "syn"
+   },
+   {
+    "w": "similar",
+    "zh": "相似的",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 229,
+  "day": 10
+ },
+ {
+  "word": "cooperate",
+  "pos": "v",
+  "pic": "🤝",
+  "zh": "合作",
+  "en": "to work together with others",
+  "simple": "The two teams cooperate well.",
+  "simple_zh": "這兩個團隊合作良好。",
+  "toeic": "All departments must cooperate to finish the project on schedule.",
+  "toeic_zh": "所有部門必須合作，才能如期完成專案。",
+  "family": "cooperation (n), cooperative (adj), cooperate (v)",
+  "related": [
+   {
+    "w": "collaborate",
+    "zh": "合作",
+    "k": "syn"
+   },
+   {
+    "w": "operate",
+    "zh": "操作",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 230,
+  "day": 10
+ },
+ {
+  "word": "coordinator",
+  "pos": "n",
+  "pic": "🗂️",
+  "zh": "協調員；協調者",
+  "en": "a person who organizes the activities of different people",
+  "simple": "The project coordinator manages all team communications.",
+  "simple_zh": "項目協調員管理所有團隊溝通。",
+  "toeic": "Contact the event coordinator to arrange the meeting room.",
+  "toeic_zh": "聯繫活動協調員安排會議室。",
+  "family": "coordinate (v), coordination (n)",
+  "related": [
+   {
+    "w": "organizer",
+    "zh": "組織者",
+    "k": "syn"
+   },
+   {
+    "w": "manager",
+    "zh": "經理",
+    "k": "syn"
+   },
+   {
+    "w": "facilitator",
+    "zh": "協調者；推動者",
+    "k": "syn"
+   }
+  ],
+  "n": 231,
+  "day": 10,
+  "src": "TSL"
+ },
+ {
+  "word": "definite",
+  "pos": "adj",
+  "pic": "📌",
+  "zh": "明確的；確定的",
+  "en": "clear and certain",
+  "simple": "We need a definite answer.",
+  "simple_zh": "我們需要明確的答覆。",
+  "toeic": "We have not set a definite date for the product launch yet.",
+  "toeic_zh": "我們尚未確定產品上市的日期。",
+  "family": "definitely (adv), definite (adj)",
+  "related": [
+   {
+    "w": "definitely",
+    "zh": "肯定地",
+    "k": "family"
+   },
+   {
+    "w": "definitive",
+    "zh": "決定性的",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 232,
+  "day": 10
+ },
+ {
+  "word": "dentist",
+  "pos": "n",
+  "pic": "🦷",
+  "zh": "牙醫",
+  "en": "a doctor who treats teeth",
+  "simple": "I see the dentist today.",
+  "simple_zh": "我今天要看牙醫。",
+  "toeic": "I need to reschedule my appointment with the dentist.",
+  "toeic_zh": "我需要重新安排與牙醫的預約。",
+  "family": "dental (adj), dentist (n)",
+  "related": [
+   {
+    "w": "dental",
+    "zh": "牙科的",
+    "k": "family"
+   },
+   {
+    "w": "doctor",
+    "zh": "醫生",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 233,
+  "day": 10
+ },
+ {
+  "word": "depart",
+  "pos": "v",
+  "pic": "🛫",
+  "zh": "出發；離開",
+  "en": "to leave a place, especially on a trip",
+  "simple": "The train will depart soon.",
+  "simple_zh": "火車即將出發。",
+  "toeic": "Flight 208 will depart from Gate 12 at nine o'clock.",
+  "toeic_zh": "208 號班機將於九點從十二號登機門出發。",
+  "family": "departure (n), depart (v)",
+  "related": [
+   {
+    "w": "departure",
+    "zh": "出發",
+    "k": "family"
+   },
+   {
+    "w": "arrive",
+    "zh": "抵達",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 234,
+  "day": 10
+ },
+ {
+  "word": "departmental",
+  "pos": "adj",
+  "pic": "🏢",
+  "zh": "部門的",
+  "en": "relating to one department of an organization",
+  "simple": "We have a departmental meeting.",
+  "simple_zh": "我們有部門會議。",
+  "toeic": "The departmental budget must be approved by the end of the month.",
+  "toeic_zh": "部門預算必須在月底前核准。",
+  "family": "department (n), departmental (adj)",
+  "related": [
+   {
+    "w": "department",
+    "zh": "部門",
+    "k": "family"
+   },
+   {
+    "w": "apartment",
+    "zh": "公寓",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 235,
+  "day": 10
+ },
+ {
+  "word": "designate",
+  "pos": "v",
+  "pic": "🎯",
+  "zh": "指定；指派",
+  "en": "to choose someone or something for a purpose",
+  "simple": "We designate one person to lead.",
+  "simple_zh": "我們指派一人帶領。",
+  "toeic": "The manager will designate a representative to attend the conference.",
+  "toeic_zh": "經理將指派一名代表出席研討會。",
+  "family": "designation (n), designate (v)",
+  "related": [
+   {
+    "w": "assign",
+    "zh": "指派",
+    "k": "syn"
+   },
+   {
+    "w": "design",
+    "zh": "設計",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 236,
+  "day": 10
+ },
+ {
+  "word": "disagreement",
+  "pos": "n",
+  "pic": "👎",
+  "zh": "不同意；意見不合",
+  "en": "lack of consensus or a difference of opinion",
+  "simple": "There was disagreement about the sales strategy.",
+  "simple_zh": "對於銷售策略有意見不合。",
+  "toeic": "The disagreement between departments delayed the project decision.",
+  "toeic_zh": "部門之間的意見不合延遲了項目決定。",
+  "family": "disagree (v), disagreed (adj)",
+  "related": [
+   {
+    "w": "dispute",
+    "zh": "爭端；爭執",
+    "k": "syn"
+   },
+   {
+    "w": "conflict",
+    "zh": "衝突；爭執",
+    "k": "syn"
+   },
+   {
+    "w": "difference",
+    "zh": "差異；分歧",
+    "k": "syn"
+   }
+  ],
+  "n": 237,
+  "day": 10,
+  "src": "TSL"
+ },
+ {
+  "word": "distract",
+  "pos": "v",
+  "pic": "🙉",
+  "zh": "使分心",
+  "en": "to take attention away from something",
+  "simple": "Music can distract me.",
+  "simple_zh": "音樂會使我分心。",
+  "toeic": "Please silence your phone so it does not distract other attendees.",
+  "toeic_zh": "請將手機靜音，以免讓其他與會者分心。",
+  "family": "distraction (n), distracted (adj), distract (v)",
+  "related": [
+   {
+    "w": "distraction",
+    "zh": "分心",
+    "k": "family"
+   },
+   {
+    "w": "attract",
+    "zh": "吸引",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 238,
+  "day": 10
+ },
+ {
+  "word": "distraction",
+  "pos": "n",
+  "pic": "📱",
+  "zh": "分心的事物",
+  "en": "something that takes your attention away",
+  "simple": "My phone is a distraction.",
+  "simple_zh": "我的手機讓我分心。",
+  "toeic": "Turn off the television to avoid any distraction during the meeting.",
+  "toeic_zh": "請關掉電視，以免會議中分心。",
+  "family": "distract (v), distracted (adj), distraction (n)",
+  "related": [
+   {
+    "w": "distract",
+    "zh": "使分心",
+    "k": "family"
+   },
+   {
+    "w": "attraction",
+    "zh": "吸引力",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 239,
+  "day": 10
+ },
+ {
+  "word": "duration",
+  "pos": "n",
+  "pic": "⏱️",
+  "zh": "持續時間；期間",
+  "en": "the length of time that something continues",
+  "simple": "The duration of the meeting is two hours.",
+  "simple_zh": "會議的持續時間是兩小時。",
+  "toeic": "The project duration has been extended by three months.",
+  "toeic_zh": "項目持續時間已延長三個月。",
+  "family": "durable (adj), during (prep)",
+  "related": [
+   {
+    "w": "length",
+    "zh": "長度；時長",
+    "k": "syn"
+   },
+   {
+    "w": "period",
+    "zh": "時期",
+    "k": "syn"
+   },
+   {
+    "w": "span",
+    "zh": "跨度；時間跨度",
+    "k": "syn"
+   }
+  ],
+  "n": 240,
+  "day": 10,
+  "src": "TSL"
+ },
+ {
+  "word": "economist",
+  "pos": "n",
+  "pic": "👨‍🏫",
+  "zh": "經濟學家",
+  "en": "a person who studies the economy",
+  "simple": "The economist spoke on TV.",
+  "simple_zh": "那位經濟學家在電視上發言。",
+  "toeic": "An economist predicts that interest rates will rise next year.",
+  "toeic_zh": "一位經濟學家預測明年利率將上升。",
+  "family": "economy (n), economist (n), economics (n)",
+  "related": [
+   {
+    "w": "economics",
+    "zh": "經濟學",
+    "k": "family"
+   },
+   {
+    "w": "economy",
+    "zh": "經濟",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 241,
+  "day": 10
+ },
+ {
+  "word": "enthusiastically",
+  "pos": "adv",
+  "pic": "👏",
+  "zh": "熱情地；熱烈地",
+  "en": "in a way that shows strong interest",
+  "simple": "The fans cheered enthusiastically.",
+  "simple_zh": "球迷熱烈地歡呼。",
+  "toeic": "The audience responded enthusiastically to the presentation.",
+  "toeic_zh": "觀眾對簡報反應熱烈。",
+  "family": "enthusiasm (n), enthusiastic (adj), enthusiastically (adv)",
+  "related": [
+   {
+    "w": "enthusiastic",
+    "zh": "熱情的",
+    "k": "family"
+   },
+   {
+    "w": "eagerly",
+    "zh": "熱切地",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 242,
+  "day": 10
+ },
+ {
+  "word": "escort",
+  "pos": "v",
+  "pic": "🧑‍🤝‍🧑",
+  "zh": "護送；陪同",
+  "en": "to go with someone to guide or protect them",
+  "simple": "A guard will escort you out.",
+  "simple_zh": "警衛會陪你出去。",
+  "toeic": "A staff member will escort visitors to the meeting room.",
+  "toeic_zh": "一位員工會陪同訪客前往會議室。",
+  "family": "escort (n/v)",
+  "related": [
+   {
+    "w": "accompany",
+    "zh": "陪同",
+    "k": "syn"
+   },
+   {
+    "w": "guide",
+    "zh": "引導",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 243,
+  "day": 10
+ },
+ {
+  "word": "evident",
+  "pos": "adj",
+  "pic": "💡",
+  "zh": "明顯的；顯然的",
+  "en": "clearly visible or understood",
+  "simple": "It was evident that the meeting was successful.",
+  "simple_zh": "很明顯會議是成功的。",
+  "toeic": "The need for change was evident from the data.",
+  "toeic_zh": "從數據中可以看出需要變革。",
+  "family": "evidently (adv)",
+  "related": [
+   {
+    "w": "obvious",
+    "zh": "明顯的",
+    "k": "syn"
+   },
+   {
+    "w": "clear",
+    "zh": "清楚的",
+    "k": "syn"
+   },
+   {
+    "w": "apparent",
+    "zh": "明顯的",
+    "k": "syn"
+   }
+  ],
+  "n": 244,
+  "day": 10,
+  "src": "TSL"
+ },
+ {
+  "word": "formally",
+  "pos": "adv",
+  "pic": "🎩",
+  "zh": "正式地",
+  "en": "in an official or serious way",
+  "simple": "He was formally introduced to us.",
+  "simple_zh": "他被正式介紹給我們。",
+  "toeic": "The merger will be formally announced next Monday.",
+  "toeic_zh": "這次合併將於下週一正式宣布。",
+  "family": "formal (adj), formally (adv)",
+  "related": [
+   {
+    "w": "formerly",
+    "zh": "以前",
+    "k": "confuse"
+   },
+   {
+    "w": "informally",
+    "zh": "非正式地",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 245,
+  "day": 10
+ },
+ {
+  "word": "forum",
+  "pos": "n",
+  "pic": "💬",
+  "zh": "論壇；討論會",
+  "en": "a meeting or medium for discussion of topics of interest",
+  "simple": "The online forum allows participants to ask questions anytime.",
+  "simple_zh": "在線論壇允許參與者隨時提問。",
+  "toeic": "Join the international forum to share best practices.",
+  "toeic_zh": "加入國際論壇以分享最佳實踐。",
+  "family": "forums (n plural)",
+  "related": [
+   {
+    "w": "discussion",
+    "zh": "討論",
+    "k": "syn"
+   },
+   {
+    "w": "platform",
+    "zh": "平臺",
+    "k": "family"
+   },
+   {
+    "w": "venue",
+    "zh": "場地",
+    "k": "syn"
+   }
+  ],
+  "n": 246,
+  "day": 10,
+  "src": "TSL"
+ },
+ {
+  "word": "founder",
+  "pos": "n",
+  "pic": "🏢",
+  "zh": "創辦人",
+  "en": "a person who starts a company or group",
+  "simple": "The founder of the shop is here.",
+  "simple_zh": "這家店的創辦人在這裡。",
+  "toeic": "The founder of the company will give the opening speech.",
+  "toeic_zh": "公司創辦人將發表開幕演說。",
+  "family": "found (v), founder (n), foundation (n)",
+  "related": [
+   {
+    "w": "flounder",
+    "zh": "掙扎",
+    "k": "confuse"
+   },
+   {
+    "w": "creator",
+    "zh": "創造者",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 247,
+  "day": 10
+ },
+ {
+  "word": "homework",
+  "pos": "n",
+  "pic": "📚",
+  "zh": "家庭作業",
+  "en": "school work students do at home",
+  "simple": "I finish my homework at night.",
+  "simple_zh": "我晚上寫完作業。",
+  "toeic": "Do your homework on the client before attending the meeting.",
+  "toeic_zh": "在參加會議前，請先針對客戶做好功課。",
+  "family": "",
+  "related": [
+   {
+    "w": "assignment",
+    "zh": "作業",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 248,
+  "day": 10
+ },
+ {
+  "word": "hungry",
+  "pos": "adj",
+  "pic": "🍽️",
+  "zh": "餓的",
+  "en": "wanting to eat food",
+  "simple": "I am very hungry now.",
+  "simple_zh": "我現在非常餓。",
+  "toeic": "If you are hungry, there are snacks in the meeting room.",
+  "toeic_zh": "如果您餓了，會議室裡有點心。",
+  "family": "hunger (n)",
+  "related": [
+   {
+    "w": "full",
+    "zh": "飽的",
+    "k": "opp"
+   },
+   {
+    "w": "thirsty",
+    "zh": "渴的",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 249,
+  "day": 10
+ },
+ {
+  "word": "illogical",
+  "pos": "adj",
+  "pic": "🙃",
+  "zh": "不合邏輯的",
+  "en": "not reasonable or sensible",
+  "simple": "That idea is illogical.",
+  "simple_zh": "那個想法不合邏輯。",
+  "toeic": "The manager felt the proposed schedule was illogical and too tight.",
+  "toeic_zh": "經理認為所提議的時程不合理，而且太緊。",
+  "family": "logic (n), logical (adj)",
+  "related": [
+   {
+    "w": "logical",
+    "zh": "合邏輯的",
+    "k": "opp"
+   },
+   {
+    "w": "irrational",
+    "zh": "不理性的",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 250,
+  "day": 10
+ },
+ {
+  "word": "inclusive",
+  "pos": "adj",
+  "pic": "🤝",
+  "zh": "包容的；包括的",
+  "en": "including all types or categories",
+  "simple": "An inclusive meeting welcomes all opinions.",
+  "simple_zh": "包容的會議歡迎所有意見。",
+  "toeic": "Inclusive practices ensure diverse participation.",
+  "toeic_zh": "包容的做法確保了多樣化的參與。",
+  "family": "inclusively (adv), inclusivity (n)",
+  "related": [
+   {
+    "w": "open",
+    "zh": "開放的",
+    "k": "syn"
+   },
+   {
+    "w": "welcoming",
+    "zh": "熱情招待的；歡迎的",
+    "k": "syn"
+   },
+   {
+    "w": "embracing",
+    "zh": "擁抱的；接納的",
+    "k": "syn"
+   }
+  ],
+  "n": 251,
+  "day": 11,
+  "src": "TSL"
+ },
+ {
+  "word": "individually",
+  "pos": "adv",
+  "pic": "🧍",
+  "zh": "個別地",
+  "en": "separately, one at a time",
+  "simple": "Each toy is wrapped individually.",
+  "simple_zh": "每個玩具都是個別包裝的。",
+  "toeic": "The manager will meet with each team member individually.",
+  "toeic_zh": "經理將與每位團隊成員單獨會面。",
+  "family": "individual (adj, n)",
+  "related": [
+   {
+    "w": "separately",
+    "zh": "分別地",
+    "k": "syn"
+   },
+   {
+    "w": "collectively",
+    "zh": "集體地",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 252,
+  "day": 11
+ },
+ {
+  "word": "infer",
+  "pos": "v",
+  "pic": "🧠",
+  "zh": "推論；推斷",
+  "en": "to decide something is true from the facts",
+  "simple": "I infer that he is tired.",
+  "simple_zh": "我推斷他累了。",
+  "toeic": "From the report, we can infer that sales will fall next quarter.",
+  "toeic_zh": "從報告中，我們可以推斷下一季銷售額將下滑。",
+  "family": "inference (n)",
+  "related": [
+   {
+    "w": "imply",
+    "zh": "暗示",
+    "k": "confuse"
+   },
+   {
+    "w": "conclude",
+    "zh": "下結論",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 253,
+  "day": 11
+ },
+ {
+  "word": "inference",
+  "pos": "n",
+  "pic": "💡",
+  "zh": "推論；推斷",
+  "en": "a conclusion based on facts",
+  "simple": "That is only an inference.",
+  "simple_zh": "那只是個推論。",
+  "toeic": "The inference drawn from the survey was that customers want lower prices.",
+  "toeic_zh": "從調查得出的推論是顧客想要更低的價格。",
+  "family": "infer (v)",
+  "related": [
+   {
+    "w": "infer",
+    "zh": "推論",
+    "k": "family"
+   },
+   {
+    "w": "conclusion",
+    "zh": "結論",
+    "k": "syn"
+   },
+   {
+    "w": "reference",
+    "zh": "參考",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 254,
+  "day": 11
+ },
+ {
+  "word": "informal",
+  "pos": "adj",
+  "pic": "👕",
+  "zh": "非正式的",
+  "en": "relaxed and not official",
+  "simple": "We had an informal talk.",
+  "simple_zh": "我們進行了一次非正式談話。",
+  "toeic": "The company will hold an informal gathering after the seminar.",
+  "toeic_zh": "公司將在研討會後舉辦一場非正式聚會。",
+  "family": "formal (adj)",
+  "related": [
+   {
+    "w": "formal",
+    "zh": "正式的",
+    "k": "opp"
+   },
+   {
+    "w": "casual",
+    "zh": "隨意的",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 255,
+  "day": 11
+ },
+ {
+  "word": "intently",
+  "pos": "adv",
+  "pic": "👀",
+  "zh": "專注地",
+  "en": "with full attention",
+  "simple": "He listened intently.",
+  "simple_zh": "他專心地聆聽。",
+  "toeic": "The audience listened intently to the CEO's speech.",
+  "toeic_zh": "聽眾專注地聆聽執行長的演說。",
+  "family": "intent (adj, n)",
+  "related": [
+   {
+    "w": "attentively",
+    "zh": "專心地",
+    "k": "syn"
+   },
+   {
+    "w": "carelessly",
+    "zh": "粗心地",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 256,
+  "day": 11
+ },
+ {
+  "word": "interpreter",
+  "pos": "n",
+  "pic": "🗣️",
+  "zh": "口譯員",
+  "en": "a person who translates speech into another language",
+  "simple": "We need an interpreter.",
+  "simple_zh": "我們需要一位口譯員。",
+  "toeic": "The company hired an interpreter for the meeting with the Japanese clients.",
+  "toeic_zh": "公司為與日本客戶的會議聘請了一位口譯員。",
+  "family": "interpret (v), interpretation (n)",
+  "related": [
+   {
+    "w": "translator",
+    "zh": "筆譯員",
+    "k": "confuse"
+   },
+   {
+    "w": "interpret",
+    "zh": "口譯；詮釋",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 257,
+  "day": 11
+ },
+ {
+  "word": "interrupt",
+  "pos": "v",
+  "pic": "✋",
+  "zh": "打斷；中斷",
+  "en": "to stop someone while they are speaking or working",
+  "simple": "Please do not interrupt me.",
+  "simple_zh": "請不要打斷我。",
+  "toeic": "Sorry to interrupt, but your client is waiting on line two.",
+  "toeic_zh": "抱歉打斷一下，您的客戶正在二線等候。",
+  "family": "interruption (n)",
+  "related": [
+   {
+    "w": "interfere",
+    "zh": "干擾",
+    "k": "confuse"
+   },
+   {
+    "w": "disturb",
+    "zh": "打擾",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 258,
+  "day": 11
+ },
+ {
+  "word": "irrelevant",
+  "pos": "adj",
+  "pic": "🙅",
+  "zh": "無關的",
+  "en": "not connected to the subject",
+  "simple": "That question is irrelevant.",
+  "simple_zh": "那個問題無關緊要。",
+  "toeic": "Please remove any irrelevant details from your report.",
+  "toeic_zh": "請刪除報告中任何無關的細節。",
+  "family": "relevant (adj), relevance (n)",
+  "related": [
+   {
+    "w": "relevant",
+    "zh": "相關的",
+    "k": "opp"
+   },
+   {
+    "w": "irreverent",
+    "zh": "不敬的",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 259,
+  "day": 11
+ },
+ {
+  "word": "lecturer",
+  "pos": "n",
+  "pic": "🎓",
+  "zh": "講師",
+  "en": "A person who gives talks or teaches at a university",
+  "simple": "The lecturer speaks very clearly.",
+  "simple_zh": "這位講師說話很清楚。",
+  "toeic": "The guest lecturer will talk about marketing trends.",
+  "toeic_zh": "客座講師將談論行銷趨勢。",
+  "family": "lecture (n, v)",
+  "related": [
+   {
+    "w": "lecture",
+    "zh": "演講",
+    "k": "family"
+   },
+   {
+    "w": "professor",
+    "zh": "教授",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 260,
+  "day": 11
+ },
+ {
+  "word": "lengthy",
+  "pos": "adj",
+  "pic": "📜",
+  "zh": "冗長的",
+  "en": "Very long, often too long",
+  "simple": "The meeting was lengthy and boring.",
+  "simple_zh": "會議又長又無聊。",
+  "toeic": "Please avoid lengthy explanations in your report.",
+  "toeic_zh": "請避免在報告中使用冗長的說明。",
+  "family": "length (n), long (adj)",
+  "related": [
+   {
+    "w": "brief",
+    "zh": "簡短的",
+    "k": "opp"
+   },
+   {
+    "w": "long",
+    "zh": "長的",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 261,
+  "day": 11
+ },
+ {
+  "word": "logical",
+  "pos": "adj",
+  "pic": "🧠",
+  "zh": "邏輯的；合理的",
+  "en": "capable of reasoning correctly",
+  "simple": "The logical flow of the presentation was easy to follow.",
+  "simple_zh": "演示的邏輯流程很容易跟進。",
+  "toeic": "A logical conclusion was reached after careful analysis.",
+  "toeic_zh": "經過仔細分析後得出了合理的結論。",
+  "family": "logically (adv)",
+  "related": [
+   {
+    "w": "rational",
+    "zh": "理性的",
+    "k": "syn"
+   },
+   {
+    "w": "reasonable",
+    "zh": "合理的",
+    "k": "syn"
+   },
+   {
+    "w": "coherent",
+    "zh": "連貫的；一致的",
+    "k": "syn"
+   }
+  ],
+  "n": 262,
+  "day": 11,
+  "src": "TSL"
+ },
+ {
+  "word": "luncheon",
+  "pos": "n",
+  "pic": "🍽️",
+  "zh": "午宴",
+  "en": "A formal lunch event",
+  "simple": "We will attend a luncheon on Friday.",
+  "simple_zh": "我們星期五要參加一場午宴。",
+  "toeic": "The annual awards luncheon will be held at the Grand Hotel.",
+  "toeic_zh": "年度頒獎午宴將在大飯店舉行。",
+  "family": "",
+  "related": [
+   {
+    "w": "lunch",
+    "zh": "午餐",
+    "k": "family"
+   },
+   {
+    "w": "banquet",
+    "zh": "宴會",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 263,
+  "day": 11
+ },
+ {
+  "word": "meantime",
+  "pos": "n",
+  "pic": "⏳",
+  "zh": "同時；其間",
+  "en": "The time between two events",
+  "simple": "In the meantime, please take a seat.",
+  "simple_zh": "在此同時，請先坐一下。",
+  "toeic": "The new system arrives next week; in the meantime, use the old one.",
+  "toeic_zh": "新系統下週到貨；在此期間請使用舊系統。",
+  "family": "",
+  "related": [
+   {
+    "w": "meanwhile",
+    "zh": "同時",
+    "k": "syn"
+   },
+   {
+    "w": "meanwhile",
+    "zh": "與此同時",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 264,
+  "day": 11
+ },
+ {
+  "word": "noon",
+  "pos": "n",
+  "pic": "🕛",
+  "zh": "正午",
+  "en": "Twelve o'clock in the daytime",
+  "simple": "We eat lunch at noon.",
+  "simple_zh": "我們中午吃午餐。",
+  "toeic": "The meeting will begin promptly at noon.",
+  "toeic_zh": "會議將在正午準時開始。",
+  "family": "",
+  "related": [
+   {
+    "w": "midnight",
+    "zh": "午夜",
+    "k": "opp"
+   },
+   {
+    "w": "afternoon",
+    "zh": "下午",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 265,
+  "day": 11
+ },
+ {
+  "word": "o'clock",
+  "pos": "adv",
+  "pic": "🕓",
+  "zh": "…點鐘",
+  "en": "Used to say the exact hour",
+  "simple": "The class starts at nine o'clock.",
+  "simple_zh": "課程九點開始。",
+  "toeic": "The shuttle bus leaves the hotel at eight o'clock.",
+  "toeic_zh": "接駁巴士八點從旅館出發。",
+  "family": "",
+  "related": [
+   {
+    "w": "sharp",
+    "zh": "整點",
+    "k": "syn"
+   },
+   {
+    "w": "clock",
+    "zh": "時鐘",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 266,
+  "day": 11
+ },
+ {
+  "word": "officially",
+  "pos": "adv",
+  "pic": "📋",
+  "zh": "正式地",
+  "en": "In a formal and approved way",
+  "simple": "The store officially opens today.",
+  "simple_zh": "這家店今天正式開幕。",
+  "toeic": "The new policy will officially take effect on July 1.",
+  "toeic_zh": "新政策將於7月1日正式生效。",
+  "family": "official (adj, n), office (n)",
+  "related": [
+   {
+    "w": "official",
+    "zh": "正式的",
+    "k": "family"
+   },
+   {
+    "w": "unofficially",
+    "zh": "非正式地",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 267,
+  "day": 11
+ },
+ {
+  "word": "ongoing",
+  "pos": "adj",
+  "pic": "🔄",
+  "zh": "進行中的；持續的",
+  "en": "continuing to develop or happen",
+  "simple": "Ongoing discussions will continue after the meeting.",
+  "simple_zh": "會後將繼續進行談話。",
+  "toeic": "Ongoing projects require regular status update meetings.",
+  "toeic_zh": "進行中的項目需要定期狀態更新會議。",
+  "family": "ongoing (n)",
+  "related": [
+   {
+    "w": "continuous",
+    "zh": "連續的",
+    "k": "syn"
+   },
+   {
+    "w": "current",
+    "zh": "當前的",
+    "k": "syn"
+   },
+   {
+    "w": "pending",
+    "zh": "待決的；即將發生的",
+    "k": "syn"
+   }
+  ],
+  "n": 268,
+  "day": 11,
+  "src": "TSL"
+ },
+ {
+  "word": "orchestra",
+  "pos": "n",
+  "pic": "🎻",
+  "zh": "管弦樂團",
+  "en": "A large group of musicians",
+  "simple": "The orchestra plays tonight.",
+  "simple_zh": "管弦樂團今晚演出。",
+  "toeic": "The city orchestra will perform at the grand opening.",
+  "toeic_zh": "市立管弦樂團將在開幕典禮上演出。",
+  "family": "orchestral (adj)",
+  "related": [
+   {
+    "w": "band",
+    "zh": "樂團",
+    "k": "syn"
+   },
+   {
+    "w": "choir",
+    "zh": "合唱團",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 269,
+  "day": 11
+ },
+ {
+  "word": "organizer",
+  "pos": "n",
+  "pic": "👨‍💼",
+  "zh": "組織者；主辦人",
+  "en": "a person who arranges and plans an event or activity",
+  "simple": "The organizer prepared everything for the conference.",
+  "simple_zh": "組織者為會議準備了一切。",
+  "toeic": "Contact the event organizer for any questions about registration.",
+  "toeic_zh": "有任何關於註冊的問題，請聯繫活動組織者。",
+  "family": "organize (v), organization (n)",
+  "related": [
+   {
+    "w": "coordinator",
+    "zh": "協調員",
+    "k": "syn"
+   },
+   {
+    "w": "administrator",
+    "zh": "管理者",
+    "k": "syn"
+   },
+   {
+    "w": "host",
+    "zh": "主持人；東道主",
+    "k": "family"
+   }
+  ],
+  "n": 270,
+  "day": 11,
+  "src": "TSL"
+ },
+ {
+  "word": "outlook",
+  "pos": "n",
+  "pic": "🔭",
+  "zh": "前景；展望",
+  "en": "what is expected to happen in the future",
+  "simple": "The weather outlook is good.",
+  "simple_zh": "天氣預測很好。",
+  "toeic": "The economic outlook for next year is positive.",
+  "toeic_zh": "明年的經濟前景樂觀。",
+  "family": "",
+  "related": [
+   {
+    "w": "forecast",
+    "zh": "預測",
+    "k": "syn"
+   },
+   {
+    "w": "prospect",
+    "zh": "前景",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 271,
+  "day": 11
+ },
+ {
+  "word": "overview",
+  "pos": "n",
+  "pic": "🗺️",
+  "zh": "概觀；概要",
+  "en": "a short general description of something",
+  "simple": "Here is an overview of the plan.",
+  "simple_zh": "這是計畫的概要。",
+  "toeic": "The presentation begins with an overview of our sales results.",
+  "toeic_zh": "簡報一開始先概述我們的銷售成果。",
+  "family": "",
+  "related": [
+   {
+    "w": "summary",
+    "zh": "摘要",
+    "k": "syn"
+   },
+   {
+    "w": "preview",
+    "zh": "預覽",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 272,
+  "day": 11
+ },
+ {
+  "word": "pad",
+  "pos": "n",
+  "pic": "📝",
+  "zh": "便條本；墊子",
+  "en": "a block of paper for writing notes",
+  "simple": "I need a pad and a pen.",
+  "simple_zh": "我需要一本便條本和一支筆。",
+  "toeic": "Please leave a notepad and pad of paper on each desk.",
+  "toeic_zh": "請在每張桌上放一本便條本。",
+  "family": "",
+  "related": [
+   {
+    "w": "notebook",
+    "zh": "筆記本",
+    "k": "syn"
+   },
+   {
+    "w": "pat",
+    "zh": "輕拍",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 273,
+  "day": 11
+ },
+ {
+  "word": "performer",
+  "pos": "n",
+  "pic": "🎭",
+  "zh": "表演者",
+  "en": "a person who entertains an audience",
+  "simple": "The performer sang well.",
+  "simple_zh": "表演者唱得很好。",
+  "toeic": "Each performer will have thirty minutes on the main stage.",
+  "toeic_zh": "每位表演者在主舞台有三十分鐘。",
+  "family": "perform (v), performance (n)",
+  "related": [
+   {
+    "w": "artist",
+    "zh": "藝人",
+    "k": "syn"
+   },
+   {
+    "w": "audience",
+    "zh": "觀眾",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 274,
+  "day": 11
+ },
+ {
+  "word": "planner",
+  "pos": "n",
+  "pic": "📅",
+  "zh": "規劃者；行事曆",
+  "en": "a person or book that organizes plans",
+  "simple": "I write it in my planner.",
+  "simple_zh": "我把它寫在我的行事曆上。",
+  "toeic": "The event planner booked the hall for the conference.",
+  "toeic_zh": "活動企劃人員為研討會預訂了會場。",
+  "family": "plan (n, v), planning (n)",
+  "related": [
+   {
+    "w": "organizer",
+    "zh": "籌辦者",
+    "k": "syn"
+   },
+   {
+    "w": "calendar",
+    "zh": "行事曆",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 275,
+  "day": 11
+ },
+ {
+  "word": "precede",
+  "pos": "v",
+  "pic": "⬅️",
+  "zh": "在……之前；先於",
+  "en": "to come before something",
+  "simple": "Spring will precede summer.",
+  "simple_zh": "春天先於夏天。",
+  "toeic": "A short speech will precede the awards ceremony.",
+  "toeic_zh": "頒獎典禮之前會有一段簡短致詞。",
+  "family": "precedence (n), preceding (adj)",
+  "related": [
+   {
+    "w": "proceed",
+    "zh": "繼續進行",
+    "k": "confuse"
+   },
+   {
+    "w": "follow",
+    "zh": "跟隨",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 276,
+  "day": 12
+ },
+ {
+  "word": "preliminary",
+  "pos": "adj",
+  "pic": "📝",
+  "zh": "初步的",
+  "en": "coming before the main part",
+  "simple": "This is a preliminary report.",
+  "simple_zh": "這是一份初步報告。",
+  "toeic": "The preliminary results will be announced on Friday.",
+  "toeic_zh": "初步結果將於週五公布。",
+  "family": "",
+  "related": [
+   {
+    "w": "initial",
+    "zh": "最初的",
+    "k": "syn"
+   },
+   {
+    "w": "final",
+    "zh": "最終的",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 277,
+  "day": 12
+ },
+ {
+  "word": "presenter",
+  "pos": "n",
+  "pic": "🎙️",
+  "zh": "主講人；演示者",
+  "en": "a person who presents or introduces a show or program",
+  "simple": "The presenter explained the new product features clearly.",
+  "simple_zh": "主講人清楚地解釋了新產品的功能。",
+  "toeic": "Our top presenter will lead tomorrow's training session.",
+  "toeic_zh": "我們的頂級主講人將主持明天的培訓課程。",
+  "family": "present (v), presentation (n)",
+  "related": [
+   {
+    "w": "speaker",
+    "zh": "演講者",
+    "k": "syn"
+   },
+   {
+    "w": "host",
+    "zh": "主持人",
+    "k": "syn"
+   },
+   {
+    "w": "moderator",
+    "zh": "主持人；仲裁者",
+    "k": "family"
+   }
+  ],
+  "n": 278,
+  "day": 12,
+  "src": "TSL"
+ },
+ {
+  "word": "probable",
+  "pos": "adj",
+  "pic": "📊",
+  "zh": "很可能的",
+  "en": "likely to happen or be true",
+  "simple": "Rain is probable today.",
+  "simple_zh": "今天很可能下雨。",
+  "toeic": "It is probable that the shipment will arrive late.",
+  "toeic_zh": "貨物很可能會延遲抵達。",
+  "family": "probably (adv), probability (n)",
+  "related": [
+   {
+    "w": "likely",
+    "zh": "可能的",
+    "k": "syn"
+   },
+   {
+    "w": "improbable",
+    "zh": "不太可能的",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 279,
+  "day": 12
+ },
+ {
+  "word": "productive",
+  "pos": "adj",
+  "pic": "📈",
+  "zh": "有成效的；多產的",
+  "en": "producing much fruit or vegetation; creative",
+  "simple": "The meeting was very productive and informative.",
+  "simple_zh": "會議非常有成效且內容豐富。",
+  "toeic": "Productive discussions led to actionable solutions.",
+  "toeic_zh": "富有成效的討論導致了可行的解決方案。",
+  "family": "productivity (n), productively (adv)",
+  "related": [
+   {
+    "w": "effective",
+    "zh": "有效的",
+    "k": "syn"
+   },
+   {
+    "w": "efficient",
+    "zh": "高效的",
+    "k": "syn"
+   },
+   {
+    "w": "fruitful",
+    "zh": "有成果的",
+    "k": "syn"
+   }
+  ],
+  "n": 280,
+  "day": 12,
+  "src": "TSL"
+ },
+ {
+  "word": "promptly",
+  "pos": "adv",
+  "pic": "⚡",
+  "zh": "立即地；準時地",
+  "en": "quickly or exactly on time",
+  "simple": "Please reply promptly.",
+  "simple_zh": "請立刻回覆。",
+  "toeic": "The meeting will start promptly at nine o'clock.",
+  "toeic_zh": "會議將於九點整準時開始。",
+  "family": "prompt (adj, v)",
+  "related": [
+   {
+    "w": "immediately",
+    "zh": "立刻",
+    "k": "syn"
+   },
+   {
+    "w": "slowly",
+    "zh": "緩慢地",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 281,
+  "day": 12
+ },
+ {
+  "word": "punctual",
+  "pos": "adj",
+  "pic": "⏰",
+  "zh": "守時的；準時的",
+  "en": "arriving or doing something at the expected time",
+  "simple": "Punctual arrival is expected at all meetings.",
+  "simple_zh": "所有會議都期望守時到達。",
+  "toeic": "Punctual presentation of reports is required.",
+  "toeic_zh": "需要準時提交報告。",
+  "family": "punctuality (n), punctually (adv)",
+  "related": [
+   {
+    "w": "on-time",
+    "zh": "按時的",
+    "k": "syn"
+   },
+   {
+    "w": "prompt",
+    "zh": "迅速的；即時的",
+    "k": "syn"
+   },
+   {
+    "w": "timely",
+    "zh": "及時的",
+    "k": "syn"
+   }
+  ],
+  "n": 282,
+  "day": 12,
+  "src": "TSL"
+ },
+ {
+  "word": "realistic",
+  "pos": "adj",
+  "pic": "🎯",
+  "zh": "實際的；切合實際的",
+  "en": "sensible and based on what is possible",
+  "simple": "Your plan is very realistic.",
+  "simple_zh": "你的計畫非常實際。",
+  "toeic": "We need to set a realistic deadline for the project.",
+  "toeic_zh": "我們需要為這個專案訂定切合實際的期限。",
+  "family": "real (adj), reality (n), realize (v)",
+  "related": [
+   {
+    "w": "unrealistic",
+    "zh": "不切實際的",
+    "k": "opp"
+   },
+   {
+    "w": "practical",
+    "zh": "實用的",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 283,
+  "day": 12
+ },
+ {
+  "word": "rearrange",
+  "pos": "v",
+  "pic": "🔀",
+  "zh": "重新安排；重新布置",
+  "en": "to change the order or position of things",
+  "simple": "I will rearrange the chairs.",
+  "simple_zh": "我會重新擺放椅子。",
+  "toeic": "We had to rearrange the meeting because the manager was ill.",
+  "toeic_zh": "由於經理生病，我們必須重新安排會議。",
+  "family": "arrange (v), arrangement (n)",
+  "related": [
+   {
+    "w": "reschedule",
+    "zh": "重新安排時間",
+    "k": "syn"
+   },
+   {
+    "w": "arrange",
+    "zh": "安排",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 284,
+  "day": 12
+ },
+ {
+  "word": "reconsider",
+  "pos": "v",
+  "pic": "🤔",
+  "zh": "重新考慮",
+  "en": "to think again about a decision",
+  "simple": "Please reconsider your answer.",
+  "simple_zh": "請重新考慮你的答案。",
+  "toeic": "We urge the board to reconsider the proposed budget cuts.",
+  "toeic_zh": "我們敦促董事會重新考慮擬議的預算削減。",
+  "family": "consider (v), consideration (n)",
+  "related": [
+   {
+    "w": "reevaluate",
+    "zh": "重新評估",
+    "k": "syn"
+   },
+   {
+    "w": "consider",
+    "zh": "考慮",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 285,
+  "day": 12
+ },
+ {
+  "word": "refreshment",
+  "pos": "n",
+  "pic": "🥤",
+  "zh": "茶點；點心飲料",
+  "en": "food and drink served at an event",
+  "simple": "We had refreshment after the show.",
+  "simple_zh": "表演後我們享用了茶點。",
+  "toeic": "Light refreshment will be served after the presentation.",
+  "toeic_zh": "簡報結束後將提供簡單的茶點。",
+  "family": "refresh (v)",
+  "related": [
+   {
+    "w": "snack",
+    "zh": "點心",
+    "k": "syn"
+   },
+   {
+    "w": "refresh",
+    "zh": "使恢復精神",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 286,
+  "day": 12
+ },
+ {
+  "word": "rehearsal",
+  "pos": "n",
+  "pic": "🎭",
+  "zh": "排練；彩排",
+  "en": "a practice before a performance or event",
+  "simple": "We have a rehearsal tonight.",
+  "simple_zh": "我們今晚要彩排。",
+  "toeic": "The final rehearsal for the awards ceremony is on Thursday.",
+  "toeic_zh": "頒獎典禮的最後彩排在週四。",
+  "family": "rehearse (v)",
+  "related": [
+   {
+    "w": "rehearse",
+    "zh": "排練",
+    "k": "family"
+   },
+   {
+    "w": "practice",
+    "zh": "練習",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 287,
+  "day": 12
+ },
+ {
+  "word": "rehearse",
+  "pos": "v",
+  "pic": "🎤",
+  "zh": "排練；預演",
+  "en": "to practice before a performance",
+  "simple": "They rehearse every Monday.",
+  "simple_zh": "他們每週一排練。",
+  "toeic": "You should rehearse your speech before the big meeting.",
+  "toeic_zh": "你應該在大型會議前預演你的演講。",
+  "family": "rehearsal (n)",
+  "related": [
+   {
+    "w": "rehearsal",
+    "zh": "排練",
+    "k": "family"
+   },
+   {
+    "w": "reverse",
+    "zh": "反轉",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 288,
+  "day": 12
+ },
+ {
+  "word": "reschedule",
+  "pos": "v",
+  "pic": "🔄",
+  "zh": "重新安排；改期",
+  "en": "to arrange something for a different time",
+  "simple": "Can we reschedule the meeting to next Monday?",
+  "simple_zh": "我們能把會議改期到下週一嗎？",
+  "toeic": "The client requested to reschedule the presentation due to prior commitments.",
+  "toeic_zh": "由於先前的承諾，客戶要求重新安排演示。",
+  "family": "rescheduled (adj), rescheduling (n)",
+  "related": [
+   {
+    "w": "postpone",
+    "zh": "延期",
+    "k": "syn"
+   },
+   {
+    "w": "adjust",
+    "zh": "調整",
+    "k": "syn"
+   },
+   {
+    "w": "defer",
+    "zh": "推遲",
+    "k": "syn"
+   }
+  ],
+  "n": 289,
+  "day": 12,
+  "src": "TSL"
+ },
+ {
+  "word": "retreat",
+  "pos": "n",
+  "pic": "🏕️",
+  "zh": "靜修營；退避",
+  "en": "a quiet place or trip away from work",
+  "simple": "We went on a retreat.",
+  "simple_zh": "我們去參加了靜修活動。",
+  "toeic": "The company holds an annual retreat for its senior managers.",
+  "toeic_zh": "公司每年為資深經理舉辦一次研修營。",
+  "family": "",
+  "related": [
+   {
+    "w": "treat",
+    "zh": "款待",
+    "k": "confuse"
+   },
+   {
+    "w": "advance",
+    "zh": "前進",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 290,
+  "day": 12
+ },
+ {
+  "word": "reunion",
+  "pos": "n",
+  "pic": "🥂",
+  "zh": "重聚；同學會",
+  "en": "a meeting of people after a long time",
+  "simple": "We had a family reunion.",
+  "simple_zh": "我們舉行了家庭聚會。",
+  "toeic": "The class reunion will be held at a hotel downtown.",
+  "toeic_zh": "同學會將在市中心的一家飯店舉行。",
+  "family": "reunite (v)",
+  "related": [
+   {
+    "w": "union",
+    "zh": "工會",
+    "k": "confuse"
+   },
+   {
+    "w": "gathering",
+    "zh": "聚會",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 291,
+  "day": 12
+ },
+ {
+  "word": "revision",
+  "pos": "n",
+  "pic": "✏️",
+  "zh": "修訂；修改",
+  "en": "a change made to improve a text or plan",
+  "simple": "I made one revision to the letter.",
+  "simple_zh": "我對這封信做了一處修改。",
+  "toeic": "Please send the final revision of the contract by Friday.",
+  "toeic_zh": "請在週五前寄出合約的最終修訂版。",
+  "family": "revise (v)",
+  "related": [
+   {
+    "w": "division",
+    "zh": "部門",
+    "k": "confuse"
+   },
+   {
+    "w": "edit",
+    "zh": "編輯",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 292,
+  "day": 12
+ },
+ {
+  "word": "sandwich",
+  "pos": "n",
+  "pic": "🥪",
+  "zh": "三明治",
+  "en": "two slices of bread with food between",
+  "simple": "I eat a sandwich for lunch.",
+  "simple_zh": "我午餐吃三明治。",
+  "toeic": "The caterer will deliver sandwiches to the meeting room at noon.",
+  "toeic_zh": "外燴業者中午會把三明治送到會議室。",
+  "family": "",
+  "related": [
+   {
+    "w": "burger",
+    "zh": "漢堡",
+    "k": "syn"
+   },
+   {
+    "w": "snack",
+    "zh": "點心",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 293,
+  "day": 12
+ },
+ {
+  "word": "seminar",
+  "pos": "n",
+  "pic": "👨‍🏫",
+  "zh": "研討班；專題討論",
+  "en": "a meeting for discussion or training on a particular topic",
+  "simple": "The HR department organized a seminar on workplace safety.",
+  "simple_zh": "人力資源部組織了一場關於工作場所安全的研討班。",
+  "toeic": "Employees attended a professional development seminar last week.",
+  "toeic_zh": "員工上週參加了專業發展研討班。",
+  "family": "seminarist (n)",
+  "related": [
+   {
+    "w": "workshop",
+    "zh": "工作坊；講習班",
+    "k": "syn"
+   },
+   {
+    "w": "conference",
+    "zh": "會議",
+    "k": "syn"
+   },
+   {
+    "w": "lecture",
+    "zh": "講座",
+    "k": "family"
+   }
+  ],
+  "n": 294,
+  "day": 12,
+  "src": "TSL"
+ },
+ {
+  "word": "shorten",
+  "pos": "v",
+  "pic": "✂️",
+  "zh": "縮短",
+  "en": "To make something shorter in time or length.",
+  "simple": "Please shorten the speech.",
+  "simple_zh": "請縮短演講。",
+  "toeic": "We need to shorten the meeting to thirty minutes.",
+  "toeic_zh": "我們需要把會議縮短為三十分鐘。",
+  "family": "short (adj), shortness (n)",
+  "related": [
+   {
+    "w": "lengthen",
+    "zh": "加長",
+    "k": "opp"
+   },
+   {
+    "w": "cut",
+    "zh": "削減",
+    "k": "syn"
+   }
+  ],
+  "n": 295,
+  "day": 12,
+  "src": "TSL"
+ },
+ {
+  "word": "shortly",
+  "pos": "adv",
+  "pic": "⏳",
+  "zh": "不久；很快",
+  "en": "in a very short time",
+  "simple": "The train will leave shortly.",
+  "simple_zh": "火車即將出發。",
+  "toeic": "Our manager will join the meeting shortly.",
+  "toeic_zh": "我們經理很快就會加入會議。",
+  "family": "short (adj)",
+  "related": [
+   {
+    "w": "soon",
+    "zh": "很快",
+    "k": "syn"
+   },
+   {
+    "w": "briefly",
+    "zh": "簡短地",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 296,
+  "day": 12
+ },
+ {
+  "word": "skim",
+  "pos": "v",
+  "pic": "👀",
+  "zh": "略讀；瀏覽",
+  "en": "to read quickly without careful attention",
+  "simple": "I skim the news every morning.",
+  "simple_zh": "我每天早上瀏覽新聞。",
+  "toeic": "Please skim the report before the meeting begins.",
+  "toeic_zh": "請在會議開始前先瀏覽這份報告。",
+  "family": "",
+  "related": [
+   {
+    "w": "scan",
+    "zh": "掃讀",
+    "k": "syn"
+   },
+   {
+    "w": "skip",
+    "zh": "跳過",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 297,
+  "day": 12
+ },
+ {
+  "word": "slot",
+  "pos": "n",
+  "pic": "🎰",
+  "zh": "時段；投幣孔",
+  "en": "a narrow opening or a time period",
+  "simple": "Put the card in the slot.",
+  "simple_zh": "把卡片放進插槽。",
+  "toeic": "We have an open time slot on Tuesday afternoon.",
+  "toeic_zh": "我們週二下午有一個空檔時段。",
+  "family": "",
+  "related": [
+   {
+    "w": "slit",
+    "zh": "細縫",
+    "k": "confuse"
+   },
+   {
+    "w": "opening",
+    "zh": "空缺",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 298,
+  "day": 12
+ },
+ {
+  "word": "someday",
+  "pos": "adv",
+  "pic": "📅",
+  "zh": "有一天；改天",
+  "en": "at an unknown time in the future",
+  "simple": "I want to visit Japan someday.",
+  "simple_zh": "我想有一天去日本。",
+  "toeic": "We hope to open a branch in Paris someday.",
+  "toeic_zh": "我們希望有一天能在巴黎開一家分公司。",
+  "family": "someday (adv)",
+  "related": [
+   {
+    "w": "some day",
+    "zh": "某一天",
+    "k": "confuse"
+   },
+   {
+    "w": "sometime",
+    "zh": "某個時候",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 299,
+  "day": 12
+ },
+ {
+  "word": "sometime",
+  "pos": "adv",
+  "pic": "🕐",
+  "zh": "某個時候",
+  "en": "at a time that is not known or fixed",
+  "simple": "Call me sometime this week.",
+  "simple_zh": "這週找個時間打給我。",
+  "toeic": "The manager will visit our office sometime next month.",
+  "toeic_zh": "經理下個月某個時候會來我們辦公室。",
+  "family": "sometime (adv)",
+  "related": [
+   {
+    "w": "sometimes",
+    "zh": "有時候",
+    "k": "confuse"
+   },
+   {
+    "w": "someday",
+    "zh": "有一天",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 300,
+  "day": 12
+ },
+ {
+  "word": "tactic",
+  "pos": "n",
+  "pic": "🎮",
+  "zh": "戰術；技巧",
+  "en": "an action or strategy carefully planned to achieve an end",
+  "simple": "The sales team used different tactics to close deals.",
+  "simple_zh": "銷售團隊使用不同的戰術來成交。",
+  "toeic": "Negotiation tactics were discussed in the training session.",
+  "toeic_zh": "談判戰術在培訓課程中進行了討論。",
+  "family": "tactical (adj)",
+  "related": [
+   {
+    "w": "strategy",
+    "zh": "策略",
+    "k": "confuse"
+   },
+   {
+    "w": "approach",
+    "zh": "方法",
+    "k": "syn"
+   },
+   {
+    "w": "method",
+    "zh": "方法",
+    "k": "syn"
+   }
+  ],
+  "n": 301,
+  "day": 13,
+  "src": "TSL"
+ },
+ {
+  "word": "thorough",
+  "pos": "adj",
+  "pic": "✓✓",
+  "zh": "徹底的；周密的",
+  "en": "done in a careful and complete manner",
+  "simple": "Thorough review of proposals is required.",
+  "simple_zh": "需要對提案進行徹底審查。",
+  "toeic": "Thorough preparation ensures meeting success.",
+  "toeic_zh": "周密的準備確保會議成功。",
+  "family": "thoroughly (adv)",
+  "related": [
+   {
+    "w": "comprehensive",
+    "zh": "全面的",
+    "k": "syn"
+   },
+   {
+    "w": "complete",
+    "zh": "完整的",
+    "k": "syn"
+   },
+   {
+    "w": "meticulous",
+    "zh": "一絲不苟的",
+    "k": "syn"
+   }
+  ],
+  "n": 302,
+  "day": 13,
+  "src": "TSL"
+ },
+ {
+  "word": "timely",
+  "pos": "adj",
+  "pic": "✅",
+  "zh": "及時的；按時的",
+  "en": "occurring at or done at an opportune or useful moment",
+  "simple": "Timely information delivery is essential for good decisions.",
+  "simple_zh": "及時的信息傳遞對做出好決定至關重要。",
+  "toeic": "Timely notification of changes prevents confusion.",
+  "toeic_zh": "及時通知變更可防止混亂。",
+  "family": "timeliness (n)",
+  "related": [
+   {
+    "w": "punctual",
+    "zh": "守時的",
+    "k": "syn"
+   },
+   {
+    "w": "prompt",
+    "zh": "迅速的",
+    "k": "syn"
+   },
+   {
+    "w": "seasonable",
+    "zh": "適時的",
+    "k": "syn"
+   }
+  ],
+  "n": 303,
+  "day": 13,
+  "src": "TSL"
+ },
+ {
+  "word": "timetable",
+  "pos": "n",
+  "pic": "🚆",
+  "zh": "時刻表；時間表",
+  "en": "a list of times when things happen",
+  "simple": "Check the train timetable.",
+  "simple_zh": "查看火車時刻表。",
+  "toeic": "The timetable shows that the next train leaves at noon.",
+  "toeic_zh": "時刻表顯示下一班火車中午發車。",
+  "family": "timetable (n)",
+  "related": [
+   {
+    "w": "schedule",
+    "zh": "時程",
+    "k": "syn"
+   },
+   {
+    "w": "timeline",
+    "zh": "時間軸",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 304,
+  "day": 13
+ },
+ {
+  "word": "unavailable",
+  "pos": "adj",
+  "pic": "🚫",
+  "zh": "無法取得的；沒空的",
+  "en": "Not able to be used, bought, or met.",
+  "simple": "Mr. Lee is unavailable today.",
+  "simple_zh": "李先生今天沒空。",
+  "toeic": "The item you requested is currently unavailable in our warehouse.",
+  "toeic_zh": "您訂購的商品目前倉庫缺貨。",
+  "family": "available (adj), availability (n)",
+  "related": [
+   {
+    "w": "available",
+    "zh": "可用的",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 305,
+  "day": 13
+ },
+ {
+  "word": "underline",
+  "pos": "v",
+  "pic": "🖊️",
+  "zh": "在…下面劃線；強調",
+  "en": "To draw a line under words.",
+  "simple": "Please underline the new words.",
+  "simple_zh": "請把生字畫底線。",
+  "toeic": "Underline the key figures in the report before the meeting.",
+  "toeic_zh": "開會前請在報告中的關鍵數字下劃線。",
+  "family": "line (n)",
+  "related": [
+   {
+    "w": "highlight",
+    "zh": "標示重點",
+    "k": "syn"
+   },
+   {
+    "w": "emphasize",
+    "zh": "強調",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 306,
+  "day": 13
+ },
+ {
+  "word": "unreal",
+  "pos": "adj",
+  "pic": "🌈",
+  "zh": "不真實的",
+  "en": "Not real; hard to believe.",
+  "simple": "The view was almost unreal.",
+  "simple_zh": "那景色美得不真實。",
+  "toeic": "The sales forecast seems unreal given current market conditions.",
+  "toeic_zh": "以目前的市場狀況來看，這個銷售預測似乎不切實際。",
+  "family": "real (adj), reality (n)",
+  "related": [
+   {
+    "w": "unrealistic",
+    "zh": "不切實際的",
+    "k": "syn"
+   },
+   {
+    "w": "real",
+    "zh": "真實的",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 307,
+  "day": 13
+ },
+ {
+  "word": "upcoming",
+  "pos": "adj",
+  "pic": "📅",
+  "zh": "即將來臨的",
+  "en": "Going to happen soon.",
+  "simple": "I have an upcoming trip.",
+  "simple_zh": "我即將有一趟旅行。",
+  "toeic": "Please review the agenda for the upcoming board meeting.",
+  "toeic_zh": "請檢視即將舉行的董事會議議程。",
+  "family": "",
+  "related": [
+   {
+    "w": "forthcoming",
+    "zh": "即將到來的",
+    "k": "syn"
+   },
+   {
+    "w": "past",
+    "zh": "過去的",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 308,
+  "day": 13
+ },
+ {
+  "word": "videoconference",
+  "pos": "n",
+  "pic": "💻",
+  "zh": "視訊會議",
+  "en": "A meeting held by video over the internet.",
+  "simple": "We have a videoconference at ten.",
+  "simple_zh": "我們十點有視訊會議。",
+  "toeic": "The team will join the videoconference from three different cities.",
+  "toeic_zh": "團隊成員將從三個不同城市加入視訊會議。",
+  "family": "conference (n)",
+  "related": [
+   {
+    "w": "teleconference",
+    "zh": "電話會議",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 309,
+  "day": 13
+ },
+ {
+  "word": "weekday",
+  "pos": "n",
+  "pic": "📆",
+  "zh": "平日",
+  "en": "Any day from Monday to Friday.",
+  "simple": "I work every weekday.",
+  "simple_zh": "我每個平日都上班。",
+  "toeic": "The library is open from nine to six on every weekday.",
+  "toeic_zh": "圖書館平日每天九點到六點開放。",
+  "family": "week (n), weekend (n)",
+  "related": [
+   {
+    "w": "weekend",
+    "zh": "週末",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 310,
+  "day": 13
+ },
+ {
+  "word": "whoever",
+  "pos": "phr",
+  "pic": "🙋",
+  "zh": "無論誰",
+  "en": "Any person who.",
+  "simple": "Whoever comes first gets a seat.",
+  "simple_zh": "先來的人就有位子。",
+  "toeic": "Whoever finishes the report first should send it to the manager.",
+  "toeic_zh": "無論誰先完成報告，都應寄給經理。",
+  "family": "who (pron)",
+  "related": [
+   {
+    "w": "whomever",
+    "zh": "無論誰（受格）",
+    "k": "family"
+   },
+   {
+    "w": "anyone",
+    "zh": "任何人",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 311,
+  "day": 13
+ },
+ {
+  "word": "workshop",
+  "pos": "n",
+  "pic": "🛠️",
+  "zh": "工作坊；講習班",
+  "en": "a meeting at which a group of people engages in intensive discussion or training",
+  "simple": "The software workshop teaches advanced coding techniques.",
+  "simple_zh": "軟件工作坊教授高級編碼技術。",
+  "toeic": "Our company hosts quarterly workshops for skills development.",
+  "toeic_zh": "我們的公司每季度舉辦技能發展工作坊。",
+  "family": "workshopper (n)",
+  "related": [
+   {
+    "w": "seminar",
+    "zh": "研討班",
+    "k": "syn"
+   },
+   {
+    "w": "training",
+    "zh": "培訓",
+    "k": "syn"
+   },
+   {
+    "w": "session",
+    "zh": "會議；場次",
+    "k": "family"
+   }
+  ],
+  "n": 312,
+  "day": 13,
+  "src": "TSL"
+ },
+ {
+  "word": "worthwhile",
+  "pos": "adj",
+  "pic": "👍",
+  "zh": "值得的",
+  "en": "Good enough to deserve the time or money spent.",
+  "simple": "The trip was worthwhile.",
+  "simple_zh": "這趟旅行很值得。",
+  "toeic": "Attending the trade show proved worthwhile for our sales team.",
+  "toeic_zh": "參加貿易展對我們的業務團隊來說很值得。",
+  "family": "worth (adj/n)",
+  "related": [
+   {
+    "w": "worthy",
+    "zh": "值得的",
+    "k": "confuse"
+   },
+   {
+    "w": "pointless",
+    "zh": "無意義的",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 313,
+  "day": 13
+ },
+ {
+  "word": "yearly",
+  "pos": "adj",
+  "pic": "🗓️",
+  "zh": "每年的",
+  "en": "Happening once every year.",
+  "simple": "We have a yearly party.",
+  "simple_zh": "我們每年都有派對。",
+  "toeic": "Our yearly sales meeting will be held in Tokyo this time.",
+  "toeic_zh": "我們的年度業務會議這次將在東京舉行。",
+  "family": "year (n)",
+  "related": [
+   {
+    "w": "annual",
+    "zh": "每年的",
+    "k": "syn"
+   },
+   {
+    "w": "monthly",
+    "zh": "每月的",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 314,
+  "day": 13
+ },
+ {
+  "word": "collective",
+  "pos": "adj",
+  "pic": "👥",
+  "zh": "集體的；共同的",
+  "en": "relating to all the members of a group together",
+  "simple": "Collective decisions were made through voting.",
+  "simple_zh": "通過投票做出了集體決定。",
+  "toeic": "The collective input shaped the final strategy.",
+  "toeic_zh": "集體意見塑造了最終戰略。",
+  "family": "collectively (adv), collectivity (n)",
+  "related": [
+   {
+    "w": "common",
+    "zh": "共同的",
+    "k": "syn"
+   },
+   {
+    "w": "shared",
+    "zh": "共享的",
+    "k": "syn"
+   },
+   {
+    "w": "combined",
+    "zh": "結合的",
+    "k": "syn"
+   }
+  ],
+  "n": 315,
+  "day": 13,
+  "src": "BSL"
+ },
+ {
+  "word": "consensus",
+  "pos": "n",
+  "pic": "🤝",
+  "zh": "共識；一致同意",
+  "en": "general agreement among group members",
+  "simple": "We reached a consensus on the project timeline.",
+  "simple_zh": "我們就項目時間表達成了共識。",
+  "toeic": "The team worked to build consensus before implementing changes.",
+  "toeic_zh": "團隊在實施變更前努力建立共識。",
+  "family": "consensual (adj)",
+  "related": [
+   {
+    "w": "agreement",
+    "zh": "同意；協議",
+    "k": "syn"
+   },
+   {
+    "w": "concurrence",
+    "zh": "同意；一致",
+    "k": "syn"
+   },
+   {
+    "w": "harmony",
+    "zh": "和諧；和睦",
+    "k": "syn"
+   }
+  ],
+  "n": 316,
+  "day": 13,
+  "src": "BSL"
+ },
+ {
+  "word": "controversy",
+  "pos": "n",
+  "pic": "⚡",
+  "zh": "爭議；辯論",
+  "en": "prolonged public disagreement or heated debate",
+  "simple": "The controversy over the new policy divided the team.",
+  "simple_zh": "關於新政策的爭議分裂了團隊。",
+  "toeic": "The project faced controversy regarding its environmental impact.",
+  "toeic_zh": "該項目因其環境影響而面臨爭議。",
+  "family": "controversial (adj)",
+  "related": [
+   {
+    "w": "debate",
+    "zh": "辯論",
+    "k": "syn"
+   },
+   {
+    "w": "dispute",
+    "zh": "爭端",
+    "k": "syn"
+   },
+   {
+    "w": "disagreement",
+    "zh": "不同意",
+    "k": "syn"
+   }
+  ],
+  "n": 317,
+  "day": 13,
+  "src": "BSL"
+ },
+ {
+  "word": "cooperative",
+  "pos": "adj",
+  "pic": "🤲",
+  "zh": "合作的；樂於配合的",
+  "en": "relating to cooperation between parties",
+  "simple": "Cooperative participants made the meeting run smoothly.",
+  "simple_zh": "樂於配合的參與者使會議順利進行。",
+  "toeic": "A cooperative spirit is essential for project success.",
+  "toeic_zh": "合作精神對項目成功至關重要。",
+  "family": "cooperate (v), cooperation (n)",
+  "related": [
+   {
+    "w": "collaborative",
+    "zh": "協作的",
+    "k": "syn"
+   },
+   {
+    "w": "joint",
+    "zh": "聯合的",
+    "k": "syn"
+   },
+   {
+    "w": "mutual",
+    "zh": "相互的",
+    "k": "syn"
+   }
+  ],
+  "n": 318,
+  "day": 13,
+  "src": "BSL"
+ },
+ {
+  "word": "defer",
+  "pos": "v",
+  "pic": "⏳",
+  "zh": "延後；順從",
+  "en": "To delay something until a later time.",
+  "simple": "Let's defer the decision until Monday.",
+  "simple_zh": "我們把決定延到週一吧。",
+  "toeic": "The committee decided to defer the vote until the next meeting.",
+  "toeic_zh": "委員會決定把表決延到下次會議。",
+  "family": "deferral (n)",
+  "related": [
+   {
+    "w": "differ",
+    "zh": "不同",
+    "k": "confuse"
+   },
+   {
+    "w": "postpone",
+    "zh": "延期",
+    "k": "syn"
+   }
+  ],
+  "n": 319,
+  "day": 13,
+  "src": "BSL"
+ },
+ {
+  "word": "neutral",
+  "pos": "adj",
+  "pic": "⚪",
+  "zh": "中立的；中性的",
+  "en": "not supporting either side in a conflict",
+  "simple": "A neutral position is maintained during disputes.",
+  "simple_zh": "在爭議中保持中立立場。",
+  "toeic": "Neutral ground provides a safe space for negotiations.",
+  "toeic_zh": "中立的地點為談判提供了安全的空間。",
+  "family": "neutrality (n), neutrally (adv)",
+  "related": [
+   {
+    "w": "impartial",
+    "zh": "公正的",
+    "k": "syn"
+   },
+   {
+    "w": "unbiased",
+    "zh": "無偏見的",
+    "k": "syn"
+   },
+   {
+    "w": "objective",
+    "zh": "客觀的",
+    "k": "syn"
+   }
+  ],
+  "n": 320,
+  "day": 13,
+  "src": "BSL"
+ },
+ {
+  "word": "objection",
+  "pos": "n",
+  "pic": "🚫",
+  "zh": "反對；異議",
+  "en": "an expression of disagreement or disapproval",
+  "simple": "No objections were raised during the meeting.",
+  "simple_zh": "會議中沒有提出異議。",
+  "toeic": "The manager addressed the team's objections to the new policy.",
+  "toeic_zh": "經理解決了團隊對新政策的異議。",
+  "family": "object (v), objectionable (adj)",
+  "related": [
+   {
+    "w": "complaint",
+    "zh": "投訴；抱怨",
+    "k": "syn"
+   },
+   {
+    "w": "opposition",
+    "zh": "反對；對立",
+    "k": "syn"
+   },
+   {
+    "w": "protest",
+    "zh": "抗議；反對",
+    "k": "syn"
+   }
+  ],
+  "n": 321,
+  "day": 13,
+  "src": "BSL"
+ },
+ {
+  "word": "overlap",
+  "pos": "v",
+  "pic": "🔀",
+  "zh": "重疊",
+  "en": "To cover part of the same time or area.",
+  "simple": "The two classes overlap.",
+  "simple_zh": "這兩堂課時間重疊。",
+  "toeic": "The sales meeting may overlap with the training session.",
+  "toeic_zh": "業務會議可能與培訓課程時間重疊。",
+  "family": "overlap (n)",
+  "related": [
+   {
+    "w": "conflict",
+    "zh": "衝突",
+    "k": "syn"
+   },
+   {
+    "w": "separate",
+    "zh": "分開",
+    "k": "opp"
+   }
+  ],
+  "n": 322,
+  "day": 13,
+  "src": "BSL"
+ },
+ {
+  "word": "rational",
+  "pos": "adj",
+  "pic": "🤔",
+  "zh": "理性的；合理的",
+  "en": "based on reason or logic",
+  "simple": "A rational decision was made after considering all options.",
+  "simple_zh": "在考慮所有選項後做出了合理的決定。",
+  "toeic": "The rational basis for the decision was explained clearly.",
+  "toeic_zh": "決定的理性基礎得到了明確解釋。",
+  "family": "rationality (n), rationally (adv)",
+  "related": [
+   {
+    "w": "logical",
+    "zh": "邏輯的",
+    "k": "syn"
+   },
+   {
+    "w": "reasonable",
+    "zh": "合理的",
+    "k": "syn"
+   },
+   {
+    "w": "sensible",
+    "zh": "明智的；通情達理的",
+    "k": "syn"
+   }
+  ],
+  "n": 323,
+  "day": 13,
+  "src": "BSL"
+ },
+ {
+  "word": "subordinate",
+  "pos": "adj",
+  "pic": "📊",
+  "zh": "從屬的；下屬",
+  "en": "lower in rank or position",
+  "simple": "Subordinate staff attended the department meeting.",
+  "simple_zh": "下屬人員參加了部門會議。",
+  "toeic": "Subordinate details were handled by the committee.",
+  "toeic_zh": "委員會處理了從屬細節。",
+  "family": "subordinate (n/v), subordination (n)",
+  "related": [
+   {
+    "w": "junior",
+    "zh": "資深較淺的；年少的",
+    "k": "syn"
+   },
+   {
+    "w": "secondary",
+    "zh": "次要的",
+    "k": "syn"
+   },
+   {
+    "w": "auxiliary",
+    "zh": "輔助的",
+    "k": "syn"
+   }
+  ],
+  "n": 324,
+  "day": 13,
+  "src": "BSL"
+ },
+ {
+  "word": "summit",
+  "pos": "n",
+  "pic": "🏔️",
+  "zh": "峰會；頂峰",
+  "en": "a meeting of heads of state or senior officials",
+  "simple": "The international summit brought together world leaders.",
+  "simple_zh": "國際峰會聚集了世界領導人。",
+  "toeic": "The annual business summit showcases innovation and industry trends.",
+  "toeic_zh": "年度商業峰會展示創新和行業趨勢。",
+  "family": "summiteer (n)",
+  "related": [
+   {
+    "w": "conference",
+    "zh": "會議",
+    "k": "syn"
+   },
+   {
+    "w": "convention",
+    "zh": "大會；習俗",
+    "k": "confuse"
+   },
+   {
+    "w": "gathering",
+    "zh": "聚集",
+    "k": "syn"
+   }
+  ],
+  "n": 325,
+  "day": 13,
+  "src": "BSL"
+ },
+ {
+  "word": "systematic",
+  "pos": "adj",
+  "pic": "⚙️",
+  "zh": "系統的；有計劃的",
+  "en": "done in a methodical and organized way",
+  "simple": "A systematic approach prevents overlooking important topics.",
+  "simple_zh": "系統的方法可以防止遺漏重要主題。",
+  "toeic": "Systematic review of all proposals was completed.",
+  "toeic_zh": "對所有提案的系統審查已完成。",
+  "family": "systematically (adv)",
+  "related": [
+   {
+    "w": "methodical",
+    "zh": "有方法的",
+    "k": "syn"
+   },
+   {
+    "w": "organized",
+    "zh": "有組織的",
+    "k": "syn"
+   },
+   {
+    "w": "logical",
+    "zh": "邏輯的",
+    "k": "syn"
+   }
+  ],
+  "n": 326,
+  "day": 14,
+  "src": "BSL"
+ },
+ {
+  "word": "transparent",
+  "pos": "adj",
+  "pic": "👁️",
+  "zh": "透明的；清楚的",
+  "en": "open and clear, easy to perceive or understand",
+  "simple": "Transparent communication builds trust in meetings.",
+  "simple_zh": "透明的溝通在會議中建立信任。",
+  "toeic": "The company maintains transparent reporting to stakeholders.",
+  "toeic_zh": "公司對利益相關者保持透明報告。",
+  "family": "transparency (n), transparently (adv)",
+  "related": [
+   {
+    "w": "clear",
+    "zh": "清楚的",
+    "k": "syn"
+   },
+   {
+    "w": "open",
+    "zh": "開放的",
+    "k": "syn"
+   },
+   {
+    "w": "honest",
+    "zh": "誠實的",
+    "k": "syn"
+   }
+  ],
+  "n": 327,
+  "day": 14,
+  "src": "BSL"
+ },
+ {
+  "word": "virtual",
+  "pos": "adj",
+  "pic": "🌐",
+  "zh": "虛擬的；實質上的",
+  "en": "not physically existing but made to appear by software",
+  "simple": "Virtual meetings save travel time and costs.",
+  "simple_zh": "虛擬會議節省旅行時間和成本。",
+  "toeic": "The company held a virtual conference with 5,000 participants.",
+  "toeic_zh": "公司舉行了一次有5000名參與者的虛擬會議。",
+  "family": "virtually (adv)",
+  "related": [
+   {
+    "w": "remote",
+    "zh": "遠程的",
+    "k": "syn"
+   },
+   {
+    "w": "online",
+    "zh": "在線的",
+    "k": "syn"
+   },
+   {
+    "w": "digital",
+    "zh": "數位的",
+    "k": "syn"
+   }
+  ],
+  "n": 328,
+  "day": 14,
+  "src": "BSL"
+ },
+ {
+  "word": "rally",
+  "pos": "n",
+  "pic": "📣",
+  "zh": "集會；大會",
+  "en": "A large public meeting to support a cause.",
+  "simple": "Many people joined the rally.",
+  "simple_zh": "許多人參加了集會。",
+  "toeic": "The sales rally boosted team morale before the product launch.",
+  "toeic_zh": "在產品上市前，業務大會提振了團隊士氣。",
+  "family": "",
+  "related": [
+   {
+    "w": "gathering",
+    "zh": "聚會",
+    "k": "syn"
+   },
+   {
+    "w": "ally",
+    "zh": "盟友",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 329,
+  "day": 14
+ },
+ {
+  "word": "brave",
+  "pos": "adj",
+  "pic": "🦸",
+  "zh": "勇敢的",
+  "en": "Ready to face danger or difficulty.",
+  "simple": "The firefighter was brave.",
+  "simple_zh": "那位消防員很勇敢。",
+  "toeic": "It was brave of her to speak up during the meeting.",
+  "toeic_zh": "她在會議中勇敢發言，真有膽量。",
+  "family": "bravery (n)",
+  "related": [
+   {
+    "w": "courageous",
+    "zh": "勇敢的",
+    "k": "syn"
+   },
+   {
+    "w": "cowardly",
+    "zh": "膽小的",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 330,
+  "day": 14
+ },
+ {
+  "word": "odds",
+  "pos": "n",
+  "pic": "🎲",
+  "zh": "機率；勝算",
+  "en": "the chance that something will happen",
+  "simple": "The odds are against us.",
+  "simple_zh": "情勢對我們不利。",
+  "toeic": "The odds of winning this contract are quite high.",
+  "toeic_zh": "贏得這份合約的機率相當高。",
+  "family": "",
+  "related": [
+   {
+    "w": "chance",
+    "zh": "機會",
+    "k": "syn"
+   },
+   {
+    "w": "probability",
+    "zh": "可能性",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 331,
+  "day": 14
+ },
+ {
+  "word": "oral",
+  "pos": "adj",
+  "pic": "🗣️",
+  "zh": "口頭的；口述的",
+  "en": "spoken, not written",
+  "simple": "He gave an oral report.",
+  "simple_zh": "他做了口頭報告。",
+  "toeic": "An oral agreement is not enough; please sign the contract.",
+  "toeic_zh": "口頭協議是不夠的，請簽署合約。",
+  "family": "orally (adv)",
+  "related": [
+   {
+    "w": "aural",
+    "zh": "聽覺的",
+    "k": "confuse"
+   },
+   {
+    "w": "verbal",
+    "zh": "口頭的",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 332,
+  "day": 14
+ },
+ {
+  "word": "coalition",
+  "pos": "n",
+  "pic": "🤝",
+  "zh": "聯盟",
+  "en": "a group joining together for a goal",
+  "simple": "Three parties formed a coalition.",
+  "simple_zh": "三個政黨組成了聯盟。",
+  "toeic": "A coalition of retailers asked for new trade rules.",
+  "toeic_zh": "一個零售商聯盟要求制定新的貿易規則。",
+  "family": "coalesce (v)",
+  "related": [
+   {
+    "w": "alliance",
+    "zh": "聯盟",
+    "k": "syn"
+   },
+   {
+    "w": "collision",
+    "zh": "碰撞",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 333,
+  "day": 14
+ },
+ {
+  "word": "bitter",
+  "pos": "adj",
+  "pic": "😖",
+  "zh": "苦的；痛苦的；嚴寒的",
+  "en": "having a sharp, unpleasant taste or feeling",
+  "simple": "This coffee tastes bitter.",
+  "simple_zh": "這杯咖啡嚐起來很苦。",
+  "toeic": "The negotiations ended in bitter disagreement.",
+  "toeic_zh": "談判在激烈的爭執中結束。",
+  "family": "bitterly (adv), bitterness (n)",
+  "related": [
+   {
+    "w": "better",
+    "zh": "更好的",
+    "k": "confuse"
+   },
+   {
+    "w": "sour",
+    "zh": "酸的",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 334,
+  "day": 14
+ },
+ {
+  "word": "respective",
+  "pos": "adj",
+  "pic": "🙋",
+  "zh": "各自的",
+  "en": "belonging to each person separately",
+  "simple": "They went to their respective rooms.",
+  "simple_zh": "他們各自回到自己的房間。",
+  "toeic": "Team members will present their respective reports on Friday.",
+  "toeic_zh": "團隊成員將在週五報告各自的報告。",
+  "family": "respectively (adv)",
+  "related": [
+   {
+    "w": "respectful",
+    "zh": "恭敬的",
+    "k": "confuse"
+   },
+   {
+    "w": "respectable",
+    "zh": "值得尊敬的",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 335,
+  "day": 14
+ },
+ {
+  "word": "scenario",
+  "pos": "n",
+  "pic": "🎬",
+  "zh": "情境；劇本",
+  "en": "a possible situation or series of events",
+  "simple": "Think of a different scenario.",
+  "simple_zh": "想一個不同的情境。",
+  "toeic": "In the worst-case scenario, we would delay the launch.",
+  "toeic_zh": "在最糟的情況下，我們會延後上市。",
+  "family": "",
+  "related": [
+   {
+    "w": "scene",
+    "zh": "場景",
+    "k": "confuse"
+   },
+   {
+    "w": "situation",
+    "zh": "情況",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 336,
+  "day": 14
+ },
+ {
+  "word": "colonial",
+  "pos": "adj",
+  "pic": "🏛️",
+  "zh": "殖民的；殖民地時期的",
+  "en": "relating to a colony or its ruling country",
+  "simple": "The hotel is a colonial building.",
+  "simple_zh": "這家飯店是殖民時期建築。",
+  "toeic": "Our colonial style inn attracts many tourists.",
+  "toeic_zh": "我們的殖民風格旅店吸引許多觀光客。",
+  "family": "colony (n), colonize (v)",
+  "related": [
+   {
+    "w": "colony",
+    "zh": "殖民地",
+    "k": "family"
+   },
+   {
+    "w": "collegial",
+    "zh": "同僚的",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 337,
+  "day": 14
+ },
+ {
+  "word": "simultaneously",
+  "pos": "adv",
+  "pic": "⏱️",
+  "zh": "同時地",
+  "en": "at the same time",
+  "simple": "They spoke simultaneously.",
+  "simple_zh": "他們同時開口說話。",
+  "toeic": "Both lines can run simultaneously without slowing down.",
+  "toeic_zh": "兩條生產線可以同時運作而不會變慢。",
+  "family": "simultaneous (adj)",
+  "related": [
+   {
+    "w": "simultaneous",
+    "zh": "同時的",
+    "k": "family"
+   },
+   {
+    "w": "consecutively",
+    "zh": "連續地",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 338,
+  "day": 14
+ },
+ {
+  "word": "diary",
+  "pos": "n",
+  "pic": "📔",
+  "zh": "日記；記事簿",
+  "en": "a book where you write daily events",
+  "simple": "I write in my diary every night.",
+  "simple_zh": "我每晚都寫日記。",
+  "toeic": "She wrote the meeting time in her diary.",
+  "toeic_zh": "她把會議時間記在她的記事簿裡。",
+  "family": "",
+  "related": [
+   {
+    "w": "dairy",
+    "zh": "乳製品",
+    "k": "confuse"
+   },
+   {
+    "w": "journal",
+    "zh": "日誌",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 339,
+  "day": 14
+ },
+ {
+  "word": "spectacular",
+  "pos": "adj",
+  "pic": "🎆",
+  "zh": "壯觀的；精彩的",
+  "en": "very impressive and exciting to see",
+  "simple": "The view was spectacular.",
+  "simple_zh": "那景色非常壯觀。",
+  "toeic": "The resort offers spectacular views of the ocean.",
+  "toeic_zh": "這座度假村可欣賞壯觀的海景。",
+  "family": "spectacle (n)",
+  "related": [
+   {
+    "w": "spectacle",
+    "zh": "奇觀",
+    "k": "family"
+   },
+   {
+    "w": "impressive",
+    "zh": "令人印象深刻的",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 340,
+  "day": 14
+ },
+ {
+  "word": "stance",
+  "pos": "n",
+  "pic": "🧍‍♂️",
+  "zh": "立場；姿態",
+  "en": "a position or opinion on an issue",
+  "simple": "What is your stance on this?",
+  "simple_zh": "你對這件事的立場是什麼？",
+  "toeic": "The firm took a firm stance against late payments.",
+  "toeic_zh": "公司對延遲付款採取強硬立場。",
+  "family": "",
+  "related": [
+   {
+    "w": "position",
+    "zh": "立場",
+    "k": "syn"
+   },
+   {
+    "w": "distance",
+    "zh": "距離",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 341,
+  "day": 14
+ },
+ {
+  "word": "echo",
+  "pos": "n",
+  "pic": "🔊",
+  "zh": "回音；回聲",
+  "en": "a sound heard again after it hits a surface",
+  "simple": "I heard an echo in the hall.",
+  "simple_zh": "我在大廳聽到回音。",
+  "toeic": "The large meeting room has an echo that makes it hard to hear.",
+  "toeic_zh": "這間大會議室有回音，讓人很難聽清楚。",
+  "family": "",
+  "related": [
+   {
+    "w": "sound",
+    "zh": "聲音",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 342,
+  "day": 14
+ },
+ {
+  "word": "nonetheless",
+  "pos": "adv",
+  "pic": "↪️",
+  "zh": "儘管如此",
+  "en": "in spite of that; however",
+  "simple": "It rained; nonetheless, we went out.",
+  "simple_zh": "下雨了，儘管如此我們還是出門了。",
+  "toeic": "The price is high; nonetheless, the product sells well.",
+  "toeic_zh": "價格雖高，但這項產品仍然賣得很好。",
+  "family": "",
+  "related": [
+   {
+    "w": "nevertheless",
+    "zh": "然而",
+    "k": "syn"
+   },
+   {
+    "w": "therefore",
+    "zh": "因此",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 343,
+  "day": 14
+ },
+ {
+  "word": "namely",
+  "pos": "adv",
+  "pic": "👉",
+  "zh": "也就是；即",
+  "en": "used to introduce more exact details",
+  "simple": "I like two fruits, namely apples and pears.",
+  "simple_zh": "我喜歡兩種水果，即蘋果和梨子。",
+  "toeic": "We need two things, namely a budget and a schedule.",
+  "toeic_zh": "我們需要兩樣東西，也就是預算和時程表。",
+  "family": "name (n)",
+  "related": [
+   {
+    "w": "specifically",
+    "zh": "具體而言",
+    "k": "syn"
+   },
+   {
+    "w": "mainly",
+    "zh": "主要地",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 344,
+  "day": 14
+ },
+ {
+  "word": "dash",
+  "pos": "v",
+  "pic": "💨",
+  "zh": "衝；急奔",
+  "en": "to run or go somewhere very quickly",
+  "simple": "I must dash to the station.",
+  "simple_zh": "我得趕快衝去車站。",
+  "toeic": "We had to dash to the airport to catch our flight.",
+  "toeic_zh": "我們得趕緊衝去機場搭乘班機。",
+  "family": "",
+  "related": [
+   {
+    "w": "rush",
+    "zh": "衝",
+    "k": "syn"
+   },
+   {
+    "w": "dish",
+    "zh": "菜餚",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 345,
+  "day": 14
+ },
+ {
+  "word": "magnitude",
+  "pos": "n",
+  "pic": "📏",
+  "zh": "規模；重大程度",
+  "en": "great size or importance",
+  "simple": "The magnitude of the problem is big.",
+  "simple_zh": "這個問題的嚴重程度很大。",
+  "toeic": "Managers underestimated the magnitude of the budget shortfall.",
+  "toeic_zh": "經理們低估了預算短缺的嚴重程度。",
+  "family": "",
+  "related": [
+   {
+    "w": "magnify",
+    "zh": "放大",
+    "k": "family"
+   },
+   {
+    "w": "scale",
+    "zh": "規模",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 346,
+  "day": 14
+ },
+ {
+  "word": "uncertain",
+  "pos": "adj",
+  "pic": "❓",
+  "zh": "不確定的",
+  "en": "not sure or not decided",
+  "simple": "I am uncertain about the date.",
+  "simple_zh": "我不確定日期。",
+  "toeic": "The economic outlook remains uncertain for exporters.",
+  "toeic_zh": "對出口商而言，經濟前景依然不明朗。",
+  "family": "uncertainty (n), certain (adj)",
+  "related": [
+   {
+    "w": "certain",
+    "zh": "確定的",
+    "k": "opp"
+   },
+   {
+    "w": "unsure",
+    "zh": "不確定的",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 347,
+  "day": 14
+ },
+ {
+  "word": "clash",
+  "pos": "n",
+  "pic": "⚔️",
+  "zh": "衝突；牴觸",
+  "en": "a fight or strong disagreement; a conflict",
+  "simple": "There was a clash of ideas.",
+  "simple_zh": "出現了想法上的衝突。",
+  "toeic": "A schedule clash forced us to move the meeting.",
+  "toeic_zh": "行程衝突讓我們必須更改會議時間。",
+  "family": "clash (v)",
+  "related": [
+   {
+    "w": "conflict",
+    "zh": "衝突",
+    "k": "syn"
+   },
+   {
+    "w": "crash",
+    "zh": "墜毀；當機",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 348,
+  "day": 14
+ },
+ {
+  "word": "tactical",
+  "pos": "adj",
+  "pic": "♟️",
+  "zh": "戰術的；策略性的",
+  "en": "related to the plans used to reach a goal",
+  "simple": "It was a tactical move.",
+  "simple_zh": "那是一步策略性的棋。",
+  "toeic": "The team made a tactical decision to delay the product launch.",
+  "toeic_zh": "團隊做出了延後產品上市的策略性決定。",
+  "family": "tactic (n)",
+  "related": [
+   {
+    "w": "strategic",
+    "zh": "戰略的",
+    "k": "confuse"
+   },
+   {
+    "w": "tactic",
+    "zh": "戰術",
+    "k": "family"
+   }
+  ],
+  "src": "BSL",
+  "n": 349,
+  "day": 14
+ },
+ {
+  "word": "socially",
+  "pos": "adv",
+  "pic": "👥",
+  "zh": "在社交上；在社會上",
+  "en": "in a way related to people and society",
+  "simple": "He is socially active.",
+  "simple_zh": "他在社交上很活躍。",
+  "toeic": "The firm wants to be socially responsible in all its operations.",
+  "toeic_zh": "該公司希望在所有營運中善盡社會責任。",
+  "family": "society (n), social (adj)",
+  "related": [
+   {
+    "w": "social",
+    "zh": "社會的",
+    "k": "family"
+   },
+   {
+    "w": "socially",
+    "zh": "社會地",
+    "k": "family"
+   }
+  ],
+  "src": "BSL",
+  "n": 350,
+  "day": 14
+ },
+ {
+  "word": "conjunction",
+  "pos": "n",
+  "pic": "🔗",
+  "zh": "結合；連接詞",
+  "en": "the act of joining together; a joining word",
+  "simple": "\"And\" is a conjunction.",
+  "simple_zh": "「And」是連接詞。",
+  "toeic": "The event was held in conjunction with the trade fair.",
+  "toeic_zh": "這項活動與商展同時舉辦。",
+  "family": "conjoin (v)",
+  "related": [
+   {
+    "w": "combination",
+    "zh": "結合",
+    "k": "syn"
+   },
+   {
+    "w": "injunction",
+    "zh": "禁制令",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 351,
+  "day": 15
+ },
+ {
+  "word": "likelihood",
+  "pos": "n",
+  "pic": "🎲",
+  "zh": "可能性",
+  "en": "the chance that something will happen",
+  "simple": "There is a high likelihood of rain.",
+  "simple_zh": "很有可能會下雨。",
+  "toeic": "There is a strong likelihood that prices will rise next quarter.",
+  "toeic_zh": "下一季物價很可能會上漲。",
+  "family": "likely (adj)",
+  "related": [
+   {
+    "w": "probability",
+    "zh": "機率",
+    "k": "syn"
+   },
+   {
+    "w": "likely",
+    "zh": "可能的",
+    "k": "family"
+   }
+  ],
+  "src": "BSL",
+  "n": 352,
+  "day": 15
+ },
+ {
+  "word": "observer",
+  "pos": "n",
+  "pic": "👀",
+  "zh": "觀察者；觀察員",
+  "en": "a person who watches or notices things",
+  "simple": "He was a quiet observer.",
+  "simple_zh": "他是個安靜的旁觀者。",
+  "toeic": "Industry observers expect the merger to be approved soon.",
+  "toeic_zh": "業界觀察人士預期這項合併很快會獲批准。",
+  "family": "observe (v), observation (n)",
+  "related": [
+   {
+    "w": "observe",
+    "zh": "觀察",
+    "k": "family"
+   },
+   {
+    "w": "observant",
+    "zh": "善於觀察的",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 353,
+  "day": 15
+ },
+ {
+  "word": "leverage",
+  "pos": "n",
+  "pic": "🏗️",
+  "zh": "影響力；槓桿",
+  "en": "power or influence to get a result",
+  "simple": "Our size gives us leverage.",
+  "simple_zh": "我們的規模給了我們影響力。",
+  "toeic": "The firm used its market leverage to negotiate better prices.",
+  "toeic_zh": "該公司運用其市場影響力談到更好的價格。",
+  "family": "leverage (v)",
+  "related": [
+   {
+    "w": "advantage",
+    "zh": "優勢",
+    "k": "syn"
+   },
+   {
+    "w": "lever",
+    "zh": "槓桿",
+    "k": "family"
+   }
+  ],
+  "src": "BSL",
+  "n": 354,
+  "day": 15
+ },
+ {
+  "word": "successive",
+  "pos": "adj",
+  "pic": "➡️",
+  "zh": "連續的",
+  "en": "Coming one after another",
+  "simple": "We won three successive games.",
+  "simple_zh": "我們連贏三場比賽。",
+  "toeic": "The company reported profits for five successive quarters.",
+  "toeic_zh": "公司連續五季獲利。",
+  "family": "succeed (v), succession (n)",
+  "related": [
+   {
+    "w": "consecutive",
+    "zh": "連續的",
+    "k": "syn"
+   },
+   {
+    "w": "successful",
+    "zh": "成功的",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 355,
+  "day": 15
+ },
+ {
+  "word": "outright",
+  "pos": "adv",
+  "pic": "🙅",
+  "zh": "完全地；直接地",
+  "en": "Completely or openly",
+  "simple": "He refused outright.",
+  "simple_zh": "他直截了當地拒絕了。",
+  "toeic": "The board rejected the proposal outright.",
+  "toeic_zh": "董事會當場完全否決了該提案。",
+  "family": "",
+  "related": [
+   {
+    "w": "completely",
+    "zh": "完全地",
+    "k": "syn"
+   },
+   {
+    "w": "partly",
+    "zh": "部分地",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 356,
+  "day": 15
+ },
+ {
+  "word": "broadly",
+  "pos": "adv",
+  "pic": "🌐",
+  "zh": "大致上；廣泛地",
+  "en": "In a general way; widely",
+  "simple": "Broadly, we agree with you.",
+  "simple_zh": "大致上，我們同意你。",
+  "toeic": "Broadly speaking, sales have improved since the launch.",
+  "toeic_zh": "大致來說，產品上市後銷售已有改善。",
+  "family": "broad (adj)",
+  "related": [
+   {
+    "w": "generally",
+    "zh": "一般而言",
+    "k": "syn"
+   },
+   {
+    "w": "narrowly",
+    "zh": "狹義地",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 357,
+  "day": 15
+ },
+ {
+  "word": "certainty",
+  "pos": "n",
+  "pic": "✅",
+  "zh": "確定；必然",
+  "en": "The state of being completely sure",
+  "simple": "I know it with certainty.",
+  "simple_zh": "我確定知道這件事。",
+  "toeic": "There is no certainty that the deal will be approved.",
+  "toeic_zh": "無法確定這筆交易會獲得批准。",
+  "family": "certain (adj), certainly (adv)",
+  "related": [
+   {
+    "w": "doubt",
+    "zh": "懷疑",
+    "k": "opp"
+   },
+   {
+    "w": "uncertainty",
+    "zh": "不確定",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 358,
+  "day": 15
+ },
+ {
+  "word": "collectively",
+  "pos": "adv",
+  "pic": "🤝",
+  "zh": "集體地；共同地",
+  "en": "Together as a group",
+  "simple": "We collectively made the plan.",
+  "simple_zh": "我們共同擬定了計畫。",
+  "toeic": "The directors collectively approved the merger.",
+  "toeic_zh": "董事們共同批准了這項合併。",
+  "family": "collective (adj), collect (v)",
+  "related": [
+   {
+    "w": "jointly",
+    "zh": "共同地",
+    "k": "syn"
+   },
+   {
+    "w": "individually",
+    "zh": "個別地",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 359,
+  "day": 15
+ },
+ {
+  "word": "deliberate",
+  "pos": "adj",
+  "pic": "🎯",
+  "zh": "故意的；審慎的",
+  "en": "Done on purpose or carefully planned",
+  "simple": "It was a deliberate choice.",
+  "simple_zh": "那是刻意的選擇。",
+  "toeic": "The delay was a deliberate move to avoid extra costs.",
+  "toeic_zh": "延後是為了避免額外成本而刻意採取的舉動。",
+  "family": "deliberately (adv), deliberation (n)",
+  "related": [
+   {
+    "w": "intentional",
+    "zh": "故意的",
+    "k": "syn"
+   },
+   {
+    "w": "accidental",
+    "zh": "意外的",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 360,
+  "day": 15
+ },
+ {
+  "word": "drift",
+  "pos": "v",
+  "pic": "🌊",
+  "zh": "漂移；逐漸偏離",
+  "en": "To move slowly without control",
+  "simple": "The boat began to drift.",
+  "simple_zh": "船開始漂流。",
+  "toeic": "Sales began to drift downward during the summer.",
+  "toeic_zh": "夏季期間銷售開始逐漸下滑。",
+  "family": "",
+  "related": [
+   {
+    "w": "shift",
+    "zh": "轉變",
+    "k": "confuse"
+   },
+   {
+    "w": "wander",
+    "zh": "漫遊",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 361,
+  "day": 15
+ },
+ {
+  "word": "confront",
+  "pos": "v",
+  "pic": "😤",
+  "zh": "面對；對抗",
+  "en": "To face a problem or person directly",
+  "simple": "We must confront the problem.",
+  "simple_zh": "我們必須面對這個問題。",
+  "toeic": "The manager decided to confront the issue at the next meeting.",
+  "toeic_zh": "經理決定在下次會議中正面處理這個問題。",
+  "family": "confrontation (n)",
+  "related": [
+   {
+    "w": "face",
+    "zh": "面對",
+    "k": "syn"
+   },
+   {
+    "w": "avoid",
+    "zh": "迴避",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 362,
+  "day": 15
+ },
+ {
+  "word": "unrelated",
+  "pos": "adj",
+  "pic": "🔀",
+  "zh": "無關的",
+  "en": "Not connected to something",
+  "simple": "That is unrelated to work.",
+  "simple_zh": "那與工作無關。",
+  "toeic": "Please keep your comments unrelated to personal matters out of the meeting.",
+  "toeic_zh": "請不要在會議中提出與個人事務無關的意見。",
+  "family": "relate (v), related (adj)",
+  "related": [
+   {
+    "w": "related",
+    "zh": "相關的",
+    "k": "opp"
+   },
+   {
+    "w": "irrelevant",
+    "zh": "不相關的",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 363,
+  "day": 15
+ },
+ {
+  "word": "faction",
+  "pos": "n",
+  "pic": "👥",
+  "zh": "派系；小團體",
+  "en": "A small group within a larger group",
+  "simple": "A faction left the party.",
+  "simple_zh": "一個派系離開了政黨。",
+  "toeic": "One faction of the board opposed the merger.",
+  "toeic_zh": "董事會中的一個派系反對合併。",
+  "family": "",
+  "related": [
+   {
+    "w": "fraction",
+    "zh": "一小部分",
+    "k": "confuse"
+   },
+   {
+    "w": "group",
+    "zh": "團體",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 364,
+  "day": 15
+ },
+ {
+  "word": "stall",
+  "pos": "v",
+  "pic": "🛑",
+  "zh": "拖延；熄火",
+  "en": "To delay or stop making progress",
+  "simple": "The talks began to stall.",
+  "simple_zh": "談判開始停滯。",
+  "toeic": "Negotiations stalled over the price of the contract.",
+  "toeic_zh": "談判因合約價格而陷入停滯。",
+  "family": "",
+  "related": [
+   {
+    "w": "delay",
+    "zh": "拖延",
+    "k": "syn"
+   },
+   {
+    "w": "stool",
+    "zh": "凳子",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 365,
+  "day": 15
+ },
+ {
+  "word": "constructive",
+  "pos": "adj",
+  "pic": "🧱",
+  "zh": "有建設性的",
+  "en": "Helpful and meant to improve things",
+  "simple": "She gave constructive advice.",
+  "simple_zh": "她給了有建設性的建議。",
+  "toeic": "The manager offered constructive feedback after the presentation.",
+  "toeic_zh": "簡報後經理提出了有建設性的意見回饋。",
+  "family": "construct (v), construction (n)",
+  "related": [
+   {
+    "w": "helpful",
+    "zh": "有幫助的",
+    "k": "syn"
+   },
+   {
+    "w": "destructive",
+    "zh": "破壞性的",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 366,
+  "day": 15
+ },
+ {
+  "word": "interval",
+  "pos": "n",
+  "pic": "⏱️",
+  "zh": "間隔；空檔",
+  "en": "A period of time between two events",
+  "simple": "There is a short interval.",
+  "simple_zh": "中間有一小段空檔。",
+  "toeic": "Please check the machine at regular intervals.",
+  "toeic_zh": "請定期檢查機器。",
+  "family": "",
+  "related": [
+   {
+    "w": "break",
+    "zh": "休息",
+    "k": "syn"
+   },
+   {
+    "w": "interview",
+    "zh": "面試",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 367,
+  "day": 15
+ },
+ {
+  "word": "deed",
+  "pos": "n",
+  "pic": "📜",
+  "zh": "契約；行為",
+  "en": "a legal document about owning property; an action",
+  "simple": "He signed the deed for the house.",
+  "simple_zh": "他簽了房子的契據。",
+  "toeic": "The deed must be notarized before the property can be transferred.",
+  "toeic_zh": "契據必須經過公證，財產才能過戶。",
+  "family": "",
+  "related": [
+   {
+    "w": "indeed",
+    "zh": "確實",
+    "k": "confuse"
+   },
+   {
+    "w": "contract",
+    "zh": "合約",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 368,
+  "day": 15
+ },
+ {
+  "word": "forthcoming",
+  "pos": "adj",
+  "pic": "🔜",
+  "zh": "即將到來的",
+  "en": "coming soon; about to happen or appear",
+  "simple": "Our forthcoming trip is in May.",
+  "simple_zh": "我們即將到來的旅行在五月。",
+  "toeic": "Details of the forthcoming product launch will be announced next week.",
+  "toeic_zh": "即將推出的產品發表會細節將於下週公布。",
+  "family": "",
+  "related": [
+   {
+    "w": "upcoming",
+    "zh": "即將來臨的",
+    "k": "syn"
+   },
+   {
+    "w": "past",
+    "zh": "過去的",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 369,
+  "day": 15
+ },
+ {
+  "word": "relevance",
+  "pos": "n",
+  "pic": "🎯",
+  "zh": "關聯性；相關",
+  "en": "how closely something is connected to a topic",
+  "simple": "This idea has no relevance to us.",
+  "simple_zh": "這個想法與我們無關。",
+  "toeic": "Please explain the relevance of this data to our sales strategy.",
+  "toeic_zh": "請說明這些數據與我們銷售策略的關聯性。",
+  "family": "relevant (adj), relevance (n)",
+  "related": [
+   {
+    "w": "relevant",
+    "zh": "相關的",
+    "k": "family"
+   },
+   {
+    "w": "irrelevance",
+    "zh": "無關",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 370,
+  "day": 15
+ },
+ {
+  "word": "pact",
+  "pos": "n",
+  "pic": "🤝",
+  "zh": "協定；盟約",
+  "en": "a formal agreement between people or groups",
+  "simple": "The two friends made a pact.",
+  "simple_zh": "兩位朋友訂了一個約定。",
+  "toeic": "The two companies signed a pact to share research costs.",
+  "toeic_zh": "兩家公司簽署協議以分攤研究成本。",
+  "family": "",
+  "related": [
+   {
+    "w": "agreement",
+    "zh": "協議",
+    "k": "syn"
+   },
+   {
+    "w": "pack",
+    "zh": "打包",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 371,
+  "day": 15
+ },
+ {
+  "word": "proxy",
+  "pos": "n",
+  "pic": "🧑‍💼",
+  "zh": "代理人；委託書",
+  "en": "a person or thing that acts for another",
+  "simple": "She voted by proxy for her father.",
+  "simple_zh": "她代替父親投票。",
+  "toeic": "Shareholders who cannot attend may vote by proxy at the meeting.",
+  "toeic_zh": "無法出席的股東可在會議中委託代理投票。",
+  "family": "",
+  "related": [
+   {
+    "w": "agent",
+    "zh": "代理人",
+    "k": "syn"
+   },
+   {
+    "w": "approximate",
+    "zh": "大約的",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 372,
+  "day": 15
+ },
+ {
+  "word": "arbitration",
+  "pos": "n",
+  "pic": "⚖️",
+  "zh": "仲裁",
+  "en": "settling a dispute using an independent judge",
+  "simple": "The two sides went to arbitration.",
+  "simple_zh": "雙方進入仲裁。",
+  "toeic": "The dispute will be resolved through arbitration rather than in court.",
+  "toeic_zh": "這項爭議將透過仲裁而非法庭來解決。",
+  "family": "arbitrate (v), arbitrator (n), arbitration (n)",
+  "related": [
+   {
+    "w": "mediation",
+    "zh": "調解",
+    "k": "confuse"
+   },
+   {
+    "w": "arbitrate",
+    "zh": "仲裁",
+    "k": "family"
+   }
+  ],
+  "src": "BSL",
+  "n": 373,
+  "day": 15
+ },
+ {
+  "word": "feasible",
+  "pos": "adj",
+  "pic": "👌",
+  "zh": "可行的",
+  "en": "possible and likely to work",
+  "simple": "Is the plan feasible?",
+  "simple_zh": "這個計畫可行嗎？",
+  "toeic": "The team studied whether building a second factory was feasible.",
+  "toeic_zh": "團隊研究了興建第二間工廠是否可行。",
+  "family": "feasibility (n), feasible (adj)",
+  "related": [
+   {
+    "w": "possible",
+    "zh": "可能的",
+    "k": "syn"
+   },
+   {
+    "w": "visible",
+    "zh": "可見的",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 374,
+  "day": 15
+ },
+ {
+  "word": "diplomacy",
+  "pos": "n",
+  "pic": "🌐",
+  "zh": "外交；圓滑手腕",
+  "en": "managing relations between countries, or tactful skill",
+  "simple": "Good diplomacy can stop a fight.",
+  "simple_zh": "良好的外交可以避免爭吵。",
+  "toeic": "The negotiator used diplomacy to settle the trade dispute.",
+  "toeic_zh": "談判代表運用外交手腕化解貿易爭端。",
+  "family": "diplomat (n), diplomatic (adj), diplomacy (n)",
+  "related": [
+   {
+    "w": "diplomat",
+    "zh": "外交官",
+    "k": "family"
+   },
+   {
+    "w": "tact",
+    "zh": "圓融",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 375,
+  "day": 15
+ },
+ {
+  "word": "baseline",
+  "pos": "n",
+  "pic": "📏",
+  "zh": "基準線",
+  "en": "a starting level used for comparison",
+  "simple": "This is our baseline score.",
+  "simple_zh": "這是我們的基準分數。",
+  "toeic": "We measured current performance to set a baseline for future goals.",
+  "toeic_zh": "我們衡量目前績效，作為未來目標的基準。",
+  "family": "",
+  "related": [
+   {
+    "w": "benchmark",
+    "zh": "基準",
+    "k": "syn"
+   },
+   {
+    "w": "bottom line",
+    "zh": "底線；淨利",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 376,
+  "day": 16
+ },
+ {
+  "word": "counterpart",
+  "pos": "n",
+  "pic": "👥",
+  "zh": "對應的人或物",
+  "en": "a person or thing with a similar role elsewhere",
+  "simple": "I called my counterpart in Japan.",
+  "simple_zh": "我打給日本的對口窗口。",
+  "toeic": "Our sales director met her counterpart from the partner company.",
+  "toeic_zh": "我們的業務總監與合作公司的對等主管會面。",
+  "family": "",
+  "related": [
+   {
+    "w": "equivalent",
+    "zh": "對等者",
+    "k": "syn"
+   },
+   {
+    "w": "counterfeit",
+    "zh": "偽造的",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 377,
+  "day": 16
+ },
+ {
+  "word": "constituency",
+  "pos": "n",
+  "pic": "🗳️",
+  "zh": "選區；支持群體",
+  "en": "a group of voters or supporters in an area",
+  "simple": "Her constituency voted last week.",
+  "simple_zh": "她的選區上週投票了。",
+  "toeic": "The senator met with her constituency to hear their concerns.",
+  "toeic_zh": "參議員與選區民眾會面，聆聽他們的關切。",
+  "family": "constituent (n), constituency (n)",
+  "related": [
+   {
+    "w": "constituent",
+    "zh": "選民",
+    "k": "family"
+   },
+   {
+    "w": "district",
+    "zh": "地區",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 378,
+  "day": 16
+ },
+ {
+  "word": "diplomat",
+  "pos": "n",
+  "pic": "🎩",
+  "zh": "外交官",
+  "en": "an official who represents a country abroad",
+  "simple": "The diplomat lives in Paris.",
+  "simple_zh": "這位外交官住在巴黎。",
+  "toeic": "The diplomat attended the trade summit on behalf of the government.",
+  "toeic_zh": "該外交官代表政府出席貿易高峰會。",
+  "family": "diplomacy (n), diplomatic (adj), diplomat (n)",
+  "related": [
+   {
+    "w": "diplomatic",
+    "zh": "外交的",
+    "k": "family"
+   },
+   {
+    "w": "ambassador",
+    "zh": "大使",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 379,
+  "day": 16
+ },
+ {
+  "word": "underestimate",
+  "pos": "v",
+  "pic": "🤏",
+  "zh": "低估",
+  "en": "to think something is smaller or less than it is",
+  "simple": "Do not underestimate the cost.",
+  "simple_zh": "不要低估費用。",
+  "toeic": "We tend to underestimate the time needed to finish the renovation.",
+  "toeic_zh": "我們低估了完成整修所需的時間。",
+  "family": "estimate (v, n), underestimate (v), overestimate (v)",
+  "related": [
+   {
+    "w": "overestimate",
+    "zh": "高估",
+    "k": "opp"
+   },
+   {
+    "w": "estimate",
+    "zh": "估計",
+    "k": "family"
+   }
+  ],
+  "src": "BSL",
+  "n": 380,
+  "day": 16
+ },
+ {
+  "word": "disastrous",
+  "pos": "adj",
+  "pic": "🌋",
+  "zh": "災難性的",
+  "en": "causing great damage or failure",
+  "simple": "The storm was disastrous.",
+  "simple_zh": "那場暴風雨造成了災難。",
+  "toeic": "The product launch was disastrous because of serious software errors.",
+  "toeic_zh": "由於嚴重的軟體錯誤，這次產品發表以慘敗收場。",
+  "family": "disaster (n), disastrous (adj)",
+  "related": [
+   {
+    "w": "disaster",
+    "zh": "災難",
+    "k": "family"
+   },
+   {
+    "w": "catastrophic",
+    "zh": "災難性的",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 381,
+  "day": 16
+ },
+ {
+  "word": "mutually",
+  "pos": "adv",
+  "pic": "🤝",
+  "zh": "互相地",
+  "en": "in a way that both sides share",
+  "simple": "We agreed on a mutually good time.",
+  "simple_zh": "我們同意了對雙方都好的時間。",
+  "toeic": "The two parties reached a mutually acceptable solution.",
+  "toeic_zh": "雙方達成了彼此都能接受的解決方案。",
+  "family": "mutual (adj), mutually (adv)",
+  "related": [
+   {
+    "w": "jointly",
+    "zh": "共同地",
+    "k": "syn"
+   },
+   {
+    "w": "mutual",
+    "zh": "相互的",
+    "k": "family"
+   }
+  ],
+  "src": "BSL",
+  "n": 382,
+  "day": 16
+ },
+ {
+  "word": "imminent",
+  "pos": "adj",
+  "pic": "⏳",
+  "zh": "即將發生的",
+  "en": "about to happen very soon",
+  "simple": "The storm is imminent.",
+  "simple_zh": "暴風雨即將來臨。",
+  "toeic": "The merger announcement is imminent, according to company sources.",
+  "toeic_zh": "據公司消息人士透露，併購公告即將發布。",
+  "family": "imminence (n), imminent (adj)",
+  "related": [
+   {
+    "w": "eminent",
+    "zh": "傑出的",
+    "k": "confuse"
+   },
+   {
+    "w": "immanent",
+    "zh": "內在的",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 383,
+  "day": 16
+ },
+ {
+  "word": "deficiency",
+  "pos": "n",
+  "pic": "⚠️",
+  "zh": "缺陷；不足",
+  "en": "a lack of something needed",
+  "simple": "She has a vitamin deficiency.",
+  "simple_zh": "她缺乏維他命。",
+  "toeic": "The audit revealed a deficiency in the safety procedures.",
+  "toeic_zh": "稽核發現安全程序有缺失。",
+  "family": "deficient (adj)",
+  "related": [
+   {
+    "w": "shortage",
+    "zh": "短缺",
+    "k": "syn"
+   },
+   {
+    "w": "efficiency",
+    "zh": "效率",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 384,
+  "day": 16
+ },
+ {
+  "word": "align",
+  "pos": "v",
+  "pic": "📏",
+  "zh": "使一致；對齊",
+  "en": "to arrange things in a line or agree",
+  "simple": "Please align the two boxes.",
+  "simple_zh": "請把這兩個盒子對齊。",
+  "toeic": "We must align our goals with the company strategy.",
+  "toeic_zh": "我們必須讓目標與公司策略一致。",
+  "family": "alignment (n)",
+  "related": [
+   {
+    "w": "line up",
+    "zh": "排成一列",
+    "k": "syn"
+   },
+   {
+    "w": "assign",
+    "zh": "指派",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 385,
+  "day": 16
+ },
+ {
+  "word": "assertion",
+  "pos": "n",
+  "pic": "📢",
+  "zh": "主張；斷言",
+  "en": "a strong statement that something is true",
+  "simple": "His assertion was not true.",
+  "simple_zh": "他的說法不是真的。",
+  "toeic": "The report supports the manager's assertion that sales are rising.",
+  "toeic_zh": "報告支持經理關於銷售正在成長的主張。",
+  "family": "assert (v), assertive (adj)",
+  "related": [
+   {
+    "w": "claim",
+    "zh": "聲稱",
+    "k": "syn"
+   },
+   {
+    "w": "insertion",
+    "zh": "插入",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 386,
+  "day": 16
+ },
+ {
+  "word": "assert",
+  "pos": "v",
+  "pic": "📣",
+  "zh": "斷言；主張",
+  "en": "to state something firmly as true",
+  "simple": "I assert that I am right.",
+  "simple_zh": "我堅稱我是對的。",
+  "toeic": "The director asserted that the project would finish on time.",
+  "toeic_zh": "主任斷言專案會準時完成。",
+  "family": "assertion (n), assertive (adj)",
+  "related": [
+   {
+    "w": "insist",
+    "zh": "堅持",
+    "k": "syn"
+   },
+   {
+    "w": "assess",
+    "zh": "評估",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 387,
+  "day": 16
+ },
+ {
+  "word": "casualty",
+  "pos": "n",
+  "pic": "🚑",
+  "zh": "傷亡者；受害者",
+  "en": "a person hurt or killed in an accident",
+  "simple": "There was one casualty in the crash.",
+  "simple_zh": "車禍中有一名傷亡者。",
+  "toeic": "The factory fire caused no casualty, but the damage was heavy.",
+  "toeic_zh": "工廠火災沒有造成人員傷亡，但損失慘重。",
+  "family": "casual (adj)",
+  "related": [
+   {
+    "w": "victim",
+    "zh": "受害者",
+    "k": "syn"
+   },
+   {
+    "w": "casual",
+    "zh": "隨意的",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 388,
+  "day": 16
+ },
+ {
+  "word": "hypothetical",
+  "pos": "adj",
+  "pic": "❓",
+  "zh": "假設的",
+  "en": "based on an imagined situation, not fact",
+  "simple": "That is a hypothetical question.",
+  "simple_zh": "那是個假設性的問題。",
+  "toeic": "Let's consider a hypothetical case of rising material costs.",
+  "toeic_zh": "我們來設想一個原料成本上漲的假設情況。",
+  "family": "hypothesis (n), hypothetically (adv)",
+  "related": [
+   {
+    "w": "theoretical",
+    "zh": "理論上的",
+    "k": "syn"
+   },
+   {
+    "w": "actual",
+    "zh": "實際的",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 389,
+  "day": 16
+ },
+ {
+  "word": "commence",
+  "pos": "v",
+  "pic": "🏁",
+  "zh": "開始",
+  "en": "to begin",
+  "simple": "The class will commence at nine.",
+  "simple_zh": "課程九點開始。",
+  "toeic": "Construction will commence next month.",
+  "toeic_zh": "工程將於下個月開始。",
+  "family": "commencement (n)",
+  "related": [
+   {
+    "w": "begin",
+    "zh": "開始",
+    "k": "syn"
+   },
+   {
+    "w": "conclude",
+    "zh": "結束",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 390,
+  "day": 16
+ },
+ {
+  "word": "catastrophe",
+  "pos": "n",
+  "pic": "🌪️",
+  "zh": "大災難",
+  "en": "a sudden event causing great damage",
+  "simple": "The flood was a catastrophe.",
+  "simple_zh": "那場洪水是一場大災難。",
+  "toeic": "The insurance covers losses caused by a natural catastrophe.",
+  "toeic_zh": "這份保險涵蓋天然災難造成的損失。",
+  "family": "catastrophic (adj)",
+  "related": [
+   {
+    "w": "disaster",
+    "zh": "災難",
+    "k": "syn"
+   },
+   {
+    "w": "catalog",
+    "zh": "目錄",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 391,
+  "day": 16
+ },
+ {
+  "word": "contend",
+  "pos": "v",
+  "pic": "🥊",
+  "zh": "競爭；主張",
+  "en": "to compete; to argue that something is true",
+  "simple": "Two teams contend for the prize.",
+  "simple_zh": "兩支隊伍爭奪獎項。",
+  "toeic": "Small firms must contend with large global competitors.",
+  "toeic_zh": "小公司必須與大型跨國對手競爭。",
+  "family": "contender (n), contention (n)",
+  "related": [
+   {
+    "w": "compete",
+    "zh": "競爭",
+    "k": "syn"
+   },
+   {
+    "w": "intend",
+    "zh": "打算",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 392,
+  "day": 16
+ },
+ {
+  "word": "reversal",
+  "pos": "n",
+  "pic": "🔄",
+  "zh": "逆轉；撤銷",
+  "en": "a change to the opposite direction or decision",
+  "simple": "The team had a sudden reversal.",
+  "simple_zh": "球隊突然出現逆轉。",
+  "toeic": "The court ordered a reversal of the earlier decision.",
+  "toeic_zh": "法院下令撤銷先前的決定。",
+  "family": "reverse (v, n)",
+  "related": [
+   {
+    "w": "reverse",
+    "zh": "反轉",
+    "k": "family"
+   },
+   {
+    "w": "reversion",
+    "zh": "回復",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 393,
+  "day": 16
+ },
+ {
+  "word": "prevail",
+  "pos": "v",
+  "pic": "🏆",
+  "zh": "獲勝；盛行",
+  "en": "to win or be most common",
+  "simple": "I hope good ideas prevail.",
+  "simple_zh": "我希望好點子能勝出。",
+  "toeic": "Low prices still prevail in the local market.",
+  "toeic_zh": "本地市場仍普遍維持低價。",
+  "family": "prevalent (adj), prevalence (n)",
+  "related": [
+   {
+    "w": "triumph",
+    "zh": "獲勝",
+    "k": "syn"
+   },
+   {
+    "w": "prevent",
+    "zh": "防止",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 394,
+  "day": 16
+ },
+ {
+  "word": "safeguard",
+  "pos": "v",
+  "pic": "🛡️",
+  "zh": "保護；保障",
+  "en": "to protect something from harm",
+  "simple": "Lock the door to safeguard your bike.",
+  "simple_zh": "鎖上門來保護你的腳踏車。",
+  "toeic": "We use passwords to safeguard customer data.",
+  "toeic_zh": "我們用密碼來保護客戶資料。",
+  "family": "guard (v, n)",
+  "related": [
+   {
+    "w": "protect",
+    "zh": "保護",
+    "k": "syn"
+   },
+   {
+    "w": "endanger",
+    "zh": "危及",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 395,
+  "day": 16
+ },
+ {
+  "word": "downside",
+  "pos": "n",
+  "pic": "👎",
+  "zh": "缺點；不利面",
+  "en": "the negative part of something",
+  "simple": "The downside is the high price.",
+  "simple_zh": "缺點是價格太高。",
+  "toeic": "The main downside of the plan is its cost.",
+  "toeic_zh": "這項計畫的主要缺點是成本。",
+  "family": "",
+  "related": [
+   {
+    "w": "drawback",
+    "zh": "缺點",
+    "k": "syn"
+   },
+   {
+    "w": "upside",
+    "zh": "優點",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 396,
+  "day": 16
+ },
+ {
+  "word": "rationale",
+  "pos": "n",
+  "pic": "🧠",
+  "zh": "基本原理；理由",
+  "en": "the reasons behind a decision",
+  "simple": "What is the rationale for this rule?",
+  "simple_zh": "這項規定的理由是什麼？",
+  "toeic": "The manager explained the rationale behind the price increase.",
+  "toeic_zh": "經理說明了調漲價格背後的理由。",
+  "family": "rational (adj)",
+  "related": [
+   {
+    "w": "reason",
+    "zh": "理由",
+    "k": "syn"
+   },
+   {
+    "w": "rational",
+    "zh": "理性的",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 397,
+  "day": 16
+ },
+ {
+  "word": "reap",
+  "pos": "v",
+  "pic": "🌾",
+  "zh": "收穫；獲得",
+  "en": "to get a result or reward from effort",
+  "simple": "Farmers reap the corn in fall.",
+  "simple_zh": "農夫在秋天收割玉米。",
+  "toeic": "The company will reap the benefits of its new strategy.",
+  "toeic_zh": "公司將從新策略中獲益。",
+  "family": "",
+  "related": [
+   {
+    "w": "harvest",
+    "zh": "收割",
+    "k": "syn"
+   },
+   {
+    "w": "reapply",
+    "zh": "再申請",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 398,
+  "day": 16
+ },
+ {
+  "word": "turmoil",
+  "pos": "n",
+  "pic": "🌊",
+  "zh": "混亂；動盪",
+  "en": "a state of great confusion or trouble",
+  "simple": "The town was in turmoil.",
+  "simple_zh": "這座小鎮陷入混亂。",
+  "toeic": "The market was in turmoil after the announcement.",
+  "toeic_zh": "公告發布後市場陷入動盪。",
+  "family": "",
+  "related": [
+   {
+    "w": "chaos",
+    "zh": "混亂",
+    "k": "syn"
+   },
+   {
+    "w": "calm",
+    "zh": "平靜",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 399,
+  "day": 16
+ },
+ {
+  "word": "syndicate",
+  "pos": "n",
+  "pic": "🤝",
+  "zh": "企業聯合組織；財團",
+  "en": "a group of companies working together",
+  "simple": "A syndicate bought the building.",
+  "simple_zh": "一個財團買下了這棟大樓。",
+  "toeic": "A syndicate of banks provided the loan.",
+  "toeic_zh": "一個銀行團提供了這筆貸款。",
+  "family": "syndication (n)",
+  "related": [
+   {
+    "w": "consortium",
+    "zh": "聯合企業",
+    "k": "syn"
+   },
+   {
+    "w": "syndrome",
+    "zh": "症候群",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 400,
+  "day": 16
+ }
+]

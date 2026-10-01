@@ -1,0 +1,5382 @@
+[
+ {
+  "word": "absorb",
+  "pos": "v",
+  "pic": "🧽",
+  "zh": "吸收；承擔（費用）",
+  "en": "to take in a liquid, or to deal with a cost",
+  "simple": "A sponge can absorb water.",
+  "simple_zh": "海綿可以吸水。",
+  "toeic": "The company will absorb the extra shipping costs.",
+  "toeic_zh": "公司將承擔額外的運費。",
+  "family": "absorption (n), absorbent (adj)",
+  "related": [
+   {
+    "w": "adsorb",
+    "zh": "吸附",
+    "k": "confuse"
+   },
+   {
+    "w": "soak up",
+    "zh": "吸收",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1201,
+  "day": 49
+ },
+ {
+  "word": "accountant",
+  "pos": "n",
+  "pic": "🧮",
+  "zh": "會計師",
+  "en": "a person who keeps or checks financial records",
+  "simple": "My uncle is an accountant.",
+  "simple_zh": "我叔叔是會計師。",
+  "toeic": "The accountant prepared the quarterly tax report.",
+  "toeic_zh": "會計師準備了季度報稅表。",
+  "family": "account (n), accounting (n)",
+  "related": [
+   {
+    "w": "account",
+    "zh": "帳戶",
+    "k": "family"
+   },
+   {
+    "w": "auditor",
+    "zh": "查帳員",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1202,
+  "day": 49
+ },
+ {
+  "word": "accumulate",
+  "pos": "v",
+  "pic": "📈",
+  "zh": "累積；積聚",
+  "en": "to gradually collect a larger amount",
+  "simple": "Dust will accumulate on the shelf.",
+  "simple_zh": "灰塵會堆積在架子上。",
+  "toeic": "Frequent flyers can accumulate points with every trip.",
+  "toeic_zh": "常客可以在每次旅程中累積點數。",
+  "family": "accumulation (n)",
+  "related": [
+   {
+    "w": "gather",
+    "zh": "收集",
+    "k": "syn"
+   },
+   {
+    "w": "spend",
+    "zh": "花費",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1203,
+  "day": 49
+ },
+ {
+  "word": "accurately",
+  "pos": "adv",
+  "pic": "🎯",
+  "zh": "準確地",
+  "en": "in a correct and exact way",
+  "simple": "Please spell your name accurately.",
+  "simple_zh": "請準確拼寫你的名字。",
+  "toeic": "The report must accurately reflect the company's earnings.",
+  "toeic_zh": "報告必須準確反映公司的收益。",
+  "family": "accurate (adj), accuracy (n)",
+  "related": [
+   {
+    "w": "precisely",
+    "zh": "精確地",
+    "k": "syn"
+   },
+   {
+    "w": "inaccurately",
+    "zh": "不準確地",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1204,
+  "day": 49
+ },
+ {
+  "word": "annually",
+  "pos": "adv",
+  "pic": "🗓️",
+  "zh": "每年地；按年",
+  "en": "once every year",
+  "simple": "We pay this bill annually.",
+  "simple_zh": "我們每年支付這張帳單。",
+  "toeic": "The board meets annually to review the company's financial plans.",
+  "toeic_zh": "董事會每年開會一次，檢討公司的財務計畫。",
+  "family": "annual (adj) 每年的; annual report 年報; monthly (adv); quarterly (adv)",
+  "related": [
+   {
+    "w": "biannually",
+    "zh": "每年兩次地",
+    "k": "confuse"
+   },
+   {
+    "w": "yearly",
+    "zh": "每年的",
+    "k": "syn"
+   }
+  ],
+  "n": 1205,
+  "day": 49,
+  "src": "TSL"
+ },
+ {
+  "word": "attorney",
+  "pos": "n",
+  "pic": "⚖️",
+  "zh": "律師",
+  "en": "a lawyer who represents clients",
+  "simple": "My attorney read the contract.",
+  "simple_zh": "我的律師看過了合約。",
+  "toeic": "Our attorney will review the agreement before we sign it.",
+  "toeic_zh": "我們的律師會在簽約前審閱這份協議。",
+  "family": "",
+  "related": [
+   {
+    "w": "lawyer",
+    "zh": "律師",
+    "k": "syn"
+   },
+   {
+    "w": "client",
+    "zh": "客戶",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 1206,
+  "day": 49
+ },
+ {
+  "word": "auditor",
+  "pos": "n",
+  "pic": "🔎",
+  "zh": "審計員；查帳員",
+  "en": "a person who checks financial records",
+  "simple": "The auditor checked our records.",
+  "simple_zh": "審計員檢查了我們的紀錄。",
+  "toeic": "An external auditor will inspect the annual accounts.",
+  "toeic_zh": "外部審計員將查核年度帳目。",
+  "family": "audit (n, v)",
+  "related": [
+   {
+    "w": "accountant",
+    "zh": "會計師",
+    "k": "syn"
+   },
+   {
+    "w": "audience",
+    "zh": "觀眾",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1207,
+  "day": 49
+ },
+ {
+  "word": "banker",
+  "pos": "n",
+  "pic": "🏦",
+  "zh": "銀行家；銀行員",
+  "en": "a person who works in or owns a bank",
+  "simple": "My aunt is a banker.",
+  "simple_zh": "我阿姨是銀行員。",
+  "toeic": "The banker explained the terms of the business loan.",
+  "toeic_zh": "銀行員說明了企業貸款的條款。",
+  "family": "bank (n), banking (n)",
+  "related": [
+   {
+    "w": "baker",
+    "zh": "麵包師傅",
+    "k": "confuse"
+   },
+   {
+    "w": "lender",
+    "zh": "貸款人",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1208,
+  "day": 49
+ },
+ {
+  "word": "bankrupt",
+  "pos": "adj",
+  "pic": "🚫",
+  "zh": "破產的",
+  "en": "not able to pay what you owe",
+  "simple": "The shop went bankrupt last year.",
+  "simple_zh": "那家店去年倒閉了。",
+  "toeic": "The retailer went bankrupt after losing its largest customer.",
+  "toeic_zh": "這家零售商在失去最大客戶後破產了。",
+  "family": "bankruptcy (n) 破產; go bankrupt 破產; declare bankruptcy 宣告破產",
+  "related": [
+   {
+    "w": "insolvent",
+    "zh": "無力償債的",
+    "k": "syn"
+   },
+   {
+    "w": "bankruptcy",
+    "zh": "破產",
+    "k": "family"
+   }
+  ],
+  "n": 1209,
+  "day": 49,
+  "src": "TSL"
+ },
+ {
+  "word": "bankruptcy",
+  "pos": "n",
+  "pic": "📉",
+  "zh": "破產",
+  "en": "the state of being unable to pay debts",
+  "simple": "The shop went into bankruptcy.",
+  "simple_zh": "那家店破產了。",
+  "toeic": "The company filed for bankruptcy after losing its biggest client.",
+  "toeic_zh": "公司在失去最大客戶後申請破產。",
+  "family": "bankrupt (adj)",
+  "related": [
+   {
+    "w": "bankrupt",
+    "zh": "破產的",
+    "k": "family"
+   },
+   {
+    "w": "insolvency",
+    "zh": "無力償債",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1210,
+  "day": 49
+ },
+ {
+  "word": "bound",
+  "pos": "adj",
+  "pic": "🔗",
+  "zh": "一定會的;受約束的",
+  "en": "Certain to happen, or required by a rule.",
+  "simple": "He is bound to win.",
+  "simple_zh": "他一定會贏。",
+  "toeic": "Both parties are bound by the terms of the contract.",
+  "toeic_zh": "雙方皆受合約條款約束。",
+  "family": "bind (v), binding (adj)",
+  "related": [
+   {
+    "w": "bond",
+    "zh": "債券;連結",
+    "k": "confuse"
+   },
+   {
+    "w": "obliged",
+    "zh": "有義務的",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1211,
+  "day": 49
+ },
+ {
+  "word": "by-law",
+  "pos": "n",
+  "pic": "📜",
+  "zh": "內部規章;地方法規",
+  "en": "A rule made by a company or local authority.",
+  "simple": "The by-law says no parking here.",
+  "simple_zh": "規章規定這裡不可停車。",
+  "toeic": "The by-law requires a majority vote to change the budget.",
+  "toeic_zh": "該規章規定變更預算須經多數決。",
+  "family": "",
+  "related": [
+   {
+    "w": "regulation",
+    "zh": "規定",
+    "k": "syn"
+   },
+   {
+    "w": "bylaw",
+    "zh": "細則",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1212,
+  "day": 49
+ },
+ {
+  "word": "calculation",
+  "pos": "n",
+  "pic": "🧮",
+  "zh": "計算",
+  "en": "The act of finding an amount using numbers.",
+  "simple": "My calculation was wrong.",
+  "simple_zh": "我的計算是錯的。",
+  "toeic": "The accountant checked each calculation before sending the report.",
+  "toeic_zh": "會計師在送出報告前檢查了每一項計算。",
+  "family": "calculate (v), calculator (n)",
+  "related": [
+   {
+    "w": "calculator",
+    "zh": "計算機",
+    "k": "family"
+   },
+   {
+    "w": "estimate",
+    "zh": "估算",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1213,
+  "day": 49
+ },
+ {
+  "word": "calculator",
+  "pos": "n",
+  "pic": "🔢",
+  "zh": "計算機",
+  "en": "A small machine that does math for you.",
+  "simple": "I need a calculator.",
+  "simple_zh": "我需要一台計算機。",
+  "toeic": "Use the calculator to confirm the total on the invoice.",
+  "toeic_zh": "請用計算機確認發票上的總額。",
+  "family": "calculate (v), calculation (n)",
+  "related": [
+   {
+    "w": "calculation",
+    "zh": "計算",
+    "k": "family"
+   },
+   {
+    "w": "calendar",
+    "zh": "日曆",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1214,
+  "day": 49
+ },
+ {
+  "word": "cautious",
+  "pos": "adj",
+  "pic": "🐢",
+  "zh": "謹慎的",
+  "en": "Careful to avoid risk or danger.",
+  "simple": "Be cautious on the icy road.",
+  "simple_zh": "在結冰的路上要小心。",
+  "toeic": "Investors remain cautious about the new market.",
+  "toeic_zh": "投資人對這個新市場仍持謹慎態度。",
+  "family": "caution (n), cautiously (adv)",
+  "related": [
+   {
+    "w": "careful",
+    "zh": "小心的",
+    "k": "syn"
+   },
+   {
+    "w": "reckless",
+    "zh": "魯莽的",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1215,
+  "day": 49
+ },
+ {
+  "word": "charitable",
+  "pos": "adj",
+  "pic": "🤲",
+  "zh": "慈善的",
+  "en": "Giving help or money to people in need.",
+  "simple": "She does charitable work.",
+  "simple_zh": "她從事慈善工作。",
+  "toeic": "The firm made a charitable donation to the local school.",
+  "toeic_zh": "該公司向當地學校捐出一筆慈善捐款。",
+  "family": "charity (n)",
+  "related": [
+   {
+    "w": "charity",
+    "zh": "慈善團體",
+    "k": "family"
+   },
+   {
+    "w": "generous",
+    "zh": "慷慨的",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1216,
+  "day": 49
+ },
+ {
+  "word": "collector",
+  "pos": "n",
+  "pic": "🧺",
+  "zh": "收集者;收款員",
+  "en": "A person who gathers things, such as art or payments.",
+  "simple": "My father is a stamp collector.",
+  "simple_zh": "我爸爸是集郵者。",
+  "toeic": "The tax collector will visit the office on Monday.",
+  "toeic_zh": "稅務員週一會到辦公室拜訪。",
+  "family": "collect (v), collection (n)",
+  "related": [
+   {
+    "w": "collection",
+    "zh": "收藏品",
+    "k": "family"
+   },
+   {
+    "w": "corrector",
+    "zh": "校正者",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1217,
+  "day": 49
+ },
+ {
+  "word": "contraction",
+  "pos": "n",
+  "pic": "📉",
+  "zh": "收縮；縮減",
+  "en": "a decrease in size or amount",
+  "simple": "The economy showed a contraction.",
+  "simple_zh": "經濟出現了萎縮。",
+  "toeic": "The report predicts a contraction in the housing market this year.",
+  "toeic_zh": "報告預測今年房市將出現萎縮。",
+  "family": "contract (v), contraction (n)",
+  "related": [
+   {
+    "w": "contract",
+    "zh": "合約",
+    "k": "confuse"
+   },
+   {
+    "w": "expansion",
+    "zh": "擴張",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1218,
+  "day": 49
+ },
+ {
+  "word": "cumulative",
+  "pos": "adj",
+  "pic": "🧮",
+  "zh": "累積的",
+  "en": "growing by adding more over time",
+  "simple": "The cumulative total is large.",
+  "simple_zh": "累積總數很大。",
+  "toeic": "The cumulative sales for the year reached two million dollars.",
+  "toeic_zh": "全年累計銷售額達到兩百萬美元。",
+  "family": "accumulate (v), accumulation (n), cumulative (adj)",
+  "related": [
+   {
+    "w": "accumulate",
+    "zh": "累積",
+    "k": "family"
+   },
+   {
+    "w": "total",
+    "zh": "總計的",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1219,
+  "day": 49
+ },
+ {
+  "word": "debit",
+  "pos": "n",
+  "pic": "💳",
+  "zh": "借記；扣款",
+  "en": "money taken out of a bank account",
+  "simple": "I paid with a debit card.",
+  "simple_zh": "我用簽帳金融卡付款。",
+  "toeic": "A debit of fifty dollars was made to your account yesterday.",
+  "toeic_zh": "昨天您的帳戶被扣款五十美元。",
+  "family": "",
+  "related": [
+   {
+    "w": "credit",
+    "zh": "貸方；信用",
+    "k": "opp"
+   },
+   {
+    "w": "debt",
+    "zh": "債務",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1220,
+  "day": 49
+ },
+ {
+  "word": "deduct",
+  "pos": "v",
+  "pic": "➖",
+  "zh": "扣除；減去",
+  "en": "to take an amount away from a total",
+  "simple": "They deduct money from my pay.",
+  "simple_zh": "他們從我的薪水裡扣錢。",
+  "toeic": "The company will deduct the insurance fee from your monthly salary.",
+  "toeic_zh": "公司會從你的月薪中扣除保險費。",
+  "family": "deduction (n) 扣除額; deductible (adj) 可扣除的; tax deduction 稅額減免",
+  "related": [
+   {
+    "w": "deduce",
+    "zh": "推論",
+    "k": "confuse"
+   },
+   {
+    "w": "subtract",
+    "zh": "減去",
+    "k": "syn"
+   }
+  ],
+  "n": 1221,
+  "day": 49,
+  "src": "TSL"
+ },
+ {
+  "word": "dividend",
+  "pos": "n",
+  "pic": "💰",
+  "zh": "股息",
+  "en": "portion of company profits paid to shareholders",
+  "simple": "Dividends were paid quarterly.",
+  "simple_zh": "股息按季度支付。",
+  "toeic": "Dividend yields are attractive.",
+  "toeic_zh": "股息收益率很高。",
+  "family": "dividend (n), dividends (pl)",
+  "related": [
+   {
+    "w": "distribution",
+    "zh": "分配",
+    "k": "syn"
+   },
+   {
+    "w": "earnings",
+    "zh": "收益",
+    "k": "confuse"
+   }
+  ],
+  "n": 1222,
+  "day": 49,
+  "src": "TSL"
+ },
+ {
+  "word": "donate",
+  "pos": "v",
+  "pic": "🎁",
+  "zh": "捐贈",
+  "en": "to give money or things to help others",
+  "simple": "I donate old clothes.",
+  "simple_zh": "我捐出舊衣服。",
+  "toeic": "The firm will donate ten percent of its profits to local schools.",
+  "toeic_zh": "該公司將把百分之十的利潤捐給當地學校。",
+  "family": "donation (n), donor (n), donate (v)",
+  "related": [
+   {
+    "w": "contribute",
+    "zh": "貢獻",
+    "k": "syn"
+   },
+   {
+    "w": "donor",
+    "zh": "捐贈者",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 1223,
+  "day": 49
+ },
+ {
+  "word": "donation",
+  "pos": "n",
+  "pic": "💝",
+  "zh": "捐款；捐贈",
+  "en": "money or goods given to help",
+  "simple": "I made a small donation.",
+  "simple_zh": "我捐了一小筆錢。",
+  "toeic": "All donations will go to the new children's hospital.",
+  "toeic_zh": "所有捐款都將用於新的兒童醫院。",
+  "family": "donate (v), donor (n), donation (n)",
+  "related": [
+   {
+    "w": "donate",
+    "zh": "捐贈",
+    "k": "family"
+   },
+   {
+    "w": "contribution",
+    "zh": "貢獻",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1224,
+  "day": 49
+ },
+ {
+  "word": "downturn",
+  "pos": "n",
+  "pic": "📉",
+  "zh": "衰退；低迷",
+  "en": "a period when business or the economy gets worse",
+  "simple": "The economy has a downturn this year.",
+  "simple_zh": "今年經濟不景氣。",
+  "toeic": "The company cut costs during the economic downturn.",
+  "toeic_zh": "公司在經濟衰退期間削減了成本。",
+  "family": "",
+  "related": [
+   {
+    "w": "upturn",
+    "zh": "好轉",
+    "k": "opp"
+   },
+   {
+    "w": "recession",
+    "zh": "不景氣",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1225,
+  "day": 49
+ },
+ {
+  "word": "economical",
+  "pos": "adj",
+  "pic": "💰",
+  "zh": "經濟實惠的；節省的",
+  "en": "saving money, time, or resources",
+  "simple": "This car is economical to drive.",
+  "simple_zh": "這輛車開起來很省錢。",
+  "toeic": "The new printer is a more economical choice for our office.",
+  "toeic_zh": "新印表機是我們辦公室更經濟實惠的選擇。",
+  "family": "economy (n), economic (adj), economical (adj), economically (adv)",
+  "related": [
+   {
+    "w": "economic",
+    "zh": "經濟的",
+    "k": "confuse"
+   },
+   {
+    "w": "cheap",
+    "zh": "便宜的",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1226,
+  "day": 50
+ },
+ {
+  "word": "economically",
+  "pos": "adv",
+  "pic": "💹",
+  "zh": "經濟上；節省地",
+  "en": "in a way related to money or saving money",
+  "simple": "The family lives economically.",
+  "simple_zh": "這家人過得很節儉。",
+  "toeic": "The project is economically sound and should bring profit.",
+  "toeic_zh": "這項專案在經濟上可行，應該會帶來獲利。",
+  "family": "economy (n), economic (adj), economically (adv)",
+  "related": [
+   {
+    "w": "economical",
+    "zh": "節省的",
+    "k": "family"
+   },
+   {
+    "w": "financially",
+    "zh": "財務上",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1227,
+  "day": 50
+ },
+ {
+  "word": "economize",
+  "pos": "v",
+  "pic": "🪙",
+  "zh": "節約；節省開支",
+  "en": "to spend less money or use less of something",
+  "simple": "We must economize on food.",
+  "simple_zh": "我們必須節省食物開支。",
+  "toeic": "The firm decided to economize by reducing travel expenses.",
+  "toeic_zh": "公司決定藉由減少差旅費用來節省開支。",
+  "family": "economy (n), economize (v)",
+  "related": [
+   {
+    "w": "save",
+    "zh": "節省",
+    "k": "syn"
+   },
+   {
+    "w": "waste",
+    "zh": "浪費",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1228,
+  "day": 50
+ },
+ {
+  "word": "entrepreneur",
+  "pos": "n",
+  "pic": "🧑‍💼",
+  "zh": "企業家；創業者",
+  "en": "a person who starts a new business",
+  "simple": "She is a young entrepreneur.",
+  "simple_zh": "她是年輕的創業家。",
+  "toeic": "The entrepreneur launched her start-up with a small loan.",
+  "toeic_zh": "這位企業家靠一筆小額貸款創辦了新創公司。",
+  "family": "entrepreneur (n), entrepreneurial (adj)",
+  "related": [
+   {
+    "w": "businessman",
+    "zh": "商人",
+    "k": "syn"
+   },
+   {
+    "w": "employee",
+    "zh": "員工",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1229,
+  "day": 50
+ },
+ {
+  "word": "euro",
+  "pos": "n",
+  "pic": "💶",
+  "zh": "歐元",
+  "en": "the money used in many European countries",
+  "simple": "One euro is not much money.",
+  "simple_zh": "一歐元不算多。",
+  "toeic": "The invoice must be paid in euros.",
+  "toeic_zh": "發票必須以歐元支付。",
+  "family": "",
+  "related": [
+   {
+    "w": "dollar",
+    "zh": "美元",
+    "k": "syn"
+   },
+   {
+    "w": "currency",
+    "zh": "貨幣",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 1230,
+  "day": 50
+ },
+ {
+  "word": "excessive",
+  "pos": "adj",
+  "pic": "🚫",
+  "zh": "過度的；過多的",
+  "en": "more than is needed or reasonable",
+  "simple": "The noise was excessive.",
+  "simple_zh": "噪音太大了。",
+  "toeic": "Excessive spending forced the department to cut its budget.",
+  "toeic_zh": "過度支出迫使該部門削減預算。",
+  "family": "excess (n), excessive (adj), excessively (adv)",
+  "related": [
+   {
+    "w": "extreme",
+    "zh": "極端的",
+    "k": "syn"
+   },
+   {
+    "w": "moderate",
+    "zh": "適度的",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1231,
+  "day": 50
+ },
+ {
+  "word": "exemption",
+  "pos": "n",
+  "pic": "🆓",
+  "zh": "豁免；免除",
+  "en": "permission to not follow a rule or pay a fee",
+  "simple": "He got an exemption from the fee.",
+  "simple_zh": "他獲准免繳費用。",
+  "toeic": "Nonprofit groups may apply for a tax exemption.",
+  "toeic_zh": "非營利團體可以申請免稅。",
+  "family": "exempt (v/adj), exemption (n)",
+  "related": [
+   {
+    "w": "exception",
+    "zh": "例外",
+    "k": "confuse"
+   },
+   {
+    "w": "exempt",
+    "zh": "免除的",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 1232,
+  "day": 50
+ },
+ {
+  "word": "fiscal",
+  "pos": "adj",
+  "pic": "📅",
+  "zh": "會計的；財政的",
+  "en": "related to money, taxes and a company's accounts",
+  "simple": "Our fiscal year starts in April.",
+  "simple_zh": "我們的會計年度從四月開始。",
+  "toeic": "The fiscal year ends on March 31 for most Japanese companies.",
+  "toeic_zh": "大多數日本公司的會計年度在三月三十一日結束。",
+  "family": "fiscal year 會計年度; fiscal policy 財政政策; fiscally (adv)",
+  "related": [
+   {
+    "w": "physical",
+    "zh": "身體的；實體的",
+    "k": "confuse"
+   },
+   {
+    "w": "financial",
+    "zh": "財務的",
+    "k": "syn"
+   }
+  ],
+  "n": 1233,
+  "day": 50,
+  "src": "TSL"
+ },
+ {
+  "word": "fluctuate",
+  "pos": "v",
+  "pic": "📈",
+  "zh": "波動；起伏",
+  "en": "to change often, going up and down",
+  "simple": "Prices fluctuate every day.",
+  "simple_zh": "價格每天都在波動。",
+  "toeic": "Oil prices fluctuate depending on the global market.",
+  "toeic_zh": "油價會隨全球市場而波動。",
+  "family": "fluctuate (v), fluctuation (n)",
+  "related": [
+   {
+    "w": "fluctuation",
+    "zh": "波動",
+    "k": "family"
+   },
+   {
+    "w": "remain stable",
+    "zh": "保持穩定",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1234,
+  "day": 50
+ },
+ {
+  "word": "fundraising",
+  "pos": "n",
+  "pic": "🎗️",
+  "zh": "募款",
+  "en": "the activity of collecting money for a cause",
+  "simple": "Fundraising starts next week.",
+  "simple_zh": "募款活動下週開始。",
+  "toeic": "The charity organized a fundraising dinner to support the new school.",
+  "toeic_zh": "該慈善機構舉辦募款晚宴來支持新學校。",
+  "family": "fund (n/v), fundraising (n), fundraiser (n)",
+  "related": [
+   {
+    "w": "fundraiser",
+    "zh": "募款活動",
+    "k": "family"
+   },
+   {
+    "w": "donation",
+    "zh": "捐款",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1235,
+  "day": 50
+ },
+ {
+  "word": "indicator",
+  "pos": "n",
+  "pic": "📊",
+  "zh": "指標；指示器",
+  "en": "a sign or number that shows a condition",
+  "simple": "The light is an indicator.",
+  "simple_zh": "那盞燈是一個指示器。",
+  "toeic": "Rising sales are a key indicator of the company's success.",
+  "toeic_zh": "銷售成長是公司成功的關鍵指標。",
+  "family": "indicate (v), indication (n)",
+  "related": [
+   {
+    "w": "indicate",
+    "zh": "指出",
+    "k": "family"
+   },
+   {
+    "w": "sign",
+    "zh": "跡象",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1236,
+  "day": 50
+ },
+ {
+  "word": "inflate",
+  "pos": "v",
+  "pic": "🎈",
+  "zh": "使膨脹；抬高（價格）",
+  "en": "to fill with air, or to raise prices",
+  "simple": "Please inflate the ball.",
+  "simple_zh": "請把球充氣。",
+  "toeic": "Some stores inflate prices just before the holiday season.",
+  "toeic_zh": "有些商店在假期旺季前哄抬價格。",
+  "family": "inflation (n)",
+  "related": [
+   {
+    "w": "deflate",
+    "zh": "放氣；緊縮",
+    "k": "opp"
+   },
+   {
+    "w": "inflation",
+    "zh": "通貨膨脹",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 1237,
+  "day": 50
+ },
+ {
+  "word": "influential",
+  "pos": "adj",
+  "pic": "🌐",
+  "zh": "有影響力的",
+  "en": "having a strong effect on people or decisions",
+  "simple": "She is an influential leader.",
+  "simple_zh": "她是個有影響力的領導者。",
+  "toeic": "The influential investor supported the merger plan.",
+  "toeic_zh": "這位有影響力的投資人支持合併計畫。",
+  "family": "influence (n, v)",
+  "related": [
+   {
+    "w": "powerful",
+    "zh": "有力的",
+    "k": "syn"
+   },
+   {
+    "w": "influence",
+    "zh": "影響",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 1238,
+  "day": 50
+ },
+ {
+  "word": "irregular",
+  "pos": "adj",
+  "pic": "〰️",
+  "zh": "不規則的",
+  "en": "not regular or not following a pattern",
+  "simple": "He has irregular work hours.",
+  "simple_zh": "他的工作時間不固定。",
+  "toeic": "The audit found several irregular transactions in the account.",
+  "toeic_zh": "稽核發現該帳戶有幾筆不尋常的交易。",
+  "family": "regular (adj)",
+  "related": [
+   {
+    "w": "regular",
+    "zh": "規律的",
+    "k": "opp"
+   },
+   {
+    "w": "abnormal",
+    "zh": "異常的",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1239,
+  "day": 50
+ },
+ {
+  "word": "merge",
+  "pos": "v",
+  "pic": "🔀",
+  "zh": "合併",
+  "en": "To join two things or companies into one",
+  "simple": "The two banks will merge next year.",
+  "simple_zh": "這兩家銀行明年將合併。",
+  "toeic": "The two firms plan to merge to cut costs.",
+  "toeic_zh": "這兩家公司打算合併以降低成本。",
+  "family": "merger (n)",
+  "related": [
+   {
+    "w": "merger",
+    "zh": "合併",
+    "k": "family"
+   },
+   {
+    "w": "emerge",
+    "zh": "出現",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1240,
+  "day": 50
+ },
+ {
+  "word": "merger",
+  "pos": "n",
+  "pic": "🤝",
+  "zh": "合併",
+  "en": "combination of two companies into one entity",
+  "simple": "Merger increased market share.",
+  "simple_zh": "合併增加了市場份額。",
+  "toeic": "Merger accounting follows GAAP rules.",
+  "toeic_zh": "合併會計遵循GAAP規則。",
+  "family": "merger (n/v), mergers (pl)",
+  "related": [
+   {
+    "w": "acquisition",
+    "zh": "收購",
+    "k": "syn"
+   },
+   {
+    "w": "consolidation",
+    "zh": "合併",
+    "k": "syn"
+   }
+  ],
+  "n": 1241,
+  "day": 50,
+  "src": "TSL"
+ },
+ {
+  "word": "mileage",
+  "pos": "n",
+  "pic": "🚗",
+  "zh": "里程數",
+  "en": "The distance traveled in miles",
+  "simple": "The car has low mileage.",
+  "simple_zh": "這輛車的里程數很低。",
+  "toeic": "Employees can claim mileage for business trips.",
+  "toeic_zh": "員工出差可申請里程補貼。",
+  "family": "mile (n)",
+  "related": [
+   {
+    "w": "mile",
+    "zh": "英里",
+    "k": "family"
+   },
+   {
+    "w": "milestone",
+    "zh": "里程碑",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1242,
+  "day": 50
+ },
+ {
+  "word": "needy",
+  "pos": "adj",
+  "pic": "🤲",
+  "zh": "貧困的",
+  "en": "Poor and lacking basic things",
+  "simple": "The charity helps needy families.",
+  "simple_zh": "這個慈善機構幫助貧困家庭。",
+  "toeic": "The company donates food to needy people each winter.",
+  "toeic_zh": "公司每年冬天都捐贈食物給貧困的人。",
+  "family": "need (n, v)",
+  "related": [
+   {
+    "w": "poor",
+    "zh": "貧窮的",
+    "k": "syn"
+   },
+   {
+    "w": "wealthy",
+    "zh": "富裕的",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1243,
+  "day": 50
+ },
+ {
+  "word": "obligate",
+  "pos": "v",
+  "pic": "⚖️",
+  "zh": "使有義務",
+  "en": "To make someone have to do something",
+  "simple": "The contract will obligate us to pay.",
+  "simple_zh": "合約會使我們有義務付款。",
+  "toeic": "The agreement may obligate both sides to share the costs.",
+  "toeic_zh": "該協議可能使雙方都有義務分擔費用。",
+  "family": "obligation (n), obligatory (adj)",
+  "related": [
+   {
+    "w": "oblige",
+    "zh": "迫使",
+    "k": "confuse"
+   },
+   {
+    "w": "obligation",
+    "zh": "義務",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 1244,
+  "day": 50
+ },
+ {
+  "word": "oblige",
+  "pos": "v",
+  "pic": "🙏",
+  "zh": "迫使；施惠",
+  "en": "To force someone or to help someone as a favor",
+  "simple": "The rule will oblige us to wear helmets.",
+  "simple_zh": "這條規定要求我們戴安全帽。",
+  "toeic": "The law may oblige companies to report their earnings.",
+  "toeic_zh": "法律可能要求公司申報收益。",
+  "family": "obligation (n), obliged (adj)",
+  "related": [
+   {
+    "w": "obligate",
+    "zh": "使有義務",
+    "k": "confuse"
+   },
+   {
+    "w": "require",
+    "zh": "要求",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1245,
+  "day": 50
+ },
+ {
+  "word": "optimistic",
+  "pos": "adj",
+  "pic": "😊",
+  "zh": "樂觀的",
+  "en": "Expecting good things to happen",
+  "simple": "She is optimistic about the test.",
+  "simple_zh": "她對考試很樂觀。",
+  "toeic": "We are optimistic about next quarter's sales.",
+  "toeic_zh": "我們對下一季的銷售感到樂觀。",
+  "family": "optimism (n), optimist (n)",
+  "related": [
+   {
+    "w": "pessimistic",
+    "zh": "悲觀的",
+    "k": "opp"
+   },
+   {
+    "w": "hopeful",
+    "zh": "有希望的",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1246,
+  "day": 50
+ },
+ {
+  "word": "payable",
+  "pos": "adj",
+  "pic": "💳",
+  "zh": "應付的",
+  "en": "able to be paid; amount owed by a company",
+  "simple": "Payables reduce cash position.",
+  "simple_zh": "應付款減少現金狀況。",
+  "toeic": "Payable terms affect cash flow.",
+  "toeic_zh": "應付條款影響現金流。",
+  "family": "payable (adj), payables (n)",
+  "related": [
+   {
+    "w": "accounts payable",
+    "zh": "應付帳款",
+    "k": "syn"
+   },
+   {
+    "w": "liability",
+    "zh": "負債",
+    "k": "syn"
+   }
+  ],
+  "n": 1247,
+  "day": 50,
+  "src": "TSL"
+ },
+ {
+  "word": "prediction",
+  "pos": "n",
+  "pic": "🔮",
+  "zh": "預測",
+  "en": "a statement about what will happen",
+  "simple": "His prediction was wrong.",
+  "simple_zh": "他的預測錯了。",
+  "toeic": "The prediction shows that sales will rise next quarter.",
+  "toeic_zh": "預測顯示下一季銷售將上升。",
+  "family": "predict (v), predictable (adj)",
+  "related": [
+   {
+    "w": "forecast",
+    "zh": "預報",
+    "k": "syn"
+   },
+   {
+    "w": "prescription",
+    "zh": "處方",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1248,
+  "day": 50
+ },
+ {
+  "word": "recession",
+  "pos": "n",
+  "pic": "📉",
+  "zh": "衰退",
+  "en": "significant economic slowdown or contraction",
+  "simple": "The recession lasted two years.",
+  "simple_zh": "衰退持續了兩年。",
+  "toeic": "Recession impacts unemployment rates.",
+  "toeic_zh": "衰退影響失業率。",
+  "family": "recession (n), recessive (adj)",
+  "related": [
+   {
+    "w": "depression",
+    "zh": "蕭條",
+    "k": "confuse"
+   },
+   {
+    "w": "downturn",
+    "zh": "下滑",
+    "k": "syn"
+   }
+  ],
+  "n": 1249,
+  "day": 50,
+  "src": "TSL"
+ },
+ {
+  "word": "sharply",
+  "pos": "adv",
+  "pic": "📉",
+  "zh": "急劇地；尖銳地",
+  "en": "suddenly and by a large amount",
+  "simple": "Prices rose sharply last month.",
+  "simple_zh": "上個月物價急劇上漲。",
+  "toeic": "Sales dropped sharply after the competitor lowered its prices.",
+  "toeic_zh": "競爭對手降價後，銷售額急劇下滑。",
+  "family": "sharp (adj)",
+  "related": [
+   {
+    "w": "steeply",
+    "zh": "陡峭地",
+    "k": "syn"
+   },
+   {
+    "w": "gradually",
+    "zh": "逐漸地",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1250,
+  "day": 50
+ },
+ {
+  "word": "soar",
+  "pos": "v",
+  "pic": "🚀",
+  "zh": "急升；暴漲",
+  "en": "to rise quickly to a high level",
+  "simple": "Prices can soar in summer.",
+  "simple_zh": "夏天價格可能暴漲。",
+  "toeic": "Sales are expected to soar after the product launch.",
+  "toeic_zh": "產品上市後，銷售額預計將急遽攀升。",
+  "family": "soar (v)",
+  "related": [
+   {
+    "w": "sore",
+    "zh": "疼痛的",
+    "k": "confuse"
+   },
+   {
+    "w": "surge",
+    "zh": "激增",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1251,
+  "day": 51
+ },
+ {
+  "word": "statistics",
+  "pos": "n",
+  "pic": "📈",
+  "zh": "統計數據；統計學",
+  "en": "numbers that show facts about something",
+  "simple": "The statistics are interesting.",
+  "simple_zh": "這些統計數據很有趣。",
+  "toeic": "Recent statistics show that online sales have doubled.",
+  "toeic_zh": "最近的統計數據顯示線上銷售已經翻倍。",
+  "family": "statistic (n), statistics (n), statistical (adj)",
+  "related": [
+   {
+    "w": "statistical",
+    "zh": "統計的",
+    "k": "family"
+   },
+   {
+    "w": "data",
+    "zh": "資料",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1252,
+  "day": 51
+ },
+ {
+  "word": "steadily",
+  "pos": "adv",
+  "pic": "📶",
+  "zh": "穩定地；持續地",
+  "en": "in a regular and continuous way",
+  "simple": "The number keeps rising steadily.",
+  "simple_zh": "數字持續穩定上升。",
+  "toeic": "Our profits have increased steadily over the past five years.",
+  "toeic_zh": "我們的利潤在過去五年穩定成長。",
+  "family": "steady (adj), steadily (adv)",
+  "related": [
+   {
+    "w": "steady",
+    "zh": "穩定的",
+    "k": "family"
+   },
+   {
+    "w": "gradually",
+    "zh": "逐漸地",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1253,
+  "day": 51
+ },
+ {
+  "word": "stimulus",
+  "pos": "n",
+  "pic": "💡",
+  "zh": "刺激；激勵",
+  "en": "something that makes activity or growth increase",
+  "simple": "Good news is a stimulus for sales.",
+  "simple_zh": "好消息會刺激銷售。",
+  "toeic": "The government introduced a stimulus package to boost the economy.",
+  "toeic_zh": "政府推出刺激方案來提振經濟。",
+  "family": "stimulate (v), stimulus (n)",
+  "related": [
+   {
+    "w": "stimulate",
+    "zh": "刺激",
+    "k": "family"
+   },
+   {
+    "w": "incentive",
+    "zh": "誘因",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1254,
+  "day": 51
+ },
+ {
+  "word": "stockbroker",
+  "pos": "n",
+  "pic": "💹",
+  "zh": "股票經紀人",
+  "en": "a person who buys and sells shares for others",
+  "simple": "My uncle is a stockbroker.",
+  "simple_zh": "我叔叔是股票經紀人。",
+  "toeic": "Contact your stockbroker before selling any shares.",
+  "toeic_zh": "出售任何股票前請先聯絡您的股票經紀人。",
+  "family": "stock (n), broker (n), stockbroker (n)",
+  "related": [
+   {
+    "w": "broker",
+    "zh": "經紀人",
+    "k": "family"
+   },
+   {
+    "w": "stockholder",
+    "zh": "股東",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1255,
+  "day": 51
+ },
+ {
+  "word": "stockholder",
+  "pos": "n",
+  "pic": "👤",
+  "zh": "股東",
+  "en": "person or entity that owns shares in a company",
+  "simple": "Stockholders receive dividend payments.",
+  "simple_zh": "股東收到股息付款。",
+  "toeic": "Stockholder meetings occur annually.",
+  "toeic_zh": "股東大會每年舉行。",
+  "family": "stockholder (n), stockholders (pl), stock (n)",
+  "related": [
+   {
+    "w": "shareholder",
+    "zh": "股東",
+    "k": "syn"
+   },
+   {
+    "w": "investor",
+    "zh": "投資者",
+    "k": "syn"
+   }
+  ],
+  "n": 1256,
+  "day": 51,
+  "src": "TSL"
+ },
+ {
+  "word": "subsidize",
+  "pos": "v",
+  "pic": "🏛️",
+  "zh": "補貼",
+  "en": "to pay part of the cost of something",
+  "simple": "The city will subsidize the bus.",
+  "simple_zh": "市政府將補貼公車。",
+  "toeic": "The government will subsidize the cost of solar panels.",
+  "toeic_zh": "政府將補貼太陽能板的費用。",
+  "family": "subsidy (n), subsidize (v)",
+  "related": [
+   {
+    "w": "subsidy",
+    "zh": "補助金",
+    "k": "family"
+   },
+   {
+    "w": "sponsor",
+    "zh": "贊助",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1257,
+  "day": 51
+ },
+ {
+  "word": "substantially",
+  "pos": "adv",
+  "pic": "📏",
+  "zh": "大幅地；實質上",
+  "en": "by a large amount",
+  "simple": "Costs rose substantially.",
+  "simple_zh": "成本大幅上升。",
+  "toeic": "Revenue has increased substantially since last quarter.",
+  "toeic_zh": "營收自上一季以來大幅增加。",
+  "family": "substance (n), substantial (adj), substantially (adv)",
+  "related": [
+   {
+    "w": "substantial",
+    "zh": "大量的",
+    "k": "family"
+   },
+   {
+    "w": "considerably",
+    "zh": "相當多地",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1258,
+  "day": 51
+ },
+ {
+  "word": "subtract",
+  "pos": "v",
+  "pic": "➖",
+  "zh": "減去",
+  "en": "to take one number away from another",
+  "simple": "Subtract two from ten.",
+  "simple_zh": "十減二。",
+  "toeic": "Subtract the discount from the total to find the final price.",
+  "toeic_zh": "從總額中減去折扣，即可得出最終價格。",
+  "family": "subtract (v), subtraction (n)",
+  "related": [
+   {
+    "w": "add",
+    "zh": "加",
+    "k": "opp"
+   },
+   {
+    "w": "extract",
+    "zh": "提取",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1259,
+  "day": 51
+ },
+ {
+  "word": "suspicious",
+  "pos": "adj",
+  "pic": "🕵️",
+  "zh": "可疑的",
+  "en": "making you feel something is wrong",
+  "simple": "The man looked suspicious.",
+  "simple_zh": "那個男人看起來很可疑。",
+  "toeic": "Report any suspicious activity on your account immediately.",
+  "toeic_zh": "請立即回報您帳戶上任何可疑的活動。",
+  "family": "suspect (v, n), suspicion (n), suspicious (adj)",
+  "related": [
+   {
+    "w": "suspect",
+    "zh": "嫌疑人；懷疑",
+    "k": "family"
+   },
+   {
+    "w": "doubtful",
+    "zh": "可疑的",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1260,
+  "day": 51
+ },
+ {
+  "word": "takeover",
+  "pos": "n",
+  "pic": "🏢",
+  "zh": "收購、接管",
+  "en": "When one company buys control of another company.",
+  "simple": "The takeover was in the news.",
+  "simple_zh": "這項收購上了新聞。",
+  "toeic": "The board approved the takeover after reviewing the final offer.",
+  "toeic_zh": "董事會在審閱最終出價後核准了這項收購。",
+  "family": "take over (phr v)",
+  "related": [
+   {
+    "w": "merger",
+    "zh": "合併",
+    "k": "confuse"
+   },
+   {
+    "w": "acquisition",
+    "zh": "收購",
+    "k": "syn"
+   }
+  ],
+  "n": 1261,
+  "day": 51,
+  "src": "TSL"
+ },
+ {
+  "word": "unnecessary",
+  "pos": "adj",
+  "pic": "🗑️",
+  "zh": "不必要的",
+  "en": "Not needed.",
+  "simple": "Do not buy unnecessary things.",
+  "simple_zh": "不要買不必要的東西。",
+  "toeic": "We should cut unnecessary expenses to improve profit.",
+  "toeic_zh": "我們應削減不必要的開支以提高利潤。",
+  "family": "necessary (adj), necessity (n)",
+  "related": [
+   {
+    "w": "necessary",
+    "zh": "必要的",
+    "k": "opp"
+   },
+   {
+    "w": "needless",
+    "zh": "不需要的",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1262,
+  "day": 51
+ },
+ {
+  "word": "wisely",
+  "pos": "adv",
+  "pic": "🧠",
+  "zh": "明智地",
+  "en": "In a smart way.",
+  "simple": "She spent her money wisely.",
+  "simple_zh": "她明智地花錢。",
+  "toeic": "The manager wisely chose to delay the product launch.",
+  "toeic_zh": "經理明智地決定延後產品上市。",
+  "family": "wise (adj), wisdom (n)",
+  "related": [
+   {
+    "w": "sensibly",
+    "zh": "明智地",
+    "k": "syn"
+   },
+   {
+    "w": "foolishly",
+    "zh": "愚蠢地",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1263,
+  "day": 51
+ },
+ {
+  "word": "withdrawal",
+  "pos": "n",
+  "pic": "💸",
+  "zh": "提取",
+  "en": "removal of money from a bank account",
+  "simple": "Make a withdrawal at the ATM.",
+  "simple_zh": "在自動提款機上提取。",
+  "toeic": "Withdrawal fees apply after 3 transactions.",
+  "toeic_zh": "3次交易後收取提取費用。",
+  "family": "withdrawal (n), withdraw (v)",
+  "related": [
+   {
+    "w": "deposit",
+    "zh": "存款",
+    "k": "confuse"
+   },
+   {
+    "w": "transfer",
+    "zh": "轉賬",
+    "k": "syn"
+   }
+  ],
+  "n": 1264,
+  "day": 51,
+  "src": "TSL"
+ },
+ {
+  "word": "yen",
+  "pos": "n",
+  "pic": "💴",
+  "zh": "日圓",
+  "en": "The money used in Japan.",
+  "simple": "This costs one thousand yen.",
+  "simple_zh": "這個要一千日圓。",
+  "toeic": "The price was converted from yen to dollars at today's rate.",
+  "toeic_zh": "價格已依今日匯率從日圓換算成美元。",
+  "family": "",
+  "related": [
+   {
+    "w": "dollar",
+    "zh": "美元",
+    "k": "syn"
+   },
+   {
+    "w": "currency",
+    "zh": "貨幣",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1265,
+  "day": 51
+ },
+ {
+  "word": "accrual",
+  "pos": "n",
+  "pic": "📊",
+  "zh": "應計",
+  "en": "income or expense recorded when earned or incurred",
+  "simple": "Accrual accounting is standard.",
+  "simple_zh": "應計會計是標準的。",
+  "toeic": "Accruals must be adjusted periodically.",
+  "toeic_zh": "應計項目必須定期調整。",
+  "family": "accrual (n), accrue (v), accrued (adj)",
+  "related": [
+   {
+    "w": "matching principle",
+    "zh": "匹配原則",
+    "k": "syn"
+   },
+   {
+    "w": "timing",
+    "zh": "時間",
+    "k": "confuse"
+   }
+  ],
+  "n": 1266,
+  "day": 51,
+  "src": "BSL"
+ },
+ {
+  "word": "amortization",
+  "pos": "n",
+  "pic": "📊",
+  "zh": "攤銷",
+  "en": "spreading payment of a loan or cost over time",
+  "simple": "Loan amortization takes 30 years.",
+  "simple_zh": "貸款攤銷需要30年。",
+  "toeic": "Amortization schedules show payments.",
+  "toeic_zh": "攤銷計劃顯示付款。",
+  "family": "amortization (n), amortize (v)",
+  "related": [
+   {
+    "w": "depreciation",
+    "zh": "折舊",
+    "k": "syn"
+   },
+   {
+    "w": "schedule",
+    "zh": "時間表",
+    "k": "syn"
+   }
+  ],
+  "n": 1267,
+  "day": 51,
+  "src": "BSL"
+ },
+ {
+  "word": "annuity",
+  "pos": "n",
+  "pic": "📊",
+  "zh": "年金",
+  "en": "financial product providing regular income payments",
+  "simple": "Annuities provide guaranteed income.",
+  "simple_zh": "年金提供有保證的收入。",
+  "toeic": "Annuity rates are attractive.",
+  "toeic_zh": "年金利率很有吸引力。",
+  "family": "annuity (n), annuities (pl)",
+  "related": [
+   {
+    "w": "pension",
+    "zh": "養老金",
+    "k": "syn"
+   },
+   {
+    "w": "income",
+    "zh": "收入",
+    "k": "confuse"
+   }
+  ],
+  "n": 1268,
+  "day": 51,
+  "src": "BSL"
+ },
+ {
+  "word": "arbitrage",
+  "pos": "n",
+  "pic": "💡",
+  "zh": "套利",
+  "en": "buying and selling same asset in different markets for profit",
+  "simple": "Arbitrage exploits price differences.",
+  "simple_zh": "套利利用價格差異。",
+  "toeic": "Arbitrage opportunities are rare today.",
+  "toeic_zh": "套利機會今天很少見。",
+  "family": "arbitrage (n/v), arbitrage (v)",
+  "related": [
+   {
+    "w": "trading",
+    "zh": "交易",
+    "k": "syn"
+   },
+   {
+    "w": "profit",
+    "zh": "利潤",
+    "k": "confuse"
+   }
+  ],
+  "n": 1269,
+  "day": 51,
+  "src": "BSL"
+ },
+ {
+  "word": "borrower",
+  "pos": "n",
+  "pic": "🙏",
+  "zh": "借款人",
+  "en": "A person or company that takes a loan.",
+  "simple": "The borrower must pay every month.",
+  "simple_zh": "借款人每個月都必須還款。",
+  "toeic": "Each borrower must submit tax records along with the loan form.",
+  "toeic_zh": "每位借款人都必須連同貸款表格一併提交稅務紀錄。",
+  "family": "borrow (v), borrower (n)",
+  "related": [
+   {
+    "w": "lender",
+    "zh": "貸款人",
+    "k": "opp"
+   },
+   {
+    "w": "borrow",
+    "zh": "借入",
+    "k": "family"
+   }
+  ],
+  "n": 1270,
+  "day": 51,
+  "src": "BSL"
+ },
+ {
+  "word": "collateral",
+  "pos": "n",
+  "pic": "🏠",
+  "zh": "擔保品",
+  "en": "assets pledged as security for a loan",
+  "simple": "The house serves as collateral.",
+  "simple_zh": "房子作為擔保品。",
+  "toeic": "Collateral value determines loan amount.",
+  "toeic_zh": "擔保品價值決定貸款額度。",
+  "family": "collateral (n), collaterals (pl)",
+  "related": [
+   {
+    "w": "security",
+    "zh": "擔保",
+    "k": "syn"
+   },
+   {
+    "w": "pledge",
+    "zh": "質押",
+    "k": "syn"
+   }
+  ],
+  "n": 1271,
+  "day": 51,
+  "src": "BSL"
+ },
+ {
+  "word": "consolidation",
+  "pos": "n",
+  "pic": "🤝",
+  "zh": "合併",
+  "en": "combining of financial statements of related entities",
+  "simple": "Consolidation combines subsidiary results.",
+  "simple_zh": "合併合併子公司結果。",
+  "toeic": "Consolidation is required for groups.",
+  "toeic_zh": "集團需要合併。",
+  "family": "consolidation (n), consolidate (v)",
+  "related": [
+   {
+    "w": "merger",
+    "zh": "合併",
+    "k": "syn"
+   },
+   {
+    "w": "combination",
+    "zh": "組合",
+    "k": "syn"
+   }
+  ],
+  "n": 1272,
+  "day": 51,
+  "src": "BSL"
+ },
+ {
+  "word": "covenant",
+  "pos": "n",
+  "pic": "📜",
+  "zh": "契約條款",
+  "en": "binding agreement or promise in a contract",
+  "simple": "The covenant restricts dividends.",
+  "simple_zh": "契約條款限制股息。",
+  "toeic": "Loan covenants require quarterly reports.",
+  "toeic_zh": "貸款契約條款需要季度報告。",
+  "family": "covenant (n), covenants (pl)",
+  "related": [
+   {
+    "w": "clause",
+    "zh": "條款",
+    "k": "syn"
+   },
+   {
+    "w": "agreement",
+    "zh": "協議",
+    "k": "syn"
+   }
+  ],
+  "n": 1273,
+  "day": 51,
+  "src": "BSL"
+ },
+ {
+  "word": "creditor",
+  "pos": "n",
+  "pic": "🏦",
+  "zh": "債權人",
+  "en": "A person or company that is owed money.",
+  "simple": "The creditor wants his money back.",
+  "simple_zh": "債權人想要拿回他的錢。",
+  "toeic": "The company agreed to pay each creditor within sixty days.",
+  "toeic_zh": "公司同意在六十天內付款給每位債權人。",
+  "family": "credit (n), creditor (n)",
+  "related": [
+   {
+    "w": "debtor",
+    "zh": "債務人",
+    "k": "opp"
+   },
+   {
+    "w": "creditable",
+    "zh": "值得稱讚的",
+    "k": "confuse"
+   }
+  ],
+  "n": 1274,
+  "day": 51,
+  "src": "BSL"
+ },
+ {
+  "word": "debtor",
+  "pos": "n",
+  "pic": "🙇",
+  "zh": "債務人",
+  "en": "A person or company that owes money.",
+  "simple": "The debtor has no money today.",
+  "simple_zh": "債務人今天沒有錢。",
+  "toeic": "Late debtor payments have hurt our cash position this quarter.",
+  "toeic_zh": "債務人延遲付款傷害了我們本季的現金狀況。",
+  "family": "debt (n), debtor (n)",
+  "related": [
+   {
+    "w": "creditor",
+    "zh": "債權人",
+    "k": "opp"
+   },
+   {
+    "w": "debt",
+    "zh": "債務",
+    "k": "family"
+   }
+  ],
+  "n": 1275,
+  "day": 51,
+  "src": "BSL"
+ },
+ {
+  "word": "default",
+  "pos": "n",
+  "pic": "❌",
+  "zh": "違約",
+  "en": "failure to meet financial obligation",
+  "simple": "The loan went into default.",
+  "simple_zh": "貸款違約。",
+  "toeic": "Default penalties are severe.",
+  "toeic_zh": "違約罰款很嚴厲。",
+  "family": "default (n/v), defaulted (adj)",
+  "related": [
+   {
+    "w": "delinquent",
+    "zh": "逾期",
+    "k": "syn"
+   },
+   {
+    "w": "breach",
+    "zh": "違反",
+    "k": "syn"
+   }
+  ],
+  "n": 1276,
+  "day": 52,
+  "src": "BSL"
+ },
+ {
+  "word": "deflation",
+  "pos": "n",
+  "pic": "📉",
+  "zh": "通縮",
+  "en": "general decrease in prices and increase in currency value",
+  "simple": "Deflation discourages spending.",
+  "simple_zh": "通縮抑制消費。",
+  "toeic": "Deflation poses policy challenges.",
+  "toeic_zh": "通縮帶來政策挑戰。",
+  "family": "deflation (n), deflate (v)",
+  "related": [
+   {
+    "w": "inflation",
+    "zh": "通脹",
+    "k": "confuse"
+   },
+   {
+    "w": "price decrease",
+    "zh": "價格下降",
+    "k": "syn"
+   }
+  ],
+  "n": 1277,
+  "day": 52,
+  "src": "BSL"
+ },
+ {
+  "word": "diversification",
+  "pos": "n",
+  "pic": "🎨",
+  "zh": "多元化",
+  "en": "spreading investments across different assets to reduce risk",
+  "simple": "Diversification reduces investment risk.",
+  "simple_zh": "多元化降低投資風險。",
+  "toeic": "Diversification strategy involves sectors.",
+  "toeic_zh": "多元化戰略涉及部門。",
+  "family": "diversification (n), diversify (v)",
+  "related": [
+   {
+    "w": "risk management",
+    "zh": "風險管理",
+    "k": "syn"
+   },
+   {
+    "w": "concentration",
+    "zh": "集中",
+    "k": "confuse"
+   }
+  ],
+  "n": 1278,
+  "day": 52,
+  "src": "BSL"
+ },
+ {
+  "word": "equity",
+  "pos": "n",
+  "pic": "⚖️",
+  "zh": "股權",
+  "en": "ownership stake in a company; assets minus liabilities",
+  "simple": "Shareholders own equity in the company.",
+  "simple_zh": "股東擁有公司的股權。",
+  "toeic": "Equity value increased this quarter.",
+  "toeic_zh": "本季度股權價值增加。",
+  "family": "equity (n), equities (pl)",
+  "related": [
+   {
+    "w": "stock",
+    "zh": "股票",
+    "k": "syn"
+   },
+   {
+    "w": "shares",
+    "zh": "股份",
+    "k": "syn"
+   }
+  ],
+  "n": 1279,
+  "day": 52,
+  "src": "BSL"
+ },
+ {
+  "word": "fiduciary",
+  "pos": "n",
+  "pic": "🤝",
+  "zh": "受信人",
+  "en": "person legally required to act in another's best interest",
+  "simple": "Fiduciaries must avoid conflicts.",
+  "simple_zh": "受信人必須避免衝突。",
+  "toeic": "Fiduciary duty is legally binding.",
+  "toeic_zh": "受信人責任具有法律約束力。",
+  "family": "fiduciary (n/adj)",
+  "related": [
+   {
+    "w": "trustee",
+    "zh": "受託人",
+    "k": "syn"
+   },
+   {
+    "w": "legal",
+    "zh": "法律",
+    "k": "syn"
+   }
+  ],
+  "n": 1280,
+  "day": 52,
+  "src": "BSL"
+ },
+ {
+  "word": "fraud",
+  "pos": "n",
+  "pic": "❌",
+  "zh": "詐欺",
+  "en": "intentional deception for unlawful gain",
+  "simple": "Fraud is prosecuted criminally.",
+  "simple_zh": "詐欺受到刑事起訴。",
+  "toeic": "Fraud detection requires vigilance.",
+  "toeic_zh": "詐欺檢測需要警惕。",
+  "family": "fraud (n), fraudulent (adj)",
+  "related": [
+   {
+    "w": "embezzlement",
+    "zh": "挪用",
+    "k": "syn"
+   },
+   {
+    "w": "crime",
+    "zh": "犯罪",
+    "k": "syn"
+   }
+  ],
+  "n": 1281,
+  "day": 52,
+  "src": "BSL"
+ },
+ {
+  "word": "goodwill",
+  "pos": "n",
+  "pic": "💝",
+  "zh": "商譽",
+  "en": "intangible asset from acquiring a company at premium price",
+  "simple": "Goodwill appears on balance sheet.",
+  "simple_zh": "商譽出現在資產負債表上。",
+  "toeic": "Goodwill impairment requires testing.",
+  "toeic_zh": "商譽減損需要測試。",
+  "family": "goodwill (n), goodwills (pl)",
+  "related": [
+   {
+    "w": "intangible asset",
+    "zh": "無形資產",
+    "k": "syn"
+   },
+   {
+    "w": "acquisition",
+    "zh": "收購",
+    "k": "confuse"
+   }
+  ],
+  "n": 1282,
+  "day": 52,
+  "src": "BSL"
+ },
+ {
+  "word": "hedge",
+  "pos": "v",
+  "pic": "🛡️",
+  "zh": "對沖、避險",
+  "en": "To protect money from loss by making a second deal.",
+  "simple": "Banks hedge to avoid losing money.",
+  "simple_zh": "銀行避險以免虧錢。",
+  "toeic": "Exporters often hedge against currency changes with forward contracts.",
+  "toeic_zh": "出口商通常以遠期合約來對沖匯率變動。",
+  "family": "",
+  "related": [
+   {
+    "w": "protect",
+    "zh": "保護",
+    "k": "syn"
+   },
+   {
+    "w": "speculate",
+    "zh": "投機",
+    "k": "opp"
+   }
+  ],
+  "n": 1283,
+  "day": 52,
+  "src": "BSL"
+ },
+ {
+  "word": "impairment",
+  "pos": "n",
+  "pic": "📉",
+  "zh": "減損",
+  "en": "significant decline in asset value below book value",
+  "simple": "Asset impairment must be reported.",
+  "simple_zh": "資產減損必須報告。",
+  "toeic": "Impairment testing is required annually.",
+  "toeic_zh": "減損測試每年進行。",
+  "family": "impairment (n), impair (v)",
+  "related": [
+   {
+    "w": "depreciation",
+    "zh": "折舊",
+    "k": "syn"
+   },
+   {
+    "w": "decline",
+    "zh": "下降",
+    "k": "confuse"
+   }
+  ],
+  "n": 1284,
+  "day": 52,
+  "src": "BSL"
+ },
+ {
+  "word": "ledger",
+  "pos": "n",
+  "pic": "📖",
+  "zh": "賬本",
+  "en": "book or record of financial transactions by account",
+  "simple": "The ledger shows all transactions.",
+  "simple_zh": "賬本顯示所有交易。",
+  "toeic": "General ledger records are permanent.",
+  "toeic_zh": "總帳記錄是永久的。",
+  "family": "ledger (n), ledgers (pl)",
+  "related": [
+   {
+    "w": "record",
+    "zh": "記錄",
+    "k": "syn"
+   },
+   {
+    "w": "account",
+    "zh": "帳戶",
+    "k": "syn"
+   }
+  ],
+  "n": 1285,
+  "day": 52,
+  "src": "BSL"
+ },
+ {
+  "word": "lender",
+  "pos": "n",
+  "pic": "🏧",
+  "zh": "貸款人、放款機構",
+  "en": "A person or bank that lends money.",
+  "simple": "The lender gave us a small loan.",
+  "simple_zh": "貸款人借給我們一小筆錢。",
+  "toeic": "The lender requires proof of income before approving the application.",
+  "toeic_zh": "放款機構在核准申請前要求提供收入證明。",
+  "family": "lend (v), lender (n)",
+  "related": [
+   {
+    "w": "borrower",
+    "zh": "借款人",
+    "k": "opp"
+   },
+   {
+    "w": "loan",
+    "zh": "貸款",
+    "k": "family"
+   }
+  ],
+  "n": 1286,
+  "day": 52,
+  "src": "BSL"
+ },
+ {
+  "word": "levy",
+  "pos": "n",
+  "pic": "🏛️",
+  "zh": "稅款、徵收額",
+  "en": "An official charge or tax collected by the government.",
+  "simple": "The city added a new levy this year.",
+  "simple_zh": "市政府今年新增了一項稅款。",
+  "toeic": "The government introduced a levy on large bank transactions.",
+  "toeic_zh": "政府對大額銀行交易徵收一項稅款。",
+  "family": "",
+  "related": [
+   {
+    "w": "tax",
+    "zh": "稅",
+    "k": "syn"
+   },
+   {
+    "w": "tariff",
+    "zh": "關稅",
+    "k": "syn"
+   }
+  ],
+  "n": 1287,
+  "day": 52,
+  "src": "BSL"
+ },
+ {
+  "word": "liquidity",
+  "pos": "n",
+  "pic": "💧",
+  "zh": "流動性",
+  "en": "ability to quickly convert assets to cash",
+  "simple": "Liquidity is essential for operations.",
+  "simple_zh": "流動性對於運營至關重要。",
+  "toeic": "Liquidity ratios assess cash availability.",
+  "toeic_zh": "流動性比率評估現金可用性。",
+  "family": "liquidity (n), liquid (adj)",
+  "related": [
+   {
+    "w": "cash flow",
+    "zh": "現金流",
+    "k": "syn"
+   },
+   {
+    "w": "solvency",
+    "zh": "溶劑性",
+    "k": "confuse"
+   }
+  ],
+  "n": 1288,
+  "day": 52,
+  "src": "BSL"
+ },
+ {
+  "word": "lucrative",
+  "pos": "adj",
+  "pic": "🤑",
+  "zh": "獲利豐厚的",
+  "en": "Producing a lot of money.",
+  "simple": "He found a lucrative job in banking.",
+  "simple_zh": "他在銀行業找到一份高薪的工作。",
+  "toeic": "The company signed a lucrative contract with an overseas retailer.",
+  "toeic_zh": "公司與一家海外零售商簽下獲利豐厚的合約。",
+  "family": "",
+  "related": [
+   {
+    "w": "profitable",
+    "zh": "有利可圖的",
+    "k": "syn"
+   },
+   {
+    "w": "creative",
+    "zh": "有創意的",
+    "k": "confuse"
+   }
+  ],
+  "n": 1289,
+  "day": 52,
+  "src": "BSL"
+ },
+ {
+  "word": "maturity",
+  "pos": "n",
+  "pic": "⏰",
+  "zh": "到期",
+  "en": "date when a debt obligation becomes due for payment",
+  "simple": "Bond maturity is five years.",
+  "simple_zh": "債券到期期限為五年。",
+  "toeic": "Maturity dates require payment planning.",
+  "toeic_zh": "到期日期需要支付規劃。",
+  "family": "maturity (n), mature (adj/v)",
+  "related": [
+   {
+    "w": "expiration",
+    "zh": "到期",
+    "k": "syn"
+   },
+   {
+    "w": "duration",
+    "zh": "期限",
+    "k": "syn"
+   }
+  ],
+  "n": 1290,
+  "day": 52,
+  "src": "BSL"
+ },
+ {
+  "word": "outlay",
+  "pos": "n",
+  "pic": "🧾",
+  "zh": "支出、開銷",
+  "en": "An amount of money spent on something.",
+  "simple": "The first outlay was very small.",
+  "simple_zh": "第一筆支出非常少。",
+  "toeic": "The new factory requires a large initial outlay of capital.",
+  "toeic_zh": "新工廠需要龐大的初期資金支出。",
+  "family": "",
+  "related": [
+   {
+    "w": "expenditure",
+    "zh": "開支",
+    "k": "syn"
+   },
+   {
+    "w": "expense",
+    "zh": "費用",
+    "k": "syn"
+   }
+  ],
+  "n": 1291,
+  "day": 52,
+  "src": "BSL"
+ },
+ {
+  "word": "receivable",
+  "pos": "adj",
+  "pic": "📋",
+  "zh": "應收的",
+  "en": "able to be received; amount owed to a company",
+  "simple": "Receivables appear on balance sheet.",
+  "simple_zh": "應收款出現在資產負債表上。",
+  "toeic": "Receivable aging affects collections.",
+  "toeic_zh": "應收款賬齡影響催收。",
+  "family": "receivable (adj), receivables (n)",
+  "related": [
+   {
+    "w": "accounts receivable",
+    "zh": "應收帳款",
+    "k": "syn"
+   },
+   {
+    "w": "asset",
+    "zh": "資產",
+    "k": "confuse"
+   }
+  ],
+  "n": 1292,
+  "day": 52,
+  "src": "BSL"
+ },
+ {
+  "word": "royalty",
+  "pos": "n",
+  "pic": "🎼",
+  "zh": "版稅、權利金",
+  "en": "Money paid to an owner for using their work or idea.",
+  "simple": "The singer gets a royalty for each song.",
+  "simple_zh": "這位歌手每賣一首歌就能拿到版稅。",
+  "toeic": "The firm pays a royalty to the inventor for every unit sold.",
+  "toeic_zh": "該公司每賣出一件產品就付權利金給發明者。",
+  "family": "",
+  "related": [
+   {
+    "w": "commission",
+    "zh": "佣金",
+    "k": "syn"
+   },
+   {
+    "w": "loyalty",
+    "zh": "忠誠",
+    "k": "confuse"
+   }
+  ],
+  "n": 1293,
+  "day": 52,
+  "src": "BSL"
+ },
+ {
+  "word": "speculation",
+  "pos": "n",
+  "pic": "🎲",
+  "zh": "投機",
+  "en": "buying/selling to profit from price changes",
+  "simple": "Speculation can lead to losses.",
+  "simple_zh": "投機可能導致損失。",
+  "toeic": "Speculation increases market volatility.",
+  "toeic_zh": "投機增加市場波動性。",
+  "family": "speculation (n), speculate (v), speculator (n)",
+  "related": [
+   {
+    "w": "gambling",
+    "zh": "賭博",
+    "k": "confuse"
+   },
+   {
+    "w": "trading",
+    "zh": "交易",
+    "k": "confuse"
+   }
+  ],
+  "n": 1294,
+  "day": 52,
+  "src": "BSL"
+ },
+ {
+  "word": "subsidy",
+  "pos": "n",
+  "pic": "🏭",
+  "zh": "補助金、津貼",
+  "en": "Money given by the government to help a business.",
+  "simple": "The farm gets a subsidy every year.",
+  "simple_zh": "這座農場每年都拿到補助金。",
+  "toeic": "The government offers a subsidy to firms that install solar panels.",
+  "toeic_zh": "政府對安裝太陽能板的公司提供補助金。",
+  "family": "subsidize (v), subsidy (n)",
+  "related": [
+   {
+    "w": "subsidize",
+    "zh": "補貼",
+    "k": "family"
+   },
+   {
+    "w": "subsidiary",
+    "zh": "子公司",
+    "k": "confuse"
+   }
+  ],
+  "n": 1295,
+  "day": 52,
+  "src": "BSL"
+ },
+ {
+  "word": "trustee",
+  "pos": "n",
+  "pic": "🤝",
+  "zh": "受託人",
+  "en": "person holding and managing property for another's benefit",
+  "simple": "Trustee manages estate assets.",
+  "simple_zh": "受託人管理遺產資產。",
+  "toeic": "Trustee responsibilities are significant.",
+  "toeic_zh": "受託人責任很大。",
+  "family": "trustee (n), trustees (pl)",
+  "related": [
+   {
+    "w": "fiduciary",
+    "zh": "受信人",
+    "k": "syn"
+   },
+   {
+    "w": "executor",
+    "zh": "執行人",
+    "k": "confuse"
+   }
+  ],
+  "n": 1296,
+  "day": 52,
+  "src": "BSL"
+ },
+ {
+  "word": "valuation",
+  "pos": "n",
+  "pic": "⭐",
+  "zh": "估值",
+  "en": "process of determining the worth or value of an asset",
+  "simple": "Company valuation reached $10 million.",
+  "simple_zh": "公司估值達到1000萬美元。",
+  "toeic": "Valuation methods vary by industry.",
+  "toeic_zh": "估值方法因行業而異。",
+  "family": "valuation (n), valuations (pl), value (v)",
+  "related": [
+   {
+    "w": "appraisal",
+    "zh": "評估",
+    "k": "syn"
+   },
+   {
+    "w": "assessment",
+    "zh": "評估",
+    "k": "syn"
+   }
+  ],
+  "n": 1297,
+  "day": 52,
+  "src": "BSL"
+ },
+ {
+  "word": "volatile",
+  "pos": "adj",
+  "pic": "🎢",
+  "zh": "波動劇烈的",
+  "en": "Changing quickly and often, especially in price.",
+  "simple": "Oil prices are volatile this week.",
+  "simple_zh": "本週油價波動很大。",
+  "toeic": "Investors are cautious because the market remains highly volatile.",
+  "toeic_zh": "由於市場仍然劇烈波動，投資人保持謹慎。",
+  "family": "volatility (n)",
+  "related": [
+   {
+    "w": "stable",
+    "zh": "穩定的",
+    "k": "opp"
+   },
+   {
+    "w": "volatility",
+    "zh": "波動性",
+    "k": "family"
+   }
+  ],
+  "n": 1298,
+  "day": 52,
+  "src": "BSL"
+ },
+ {
+  "word": "volatility",
+  "pos": "n",
+  "pic": "🌊",
+  "zh": "波動性",
+  "en": "degree of price fluctuation in a security or market",
+  "simple": "Market volatility increased recently.",
+  "simple_zh": "市場波動性最近增加。",
+  "toeic": "Volatility index measures market fear.",
+  "toeic_zh": "波動性指數衡量市場恐懼。",
+  "family": "volatility (n), volatile (adj)",
+  "related": [
+   {
+    "w": "fluctuation",
+    "zh": "波動",
+    "k": "syn"
+   },
+   {
+    "w": "stability",
+    "zh": "穩定性",
+    "k": "confuse"
+   }
+  ],
+  "n": 1299,
+  "day": 52,
+  "src": "BSL"
+ },
+ {
+  "word": "grave",
+  "pos": "adj",
+  "pic": "😟",
+  "zh": "嚴重的；嚴肅的",
+  "en": "Very serious and worrying.",
+  "simple": "This is a grave problem.",
+  "simple_zh": "這是個嚴重的問題。",
+  "toeic": "The report warned of grave financial risks for the company.",
+  "toeic_zh": "報告警告該公司面臨嚴重的財務風險。",
+  "family": "gravity (n)",
+  "related": [
+   {
+    "w": "serious",
+    "zh": "嚴重的",
+    "k": "syn"
+   },
+   {
+    "w": "grape",
+    "zh": "葡萄",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1300,
+  "day": 52
+ },
+ {
+  "word": "pin",
+  "pos": "n",
+  "pic": "📌",
+  "zh": "大頭針；別針",
+  "en": "a thin pointed metal piece for holding things",
+  "simple": "I put a pin in the map.",
+  "simple_zh": "我在地圖上插了一根大頭針。",
+  "toeic": "Please enter your PIN to access the account.",
+  "toeic_zh": "請輸入您的密碼以存取帳戶。",
+  "family": "pin (v)",
+  "related": [
+   {
+    "w": "needle",
+    "zh": "針",
+    "k": "syn"
+   },
+   {
+    "w": "pen",
+    "zh": "筆",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1301,
+  "day": 53
+ },
+ {
+  "word": "treasury",
+  "pos": "n",
+  "pic": "🏦",
+  "zh": "國庫；財政部",
+  "en": "the government department that manages money",
+  "simple": "The treasury manages public money.",
+  "simple_zh": "國庫管理公共資金。",
+  "toeic": "Investors bought Treasury bonds to reduce their risk.",
+  "toeic_zh": "投資人購買公債以降低風險。",
+  "family": "treasurer (n), treasure (n)",
+  "related": [
+   {
+    "w": "treasure",
+    "zh": "寶藏",
+    "k": "confuse"
+   },
+   {
+    "w": "finance ministry",
+    "zh": "財政部",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1302,
+  "day": 53
+ },
+ {
+  "word": "scandal",
+  "pos": "n",
+  "pic": "📰",
+  "zh": "醜聞",
+  "en": "a shocking event that harms a reputation",
+  "simple": "The scandal shocked everyone.",
+  "simple_zh": "這個醜聞震驚了所有人。",
+  "toeic": "The accounting scandal damaged the firm's reputation.",
+  "toeic_zh": "會計醜聞損害了這家公司的聲譽。",
+  "family": "scandalous (adj)",
+  "related": [
+   {
+    "w": "scan",
+    "zh": "掃描",
+    "k": "confuse"
+   },
+   {
+    "w": "disgrace",
+    "zh": "恥辱",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1303,
+  "day": 53
+ },
+ {
+  "word": "statistical",
+  "pos": "adj",
+  "pic": "📉",
+  "zh": "統計的",
+  "en": "relating to numbers and data analysis",
+  "simple": "We need statistical data.",
+  "simple_zh": "我們需要統計資料。",
+  "toeic": "The statistical report shows a steady rise in sales.",
+  "toeic_zh": "統計報告顯示銷售額穩定上升。",
+  "family": "statistic (n), statistics (n), statistically (adv)",
+  "related": [
+   {
+    "w": "statistician",
+    "zh": "統計學家",
+    "k": "confuse"
+   },
+   {
+    "w": "numerical",
+    "zh": "數字的",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1304,
+  "day": 53
+ },
+ {
+  "word": "controller",
+  "pos": "n",
+  "pic": "🎛️",
+  "zh": "主計長；控制器",
+  "en": "a person or device that manages something",
+  "simple": "The controller checks the accounts.",
+  "simple_zh": "主計長審核帳目。",
+  "toeic": "The financial controller approved the annual budget.",
+  "toeic_zh": "財務主管核准了年度預算。",
+  "family": "control (v, n)",
+  "related": [
+   {
+    "w": "counselor",
+    "zh": "顧問",
+    "k": "confuse"
+   },
+   {
+    "w": "manager",
+    "zh": "經理",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1305,
+  "day": 53
+ },
+ {
+  "word": "lesser",
+  "pos": "adj",
+  "pic": "➖",
+  "zh": "較小的；次要的",
+  "en": "smaller or less important",
+  "simple": "Choose the lesser evil.",
+  "simple_zh": "選擇兩害中較輕的。",
+  "toeic": "The firm faces lesser risks in the domestic market.",
+  "toeic_zh": "公司在國內市場面臨的風險較小。",
+  "family": "less (adj)",
+  "related": [
+   {
+    "w": "lessen",
+    "zh": "減少",
+    "k": "confuse"
+   },
+   {
+    "w": "minor",
+    "zh": "次要的",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1306,
+  "day": 53
+ },
+ {
+  "word": "delta",
+  "pos": "n",
+  "pic": "🔺",
+  "zh": "三角洲；差異量",
+  "en": "a triangle-shaped river mouth; a small change",
+  "simple": "The river makes a delta near the sea.",
+  "simple_zh": "這條河在海邊形成三角洲。",
+  "toeic": "The delta between forecast and actual sales was small.",
+  "toeic_zh": "預測與實際銷售額之間的差距很小。",
+  "family": "",
+  "related": [
+   {
+    "w": "difference",
+    "zh": "差異",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1307,
+  "day": 53
+ },
+ {
+  "word": "entity",
+  "pos": "n",
+  "pic": "🏢",
+  "zh": "實體；單位",
+  "en": "a separate organization or thing with its own existence",
+  "simple": "The company is a legal entity.",
+  "simple_zh": "這家公司是一個法人實體。",
+  "toeic": "Each subsidiary is treated as a separate legal entity for tax purposes.",
+  "toeic_zh": "就稅務而言，每家子公司都被視為獨立的法人實體。",
+  "family": "",
+  "related": [
+   {
+    "w": "identity",
+    "zh": "身分",
+    "k": "confuse"
+   },
+   {
+    "w": "organization",
+    "zh": "組織",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1308,
+  "day": 53
+ },
+ {
+  "word": "linear",
+  "pos": "adj",
+  "pic": "📈",
+  "zh": "線性的；直線的",
+  "en": "in a straight line or step-by-step order",
+  "simple": "Draw a linear line on the paper.",
+  "simple_zh": "在紙上畫一條直線。",
+  "toeic": "Sales showed a linear increase over the past six months.",
+  "toeic_zh": "過去六個月的銷售額呈線性成長。",
+  "family": "line (n), linearly (adv)",
+  "related": [
+   {
+    "w": "straight",
+    "zh": "筆直的",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1309,
+  "day": 53
+ },
+ {
+  "word": "monetary",
+  "pos": "adj",
+  "pic": "💰",
+  "zh": "貨幣的；金錢的",
+  "en": "related to money",
+  "simple": "The gift has little monetary value.",
+  "simple_zh": "這個禮物的金錢價值不高。",
+  "toeic": "The central bank changed its monetary policy to control inflation.",
+  "toeic_zh": "中央銀行改變貨幣政策以控制通貨膨脹。",
+  "family": "money (n)",
+  "related": [
+   {
+    "w": "monitor",
+    "zh": "監視器",
+    "k": "confuse"
+   },
+   {
+    "w": "financial",
+    "zh": "財務的",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1310,
+  "day": 53
+ },
+ {
+  "word": "governance",
+  "pos": "n",
+  "pic": "🏛️",
+  "zh": "治理；管理",
+  "en": "the way an organization is controlled and managed",
+  "simple": "Good governance helps a city grow.",
+  "simple_zh": "良好的治理有助於城市成長。",
+  "toeic": "The board is reviewing its corporate governance rules.",
+  "toeic_zh": "董事會正在檢討公司治理規範。",
+  "family": "govern (v), government (n)",
+  "related": [
+   {
+    "w": "government",
+    "zh": "政府",
+    "k": "family"
+   },
+   {
+    "w": "management",
+    "zh": "管理",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1311,
+  "day": 53
+ },
+ {
+  "word": "lawsuit",
+  "pos": "n",
+  "pic": "⚖️",
+  "zh": "訴訟",
+  "en": "a legal case brought to a court",
+  "simple": "The man filed a lawsuit.",
+  "simple_zh": "那個男人提出了訴訟。",
+  "toeic": "The company faces a lawsuit over a defective product.",
+  "toeic_zh": "該公司因瑕疵產品而面臨訴訟。",
+  "family": "law (n), sue (v)",
+  "related": [
+   {
+    "w": "suit",
+    "zh": "西裝",
+    "k": "confuse"
+   },
+   {
+    "w": "sue",
+    "zh": "控告",
+    "k": "family"
+   }
+  ],
+  "src": "BSL",
+  "n": 1312,
+  "day": 53
+ },
+ {
+  "word": "historically",
+  "pos": "adv",
+  "pic": "🏺",
+  "zh": "歷史上",
+  "en": "in relation to past times",
+  "simple": "Historically, this town was very small.",
+  "simple_zh": "在歷史上，這個小鎮很小。",
+  "toeic": "Sales have historically been strongest in the fourth quarter.",
+  "toeic_zh": "銷售額在歷史上一向以第四季最高。",
+  "family": "history (n), historical (adj)",
+  "related": [
+   {
+    "w": "historical",
+    "zh": "歷史的",
+    "k": "family"
+   },
+   {
+    "w": "historic",
+    "zh": "具歷史意義的",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1313,
+  "day": 53
+ },
+ {
+  "word": "hostile",
+  "pos": "adj",
+  "pic": "😠",
+  "zh": "敵意的；不友善的",
+  "en": "unfriendly and ready to oppose",
+  "simple": "The man gave me a hostile look.",
+  "simple_zh": "那個男人對我投以敵意的眼神。",
+  "toeic": "The board rejected the hostile takeover offer.",
+  "toeic_zh": "董事會拒絕了惡意收購的提議。",
+  "family": "hostility (n)",
+  "related": [
+   {
+    "w": "friendly",
+    "zh": "友善的",
+    "k": "opp"
+   },
+   {
+    "w": "hostel",
+    "zh": "青年旅館",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1314,
+  "day": 53
+ },
+ {
+  "word": "petty",
+  "pos": "adj",
+  "pic": "🪙",
+  "zh": "瑣碎的；小額的",
+  "en": "small and not important",
+  "simple": "Do not argue about petty things.",
+  "simple_zh": "不要為瑣事爭吵。",
+  "toeic": "Petty cash is used for small office expenses.",
+  "toeic_zh": "零用金用於辦公室的小額開銷。",
+  "family": "",
+  "related": [
+   {
+    "w": "minor",
+    "zh": "次要的",
+    "k": "syn"
+   },
+   {
+    "w": "pretty",
+    "zh": "漂亮的",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1315,
+  "day": 53
+ },
+ {
+  "word": "politically",
+  "pos": "adv",
+  "pic": "🗳️",
+  "zh": "政治上",
+  "en": "in a way related to politics",
+  "simple": "The country is politically stable.",
+  "simple_zh": "這個國家在政治上很穩定。",
+  "toeic": "The region is politically unstable, so investors are cautious.",
+  "toeic_zh": "該地區政局不穩，因此投資人保持謹慎。",
+  "family": "politics (n), political (adj), politician (n)",
+  "related": [
+   {
+    "w": "political",
+    "zh": "政治的",
+    "k": "family"
+   },
+   {
+    "w": "politician",
+    "zh": "政治人物",
+    "k": "family"
+   }
+  ],
+  "src": "BSL",
+  "n": 1316,
+  "day": 53
+ },
+ {
+  "word": "dip",
+  "pos": "n",
+  "pic": "📉",
+  "zh": "下滑；浸泡",
+  "en": "a small drop in level or amount",
+  "simple": "There was a dip in sales.",
+  "simple_zh": "銷售額出現小幅下滑。",
+  "toeic": "The company saw a slight dip in profits last quarter.",
+  "toeic_zh": "公司上一季的利潤略微下滑。",
+  "family": "",
+  "related": [
+   {
+    "w": "drop",
+    "zh": "下降",
+    "k": "syn"
+   },
+   {
+    "w": "rise",
+    "zh": "上升",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 1317,
+  "day": 53
+ },
+ {
+  "word": "median",
+  "pos": "n",
+  "pic": "📊",
+  "zh": "中位數",
+  "en": "the middle value in a set of numbers",
+  "simple": "The median age here is thirty.",
+  "simple_zh": "這裡的年齡中位數是三十歲。",
+  "toeic": "The median income in the city rose last year.",
+  "toeic_zh": "這座城市的收入中位數去年上升了。",
+  "family": "",
+  "related": [
+   {
+    "w": "average",
+    "zh": "平均",
+    "k": "confuse"
+   },
+   {
+    "w": "medium",
+    "zh": "中等的",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1318,
+  "day": 53
+ },
+ {
+  "word": "static",
+  "pos": "adj",
+  "pic": "⏸️",
+  "zh": "靜止的；不變的",
+  "en": "not moving or changing",
+  "simple": "The price stayed static all year.",
+  "simple_zh": "價格全年保持不變。",
+  "toeic": "Sales figures have remained static for three months.",
+  "toeic_zh": "銷售數字已連續三個月沒有變動。",
+  "family": "",
+  "related": [
+   {
+    "w": "stable",
+    "zh": "穩定的",
+    "k": "syn"
+   },
+   {
+    "w": "dynamic",
+    "zh": "動態的",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 1319,
+  "day": 53
+ },
+ {
+  "word": "bust",
+  "pos": "v",
+  "pic": "💥",
+  "zh": "弄壞；破產",
+  "en": "to break; (informal) to fail financially",
+  "simple": "Do not bust the window.",
+  "simple_zh": "不要把窗戶弄壞。",
+  "toeic": "Many small shops went bust during the economic crisis.",
+  "toeic_zh": "許多小店在經濟危機期間倒閉。",
+  "family": "",
+  "related": [
+   {
+    "w": "bankrupt",
+    "zh": "破產的",
+    "k": "syn"
+   },
+   {
+    "w": "boost",
+    "zh": "提振",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1320,
+  "day": 53
+ },
+ {
+  "word": "mathematical",
+  "pos": "adj",
+  "pic": "➗",
+  "zh": "數學的",
+  "en": "related to mathematics",
+  "simple": "He has strong mathematical skills.",
+  "simple_zh": "他有很強的數學能力。",
+  "toeic": "The analyst built a mathematical model to predict demand.",
+  "toeic_zh": "分析師建立了一個數學模型來預測需求。",
+  "family": "mathematics (n), mathematically (adv)",
+  "related": [
+   {
+    "w": "mathematics",
+    "zh": "數學",
+    "k": "family"
+   },
+   {
+    "w": "numerical",
+    "zh": "數字的",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1321,
+  "day": 53
+ },
+ {
+  "word": "modest",
+  "pos": "adj",
+  "pic": "🙂",
+  "zh": "適度的；謙虛的",
+  "en": "small or moderate in size; not proud",
+  "simple": "She is modest about her success.",
+  "simple_zh": "她對自己的成功很謙虛。",
+  "toeic": "The company reported a modest increase in profits.",
+  "toeic_zh": "該公司公布利潤小幅成長。",
+  "family": "modesty (n), modestly (adv)",
+  "related": [
+   {
+    "w": "moderate",
+    "zh": "適中的",
+    "k": "syn"
+   },
+   {
+    "w": "modern",
+    "zh": "現代的",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1322,
+  "day": 53
+ },
+ {
+  "word": "axis",
+  "pos": "n",
+  "pic": "📐",
+  "zh": "軸；軸線",
+  "en": "a line that something turns around; a chart line",
+  "simple": "The Earth turns on its axis.",
+  "simple_zh": "地球繞著它的軸自轉。",
+  "toeic": "The horizontal axis of the chart shows the months.",
+  "toeic_zh": "圖表的橫軸顯示月份。",
+  "family": "axes (n)",
+  "related": [
+   {
+    "w": "axe",
+    "zh": "斧頭",
+    "k": "confuse"
+   },
+   {
+    "w": "axle",
+    "zh": "車軸",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1323,
+  "day": 53
+ },
+ {
+  "word": "bounce",
+  "pos": "v",
+  "pic": "🏀",
+  "zh": "彈跳；退回",
+  "en": "to jump back after hitting something",
+  "simple": "The ball will bounce on the floor.",
+  "simple_zh": "球會在地板上彈跳。",
+  "toeic": "The check will bounce if there is not enough money in the account.",
+  "toeic_zh": "如果帳戶餘額不足，這張支票會被退票。",
+  "family": "",
+  "related": [
+   {
+    "w": "bonus",
+    "zh": "獎金",
+    "k": "confuse"
+   },
+   {
+    "w": "rebound",
+    "zh": "反彈",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1324,
+  "day": 53
+ },
+ {
+  "word": "bail",
+  "pos": "n",
+  "pic": "⛓️",
+  "zh": "保釋金；舀水",
+  "en": "money paid to free someone from jail until trial",
+  "simple": "He paid bail and went home.",
+  "simple_zh": "他繳了保釋金後回家了。",
+  "toeic": "The government decided to bail out the struggling bank.",
+  "toeic_zh": "政府決定紓困這家陷入困境的銀行。",
+  "family": "",
+  "related": [
+   {
+    "w": "bill",
+    "zh": "帳單",
+    "k": "confuse"
+   },
+   {
+    "w": "rescue",
+    "zh": "拯救",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1325,
+  "day": 53
+ },
+ {
+  "word": "disclosure",
+  "pos": "n",
+  "pic": "📢",
+  "zh": "揭露；公開",
+  "en": "the act of making secret information known",
+  "simple": "The disclosure surprised everyone.",
+  "simple_zh": "這項揭露讓每個人都很驚訝。",
+  "toeic": "The law requires full disclosure of all fees to customers.",
+  "toeic_zh": "法律要求向顧客完整揭露所有費用。",
+  "family": "disclose (v)",
+  "related": [
+   {
+    "w": "disclose",
+    "zh": "揭露",
+    "k": "family"
+   },
+   {
+    "w": "closure",
+    "zh": "關閉",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1326,
+  "day": 54
+ },
+ {
+  "word": "minus",
+  "pos": "prep",
+  "pic": "➖",
+  "zh": "減；減去",
+  "en": "with the subtraction of",
+  "simple": "Ten minus three is seven.",
+  "simple_zh": "十減三等於七。",
+  "toeic": "The net profit, minus taxes, was lower than expected.",
+  "toeic_zh": "扣除稅金後的淨利低於預期。",
+  "family": "",
+  "related": [
+   {
+    "w": "plus",
+    "zh": "加；加上",
+    "k": "opp"
+   },
+   {
+    "w": "less",
+    "zh": "減去",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1327,
+  "day": 54
+ },
+ {
+  "word": "affiliate",
+  "pos": "n",
+  "pic": "🔗",
+  "zh": "附屬機構；關係企業",
+  "en": "a company or group connected to a larger one",
+  "simple": "This shop is an affiliate of a big brand.",
+  "simple_zh": "這家店是大品牌的關係企業。",
+  "toeic": "Our overseas affiliate will handle all customer orders in Asia.",
+  "toeic_zh": "我們的海外關係企業將負責亞洲所有客戶訂單。",
+  "family": "affiliation (n), affiliate (v)",
+  "related": [
+   {
+    "w": "subsidiary",
+    "zh": "子公司",
+    "k": "syn"
+   },
+   {
+    "w": "affiliation",
+    "zh": "隸屬關係",
+    "k": "family"
+   }
+  ],
+  "src": "BSL",
+  "n": 1328,
+  "day": 54
+ },
+ {
+  "word": "probe",
+  "pos": "v",
+  "pic": "🔍",
+  "zh": "調查；探查",
+  "en": "to look into something carefully to find the truth",
+  "simple": "The police will probe the case.",
+  "simple_zh": "警方會調查這起案件。",
+  "toeic": "Regulators will probe the company's accounting practices.",
+  "toeic_zh": "監管機關將調查該公司的會計作業。",
+  "family": "probe (n)",
+  "related": [
+   {
+    "w": "investigate",
+    "zh": "調查",
+    "k": "syn"
+   },
+   {
+    "w": "prove",
+    "zh": "證明",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1329,
+  "day": 54
+ },
+ {
+  "word": "financially",
+  "pos": "adv",
+  "pic": "💰",
+  "zh": "在財務上",
+  "en": "in a way that relates to money",
+  "simple": "They are financially safe now.",
+  "simple_zh": "他們現在財務上很安穩。",
+  "toeic": "The firm is financially stable despite the market downturn.",
+  "toeic_zh": "儘管市場低迷，該公司財務上仍很穩健。",
+  "family": "finance (n,v), financial (adj)",
+  "related": [
+   {
+    "w": "financial",
+    "zh": "財務的",
+    "k": "family"
+   },
+   {
+    "w": "finance",
+    "zh": "財務",
+    "k": "family"
+   }
+  ],
+  "src": "BSL",
+  "n": 1330,
+  "day": 54
+ },
+ {
+  "word": "capitalism",
+  "pos": "n",
+  "pic": "🏦",
+  "zh": "資本主義",
+  "en": "an economic system where private owners run businesses for profit",
+  "simple": "Many countries practice capitalism.",
+  "simple_zh": "許多國家實行資本主義。",
+  "toeic": "Critics argue that capitalism increases the gap between rich and poor.",
+  "toeic_zh": "批評者認為資本主義擴大了貧富差距。",
+  "family": "capital (n), capitalist (n)",
+  "related": [
+   {
+    "w": "capital",
+    "zh": "資本",
+    "k": "family"
+   },
+   {
+    "w": "socialism",
+    "zh": "社會主義",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 1331,
+  "day": 54
+ },
+ {
+  "word": "suspicion",
+  "pos": "n",
+  "pic": "🕵️",
+  "zh": "懷疑",
+  "en": "a feeling that something is wrong",
+  "simple": "I have a suspicion about him.",
+  "simple_zh": "我對他有些懷疑。",
+  "toeic": "The auditor reported her suspicion of fraud to management.",
+  "toeic_zh": "稽核員向管理階層報告了她對詐欺的懷疑。",
+  "family": "suspect (v,n), suspicious (adj)",
+  "related": [
+   {
+    "w": "suspicious",
+    "zh": "可疑的",
+    "k": "family"
+   },
+   {
+    "w": "doubt",
+    "zh": "懷疑",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1332,
+  "day": 54
+ },
+ {
+  "word": "fraction",
+  "pos": "n",
+  "pic": "🍰",
+  "zh": "小部分；分數",
+  "en": "a very small part of something",
+  "simple": "I only ate a fraction of the cake.",
+  "simple_zh": "我只吃了蛋糕的一小部分。",
+  "toeic": "The new system costs only a fraction of the old one.",
+  "toeic_zh": "新系統的成本只有舊系統的一小部分。",
+  "family": "fractional (adj)",
+  "related": [
+   {
+    "w": "friction",
+    "zh": "摩擦",
+    "k": "confuse"
+   },
+   {
+    "w": "portion",
+    "zh": "部分",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1333,
+  "day": 54
+ },
+ {
+  "word": "amid",
+  "pos": "prep",
+  "pic": "🌪️",
+  "zh": "在...之中",
+  "en": "in the middle of something",
+  "simple": "She stayed calm amid the noise.",
+  "simple_zh": "她在吵鬧中保持冷靜。",
+  "toeic": "Sales rose amid growing competition in the market.",
+  "toeic_zh": "在市場競爭加劇之際，銷售額仍有成長。",
+  "family": "",
+  "related": [
+   {
+    "w": "amidst",
+    "zh": "在...之中",
+    "k": "syn"
+   },
+   {
+    "w": "admit",
+    "zh": "承認",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1334,
+  "day": 54
+ },
+ {
+  "word": "aggregate",
+  "pos": "n",
+  "pic": "📊",
+  "zh": "總數；合計",
+  "en": "the total amount made from adding smaller parts",
+  "simple": "The aggregate of sales was high.",
+  "simple_zh": "銷售總額很高。",
+  "toeic": "The aggregate demand for solar panels grew sharply this year.",
+  "toeic_zh": "今年太陽能板的總需求量大幅成長。",
+  "family": "aggregate (adj,v)",
+  "related": [
+   {
+    "w": "total",
+    "zh": "總數",
+    "k": "syn"
+   },
+   {
+    "w": "segregate",
+    "zh": "隔離",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1335,
+  "day": 54
+ },
+ {
+  "word": "risky",
+  "pos": "adj",
+  "pic": "⚠️",
+  "zh": "有風險的",
+  "en": "likely to cause loss or harm",
+  "simple": "Driving fast is risky.",
+  "simple_zh": "開快車很危險。",
+  "toeic": "Investing in a single stock is a risky strategy.",
+  "toeic_zh": "只投資單一股票是有風險的策略。",
+  "family": "risk (n,v)",
+  "related": [
+   {
+    "w": "safe",
+    "zh": "安全的",
+    "k": "opp"
+   },
+   {
+    "w": "hazardous",
+    "zh": "危險的",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1336,
+  "day": 54
+ },
+ {
+  "word": "squeeze",
+  "pos": "v",
+  "pic": "🍋",
+  "zh": "擠壓；壓縮",
+  "en": "to press hard on something; to reduce",
+  "simple": "Squeeze the lemon into the water.",
+  "simple_zh": "把檸檬擠進水裡。",
+  "toeic": "Rising costs continue to squeeze profit margins.",
+  "toeic_zh": "成本上升持續壓縮利潤空間。",
+  "family": "squeeze (n)",
+  "related": [
+   {
+    "w": "press",
+    "zh": "壓",
+    "k": "syn"
+   },
+   {
+    "w": "freeze",
+    "zh": "凍結",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1337,
+  "day": 54
+ },
+ {
+  "word": "litigation",
+  "pos": "n",
+  "pic": "⚖️",
+  "zh": "訴訟",
+  "en": "the process of taking a legal case to court",
+  "simple": "The litigation lasted two years.",
+  "simple_zh": "這場訴訟持續了兩年。",
+  "toeic": "The firm is spending heavily on litigation over patent rights.",
+  "toeic_zh": "該公司在專利權訴訟上花費龐大。",
+  "family": "litigate (v)",
+  "related": [
+   {
+    "w": "lawsuit",
+    "zh": "訴訟",
+    "k": "syn"
+   },
+   {
+    "w": "mitigation",
+    "zh": "減輕",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1338,
+  "day": 54
+ },
+ {
+  "word": "revival",
+  "pos": "n",
+  "pic": "🔁",
+  "zh": "復甦；重新流行",
+  "en": "the act of becoming active or popular again",
+  "simple": "The town needs an economic revival.",
+  "simple_zh": "這個城鎮需要經濟復甦。",
+  "toeic": "Analysts expect a revival in consumer spending next year.",
+  "toeic_zh": "分析師預期明年消費支出將回升。",
+  "family": "revive (v)",
+  "related": [
+   {
+    "w": "revive",
+    "zh": "使復甦",
+    "k": "family"
+   },
+   {
+    "w": "survival",
+    "zh": "生存",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1339,
+  "day": 54
+ },
+ {
+  "word": "donor",
+  "pos": "n",
+  "pic": "🎁",
+  "zh": "捐贈者",
+  "en": "a person or group that gives money or help",
+  "simple": "The donor gave us money.",
+  "simple_zh": "捐贈者給了我們一些錢。",
+  "toeic": "A generous donor funded the new hospital wing.",
+  "toeic_zh": "一位慷慨的捐贈者出資興建醫院新側翼。",
+  "family": "donate (v), donation (n)",
+  "related": [
+   {
+    "w": "donate",
+    "zh": "捐贈",
+    "k": "family"
+   },
+   {
+    "w": "donor",
+    "zh": "贈與者",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1340,
+  "day": 54
+ },
+ {
+  "word": "subsidiary",
+  "pos": "n",
+  "pic": "🏢",
+  "zh": "子公司",
+  "en": "a company owned by a larger company",
+  "simple": "This firm is a subsidiary of ours.",
+  "simple_zh": "這家公司是我們的子公司。",
+  "toeic": "The Tokyo office operates as a wholly owned subsidiary.",
+  "toeic_zh": "東京辦公室是一家完全持股的子公司。",
+  "family": "subsidy (n), subsidize (v)",
+  "related": [
+   {
+    "w": "subsidy",
+    "zh": "補助金",
+    "k": "confuse"
+   },
+   {
+    "w": "affiliate",
+    "zh": "關係企業",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1341,
+  "day": 54
+ },
+ {
+  "word": "offshore",
+  "pos": "adj",
+  "pic": "🌊",
+  "zh": "離岸的；海外的",
+  "en": "located or done at sea or in another country",
+  "simple": "He works on an offshore oil rig.",
+  "simple_zh": "他在離岸石油鑽油平台工作。",
+  "toeic": "The company moved its call center to an offshore location.",
+  "toeic_zh": "該公司把客服中心遷到海外。",
+  "family": "offshore (adv)",
+  "related": [
+   {
+    "w": "overseas",
+    "zh": "海外的",
+    "k": "syn"
+   },
+   {
+    "w": "onshore",
+    "zh": "陸上的",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 1342,
+  "day": 54
+ },
+ {
+  "word": "prosperity",
+  "pos": "n",
+  "pic": "📈",
+  "zh": "繁榮；興盛",
+  "en": "a state of success and having plenty of money",
+  "simple": "We wish you health and prosperity.",
+  "simple_zh": "祝你健康繁榮。",
+  "toeic": "Trade brought prosperity to the whole region.",
+  "toeic_zh": "貿易為整個地區帶來繁榮。",
+  "family": "prosper (v), prosperous (adj)",
+  "related": [
+   {
+    "w": "prosperous",
+    "zh": "繁榮的",
+    "k": "family"
+   },
+   {
+    "w": "wealth",
+    "zh": "財富",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1343,
+  "day": 54
+ },
+ {
+  "word": "inevitably",
+  "pos": "adv",
+  "pic": "⛓️",
+  "zh": "無可避免地",
+  "en": "in a way that cannot be avoided",
+  "simple": "We will inevitably be late.",
+  "simple_zh": "我們不可避免會遲到。",
+  "toeic": "Costs will inevitably rise as raw materials become scarce.",
+  "toeic_zh": "隨著原料變得稀少，成本勢必上升。",
+  "family": "inevitable (adj)",
+  "related": [
+   {
+    "w": "unavoidably",
+    "zh": "不可避免地",
+    "k": "syn"
+   },
+   {
+    "w": "inevitable",
+    "zh": "無可避免的",
+    "k": "family"
+   }
+  ],
+  "src": "BSL",
+  "n": 1344,
+  "day": 54
+ },
+ {
+  "word": "correlation",
+  "pos": "n",
+  "pic": "📈",
+  "zh": "相關性",
+  "en": "A link between two things",
+  "simple": "There is a correlation here.",
+  "simple_zh": "這裡有相關性。",
+  "toeic": "The report shows a strong correlation between price and sales.",
+  "toeic_zh": "報告顯示價格與銷售之間有高度相關性。",
+  "family": "correlate (v)",
+  "related": [
+   {
+    "w": "relation",
+    "zh": "關係",
+    "k": "syn"
+   },
+   {
+    "w": "causation",
+    "zh": "因果關係",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1345,
+  "day": 54
+ },
+ {
+  "word": "taxpayer",
+  "pos": "n",
+  "pic": "🧾",
+  "zh": "納稅人",
+  "en": "A person who pays taxes",
+  "simple": "Every taxpayer must file a form.",
+  "simple_zh": "每位納稅人都必須提交表格。",
+  "toeic": "The new road was paid for by local taxpayers.",
+  "toeic_zh": "新道路由當地納稅人出資興建。",
+  "family": "tax (n), taxation (n)",
+  "related": [
+   {
+    "w": "tax",
+    "zh": "稅",
+    "k": "family"
+   }
+  ],
+  "src": "BSL",
+  "n": 1346,
+  "day": 54
+ },
+ {
+  "word": "manipulation",
+  "pos": "n",
+  "pic": "🎭",
+  "zh": "操縱；操控",
+  "en": "The act of controlling something in a clever or unfair way",
+  "simple": "The data showed signs of manipulation.",
+  "simple_zh": "資料顯示有被操縱的跡象。",
+  "toeic": "The firm was fined for the manipulation of stock prices.",
+  "toeic_zh": "該公司因操縱股價而被罰款。",
+  "family": "manipulate (v)",
+  "related": [
+   {
+    "w": "control",
+    "zh": "控制",
+    "k": "syn"
+   },
+   {
+    "w": "manipulate",
+    "zh": "操縱",
+    "k": "family"
+   }
+  ],
+  "src": "BSL",
+  "n": 1347,
+  "day": 54
+ },
+ {
+  "word": "differential",
+  "pos": "n",
+  "pic": "⚖️",
+  "zh": "差額；差異",
+  "en": "A difference between amounts or rates",
+  "simple": "There is a price differential.",
+  "simple_zh": "有價格差異。",
+  "toeic": "The pay differential between the two positions is quite large.",
+  "toeic_zh": "這兩個職位的薪資差距相當大。",
+  "family": "differ (v), difference (n)",
+  "related": [
+   {
+    "w": "difference",
+    "zh": "差異",
+    "k": "syn"
+   },
+   {
+    "w": "differentiate",
+    "zh": "區分",
+    "k": "family"
+   }
+  ],
+  "src": "BSL",
+  "n": 1348,
+  "day": 54
+ },
+ {
+  "word": "inherent",
+  "pos": "adj",
+  "pic": "🧬",
+  "zh": "固有的；內在的",
+  "en": "Existing as a natural part of something",
+  "simple": "Risk is inherent in business.",
+  "simple_zh": "風險是商業固有的一部分。",
+  "toeic": "There are inherent risks in any overseas investment.",
+  "toeic_zh": "任何海外投資都有其固有風險。",
+  "family": "inherently (adv)",
+  "related": [
+   {
+    "w": "inherit",
+    "zh": "繼承",
+    "k": "confuse"
+   },
+   {
+    "w": "built-in",
+    "zh": "內建的",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1349,
+  "day": 54
+ },
+ {
+  "word": "investigator",
+  "pos": "n",
+  "pic": "🕵️",
+  "zh": "調查員",
+  "en": "A person who examines facts to find the truth",
+  "simple": "The investigator asked many questions.",
+  "simple_zh": "調查員問了很多問題。",
+  "toeic": "An investigator was sent to examine the accounting records.",
+  "toeic_zh": "一名調查員被派去檢查會計紀錄。",
+  "family": "investigate (v), investigation (n)",
+  "related": [
+   {
+    "w": "investor",
+    "zh": "投資人",
+    "k": "confuse"
+   },
+   {
+    "w": "investigate",
+    "zh": "調查",
+    "k": "family"
+   }
+  ],
+  "src": "BSL",
+  "n": 1350,
+  "day": 54
+ },
+ {
+  "word": "wholly",
+  "pos": "adv",
+  "pic": "💯",
+  "zh": "完全地",
+  "en": "Completely",
+  "simple": "I wholly agree with you.",
+  "simple_zh": "我完全同意你。",
+  "toeic": "The subsidiary is wholly owned by the parent company.",
+  "toeic_zh": "這家子公司由母公司全資擁有。",
+  "family": "whole (adj)",
+  "related": [
+   {
+    "w": "holy",
+    "zh": "神聖的",
+    "k": "confuse"
+   },
+   {
+    "w": "partially",
+    "zh": "部分地",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 1351,
+  "day": 55
+ },
+ {
+  "word": "capita",
+  "pos": "n",
+  "pic": "👥",
+  "zh": "人均（per capita）",
+  "en": "Used in per capita, meaning for each person",
+  "simple": "Income per capita is rising.",
+  "simple_zh": "人均收入在上升。",
+  "toeic": "Per capita spending on travel has increased this year.",
+  "toeic_zh": "今年人均旅遊支出增加了。",
+  "family": "",
+  "related": [
+   {
+    "w": "capital",
+    "zh": "資本",
+    "k": "confuse"
+   },
+   {
+    "w": "individual",
+    "zh": "個人",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1352,
+  "day": 55
+ },
+ {
+  "word": "redemption",
+  "pos": "n",
+  "pic": "🎟️",
+  "zh": "兌換；贖回",
+  "en": "The act of exchanging something for money or goods",
+  "simple": "Coupon redemption ends today.",
+  "simple_zh": "優惠券兌換今天截止。",
+  "toeic": "The redemption of bonds will begin next month.",
+  "toeic_zh": "債券贖回將於下個月開始。",
+  "family": "redeem (v)",
+  "related": [
+   {
+    "w": "redeem",
+    "zh": "兌換",
+    "k": "family"
+   },
+   {
+    "w": "exchange",
+    "zh": "交換",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1353,
+  "day": 55
+ },
+ {
+  "word": "unprecedented",
+  "pos": "adj",
+  "pic": "🌟",
+  "zh": "史無前例的",
+  "en": "Never done or known before",
+  "simple": "Sales reached an unprecedented high.",
+  "simple_zh": "銷售達到前所未有的高點。",
+  "toeic": "The company achieved unprecedented growth last year.",
+  "toeic_zh": "公司去年達成史無前例的成長。",
+  "family": "precedent (n)",
+  "related": [
+   {
+    "w": "unusual",
+    "zh": "不尋常的",
+    "k": "syn"
+   },
+   {
+    "w": "unpredictable",
+    "zh": "難以預料的",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1354,
+  "day": 55
+ },
+ {
+  "word": "taxation",
+  "pos": "n",
+  "pic": "💰",
+  "zh": "課稅；稅制",
+  "en": "The system of collecting taxes",
+  "simple": "Taxation is a big topic.",
+  "simple_zh": "課稅是個大話題。",
+  "toeic": "Changes in taxation affect small business owners the most.",
+  "toeic_zh": "稅制的改變對小型企業主影響最大。",
+  "family": "tax (n, v), taxable (adj)",
+  "related": [
+   {
+    "w": "tax",
+    "zh": "稅",
+    "k": "family"
+   },
+   {
+    "w": "taxpayer",
+    "zh": "納稅人",
+    "k": "family"
+   }
+  ],
+  "src": "BSL",
+  "n": 1355,
+  "day": 55
+ },
+ {
+  "word": "capitalist",
+  "pos": "n",
+  "pic": "💼",
+  "zh": "資本家",
+  "en": "A person who owns money invested in business",
+  "simple": "He is a rich capitalist.",
+  "simple_zh": "他是個富有的資本家。",
+  "toeic": "The young capitalist invested in several tech start-ups.",
+  "toeic_zh": "這位年輕資本家投資了數家科技新創公司。",
+  "family": "capital (n), capitalism (n)",
+  "related": [
+   {
+    "w": "investor",
+    "zh": "投資人",
+    "k": "syn"
+   },
+   {
+    "w": "capital",
+    "zh": "資本",
+    "k": "family"
+   }
+  ],
+  "src": "BSL",
+  "n": 1356,
+  "day": 55
+ },
+ {
+  "word": "curb",
+  "pos": "v",
+  "pic": "🛑",
+  "zh": "抑制；控制",
+  "en": "To control or limit something",
+  "simple": "We must curb our spending.",
+  "simple_zh": "我們必須控制開支。",
+  "toeic": "The company introduced new rules to curb unnecessary costs.",
+  "toeic_zh": "公司訂定新規定以抑制不必要的成本。",
+  "family": "",
+  "related": [
+   {
+    "w": "limit",
+    "zh": "限制",
+    "k": "syn"
+   },
+   {
+    "w": "curve",
+    "zh": "曲線",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1357,
+  "day": 55
+ },
+ {
+  "word": "gamble",
+  "pos": "v",
+  "pic": "🎰",
+  "zh": "賭博；冒險",
+  "en": "To take a risk hoping for a good result",
+  "simple": "Do not gamble with money.",
+  "simple_zh": "不要拿錢去賭。",
+  "toeic": "The firm decided to gamble on a new product line.",
+  "toeic_zh": "公司決定賭一把推出新產品線。",
+  "family": "gambler (n), gambling (n)",
+  "related": [
+   {
+    "w": "risk",
+    "zh": "冒險",
+    "k": "syn"
+   },
+   {
+    "w": "gamble on",
+    "zh": "押注",
+    "k": "family"
+   }
+  ],
+  "src": "BSL",
+  "n": 1358,
+  "day": 55
+ },
+ {
+  "word": "digit",
+  "pos": "n",
+  "pic": "🔢",
+  "zh": "數字；位數",
+  "en": "A single number from 0 to 9",
+  "simple": "Enter a four digit code.",
+  "simple_zh": "輸入四位數密碼。",
+  "toeic": "Please enter the last four digits of your card number.",
+  "toeic_zh": "請輸入您信用卡號的最後四碼。",
+  "family": "digital (adj)",
+  "related": [
+   {
+    "w": "digital",
+    "zh": "數位的",
+    "k": "family"
+   },
+   {
+    "w": "number",
+    "zh": "數字",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1359,
+  "day": 55
+ },
+ {
+  "word": "insider",
+  "pos": "n",
+  "pic": "🔑",
+  "zh": "內部人士",
+  "en": "A person who has special knowledge within a group",
+  "simple": "An insider gave us the news.",
+  "simple_zh": "一位內部人士給了我們消息。",
+  "toeic": "Insider trading is illegal and punished by heavy fines.",
+  "toeic_zh": "內線交易是違法的，會被處以重罰。",
+  "family": "inside (adv, prep)",
+  "related": [
+   {
+    "w": "outsider",
+    "zh": "外人",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 1360,
+  "day": 55
+ },
+ {
+  "word": "scrutiny",
+  "pos": "n",
+  "pic": "🔍",
+  "zh": "仔細檢查；審查",
+  "en": "careful and close examination",
+  "simple": "The report is under close scrutiny.",
+  "simple_zh": "這份報告正受到嚴密審查。",
+  "toeic": "The company's accounts came under scrutiny during the annual audit.",
+  "toeic_zh": "公司的帳目在年度查帳時受到嚴格審查。",
+  "family": "scrutinize (v), scrutiny (n)",
+  "related": [
+   {
+    "w": "inspection",
+    "zh": "檢查",
+    "k": "syn"
+   },
+   {
+    "w": "scrutinize",
+    "zh": "仔細檢查",
+    "k": "family"
+   }
+  ],
+  "src": "BSL",
+  "n": 1361,
+  "day": 55
+ },
+ {
+  "word": "unchanged",
+  "pos": "adj",
+  "pic": "⏸️",
+  "zh": "未改變的",
+  "en": "staying the same; not changed",
+  "simple": "The price stayed unchanged this year.",
+  "simple_zh": "今年價格維持不變。",
+  "toeic": "The interest rate remained unchanged at the central bank's latest meeting.",
+  "toeic_zh": "央行最新一次會議中利率維持不變。",
+  "family": "change (v), unchanged (adj)",
+  "related": [
+   {
+    "w": "altered",
+    "zh": "改變了的",
+    "k": "opp"
+   },
+   {
+    "w": "constant",
+    "zh": "不變的",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1362,
+  "day": 55
+ },
+ {
+  "word": "null",
+  "pos": "adj",
+  "pic": "0️⃣",
+  "zh": "無效的；零的",
+  "en": "having no legal force; void",
+  "simple": "The old ticket is now null.",
+  "simple_zh": "舊票現在無效了。",
+  "toeic": "The contract becomes null and void if payment is not received.",
+  "toeic_zh": "若未收到款項，合約即失效。",
+  "family": "nullify (v), null (adj)",
+  "related": [
+   {
+    "w": "void",
+    "zh": "無效的",
+    "k": "syn"
+   },
+   {
+    "w": "valid",
+    "zh": "有效的",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 1363,
+  "day": 55
+ },
+ {
+  "word": "shrink",
+  "pos": "v",
+  "pic": "📉",
+  "zh": "縮小；減少",
+  "en": "to become smaller in size or amount",
+  "simple": "My shirt will shrink in hot water.",
+  "simple_zh": "我的襯衫遇熱水會縮水。",
+  "toeic": "Profits continued to shrink because of rising material costs.",
+  "toeic_zh": "由於原料成本上升，利潤持續縮減。",
+  "family": "shrinkage (n), shrink (v)",
+  "related": [
+   {
+    "w": "expand",
+    "zh": "擴大",
+    "k": "opp"
+   },
+   {
+    "w": "decrease",
+    "zh": "減少",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1364,
+  "day": 55
+ },
+ {
+  "word": "disguise",
+  "pos": "v",
+  "pic": "🕶️",
+  "zh": "偽裝；掩飾",
+  "en": "to hide the real nature of something",
+  "simple": "He wore a hat to disguise himself.",
+  "simple_zh": "他戴帽子來偽裝自己。",
+  "toeic": "The firm tried to disguise its losses in the quarterly report.",
+  "toeic_zh": "該公司試圖在季報中掩飾虧損。",
+  "family": "disguise (n, v)",
+  "related": [
+   {
+    "w": "conceal",
+    "zh": "隱藏",
+    "k": "syn"
+   },
+   {
+    "w": "reveal",
+    "zh": "揭露",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 1365,
+  "day": 55
+ },
+ {
+  "word": "reconciliation",
+  "pos": "n",
+  "pic": "🕊️",
+  "zh": "和解；對帳",
+  "en": "making peace, or matching two sets of records",
+  "simple": "The two friends wanted reconciliation.",
+  "simple_zh": "兩位朋友想要和好。",
+  "toeic": "The accountant completed the bank reconciliation before the audit.",
+  "toeic_zh": "會計師在查核前完成了銀行對帳。",
+  "family": "reconcile (v), reconciliation (n)",
+  "related": [
+   {
+    "w": "reconcile",
+    "zh": "使和解；核對",
+    "k": "family"
+   },
+   {
+    "w": "conciliation",
+    "zh": "調停",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1366,
+  "day": 55
+ },
+ {
+  "word": "downward",
+  "pos": "adv",
+  "pic": "⬇️",
+  "zh": "向下地",
+  "en": "toward a lower level",
+  "simple": "The ball rolled downward.",
+  "simple_zh": "球往下滾。",
+  "toeic": "Stock prices moved downward after the weak earnings report.",
+  "toeic_zh": "財報疲弱後，股價走低。",
+  "family": "downwards (adv), downward (adj)",
+  "related": [
+   {
+    "w": "upward",
+    "zh": "向上地",
+    "k": "opp"
+   },
+   {
+    "w": "downturn",
+    "zh": "衰退",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1367,
+  "day": 55
+ },
+ {
+  "word": "instability",
+  "pos": "n",
+  "pic": "🌪️",
+  "zh": "不穩定",
+  "en": "a lack of steadiness or security",
+  "simple": "The market shows instability.",
+  "simple_zh": "市場顯得不穩定。",
+  "toeic": "Political instability has discouraged foreign investment in the region.",
+  "toeic_zh": "政治不穩定讓外國投資卻步。",
+  "family": "stable (adj), stability (n), instability (n)",
+  "related": [
+   {
+    "w": "stability",
+    "zh": "穩定",
+    "k": "opp"
+   },
+   {
+    "w": "unrest",
+    "zh": "動盪",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1368,
+  "day": 55
+ },
+ {
+  "word": "lump",
+  "pos": "n",
+  "pic": "🧊",
+  "zh": "塊；一次付清的",
+  "en": "a small solid piece, or a single payment",
+  "simple": "There is a lump of sugar.",
+  "simple_zh": "這裡有一塊方糖。",
+  "toeic": "Employees may take their pension as a lump sum at retirement.",
+  "toeic_zh": "員工可在退休時一次領取退休金。",
+  "family": "",
+  "related": [
+   {
+    "w": "chunk",
+    "zh": "大塊",
+    "k": "syn"
+   },
+   {
+    "w": "limp",
+    "zh": "跛行；無力的",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1369,
+  "day": 55
+ },
+ {
+  "word": "marginal",
+  "pos": "adj",
+  "pic": "➖",
+  "zh": "微小的；邊緣的",
+  "en": "very small in size or importance",
+  "simple": "The change was very marginal.",
+  "simple_zh": "這項變化非常微小。",
+  "toeic": "The new design brought only a marginal increase in sales.",
+  "toeic_zh": "新設計只帶來微幅的銷售成長。",
+  "family": "margin (n), marginal (adj)",
+  "related": [
+   {
+    "w": "margin",
+    "zh": "利潤；邊緣",
+    "k": "family"
+   },
+   {
+    "w": "slight",
+    "zh": "輕微的",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1370,
+  "day": 55
+ },
+ {
+  "word": "upward",
+  "pos": "adv",
+  "pic": "⬆️",
+  "zh": "向上地",
+  "en": "toward a higher level",
+  "simple": "The balloon floated upward.",
+  "simple_zh": "氣球向上飄。",
+  "toeic": "Housing prices continue to trend upward in the city center.",
+  "toeic_zh": "市中心的房價持續走升。",
+  "family": "upwards (adv), upward (adj)",
+  "related": [
+   {
+    "w": "downward",
+    "zh": "向下地",
+    "k": "opp"
+   },
+   {
+    "w": "upwards",
+    "zh": "向上地",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1371,
+  "day": 55
+ },
+ {
+  "word": "grim",
+  "pos": "adj",
+  "pic": "😟",
+  "zh": "嚴峻的；慘淡的",
+  "en": "serious and without hope or cheer",
+  "simple": "The news was grim.",
+  "simple_zh": "這個消息很悽慘。",
+  "toeic": "The sales forecast looks grim for the next quarter.",
+  "toeic_zh": "下一季的銷售預測看來相當慘淡。",
+  "family": "",
+  "related": [
+   {
+    "w": "gloomy",
+    "zh": "陰鬱的",
+    "k": "syn"
+   },
+   {
+    "w": "promising",
+    "zh": "有前景的",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 1372,
+  "day": 55
+ },
+ {
+  "word": "manipulate",
+  "pos": "v",
+  "pic": "🎛️",
+  "zh": "操縱；操作",
+  "en": "to control or handle something skillfully",
+  "simple": "He can manipulate the machine well.",
+  "simple_zh": "他很會操作這台機器。",
+  "toeic": "The report accused the firm of trying to manipulate stock prices.",
+  "toeic_zh": "報告指控該公司企圖操縱股價。",
+  "family": "manipulation (n), manipulate (v)",
+  "related": [
+   {
+    "w": "operate",
+    "zh": "操作",
+    "k": "syn"
+   },
+   {
+    "w": "manipulation",
+    "zh": "操縱",
+    "k": "family"
+   }
+  ],
+  "src": "BSL",
+  "n": 1373,
+  "day": 55
+ },
+ {
+  "word": "consortium",
+  "pos": "n",
+  "pic": "🏛️",
+  "zh": "聯合企業；財團",
+  "en": "a group of companies working together",
+  "simple": "A consortium built the bridge.",
+  "simple_zh": "一個聯合企業建造了這座橋。",
+  "toeic": "A consortium of three banks will finance the construction project.",
+  "toeic_zh": "三家銀行組成的聯貸團將為這項建設計畫提供資金。",
+  "family": "",
+  "related": [
+   {
+    "w": "alliance",
+    "zh": "聯盟",
+    "k": "syn"
+   },
+   {
+    "w": "conglomerate",
+    "zh": "集團企業",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1374,
+  "day": 55
+ },
+ {
+  "word": "exclusion",
+  "pos": "n",
+  "pic": "🚫",
+  "zh": "排除；除外",
+  "en": "the act of leaving something or someone out",
+  "simple": "His exclusion from the team was unfair.",
+  "simple_zh": "他被排除在隊外並不公平。",
+  "toeic": "Check the exclusion list in your insurance policy carefully.",
+  "toeic_zh": "請仔細查看保單中的除外條款。",
+  "family": "exclude (v), exclusive (adj), exclusion (n)",
+  "related": [
+   {
+    "w": "inclusion",
+    "zh": "納入",
+    "k": "opp"
+   },
+   {
+    "w": "exclusive",
+    "zh": "獨家的",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1375,
+  "day": 55
+ },
+ {
+  "word": "skeptical",
+  "pos": "adj",
+  "pic": "🤨",
+  "zh": "懷疑的",
+  "en": "having doubts about something",
+  "simple": "I am skeptical about this story.",
+  "simple_zh": "我對這個說法抱持懷疑。",
+  "toeic": "Investors remain skeptical about the company's growth forecast.",
+  "toeic_zh": "投資人仍對公司的成長預測抱持懷疑。",
+  "family": "skepticism (n), skeptic (n), skeptical (adj)",
+  "related": [
+   {
+    "w": "doubtful",
+    "zh": "懷疑的",
+    "k": "syn"
+   },
+   {
+    "w": "convinced",
+    "zh": "確信的",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 1376,
+  "day": 56
+ },
+ {
+  "word": "crunch",
+  "pos": "n",
+  "pic": "⏰",
+  "zh": "關鍵時刻；緊縮",
+  "en": "a critical shortage or time of pressure",
+  "simple": "We are in a time crunch.",
+  "simple_zh": "我們時間很緊迫。",
+  "toeic": "The credit crunch made it hard for small firms to borrow money.",
+  "toeic_zh": "信貸緊縮使小型公司難以借錢。",
+  "family": "crunch (v)",
+  "related": [
+   {
+    "w": "crisis",
+    "zh": "危機",
+    "k": "syn"
+   },
+   {
+    "w": "crush",
+    "zh": "壓碎",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1377,
+  "day": 56
+ },
+ {
+  "word": "demise",
+  "pos": "n",
+  "pic": "🪦",
+  "zh": "終結；消亡",
+  "en": "the end or failure of something",
+  "simple": "The shop's demise made us sad.",
+  "simple_zh": "這家店的結束讓我們難過。",
+  "toeic": "Poor management led to the company's sudden demise.",
+  "toeic_zh": "管理不善導致公司突然倒閉。",
+  "family": "",
+  "related": [
+   {
+    "w": "downfall",
+    "zh": "垮台",
+    "k": "syn"
+   },
+   {
+    "w": "demeanor",
+    "zh": "舉止",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1378,
+  "day": 56
+ },
+ {
+  "word": "optimism",
+  "pos": "n",
+  "pic": "😊",
+  "zh": "樂觀",
+  "en": "a hopeful feeling about the future",
+  "simple": "She spoke with great optimism.",
+  "simple_zh": "她非常樂觀地說話。",
+  "toeic": "There is growing optimism about the economy this year.",
+  "toeic_zh": "今年人們對經濟的樂觀情緒逐漸升高。",
+  "family": "optimist (n), optimistic (adj), optimism (n)",
+  "related": [
+   {
+    "w": "pessimism",
+    "zh": "悲觀",
+    "k": "opp"
+   },
+   {
+    "w": "optimum",
+    "zh": "最佳的",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1379,
+  "day": 56
+ },
+ {
+  "word": "tangible",
+  "pos": "adj",
+  "pic": "🤲",
+  "zh": "有形的；具體的",
+  "en": "real and able to be touched or measured",
+  "simple": "We need tangible proof.",
+  "simple_zh": "我們需要具體的證據。",
+  "toeic": "The new system has produced tangible benefits for our customers.",
+  "toeic_zh": "新系統為我們的客戶帶來了具體的好處。",
+  "family": "intangible (adj), tangible (adj)",
+  "related": [
+   {
+    "w": "intangible",
+    "zh": "無形的",
+    "k": "opp"
+   },
+   {
+    "w": "concrete",
+    "zh": "具體的",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1380,
+  "day": 56
+ },
+ {
+  "word": "derivative",
+  "pos": "n",
+  "pic": "📑",
+  "zh": "衍生性金融商品；衍生物",
+  "en": "something developed from something else",
+  "simple": "This word is a derivative of Latin.",
+  "simple_zh": "這個字衍生自拉丁文。",
+  "toeic": "The bank lost money trading financial derivative products.",
+  "toeic_zh": "這家銀行因交易衍生性金融商品而虧損。",
+  "family": "derive (v), derivation (n), derivative (n)",
+  "related": [
+   {
+    "w": "derive",
+    "zh": "源自",
+    "k": "family"
+   },
+   {
+    "w": "alternative",
+    "zh": "替代品",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1381,
+  "day": 56
+ },
+ {
+  "word": "numerical",
+  "pos": "adj",
+  "pic": "🔢",
+  "zh": "數字的",
+  "en": "relating to numbers",
+  "simple": "Put the files in numerical order.",
+  "simple_zh": "把檔案依數字順序排好。",
+  "toeic": "Please arrange the invoices in numerical order before filing them.",
+  "toeic_zh": "歸檔前請將發票依數字順序排列。",
+  "family": "number (n), numerous (adj), numerical (adj)",
+  "related": [
+   {
+    "w": "numerous",
+    "zh": "眾多的",
+    "k": "confuse"
+   },
+   {
+    "w": "numeric",
+    "zh": "數字的",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1382,
+  "day": 56
+ },
+ {
+  "word": "chunk",
+  "pos": "n",
+  "pic": "🧱",
+  "zh": "大塊；一大部分",
+  "en": "a large piece or part of something",
+  "simple": "He ate a chunk of cheese.",
+  "simple_zh": "他吃了一大塊起司。",
+  "toeic": "A large chunk of our budget goes to advertising.",
+  "toeic_zh": "我們預算中很大一部分花在廣告上。",
+  "family": "chunky (adj)",
+  "related": [
+   {
+    "w": "portion",
+    "zh": "部分",
+    "k": "syn"
+   },
+   {
+    "w": "chuck",
+    "zh": "丟擲",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1383,
+  "day": 56
+ },
+ {
+  "word": "restraint",
+  "pos": "n",
+  "pic": "🤐",
+  "zh": "克制；限制",
+  "en": "control that limits what you can do",
+  "simple": "He showed restraint and stayed calm.",
+  "simple_zh": "他很克制，保持冷靜。",
+  "toeic": "The company is urging restraint in spending this quarter.",
+  "toeic_zh": "公司呼籲本季節制開支。",
+  "family": "restrain (v), restrained (adj)",
+  "related": [
+   {
+    "w": "constraint",
+    "zh": "限制",
+    "k": "syn"
+   },
+   {
+    "w": "restriction",
+    "zh": "限制規定",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1384,
+  "day": 56
+ },
+ {
+  "word": "legitimacy",
+  "pos": "n",
+  "pic": "⚖️",
+  "zh": "合法性；正當性",
+  "en": "the quality of being legal or acceptable",
+  "simple": "They doubt the legitimacy of the offer.",
+  "simple_zh": "他們懷疑這個報價的合法性。",
+  "toeic": "The court examined the legitimacy of the contract.",
+  "toeic_zh": "法院審查了該合約的合法性。",
+  "family": "legitimate (adj), legitimately (adv)",
+  "related": [
+   {
+    "w": "legality",
+    "zh": "合法性",
+    "k": "syn"
+   },
+   {
+    "w": "illegitimacy",
+    "zh": "不合法",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 1385,
+  "day": 56
+ },
+ {
+  "word": "regulator",
+  "pos": "n",
+  "pic": "🏛️",
+  "zh": "監管機構",
+  "en": "an official who controls an industry",
+  "simple": "The regulator checks every bank.",
+  "simple_zh": "監管機構會檢查每家銀行。",
+  "toeic": "The financial regulator approved the merger last week.",
+  "toeic_zh": "金融監管機構上週核准了這項合併。",
+  "family": "regulate (v), regulation (n)",
+  "related": [
+   {
+    "w": "regulation",
+    "zh": "法規",
+    "k": "family"
+   },
+   {
+    "w": "legislator",
+    "zh": "立法者",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1386,
+  "day": 56
+ },
+ {
+  "word": "dissolution",
+  "pos": "n",
+  "pic": "💔",
+  "zh": "解散；終止",
+  "en": "the formal ending of a group or contract",
+  "simple": "The dissolution of the band made fans sad.",
+  "simple_zh": "樂團解散讓粉絲很難過。",
+  "toeic": "The partners agreed to the dissolution of the company.",
+  "toeic_zh": "合夥人同意解散公司。",
+  "family": "dissolve (v)",
+  "related": [
+   {
+    "w": "solution",
+    "zh": "解決方案",
+    "k": "confuse"
+   },
+   {
+    "w": "breakup",
+    "zh": "解散",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1387,
+  "day": 56
+ },
+ {
+  "word": "fraudulent",
+  "pos": "adj",
+  "pic": "🕵️",
+  "zh": "欺詐的",
+  "en": "done to trick people to get money",
+  "simple": "The ticket was fraudulent.",
+  "simple_zh": "這張票是偽造的。",
+  "toeic": "The bank detected a fraudulent transaction on her account.",
+  "toeic_zh": "銀行偵測到她帳戶上有一筆詐欺交易。",
+  "family": "fraud (n), fraudulently (adv)",
+  "related": [
+   {
+    "w": "dishonest",
+    "zh": "不誠實的",
+    "k": "syn"
+   },
+   {
+    "w": "genuine",
+    "zh": "真正的",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 1388,
+  "day": 56
+ },
+ {
+  "word": "nominal",
+  "pos": "adj",
+  "pic": "🪙",
+  "zh": "微不足道的；名義上的",
+  "en": "very small in amount; in name only",
+  "simple": "The fee is nominal.",
+  "simple_zh": "這筆費用微不足道。",
+  "toeic": "Members can use the gym for a nominal fee.",
+  "toeic_zh": "會員只需付少許費用即可使用健身房。",
+  "family": "nominate (v), nomination (n)",
+  "related": [
+   {
+    "w": "token",
+    "zh": "象徵性的",
+    "k": "syn"
+   },
+   {
+    "w": "nominate",
+    "zh": "提名",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1389,
+  "day": 56
+ },
+ {
+  "word": "proportional",
+  "pos": "adj",
+  "pic": "⚖️",
+  "zh": "成比例的",
+  "en": "having a fair or equal relation in size",
+  "simple": "Your pay is proportional to your work.",
+  "simple_zh": "你的薪水與工作量成比例。",
+  "toeic": "Bonuses are proportional to each employee's sales results.",
+  "toeic_zh": "獎金與每位員工的銷售成績成正比。",
+  "family": "proportion (n), proportionally (adv)",
+  "related": [
+   {
+    "w": "proportionate",
+    "zh": "相稱的",
+    "k": "syn"
+   },
+   {
+    "w": "professional",
+    "zh": "專業的",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1390,
+  "day": 56
+ },
+ {
+  "word": "prosperous",
+  "pos": "adj",
+  "pic": "💰",
+  "zh": "繁榮的；富裕的",
+  "en": "rich and successful",
+  "simple": "It is a prosperous town.",
+  "simple_zh": "這是個繁榮的小鎮。",
+  "toeic": "The firm became prosperous after entering the Asian market.",
+  "toeic_zh": "這家公司進入亞洲市場後變得興旺。",
+  "family": "prosper (v), prosperity (n)",
+  "related": [
+   {
+    "w": "thriving",
+    "zh": "興旺的",
+    "k": "syn"
+   },
+   {
+    "w": "poor",
+    "zh": "貧窮的",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 1391,
+  "day": 56
+ },
+ {
+  "word": "installment",
+  "pos": "n",
+  "pic": "🗓️",
+  "zh": "分期付款；一期",
+  "en": "one of several payments made over time",
+  "simple": "I pay in monthly installments.",
+  "simple_zh": "我按月分期付款。",
+  "toeic": "You can pay for the car in twelve installments.",
+  "toeic_zh": "您可以分十二期支付車款。",
+  "family": "install (v), installation (n)",
+  "related": [
+   {
+    "w": "installation",
+    "zh": "安裝",
+    "k": "confuse"
+   },
+   {
+    "w": "payment",
+    "zh": "付款",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1392,
+  "day": 56
+ },
+ {
+  "word": "wary",
+  "pos": "adj",
+  "pic": "👀",
+  "zh": "謹慎的；警惕的",
+  "en": "careful because you think there may be danger",
+  "simple": "Be wary of strangers.",
+  "simple_zh": "要提防陌生人。",
+  "toeic": "Investors are wary of the unstable market.",
+  "toeic_zh": "投資人對不穩定的市場感到謹慎。",
+  "family": "warily (adv), wariness (n)",
+  "related": [
+   {
+    "w": "cautious",
+    "zh": "謹慎的",
+    "k": "syn"
+   },
+   {
+    "w": "weary",
+    "zh": "疲倦的",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1393,
+  "day": 56
+ },
+ {
+  "word": "convertible",
+  "pos": "adj",
+  "pic": "🚗",
+  "zh": "可兌換的；可轉換的",
+  "en": "able to be changed into another form",
+  "simple": "This sofa is convertible into a bed.",
+  "simple_zh": "這張沙發可以改成床。",
+  "toeic": "The bank issued convertible bonds to raise funds.",
+  "toeic_zh": "銀行發行可轉換債券來籌措資金。",
+  "family": "convert (v), conversion (n)",
+  "related": [
+   {
+    "w": "adjustable",
+    "zh": "可調整的",
+    "k": "syn"
+   },
+   {
+    "w": "conversion",
+    "zh": "轉換",
+    "k": "family"
+   }
+  ],
+  "src": "BSL",
+  "n": 1394,
+  "day": 56
+ },
+ {
+  "word": "insurer",
+  "pos": "n",
+  "pic": "🏢",
+  "zh": "保險公司；保險人",
+  "en": "a company that sells insurance",
+  "simple": "Call your insurer after the crash.",
+  "simple_zh": "車禍後打電話給你的保險公司。",
+  "toeic": "The insurer will pay for the repairs.",
+  "toeic_zh": "保險公司會支付維修費用。",
+  "family": "insure (v), insurance (n)",
+  "related": [
+   {
+    "w": "insured",
+    "zh": "被保險人",
+    "k": "confuse"
+   },
+   {
+    "w": "insurance",
+    "zh": "保險",
+    "k": "family"
+   }
+  ],
+  "src": "BSL",
+  "n": 1395,
+  "day": 56
+ },
+ {
+  "word": "rebound",
+  "pos": "v",
+  "pic": "🏀",
+  "zh": "反彈；回升",
+  "en": "to recover after a fall",
+  "simple": "The ball will rebound off the wall.",
+  "simple_zh": "球會從牆上彈回來。",
+  "toeic": "Sales are expected to rebound in the next quarter.",
+  "toeic_zh": "預期銷售額將在下一季回升。",
+  "family": "",
+  "related": [
+   {
+    "w": "recover",
+    "zh": "恢復",
+    "k": "syn"
+   },
+   {
+    "w": "decline",
+    "zh": "下滑",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 1396,
+  "day": 56
+ },
+ {
+  "word": "conceal",
+  "pos": "v",
+  "pic": "🫣",
+  "zh": "隱瞞；隱藏",
+  "en": "to hide something from others",
+  "simple": "He tried to conceal the gift.",
+  "simple_zh": "他試圖把禮物藏起來。",
+  "toeic": "The firm was accused of concealing its financial losses.",
+  "toeic_zh": "該公司被控隱瞞財務虧損。",
+  "family": "concealment (n)",
+  "related": [
+   {
+    "w": "hide",
+    "zh": "隱藏",
+    "k": "syn"
+   },
+   {
+    "w": "reveal",
+    "zh": "揭露",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 1397,
+  "day": 56
+ },
+ {
+  "word": "endowment",
+  "pos": "n",
+  "pic": "🎁",
+  "zh": "捐贈；基金",
+  "en": "money given to support an organization",
+  "simple": "The school received a large endowment.",
+  "simple_zh": "學校收到一大筆捐款。",
+  "toeic": "The university's endowment funds new scholarships.",
+  "toeic_zh": "大學的基金資助新的獎學金。",
+  "family": "endow (v)",
+  "related": [
+   {
+    "w": "donation",
+    "zh": "捐款",
+    "k": "syn"
+   },
+   {
+    "w": "endorsement",
+    "zh": "背書",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1398,
+  "day": 56
+ },
+ {
+  "word": "inherit",
+  "pos": "v",
+  "pic": "👴",
+  "zh": "繼承",
+  "en": "to receive money or things from a dead person",
+  "simple": "She will inherit the house.",
+  "simple_zh": "她將繼承這棟房子。",
+  "toeic": "The new manager will inherit several unfinished projects.",
+  "toeic_zh": "新經理將接手幾個未完成的專案。",
+  "family": "inheritance (n)",
+  "related": [
+   {
+    "w": "succeed",
+    "zh": "繼任",
+    "k": "syn"
+   },
+   {
+    "w": "inhabit",
+    "zh": "居住於",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1399,
+  "day": 56
+ },
+ {
+  "word": "residual",
+  "pos": "adj",
+  "pic": "🧴",
+  "zh": "剩餘的；殘留的",
+  "en": "remaining after the main part is gone",
+  "simple": "Some residual heat remains.",
+  "simple_zh": "還有一些餘熱。",
+  "toeic": "Residual value of the equipment is low after five years.",
+  "toeic_zh": "設備使用五年後殘值很低。",
+  "family": "residue (n)",
+  "related": [
+   {
+    "w": "remaining",
+    "zh": "剩餘的",
+    "k": "syn"
+   },
+   {
+    "w": "residential",
+    "zh": "住宅的",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1400,
+  "day": 56
+ }
+]

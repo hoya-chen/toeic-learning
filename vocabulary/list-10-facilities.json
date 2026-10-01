@@ -1,0 +1,5337 @@
+[
+ {
+  "word": "adjacent",
+  "pos": "adj",
+  "pic": "↔️",
+  "zh": "相鄰的；毗連的",
+  "en": "next to or very near something",
+  "simple": "The shop is adjacent to the bank.",
+  "simple_zh": "這家店緊鄰銀行。",
+  "toeic": "Our office is adjacent to the main train station.",
+  "toeic_zh": "我們的辦公室緊鄰火車總站。",
+  "family": "adjacency (n)",
+  "related": [
+   {
+    "w": "adjust",
+    "zh": "調整",
+    "k": "confuse"
+   },
+   {
+    "w": "neighboring",
+    "zh": "鄰近的",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1801,
+  "day": 73
+ },
+ {
+  "word": "advisory",
+  "pos": "adj",
+  "pic": "📋",
+  "zh": "顧問的；諮詢的；警告性的",
+  "en": "giving advice or an official warning",
+  "simple": "There is a weather advisory today.",
+  "simple_zh": "今天有天氣警報。",
+  "toeic": "The travel advisory warns of heavy rain this weekend.",
+  "toeic_zh": "旅遊警示指出本週末將有大雨。",
+  "family": "advise (v), advisor (n)",
+  "related": [
+   {
+    "w": "advisable",
+    "zh": "明智的",
+    "k": "confuse"
+   },
+   {
+    "w": "consultative",
+    "zh": "諮詢的",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1802,
+  "day": 73
+ },
+ {
+  "word": "ample",
+  "pos": "adj",
+  "pic": "🛋️",
+  "zh": "充足的；寬敞的",
+  "en": "more than enough",
+  "simple": "There is ample room in the car.",
+  "simple_zh": "車裡有很多空間。",
+  "toeic": "The hall provides ample parking for all visitors.",
+  "toeic_zh": "大廳為所有訪客提供充足的停車位。",
+  "family": "amply (adv)",
+  "related": [
+   {
+    "w": "sufficient",
+    "zh": "足夠的",
+    "k": "syn"
+   },
+   {
+    "w": "scarce",
+    "zh": "稀少的",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1803,
+  "day": 73
+ },
+ {
+  "word": "arc",
+  "pos": "n",
+  "pic": "🌈",
+  "zh": "弧形；弧線",
+  "en": "a curved line or shape",
+  "simple": "The rainbow made a big arc.",
+  "simple_zh": "彩虹形成一個大弧形。",
+  "toeic": "The building's entrance is designed as a wide arc of glass.",
+  "toeic_zh": "這棟大樓的入口被設計成一個寬廣的玻璃弧形。",
+  "family": "",
+  "related": [
+   {
+    "w": "arch",
+    "zh": "拱門",
+    "k": "syn"
+   },
+   {
+    "w": "ark",
+    "zh": "方舟",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1804,
+  "day": 73
+ },
+ {
+  "word": "architect",
+  "pos": "n",
+  "pic": "📐",
+  "zh": "建築師",
+  "en": "a person who designs buildings",
+  "simple": "The architect drew a new house.",
+  "simple_zh": "建築師畫了一棟新房子。",
+  "toeic": "The architect presented three design options for the company headquarters.",
+  "toeic_zh": "建築師針對公司總部提出了三種設計方案。",
+  "family": "architecture (n), architectural (adj)",
+  "related": [
+   {
+    "w": "architecture",
+    "zh": "建築學",
+    "k": "family"
+   },
+   {
+    "w": "engineer",
+    "zh": "工程師",
+    "k": "confuse"
+   }
+  ],
+  "n": 1805,
+  "day": 73,
+  "src": "TSL"
+ },
+ {
+  "word": "architectural",
+  "pos": "adj",
+  "pic": "🏗️",
+  "zh": "建築的；建築學的",
+  "en": "relating to the design of buildings",
+  "simple": "It has a nice architectural style.",
+  "simple_zh": "它有很棒的建築風格。",
+  "toeic": "The firm won an award for its architectural design.",
+  "toeic_zh": "這家公司因其建築設計而獲獎。",
+  "family": "architect (n), architecture (n)",
+  "related": [
+   {
+    "w": "architecture",
+    "zh": "建築",
+    "k": "family"
+   },
+   {
+    "w": "structural",
+    "zh": "結構的",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1806,
+  "day": 73
+ },
+ {
+  "word": "auditorium",
+  "pos": "n",
+  "pic": "🎭",
+  "zh": "禮堂；大會堂",
+  "en": "a large hall where people watch talks or shows",
+  "simple": "The show is in the auditorium.",
+  "simple_zh": "表演在禮堂舉行。",
+  "toeic": "The auditorium can seat up to five hundred guests for the product launch.",
+  "toeic_zh": "這座禮堂可容納多達五百位賓客參加產品發表會。",
+  "family": "",
+  "related": [
+   {
+    "w": "audience",
+    "zh": "觀眾",
+    "k": "confuse"
+   },
+   {
+    "w": "hall",
+    "zh": "大廳",
+    "k": "syn"
+   }
+  ],
+  "n": 1807,
+  "day": 73,
+  "src": "TSL"
+ },
+ {
+  "word": "bacteria",
+  "pos": "n",
+  "pic": "🦠",
+  "zh": "細菌",
+  "en": "very small living things that can cause disease",
+  "simple": "Soap kills bacteria on your hands.",
+  "simple_zh": "肥皂能殺死手上的細菌。",
+  "toeic": "Chefs must wash their hands to prevent the spread of bacteria.",
+  "toeic_zh": "廚師必須洗手以防止細菌傳播。",
+  "family": "bacterium (n)",
+  "related": [
+   {
+    "w": "virus",
+    "zh": "病毒",
+    "k": "syn"
+   },
+   {
+    "w": "cafeteria",
+    "zh": "自助餐廳",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1808,
+  "day": 73
+ },
+ {
+  "word": "balcony",
+  "pos": "n",
+  "pic": "🏠",
+  "zh": "陽台",
+  "en": "a small platform on the outside wall of a building",
+  "simple": "She is on the balcony.",
+  "simple_zh": "她在陽台上。",
+  "toeic": "Each suite in the new hotel has a private balcony with a sea view.",
+  "toeic_zh": "新飯店的每間套房都有可看海景的私人陽台。",
+  "family": "",
+  "related": [
+   {
+    "w": "terrace",
+    "zh": "露台",
+    "k": "syn"
+   },
+   {
+    "w": "corridor",
+    "zh": "走廊",
+    "k": "confuse"
+   }
+  ],
+  "n": 1809,
+  "day": 73,
+  "src": "TSL"
+ },
+ {
+  "word": "basement",
+  "pos": "n",
+  "pic": "⬇️",
+  "zh": "地下室；底層",
+  "en": "a story of a building that is largely or entirely below ground level",
+  "simple": "The basement stores equipment.",
+  "simple_zh": "地下室儲存設備。",
+  "toeic": "Basement waterproofing prevents moisture infiltration.",
+  "toeic_zh": "地下室防水防止了水分入侵。",
+  "family": "basement (n), below (prep)",
+  "related": [
+   {
+    "w": "foundation",
+    "zh": "基礎",
+    "k": "syn"
+   },
+   {
+    "w": "level",
+    "zh": "水平",
+    "k": "confuse"
+   }
+  ],
+  "n": 1810,
+  "day": 73,
+  "src": "TSL"
+ },
+ {
+  "word": "bathroom",
+  "pos": "n",
+  "pic": "🚿",
+  "zh": "浴室；洗手間",
+  "en": "a room with a bath, shower, or toilet",
+  "simple": "The bathroom is on the left.",
+  "simple_zh": "洗手間在左邊。",
+  "toeic": "Each guest room includes a private bathroom with a shower.",
+  "toeic_zh": "每間客房都附有淋浴的獨立浴室。",
+  "family": "",
+  "related": [
+   {
+    "w": "restroom",
+    "zh": "洗手間",
+    "k": "syn"
+   },
+   {
+    "w": "bedroom",
+    "zh": "臥室",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1811,
+  "day": 73
+ },
+ {
+  "word": "bench",
+  "pos": "n",
+  "pic": "🪑",
+  "zh": "長椅",
+  "en": "A long seat for several people, often outdoors.",
+  "simple": "We sat on a bench in the park.",
+  "simple_zh": "我們坐在公園的長椅上。",
+  "toeic": "The city installed a new bench near the bus stop for commuters.",
+  "toeic_zh": "市政府在公車站旁新設了一張長椅供通勤者使用。",
+  "family": "",
+  "related": [
+   {
+    "w": "bunch",
+    "zh": "一串;一群",
+    "k": "confuse"
+   },
+   {
+    "w": "seat",
+    "zh": "座位",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1812,
+  "day": 73
+ },
+ {
+  "word": "blueprint",
+  "pos": "n",
+  "pic": "📐",
+  "zh": "藍圖；計劃",
+  "en": "a detailed plan or design",
+  "simple": "The architect showed us the blueprint of the building.",
+  "simple_zh": "建築師向我們展示了建築物的藍圖。",
+  "toeic": "The blueprint outlined all structural specifications and safety requirements.",
+  "toeic_zh": "藍圖列出了所有結構規格和安全要求。",
+  "family": "blueprint (n), blueprinted (adj)",
+  "related": [
+   {
+    "w": "plan",
+    "zh": "計劃",
+    "k": "syn"
+   },
+   {
+    "w": "sketch",
+    "zh": "草圖",
+    "k": "confuse"
+   }
+  ],
+  "n": 1813,
+  "day": 73,
+  "src": "TSL"
+ },
+ {
+  "word": "bookcase",
+  "pos": "n",
+  "pic": "📚",
+  "zh": "書櫃",
+  "en": "A piece of furniture with shelves for books.",
+  "simple": "The bookcase is full of books.",
+  "simple_zh": "書櫃裡裝滿了書。",
+  "toeic": "Please place the manuals on the bookcase behind my desk.",
+  "toeic_zh": "請把手冊放在我辦公桌後面的書櫃上。",
+  "family": "",
+  "related": [
+   {
+    "w": "bookshelf",
+    "zh": "書架",
+    "k": "syn"
+   },
+   {
+    "w": "bookstore",
+    "zh": "書店",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1814,
+  "day": 73
+ },
+ {
+  "word": "broom",
+  "pos": "n",
+  "pic": "🧹",
+  "zh": "掃帚",
+  "en": "A tool with a long handle for sweeping floors.",
+  "simple": "Please use the broom here.",
+  "simple_zh": "請在這裡用掃帚。",
+  "toeic": "The cleaner keeps a broom and a mop in the supply closet.",
+  "toeic_zh": "清潔人員把掃帚和拖把放在儲物櫃裡。",
+  "family": "",
+  "related": [
+   {
+    "w": "mop",
+    "zh": "拖把",
+    "k": "syn"
+   },
+   {
+    "w": "room",
+    "zh": "房間",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1815,
+  "day": 73
+ },
+ {
+  "word": "bulb",
+  "pos": "n",
+  "pic": "💡",
+  "zh": "燈泡",
+  "en": "The glass part of a lamp that gives light.",
+  "simple": "The bulb in my room is broken.",
+  "simple_zh": "我房間的燈泡壞了。",
+  "toeic": "Please replace the bulb in the hallway as soon as possible.",
+  "toeic_zh": "請盡快更換走廊的燈泡。",
+  "family": "",
+  "related": [
+   {
+    "w": "lamp",
+    "zh": "燈",
+    "k": "syn"
+   },
+   {
+    "w": "bulk",
+    "zh": "大量",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1816,
+  "day": 73
+ },
+ {
+  "word": "cafeteria",
+  "pos": "n",
+  "pic": "🍽️",
+  "zh": "自助餐廳；員工餐廳",
+  "en": "a place in a workplace where people buy and eat meals",
+  "simple": "We eat lunch in the cafeteria.",
+  "simple_zh": "我們在自助餐廳吃午餐。",
+  "toeic": "The company will renovate the cafeteria to add more seating.",
+  "toeic_zh": "公司將翻修員工餐廳以增加座位。",
+  "family": "",
+  "related": [
+   {
+    "w": "canteen",
+    "zh": "食堂",
+    "k": "syn"
+   },
+   {
+    "w": "cafe",
+    "zh": "咖啡館",
+    "k": "confuse"
+   }
+  ],
+  "n": 1817,
+  "day": 73,
+  "src": "TSL"
+ },
+ {
+  "word": "carpenter",
+  "pos": "n",
+  "pic": "🪚",
+  "zh": "木工",
+  "en": "a person who makes and repairs things made of wood",
+  "simple": "My uncle is a carpenter.",
+  "simple_zh": "我叔叔是木工。",
+  "toeic": "We hired a carpenter to build shelves in the new storage room.",
+  "toeic_zh": "我們僱了一位木工在新儲藏室裡做架子。",
+  "family": "carpentry (n)",
+  "related": [
+   {
+    "w": "carpentry",
+    "zh": "木工手藝",
+    "k": "family"
+   },
+   {
+    "w": "craftsman",
+    "zh": "工匠",
+    "k": "syn"
+   }
+  ],
+  "n": 1818,
+  "day": 73,
+  "src": "TSL"
+ },
+ {
+  "word": "caution",
+  "pos": "n",
+  "pic": "⚠️",
+  "zh": "小心;警告",
+  "en": "Great care taken to avoid danger or mistakes.",
+  "simple": "Use caution on the wet floor.",
+  "simple_zh": "在濕地板上要小心。",
+  "toeic": "Please proceed with caution when entering the construction zone.",
+  "toeic_zh": "進入施工區域時請小心前進。",
+  "family": "cautious (adj), cautiously (adv)",
+  "related": [
+   {
+    "w": "cautious",
+    "zh": "謹慎的",
+    "k": "family"
+   },
+   {
+    "w": "warning",
+    "zh": "警告",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1819,
+  "day": 73
+ },
+ {
+  "word": "ceiling",
+  "pos": "n",
+  "pic": "☁️",
+  "zh": "天花板；頂棚",
+  "en": "the upper inner surface of a room",
+  "simple": "The ceiling is ten feet high.",
+  "simple_zh": "天花板高十英尺。",
+  "toeic": "Dropped ceiling panels provide easy access to utilities and improve acoustics.",
+  "toeic_zh": "下垂的天花板面板提供了對公用設施的便捷訪問並改善了音效。",
+  "family": "ceiling (n), ceiled (adj)",
+  "related": [
+   {
+    "w": "roof",
+    "zh": "屋頂",
+    "k": "syn"
+   },
+   {
+    "w": "wall",
+    "zh": "牆",
+    "k": "confuse"
+   }
+  ],
+  "n": 1820,
+  "day": 73,
+  "src": "TSL"
+ },
+ {
+  "word": "chilly",
+  "pos": "adj",
+  "pic": "🥶",
+  "zh": "寒冷的",
+  "en": "Rather cold, but not extremely cold.",
+  "simple": "It is chilly this morning.",
+  "simple_zh": "今天早上有點冷。",
+  "toeic": "The forecast says it will be chilly and windy tomorrow.",
+  "toeic_zh": "預報說明天會又冷又有風。",
+  "family": "chill (n, v)",
+  "related": [
+   {
+    "w": "cool",
+    "zh": "涼的",
+    "k": "syn"
+   },
+   {
+    "w": "chili",
+    "zh": "辣椒",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1821,
+  "day": 73
+ },
+ {
+  "word": "cleaner",
+  "pos": "n",
+  "pic": "🧽",
+  "zh": "清潔工;清潔劑",
+  "en": "A person or product that cleans things.",
+  "simple": "The cleaner comes every morning.",
+  "simple_zh": "清潔工每天早上來。",
+  "toeic": "The cleaner will wash the windows on the third floor today.",
+  "toeic_zh": "清潔人員今天會擦三樓的窗戶。",
+  "family": "clean (v, adj), cleanliness (n)",
+  "related": [
+   {
+    "w": "janitor",
+    "zh": "管理員",
+    "k": "syn"
+   },
+   {
+    "w": "cleaning",
+    "zh": "清潔",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 1822,
+  "day": 73
+ },
+ {
+  "word": "cleanliness",
+  "pos": "n",
+  "pic": "✨",
+  "zh": "清潔;整潔",
+  "en": "The state of being clean.",
+  "simple": "Cleanliness is important in a kitchen.",
+  "simple_zh": "廚房的清潔很重要。",
+  "toeic": "Guests praised the cleanliness of the hotel rooms.",
+  "toeic_zh": "旅客稱讚飯店客房的整潔。",
+  "family": "clean (adj, v), cleaner (n)",
+  "related": [
+   {
+    "w": "hygiene",
+    "zh": "衛生",
+    "k": "syn"
+   },
+   {
+    "w": "cleanness",
+    "zh": "潔淨",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1823,
+  "day": 73
+ },
+ {
+  "word": "closet",
+  "pos": "n",
+  "pic": "🚪",
+  "zh": "櫥櫃;衣櫃",
+  "en": "A small room or cupboard for storing things.",
+  "simple": "My coat is in the closet.",
+  "simple_zh": "我的外套在衣櫃裡。",
+  "toeic": "Extra paper is kept in the supply closet.",
+  "toeic_zh": "備用紙張放在儲物櫃裡。",
+  "family": "",
+  "related": [
+   {
+    "w": "cabinet",
+    "zh": "櫃子",
+    "k": "syn"
+   },
+   {
+    "w": "closure",
+    "zh": "關閉",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1824,
+  "day": 73
+ },
+ {
+  "word": "closure",
+  "pos": "n",
+  "pic": "🔒",
+  "zh": "關閉;歇業",
+  "en": "The act of shutting something permanently or for a time.",
+  "simple": "The road closure caused delays.",
+  "simple_zh": "道路封閉造成延誤。",
+  "toeic": "The closure of the factory will affect two hundred workers.",
+  "toeic_zh": "工廠關閉將影響兩百名員工。",
+  "family": "close (v)",
+  "related": [
+   {
+    "w": "closet",
+    "zh": "櫥櫃",
+    "k": "confuse"
+   },
+   {
+    "w": "opening",
+    "zh": "開幕",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1825,
+  "day": 73
+ },
+ {
+  "word": "cloudy",
+  "pos": "adj",
+  "pic": "☁️",
+  "zh": "多雲的",
+  "en": "Full of clouds, with little sun.",
+  "simple": "It is cloudy today.",
+  "simple_zh": "今天是多雲的天氣。",
+  "toeic": "It will be cloudy with light rain this afternoon.",
+  "toeic_zh": "今天下午多雲並有小雨。",
+  "family": "cloud (n)",
+  "related": [
+   {
+    "w": "sunny",
+    "zh": "晴朗的",
+    "k": "opp"
+   },
+   {
+    "w": "overcast",
+    "zh": "陰天的",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1826,
+  "day": 74
+ },
+ {
+  "word": "completion",
+  "pos": "n",
+  "pic": "🏁",
+  "zh": "完成",
+  "en": "The state of being finished.",
+  "simple": "Completion is due on Friday.",
+  "simple_zh": "完成期限是星期五。",
+  "toeic": "The completion of the new building is expected in June.",
+  "toeic_zh": "新大樓預計六月完工。",
+  "family": "complete (v, adj)",
+  "related": [
+   {
+    "w": "complete",
+    "zh": "完成",
+    "k": "family"
+   },
+   {
+    "w": "competition",
+    "zh": "競爭",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1827,
+  "day": 74
+ },
+ {
+  "word": "conditioner",
+  "pos": "n",
+  "pic": "❄️",
+  "zh": "空調;潤髮乳",
+  "en": "A device or product that improves the condition of something.",
+  "simple": "Turn on the air conditioner.",
+  "simple_zh": "請打開冷氣。",
+  "toeic": "The air conditioner in the conference room is not working.",
+  "toeic_zh": "會議室的冷氣壞了。",
+  "family": "condition (n, v), conditioning (n)",
+  "related": [
+   {
+    "w": "condition",
+    "zh": "狀況",
+    "k": "family"
+   },
+   {
+    "w": "conductor",
+    "zh": "指揮;車掌",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1828,
+  "day": 74
+ },
+ {
+  "word": "condominium",
+  "pos": "n",
+  "pic": "🏘️",
+  "zh": "公寓大樓;住宅單位",
+  "en": "An apartment in a building where each owner owns a unit.",
+  "simple": "They bought a condominium.",
+  "simple_zh": "他們買了一戶公寓。",
+  "toeic": "The developer is building a new condominium near the station.",
+  "toeic_zh": "建商正在車站附近興建一棟新的公寓大樓。",
+  "family": "",
+  "related": [
+   {
+    "w": "apartment",
+    "zh": "公寓",
+    "k": "syn"
+   },
+   {
+    "w": "dominion",
+    "zh": "統治權",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1829,
+  "day": 74
+ },
+ {
+  "word": "consent",
+  "pos": "n",
+  "pic": "🤝",
+  "zh": "同意；贊成",
+  "en": "voluntary agreement or compliance with something",
+  "simple": "Consent from both parties is required.",
+  "simple_zh": "需要雙方的同意。",
+  "toeic": "Informed consent ensures stakeholder agreement with project plans.",
+  "toeic_zh": "知情同意確保利益相關者同意項目計劃。",
+  "family": "consent (n), consent (v), consensual (adj)",
+  "related": [
+   {
+    "w": "agreement",
+    "zh": "協議",
+    "k": "syn"
+   },
+   {
+    "w": "approval",
+    "zh": "批准",
+    "k": "confuse"
+   }
+  ],
+  "n": 1830,
+  "day": 74,
+  "src": "TSL"
+ },
+ {
+  "word": "contractor",
+  "pos": "n",
+  "pic": "👷",
+  "zh": "承包商；承建商",
+  "en": "a person or company hired to do specific work",
+  "simple": "The contractor finished the job on time.",
+  "simple_zh": "承包商按時完成了工作。",
+  "toeic": "We selected an experienced contractor with excellent project management skills.",
+  "toeic_zh": "我們選擇了一位具有優秀項目管理技能的經驗豐富的承包商。",
+  "family": "contractor (n), contract (n), contractual (adj)",
+  "related": [
+   {
+    "w": "builder",
+    "zh": "建築工人",
+    "k": "syn"
+   },
+   {
+    "w": "engineer",
+    "zh": "工程師",
+    "k": "confuse"
+   }
+  ],
+  "n": 1831,
+  "day": 74,
+  "src": "TSL"
+ },
+ {
+  "word": "conveniently",
+  "pos": "adv",
+  "pic": "📍",
+  "zh": "方便地",
+  "en": "in a way that is easy or useful",
+  "simple": "The hotel is conveniently near the station.",
+  "simple_zh": "飯店離車站很近，很方便。",
+  "toeic": "The office is conveniently located near the subway station.",
+  "toeic_zh": "辦公室位置便利，就在地鐵站附近。",
+  "family": "convenient (adj), convenience (n), conveniently (adv)",
+  "related": [
+   {
+    "w": "convenient",
+    "zh": "方便的",
+    "k": "family"
+   },
+   {
+    "w": "easily",
+    "zh": "容易地",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1832,
+  "day": 74
+ },
+ {
+  "word": "cushion",
+  "pos": "n",
+  "pic": "🛋️",
+  "zh": "墊子；緩衝",
+  "en": "a soft bag used to sit on or protect",
+  "simple": "I sat on a soft cushion.",
+  "simple_zh": "我坐在一個軟墊上。",
+  "toeic": "Extra cash gives the company a cushion against unexpected costs.",
+  "toeic_zh": "額外現金讓公司在面對意外開支時有緩衝。",
+  "family": "",
+  "related": [
+   {
+    "w": "pillow",
+    "zh": "枕頭",
+    "k": "syn"
+   },
+   {
+    "w": "cushy",
+    "zh": "輕鬆的",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1833,
+  "day": 74
+ },
+ {
+  "word": "decorate",
+  "pos": "v",
+  "pic": "🎄",
+  "zh": "裝飾；布置",
+  "en": "to make a place look nicer",
+  "simple": "We decorate the room together.",
+  "simple_zh": "我們一起布置房間。",
+  "toeic": "The staff will decorate the lobby for the annual celebration.",
+  "toeic_zh": "員工將為年度慶祝活動布置大廳。",
+  "family": "decoration (n), decorative (adj), decorate (v)",
+  "related": [
+   {
+    "w": "decoration",
+    "zh": "裝飾",
+    "k": "family"
+   },
+   {
+    "w": "renovate",
+    "zh": "整修",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1834,
+  "day": 74
+ },
+ {
+  "word": "decoration",
+  "pos": "n",
+  "pic": "🎀",
+  "zh": "裝飾；裝飾品",
+  "en": "something used to make a place look nice",
+  "simple": "The decorations look beautiful.",
+  "simple_zh": "這些裝飾品很漂亮。",
+  "toeic": "The hotel lobby has festive decoration for the holiday season.",
+  "toeic_zh": "飯店大廳為節慶季節布置了喜慶的裝飾。",
+  "family": "decorate (v), decorative (adj), decoration (n)",
+  "related": [
+   {
+    "w": "decorate",
+    "zh": "裝飾",
+    "k": "family"
+   },
+   {
+    "w": "ornament",
+    "zh": "飾品",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1835,
+  "day": 74
+ },
+ {
+  "word": "demolish",
+  "pos": "v",
+  "pic": "💥",
+  "zh": "拆除；拆毀",
+  "en": "to destroy or tear down a building",
+  "simple": "They will demolish the old building next month.",
+  "simple_zh": "他們下個月將拆除舊建築。",
+  "toeic": "The company plans to demolish the obsolete warehouse and build a modern facility.",
+  "toeic_zh": "公司計劃拆除過時的倉庫並建造現代設施。",
+  "family": "demolish (v), demolition (n), demolished (adj)",
+  "related": [
+   {
+    "w": "destroy",
+    "zh": "摧毀",
+    "k": "syn"
+   },
+   {
+    "w": "construct",
+    "zh": "建造",
+    "k": "confuse"
+   }
+  ],
+  "n": 1836,
+  "day": 74,
+  "src": "TSL"
+ },
+ {
+  "word": "deteriorate",
+  "pos": "v",
+  "pic": "📉",
+  "zh": "惡化；變壞",
+  "en": "to become worse over time",
+  "simple": "The weather will deteriorate tonight.",
+  "simple_zh": "今晚天氣會變差。",
+  "toeic": "Road conditions may deteriorate quickly if the snow continues.",
+  "toeic_zh": "如果持續下雪，路況可能迅速惡化。",
+  "family": "deterioration (n), deteriorate (v)",
+  "related": [
+   {
+    "w": "worsen",
+    "zh": "惡化",
+    "k": "syn"
+   },
+   {
+    "w": "improve",
+    "zh": "改善",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1837,
+  "day": 74
+ },
+ {
+  "word": "devastate",
+  "pos": "v",
+  "pic": "💥",
+  "zh": "摧毀；使震驚",
+  "en": "to cause great damage or sadness",
+  "simple": "The storm will devastate the town.",
+  "simple_zh": "暴風雨會摧毀這個城鎮。",
+  "toeic": "The flood devastated several farms along the river last spring.",
+  "toeic_zh": "去年春天洪水摧毀了河岸沿線的幾座農場。",
+  "family": "devastation (n), devastating (adj), devastate (v)",
+  "related": [
+   {
+    "w": "destroy",
+    "zh": "摧毀",
+    "k": "syn"
+   },
+   {
+    "w": "devastation",
+    "zh": "破壞",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 1838,
+  "day": 74
+ },
+ {
+  "word": "disposal",
+  "pos": "n",
+  "pic": "♻️",
+  "zh": "處理；處置",
+  "en": "the act of getting rid of something",
+  "simple": "Waste disposal is important.",
+  "simple_zh": "廢棄物處理很重要。",
+  "toeic": "The company has a strict policy on the disposal of chemicals.",
+  "toeic_zh": "公司對化學品的處置有嚴格的規定。",
+  "family": "dispose (v), disposal (n)",
+  "related": [
+   {
+    "w": "dispose",
+    "zh": "處理",
+    "k": "family"
+   },
+   {
+    "w": "proposal",
+    "zh": "提案",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1839,
+  "day": 74
+ },
+ {
+  "word": "dispose",
+  "pos": "v",
+  "pic": "🚮",
+  "zh": "處理；丟棄",
+  "en": "to throw away or get rid of",
+  "simple": "Dispose of trash in the bin.",
+  "simple_zh": "把垃圾丟進垃圾桶。",
+  "toeic": "Please dispose of used batteries at the designated collection point.",
+  "toeic_zh": "請將廢電池丟棄至指定回收點。",
+  "family": "disposal (n), disposable (adj), dispose (v)",
+  "related": [
+   {
+    "w": "discard",
+    "zh": "丟棄",
+    "k": "syn"
+   },
+   {
+    "w": "propose",
+    "zh": "提議",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1840,
+  "day": 74
+ },
+ {
+  "word": "dose",
+  "pos": "n",
+  "pic": "💊",
+  "zh": "劑量",
+  "en": "the amount of medicine taken at one time",
+  "simple": "Take one dose each morning.",
+  "simple_zh": "每天早上服用一劑。",
+  "toeic": "Do not exceed the recommended dose printed on the label.",
+  "toeic_zh": "請勿超過標籤上標示的建議劑量。",
+  "family": "dosage (n), dose (n)",
+  "related": [
+   {
+    "w": "dosage",
+    "zh": "劑量",
+    "k": "family"
+   },
+   {
+    "w": "close",
+    "zh": "關閉",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1841,
+  "day": 74
+ },
+ {
+  "word": "downstairs",
+  "pos": "adv",
+  "pic": "🪜",
+  "zh": "在樓下；往樓下",
+  "en": "on or to a lower floor",
+  "simple": "She went downstairs.",
+  "simple_zh": "她下樓了。",
+  "toeic": "The cafeteria is located downstairs next to the main entrance.",
+  "toeic_zh": "自助餐廳位於樓下，就在大門旁邊。",
+  "family": "",
+  "related": [
+   {
+    "w": "upstairs",
+    "zh": "在樓上",
+    "k": "opp"
+   },
+   {
+    "w": "below",
+    "zh": "在下方",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1842,
+  "day": 74
+ },
+ {
+  "word": "downtown",
+  "pos": "n",
+  "pic": "🏙️",
+  "zh": "市中心",
+  "en": "the main business area of a city",
+  "simple": "I work downtown.",
+  "simple_zh": "我在市中心工作。",
+  "toeic": "Our new office will be located in downtown Chicago.",
+  "toeic_zh": "我們的新辦公室將位於芝加哥市中心。",
+  "family": "",
+  "related": [
+   {
+    "w": "uptown",
+    "zh": "住宅區",
+    "k": "opp"
+   },
+   {
+    "w": "suburb",
+    "zh": "郊區",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1843,
+  "day": 74
+ },
+ {
+  "word": "drought",
+  "pos": "n",
+  "pic": "🏜️",
+  "zh": "乾旱",
+  "en": "a long period with very little rain",
+  "simple": "The drought made the farm dry.",
+  "simple_zh": "乾旱讓農場變得乾燥。",
+  "toeic": "The severe drought has raised the price of vegetables.",
+  "toeic_zh": "嚴重乾旱使蔬菜價格上漲。",
+  "family": "",
+  "related": [
+   {
+    "w": "flood",
+    "zh": "洪水",
+    "k": "opp"
+   },
+   {
+    "w": "shortage",
+    "zh": "短缺",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1844,
+  "day": 74
+ },
+ {
+  "word": "electrical",
+  "pos": "adj",
+  "pic": "⚡",
+  "zh": "電氣的；電的",
+  "en": "relating to electricity or electric systems",
+  "simple": "The electrical system needs to be updated.",
+  "simple_zh": "電氣系統需要更新。",
+  "toeic": "Electrical wiring throughout the facility must comply with safety standards.",
+  "toeic_zh": "整個設施的電氣佈線必須符合安全標準。",
+  "family": "electrical (adj), electricity (n), electrician (n)",
+  "related": [
+   {
+    "w": "electric",
+    "zh": "電的",
+    "k": "syn"
+   },
+   {
+    "w": "electronic",
+    "zh": "電子的",
+    "k": "confuse"
+   }
+  ],
+  "n": 1845,
+  "day": 74,
+  "src": "TSL"
+ },
+ {
+  "word": "electrician",
+  "pos": "n",
+  "pic": "🔌",
+  "zh": "電工",
+  "en": "a person whose job is to fix electrical systems",
+  "simple": "The electrician fixed the light.",
+  "simple_zh": "電工修好了燈。",
+  "toeic": "We hired an electrician to rewire the old office.",
+  "toeic_zh": "我們請了一位電工替舊辦公室重新配線。",
+  "family": "electric (adj), electrician (n), electricity (n)",
+  "related": [
+   {
+    "w": "electricity",
+    "zh": "電力",
+    "k": "family"
+   },
+   {
+    "w": "technician",
+    "zh": "技術人員",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1846,
+  "day": 74
+ },
+ {
+  "word": "elevator",
+  "pos": "n",
+  "pic": "🛗",
+  "zh": "電梯；升降機",
+  "en": "a platform or compartment that moves vertically between floors",
+  "simple": "The elevator is out of order today.",
+  "simple_zh": "電梯今天故障了。",
+  "toeic": "The building is equipped with high-speed elevators for efficient vertical transportation.",
+  "toeic_zh": "建築物配備了高速電梯以實現高效的垂直運輸。",
+  "family": "elevator (n), elevate (v), elevated (adj)",
+  "related": [
+   {
+    "w": "lift",
+    "zh": "升降",
+    "k": "syn"
+   },
+   {
+    "w": "escalator",
+    "zh": "自動扶梯",
+    "k": "confuse"
+   }
+  ],
+  "n": 1847,
+  "day": 74,
+  "src": "TSL"
+ },
+ {
+  "word": "environmentally",
+  "pos": "adv",
+  "pic": "🌱",
+  "zh": "在環境方面；環保地",
+  "en": "in a way that relates to the natural environment",
+  "simple": "We use environmentally safe products.",
+  "simple_zh": "我們使用對環境安全的產品。",
+  "toeic": "The factory is committed to being environmentally responsible.",
+  "toeic_zh": "這間工廠致力於對環境負責。",
+  "family": "environment (n), environmental (adj), environmentally (adv)",
+  "related": [
+   {
+    "w": "environmental",
+    "zh": "環境的",
+    "k": "family"
+   },
+   {
+    "w": "ecologically",
+    "zh": "生態上",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1848,
+  "day": 74
+ },
+ {
+  "word": "escalator",
+  "pos": "n",
+  "pic": "🛗",
+  "zh": "電扶梯",
+  "en": "a moving staircase in a building",
+  "simple": "Take the escalator to the second floor.",
+  "simple_zh": "搭電扶梯到二樓。",
+  "toeic": "The escalator near the entrance is out of order today.",
+  "toeic_zh": "入口附近的電扶梯今天故障。",
+  "family": "",
+  "related": [
+   {
+    "w": "elevator",
+    "zh": "電梯",
+    "k": "confuse"
+   },
+   {
+    "w": "stairs",
+    "zh": "樓梯",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1849,
+  "day": 74
+ },
+ {
+  "word": "evacuate",
+  "pos": "v",
+  "pic": "🚨",
+  "zh": "疏散；撤離",
+  "en": "to leave a dangerous place quickly",
+  "simple": "Everyone must evacuate the building.",
+  "simple_zh": "所有人都必須撤離大樓。",
+  "toeic": "Staff were told to evacuate the building during the fire alarm.",
+  "toeic_zh": "火災警報響起時，員工被要求撤離大樓。",
+  "family": "evacuate (v), evacuation (n)",
+  "related": [
+   {
+    "w": "evaluate",
+    "zh": "評估",
+    "k": "confuse"
+   },
+   {
+    "w": "evacuation",
+    "zh": "疏散",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 1850,
+  "day": 74
+ },
+ {
+  "word": "exit",
+  "pos": "n",
+  "pic": "🚪",
+  "zh": "出口",
+  "en": "a way out of a building or place",
+  "simple": "The exit is on the left.",
+  "simple_zh": "出口在左邊。",
+  "toeic": "Please use the nearest exit in case of a fire.",
+  "toeic_zh": "發生火災時，請使用最近的出口。",
+  "family": "exit (n/v)",
+  "related": [
+   {
+    "w": "entrance",
+    "zh": "入口",
+    "k": "opp"
+   },
+   {
+    "w": "way out",
+    "zh": "出路",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1851,
+  "day": 75
+ },
+ {
+  "word": "extinguisher",
+  "pos": "n",
+  "pic": "🧯",
+  "zh": "滅火器",
+  "en": "a metal tool that sprays chemicals to put out fires",
+  "simple": "The extinguisher is by the door.",
+  "simple_zh": "滅火器在門旁邊。",
+  "toeic": "Each extinguisher must be checked once a year by a licensed inspector.",
+  "toeic_zh": "每個滅火器都必須由合格檢查員每年檢查一次。",
+  "family": "extinguish (v)",
+  "related": [
+   {
+    "w": "extinguish",
+    "zh": "撲滅",
+    "k": "family"
+   },
+   {
+    "w": "distinguish",
+    "zh": "區分",
+    "k": "confuse"
+   }
+  ],
+  "n": 1852,
+  "day": 75,
+  "src": "TSL"
+ },
+ {
+  "word": "fatigue",
+  "pos": "n",
+  "pic": "😴",
+  "zh": "疲勞；材料疲勞",
+  "en": "weakness or failure of a material under repeated stress",
+  "simple": "Material fatigue affects bridge safety.",
+  "simple_zh": "材料疲勞影響橋樑安全。",
+  "toeic": "Metal fatigue in structural supports requires preventive maintenance.",
+  "toeic_zh": "結構支撐中的金屬疲勞需要預防性維護。",
+  "family": "fatigue (n), fatigued (adj), fatiguing (adj)",
+  "related": [
+   {
+    "w": "stress",
+    "zh": "應力",
+    "k": "syn"
+   },
+   {
+    "w": "deterioration",
+    "zh": "惡化",
+    "k": "confuse"
+   }
+  ],
+  "n": 1853,
+  "day": 75,
+  "src": "TSL"
+ },
+ {
+  "word": "firefighter",
+  "pos": "n",
+  "pic": "🧑‍🚒",
+  "zh": "消防員",
+  "en": "a person whose job is to stop fires",
+  "simple": "The firefighter saved the cat.",
+  "simple_zh": "消防員救了那隻貓。",
+  "toeic": "A firefighter inspected the building before the grand opening.",
+  "toeic_zh": "開幕前，一位消防員檢查了這棟建築。",
+  "family": "fire (n), firefighter (n)",
+  "related": [
+   {
+    "w": "fireman",
+    "zh": "消防員",
+    "k": "syn"
+   },
+   {
+    "w": "fire alarm",
+    "zh": "火警警報",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 1854,
+  "day": 75
+ },
+ {
+  "word": "fitness",
+  "pos": "n",
+  "pic": "🏋️",
+  "zh": "健康；健身",
+  "en": "the state of being healthy and strong",
+  "simple": "I go to the fitness center.",
+  "simple_zh": "我去健身中心。",
+  "toeic": "The company offers a free fitness program to all employees.",
+  "toeic_zh": "公司為所有員工提供免費健身計畫。",
+  "family": "fit (adj/v), fitness (n)",
+  "related": [
+   {
+    "w": "fit",
+    "zh": "健康的",
+    "k": "family"
+   },
+   {
+    "w": "fitting",
+    "zh": "適合的",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1855,
+  "day": 75
+ },
+ {
+  "word": "flu",
+  "pos": "n",
+  "pic": "🤧",
+  "zh": "流行性感冒",
+  "en": "a common illness with fever and a sore throat",
+  "simple": "I have the flu today.",
+  "simple_zh": "我今天得了流感。",
+  "toeic": "Many employees stayed home because of the flu.",
+  "toeic_zh": "許多員工因流感而待在家裡。",
+  "family": "",
+  "related": [
+   {
+    "w": "flew",
+    "zh": "飛（過去式）",
+    "k": "confuse"
+   },
+   {
+    "w": "cold",
+    "zh": "感冒",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1856,
+  "day": 75
+ },
+ {
+  "word": "fog",
+  "pos": "n",
+  "pic": "🌫️",
+  "zh": "霧",
+  "en": "thick cloud close to the ground",
+  "simple": "The fog was thick this morning.",
+  "simple_zh": "今天早上霧很濃。",
+  "toeic": "Heavy fog delayed several flights this morning.",
+  "toeic_zh": "濃霧使今早數班航班延誤。",
+  "family": "fog (n), foggy (adj)",
+  "related": [
+   {
+    "w": "frog",
+    "zh": "青蛙",
+    "k": "confuse"
+   },
+   {
+    "w": "mist",
+    "zh": "薄霧",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1857,
+  "day": 75
+ },
+ {
+  "word": "garage",
+  "pos": "n",
+  "pic": "🚗",
+  "zh": "車庫；修車廠",
+  "en": "a building for keeping or repairing cars",
+  "simple": "The car is in the garage.",
+  "simple_zh": "車子在車庫裡。",
+  "toeic": "Employees may park in the underground garage for free.",
+  "toeic_zh": "員工可免費停在地下停車場。",
+  "family": "",
+  "related": [
+   {
+    "w": "garbage",
+    "zh": "垃圾",
+    "k": "confuse"
+   },
+   {
+    "w": "parking lot",
+    "zh": "停車場",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1858,
+  "day": 75
+ },
+ {
+  "word": "garbage",
+  "pos": "n",
+  "pic": "🗑️",
+  "zh": "垃圾",
+  "en": "things that you throw away",
+  "simple": "Take out the garbage, please.",
+  "simple_zh": "請把垃圾拿出去倒。",
+  "toeic": "Garbage is collected every Tuesday and Friday.",
+  "toeic_zh": "垃圾每週二和週五收集。",
+  "family": "",
+  "related": [
+   {
+    "w": "garage",
+    "zh": "車庫",
+    "k": "confuse"
+   },
+   {
+    "w": "trash",
+    "zh": "垃圾",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1859,
+  "day": 75
+ },
+ {
+  "word": "gardener",
+  "pos": "n",
+  "pic": "🧑‍🌾",
+  "zh": "園丁",
+  "en": "a person who works with plants in a garden",
+  "simple": "The gardener waters the flowers.",
+  "simple_zh": "園丁替花澆水。",
+  "toeic": "The hotel employs a full-time gardener to care for its grounds.",
+  "toeic_zh": "這間飯店聘請一位全職園丁照顧園區。",
+  "family": "garden (n), gardener (n), gardening (n)",
+  "related": [
+   {
+    "w": "garden",
+    "zh": "花園",
+    "k": "family"
+   },
+   {
+    "w": "landscaper",
+    "zh": "造景師",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1860,
+  "day": 75
+ },
+ {
+  "word": "generator",
+  "pos": "n",
+  "pic": "🔋",
+  "zh": "發電機；發電器",
+  "en": "a machine that produces electricity",
+  "simple": "The generator provides backup power during outages.",
+  "simple_zh": "發電機在停電期間提供備用電源。",
+  "toeic": "Backup generators ensure continuous operations during power interruptions.",
+  "toeic_zh": "備用發電機確保電源中斷期間的持續運營。",
+  "family": "generator (n), generate (v), generation (n)",
+  "related": [
+   {
+    "w": "engine",
+    "zh": "發動機",
+    "k": "syn"
+   },
+   {
+    "w": "transformer",
+    "zh": "變壓器",
+    "k": "confuse"
+   }
+  ],
+  "n": 1861,
+  "day": 75,
+  "src": "TSL"
+ },
+ {
+  "word": "glove",
+  "pos": "n",
+  "pic": "🧤",
+  "zh": "手套",
+  "en": "something worn on the hand",
+  "simple": "I lost my glove.",
+  "simple_zh": "我弄丟了我的手套。",
+  "toeic": "Workers must wear a glove when handling chemicals.",
+  "toeic_zh": "工人處理化學品時必須戴手套。",
+  "family": "",
+  "related": [
+   {
+    "w": "love",
+    "zh": "愛",
+    "k": "confuse"
+   },
+   {
+    "w": "mitten",
+    "zh": "連指手套",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1862,
+  "day": 75
+ },
+ {
+  "word": "gymnasium",
+  "pos": "n",
+  "pic": "🏟️",
+  "zh": "體育館",
+  "en": "a large room or building for sports and exercise",
+  "simple": "The students play ball in the gymnasium.",
+  "simple_zh": "學生們在體育館打球。",
+  "toeic": "The company rented the school gymnasium for its annual sports day.",
+  "toeic_zh": "公司租用學校體育館舉辦年度運動日。",
+  "family": "gym (n)",
+  "related": [
+   {
+    "w": "gym",
+    "zh": "健身房",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 1863,
+  "day": 75
+ },
+ {
+  "word": "hallway",
+  "pos": "n",
+  "pic": "🚪",
+  "zh": "走廊",
+  "en": "a long narrow space inside a building with doors",
+  "simple": "The hallway is very long.",
+  "simple_zh": "這條走廊很長。",
+  "toeic": "Please keep the hallway clear in case of an emergency.",
+  "toeic_zh": "請保持走廊暢通，以防緊急狀況。",
+  "family": "",
+  "related": [
+   {
+    "w": "corridor",
+    "zh": "走廊",
+    "k": "syn"
+   },
+   {
+    "w": "highway",
+    "zh": "公路",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1864,
+  "day": 75
+ },
+ {
+  "word": "harmful",
+  "pos": "adj",
+  "pic": "☠️",
+  "zh": "有害的",
+  "en": "causing damage or injury",
+  "simple": "Smoking is harmful to health.",
+  "simple_zh": "吸菸對健康有害。",
+  "toeic": "The chemicals used in this process may be harmful to workers.",
+  "toeic_zh": "此製程使用的化學品可能對工人有害。",
+  "family": "harm (n, v), harmless (adj)",
+  "related": [
+   {
+    "w": "harmless",
+    "zh": "無害的",
+    "k": "opp"
+   },
+   {
+    "w": "damaging",
+    "zh": "破壞性的",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1865,
+  "day": 75
+ },
+ {
+  "word": "healthful",
+  "pos": "adj",
+  "pic": "🥗",
+  "zh": "有益健康的",
+  "en": "good for your health",
+  "simple": "A healthful meal has many vegetables.",
+  "simple_zh": "有益健康的餐點含有很多蔬菜。",
+  "toeic": "The cafeteria now offers more healthful choices for employees.",
+  "toeic_zh": "員工餐廳現在提供更多有益健康的選擇。",
+  "family": "health (n), healthy (adj)",
+  "related": [
+   {
+    "w": "healthy",
+    "zh": "健康的",
+    "k": "confuse"
+   },
+   {
+    "w": "nutritious",
+    "zh": "營養的",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1866,
+  "day": 75
+ },
+ {
+  "word": "heater",
+  "pos": "n",
+  "pic": "🔥",
+  "zh": "暖氣機；加熱器",
+  "en": "a machine that makes a room or water warm",
+  "simple": "Turn on the heater, please.",
+  "simple_zh": "請打開暖氣。",
+  "toeic": "The technician will repair the broken heater in the lobby tomorrow.",
+  "toeic_zh": "技術人員明天會修理大廳壞掉的暖氣機。",
+  "family": "heat (n, v)",
+  "related": [
+   {
+    "w": "air conditioner",
+    "zh": "冷氣機",
+    "k": "opp"
+   },
+   {
+    "w": "heat",
+    "zh": "熱；加熱",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 1867,
+  "day": 75
+ },
+ {
+  "word": "helmet",
+  "pos": "n",
+  "pic": "⛑️",
+  "zh": "安全帽；頭盔",
+  "en": "a hard hat that protects your head",
+  "simple": "He wears a helmet on his bike.",
+  "simple_zh": "他騎腳踏車時戴安全帽。",
+  "toeic": "All visitors must wear a helmet inside the construction area.",
+  "toeic_zh": "所有訪客在施工區內都必須戴安全帽。",
+  "family": "",
+  "related": [
+   {
+    "w": "hard hat",
+    "zh": "工地安全帽",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1868,
+  "day": 75
+ },
+ {
+  "word": "homeowner",
+  "pos": "n",
+  "pic": "🏡",
+  "zh": "屋主",
+  "en": "a person who owns a house",
+  "simple": "The homeowner painted the door.",
+  "simple_zh": "屋主把門漆了一遍。",
+  "toeic": "Each homeowner must pay property tax by the end of June.",
+  "toeic_zh": "每位屋主必須在六月底前繳納房屋稅。",
+  "family": "",
+  "related": [
+   {
+    "w": "tenant",
+    "zh": "房客",
+    "k": "opp"
+   },
+   {
+    "w": "landlord",
+    "zh": "房東",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1869,
+  "day": 75
+ },
+ {
+  "word": "hurricane",
+  "pos": "n",
+  "pic": "🌀",
+  "zh": "颶風",
+  "en": "a very strong storm with high winds",
+  "simple": "A hurricane is coming tonight.",
+  "simple_zh": "今晚有颶風要來。",
+  "toeic": "The hurricane forced the airline to cancel all flights to Miami.",
+  "toeic_zh": "颶風迫使航空公司取消所有飛往邁阿密的班機。",
+  "family": "",
+  "related": [
+   {
+    "w": "typhoon",
+    "zh": "颱風",
+    "k": "syn"
+   },
+   {
+    "w": "tornado",
+    "zh": "龍捲風",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1870,
+  "day": 75
+ },
+ {
+  "word": "hygiene",
+  "pos": "n",
+  "pic": "🧼",
+  "zh": "衛生",
+  "en": "keeping clean to stay healthy",
+  "simple": "Good hygiene keeps us healthy.",
+  "simple_zh": "良好的衛生習慣讓我們保持健康。",
+  "toeic": "Restaurant staff must follow strict hygiene rules at all times.",
+  "toeic_zh": "餐廳員工必須隨時遵守嚴格的衛生規定。",
+  "family": "hygienic (adj)",
+  "related": [
+   {
+    "w": "sanitation",
+    "zh": "環境衛生",
+    "k": "syn"
+   },
+   {
+    "w": "hygienic",
+    "zh": "衛生的",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 1871,
+  "day": 75
+ },
+ {
+  "word": "junk",
+  "pos": "n",
+  "pic": "🗑️",
+  "zh": "垃圾；廢物",
+  "en": "Old things that have little value",
+  "simple": "There is junk in the garage.",
+  "simple_zh": "車庫裡有一堆廢物。",
+  "toeic": "Please remove the junk from the storage room by Friday.",
+  "toeic_zh": "請在週五前清除儲藏室的雜物。",
+  "family": "",
+  "related": [
+   {
+    "w": "trash",
+    "zh": "垃圾",
+    "k": "syn"
+   },
+   {
+    "w": "junk mail",
+    "zh": "垃圾郵件",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 1872,
+  "day": 75
+ },
+ {
+  "word": "ladder",
+  "pos": "n",
+  "pic": "🪜",
+  "zh": "梯子",
+  "en": "A tool with steps used to climb up",
+  "simple": "He used a ladder to fix the roof.",
+  "simple_zh": "他用梯子修理屋頂。",
+  "toeic": "Workers must use a ladder when changing the ceiling lights.",
+  "toeic_zh": "工人更換天花板燈具時必須使用梯子。",
+  "family": "",
+  "related": [
+   {
+    "w": "stairs",
+    "zh": "樓梯",
+    "k": "syn"
+   },
+   {
+    "w": "latter",
+    "zh": "後者",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1873,
+  "day": 75
+ },
+ {
+  "word": "lamp",
+  "pos": "n",
+  "pic": "💡",
+  "zh": "檯燈",
+  "en": "A device that gives light",
+  "simple": "The lamp on my desk is bright.",
+  "simple_zh": "我桌上的檯燈很亮。",
+  "toeic": "The hotel room includes a reading lamp beside the bed.",
+  "toeic_zh": "旅館房間在床邊附有一盞閱讀燈。",
+  "family": "",
+  "related": [
+   {
+    "w": "lantern",
+    "zh": "提燈",
+    "k": "syn"
+   },
+   {
+    "w": "lap",
+    "zh": "膝上",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1874,
+  "day": 75
+ },
+ {
+  "word": "landlord",
+  "pos": "n",
+  "pic": "🔑",
+  "zh": "房東",
+  "en": "a person who owns a building and rents it to others",
+  "simple": "My landlord lives next door.",
+  "simple_zh": "我的房東住在隔壁。",
+  "toeic": "The landlord agreed to repaint the office before we moved in.",
+  "toeic_zh": "房東同意在我們搬進來之前重新粉刷辦公室。",
+  "family": "landlady (n) 女房東; landlord and tenant 房東與房客",
+  "related": [
+   {
+    "w": "tenant",
+    "zh": "房客",
+    "k": "opp"
+   },
+   {
+    "w": "lessor",
+    "zh": "出租人",
+    "k": "syn"
+   }
+  ],
+  "n": 1875,
+  "day": 75,
+  "src": "TSL"
+ },
+ {
+  "word": "lawn",
+  "pos": "n",
+  "pic": "🌱",
+  "zh": "草坪",
+  "en": "An area of short grass",
+  "simple": "The children are playing on the lawn.",
+  "simple_zh": "孩子們在草坪上玩。",
+  "toeic": "A worker will cut the lawn every two weeks.",
+  "toeic_zh": "工人每兩週會修剪一次草坪。",
+  "family": "",
+  "related": [
+   {
+    "w": "mower",
+    "zh": "割草機",
+    "k": "family"
+   },
+   {
+    "w": "garden",
+    "zh": "花園",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1876,
+  "day": 76
+ },
+ {
+  "word": "layout",
+  "pos": "n",
+  "pic": "🗺️",
+  "zh": "佈局；配置",
+  "en": "the way something is arranged or organized",
+  "simple": "The office layout is efficient.",
+  "simple_zh": "辦公室佈局很有效。",
+  "toeic": "Strategic layout design optimizes workflow and operational efficiency.",
+  "toeic_zh": "戰略佈局設計優化了工作流程和運營效率。",
+  "family": "layout (n), lay out (v)",
+  "related": [
+   {
+    "w": "arrangement",
+    "zh": "安排",
+    "k": "syn"
+   },
+   {
+    "w": "configuration",
+    "zh": "配置",
+    "k": "confuse"
+   }
+  ],
+  "n": 1877,
+  "day": 76,
+  "src": "TSL"
+ },
+ {
+  "word": "lease",
+  "pos": "n",
+  "pic": "📝",
+  "zh": "租約；租賃",
+  "en": "a legal agreement to rent a building or land for a period of time",
+  "simple": "Our lease ends in June.",
+  "simple_zh": "我們的租約六月到期。",
+  "toeic": "The company signed a three-year lease for the new office space.",
+  "toeic_zh": "公司簽下了新辦公空間的三年租約。",
+  "family": "lease (v) 租賃; lessee 承租人; lessor 出租人; renew a lease 續約",
+  "related": [
+   {
+    "w": "least",
+    "zh": "最少；至少",
+    "k": "confuse"
+   },
+   {
+    "w": "rent",
+    "zh": "租金；租用",
+    "k": "syn"
+   }
+  ],
+  "n": 1878,
+  "day": 76,
+  "src": "TSL"
+ },
+ {
+  "word": "lobby",
+  "pos": "n",
+  "pic": "🏨",
+  "zh": "大廳；門廳",
+  "en": "a large open area just inside the entrance of a building",
+  "simple": "Please wait in the lobby.",
+  "simple_zh": "請在大廳等候。",
+  "toeic": "Visitors must sign in at the front desk in the lobby.",
+  "toeic_zh": "訪客必須在大廳的櫃檯登記。",
+  "family": "hotel lobby 飯店大廳; lobby (v) 遊說; lobbyist (n) 說客",
+  "related": [
+   {
+    "w": "hobby",
+    "zh": "嗜好",
+    "k": "confuse"
+   },
+   {
+    "w": "entrance",
+    "zh": "入口",
+    "k": "syn"
+   }
+  ],
+  "n": 1879,
+  "day": 76,
+  "src": "TSL"
+ },
+ {
+  "word": "locker",
+  "pos": "n",
+  "pic": "🔐",
+  "zh": "置物櫃",
+  "en": "A small cupboard with a lock",
+  "simple": "I put my bag in the locker.",
+  "simple_zh": "我把包包放進置物櫃。",
+  "toeic": "Each employee has a locker in the changing room.",
+  "toeic_zh": "每位員工在更衣室都有一個置物櫃。",
+  "family": "lock (n, v)",
+  "related": [
+   {
+    "w": "lock",
+    "zh": "鎖",
+    "k": "family"
+   },
+   {
+    "w": "closet",
+    "zh": "櫥櫃",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1880,
+  "day": 76
+ },
+ {
+  "word": "mask",
+  "pos": "n",
+  "pic": "😷",
+  "zh": "口罩；面具",
+  "en": "A cover worn over the face",
+  "simple": "He wore a mask at the clinic.",
+  "simple_zh": "他在診所戴著口罩。",
+  "toeic": "Workers must wear a mask in the production area.",
+  "toeic_zh": "工人在生產區必須戴口罩。",
+  "family": "",
+  "related": [
+   {
+    "w": "task",
+    "zh": "任務",
+    "k": "confuse"
+   },
+   {
+    "w": "cover",
+    "zh": "覆蓋物",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1881,
+  "day": 76
+ },
+ {
+  "word": "mild",
+  "pos": "adj",
+  "pic": "🌤️",
+  "zh": "溫和的",
+  "en": "Not strong or severe",
+  "simple": "The weather is mild today.",
+  "simple_zh": "今天天氣溫和。",
+  "toeic": "The region enjoys a mild climate all year round.",
+  "toeic_zh": "這個地區全年氣候溫和。",
+  "family": "mildly (adv)",
+  "related": [
+   {
+    "w": "harsh",
+    "zh": "嚴酷的",
+    "k": "opp"
+   },
+   {
+    "w": "moderate",
+    "zh": "適度的",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1882,
+  "day": 76
+ },
+ {
+  "word": "mosquito",
+  "pos": "n",
+  "pic": "🦟",
+  "zh": "蚊子",
+  "en": "A small flying insect that bites",
+  "simple": "A mosquito bit me last night.",
+  "simple_zh": "昨晚有隻蚊子咬我。",
+  "toeic": "Guests should use mosquito spray when walking near the lake.",
+  "toeic_zh": "住客在湖邊散步時應使用防蚊噴劑。",
+  "family": "",
+  "related": [
+   {
+    "w": "insect",
+    "zh": "昆蟲",
+    "k": "syn"
+   },
+   {
+    "w": "mosque",
+    "zh": "清真寺",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1883,
+  "day": 76
+ },
+ {
+  "word": "mower",
+  "pos": "n",
+  "pic": "🚜",
+  "zh": "割草機",
+  "en": "A machine that cuts grass",
+  "simple": "Dad uses the mower on Sunday.",
+  "simple_zh": "爸爸星期天用割草機。",
+  "toeic": "The maintenance team bought a new mower for the park.",
+  "toeic_zh": "維修團隊為公園買了一台新割草機。",
+  "family": "mow (v)",
+  "related": [
+   {
+    "w": "lawn",
+    "zh": "草坪",
+    "k": "family"
+   },
+   {
+    "w": "blower",
+    "zh": "吹風機",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1884,
+  "day": 76
+ },
+ {
+  "word": "nail",
+  "pos": "n",
+  "pic": "🔨",
+  "zh": "釘子；指甲",
+  "en": "A thin metal pin hit into wood, or the hard part of a finger",
+  "simple": "He used a nail to hang the picture.",
+  "simple_zh": "他用釘子掛畫。",
+  "toeic": "Please store the nail boxes on the lower shelf.",
+  "toeic_zh": "請把釘子盒放在下層架上。",
+  "family": "",
+  "related": [
+   {
+    "w": "screw",
+    "zh": "螺絲",
+    "k": "syn"
+   },
+   {
+    "w": "hammer",
+    "zh": "鎚子",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 1885,
+  "day": 76
+ },
+ {
+  "word": "nutrition",
+  "pos": "n",
+  "pic": "🥗",
+  "zh": "營養",
+  "en": "Food and its effect on health",
+  "simple": "Good nutrition keeps us healthy.",
+  "simple_zh": "良好的營養讓我們健康。",
+  "toeic": "The cafeteria menu was designed by a nutrition expert.",
+  "toeic_zh": "自助餐廳的菜單由營養專家設計。",
+  "family": "nutritious (adj), nutritional (adj)",
+  "related": [
+   {
+    "w": "nutritious",
+    "zh": "有營養的",
+    "k": "family"
+   },
+   {
+    "w": "diet",
+    "zh": "飲食",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1886,
+  "day": 76
+ },
+ {
+  "word": "occurrence",
+  "pos": "n",
+  "pic": "📍",
+  "zh": "發生的事；出現",
+  "en": "Something that happens",
+  "simple": "Rain is a daily occurrence here.",
+  "simple_zh": "這裡下雨是每天的事。",
+  "toeic": "Report any unusual occurrence to the security office.",
+  "toeic_zh": "任何不尋常的事件都請向安全辦公室報告。",
+  "family": "occur (v)",
+  "related": [
+   {
+    "w": "occur",
+    "zh": "發生",
+    "k": "family"
+   },
+   {
+    "w": "incident",
+    "zh": "事件",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1887,
+  "day": 76
+ },
+ {
+  "word": "outlet",
+  "pos": "n",
+  "pic": "🔌",
+  "zh": "電源插座；出口",
+  "en": "a socket for inserting an electrical plug",
+  "simple": "I need an outlet to charge my phone.",
+  "simple_zh": "我需要一個插座來給手機充電。",
+  "toeic": "Multiple outlets are conveniently located throughout the office for employee use.",
+  "toeic_zh": "整個辦公室中都方便地放置了多個插座供員工使用。",
+  "family": "outlet (n), outlet (v)",
+  "related": [
+   {
+    "w": "socket",
+    "zh": "插座",
+    "k": "syn"
+   },
+   {
+    "w": "switch",
+    "zh": "開關",
+    "k": "confuse"
+   }
+  ],
+  "n": 1888,
+  "day": 76,
+  "src": "TSL"
+ },
+ {
+  "word": "painter",
+  "pos": "n",
+  "pic": "🎨",
+  "zh": "油漆工；畫家",
+  "en": "a person who paints walls or pictures",
+  "simple": "The painter is on the ladder.",
+  "simple_zh": "油漆工在梯子上。",
+  "toeic": "We hired a painter to repaint the lobby this weekend.",
+  "toeic_zh": "我們僱了一位油漆工本週末重新粉刷大廳。",
+  "family": "paint (v, n), painting (n)",
+  "related": [
+   {
+    "w": "decorator",
+    "zh": "裝潢師",
+    "k": "syn"
+   },
+   {
+    "w": "artist",
+    "zh": "藝術家",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1889,
+  "day": 76
+ },
+ {
+  "word": "pedestrian",
+  "pos": "n",
+  "pic": "🚶",
+  "zh": "行人",
+  "en": "a person walking, not driving",
+  "simple": "A pedestrian crossed the street.",
+  "simple_zh": "一位行人穿越了街道。",
+  "toeic": "The new bridge was built for pedestrians and cyclists.",
+  "toeic_zh": "這座新橋是為行人與自行車騎士興建的。",
+  "family": "",
+  "related": [
+   {
+    "w": "driver",
+    "zh": "駕駛",
+    "k": "opp"
+   },
+   {
+    "w": "walker",
+    "zh": "步行者",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1890,
+  "day": 76
+ },
+ {
+  "word": "pharmacy",
+  "pos": "n",
+  "pic": "🏥",
+  "zh": "藥局",
+  "en": "a shop where medicine is sold",
+  "simple": "The pharmacy is near here.",
+  "simple_zh": "藥局就在這附近。",
+  "toeic": "The pharmacy on Main Street opens at eight in the morning.",
+  "toeic_zh": "大街上的藥局早上八點開門。",
+  "family": "pharmacist (n)",
+  "related": [
+   {
+    "w": "drugstore",
+    "zh": "藥妝店",
+    "k": "syn"
+   },
+   {
+    "w": "pharmacist",
+    "zh": "藥師",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 1891,
+  "day": 76
+ },
+ {
+  "word": "pill",
+  "pos": "n",
+  "pic": "💊",
+  "zh": "藥丸",
+  "en": "a small piece of medicine",
+  "simple": "Take one pill daily.",
+  "simple_zh": "每天吃一顆藥。",
+  "toeic": "The doctor told him to take the pill after each meal.",
+  "toeic_zh": "醫師要他每餐飯後服用這顆藥。",
+  "family": "",
+  "related": [
+   {
+    "w": "tablet",
+    "zh": "藥錠",
+    "k": "syn"
+   },
+   {
+    "w": "pillow",
+    "zh": "枕頭",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1892,
+  "day": 76
+ },
+ {
+  "word": "plow",
+  "pos": "v",
+  "pic": "🚜",
+  "zh": "犁（田）；剷（雪）",
+  "en": "to turn soil or clear snow",
+  "simple": "The farmer will plow the field.",
+  "simple_zh": "農夫會犁田。",
+  "toeic": "Crews plow the roads early after heavy snow.",
+  "toeic_zh": "大雪後工作人員會一早剷除道路積雪。",
+  "family": "plow (n)",
+  "related": [
+   {
+    "w": "dig",
+    "zh": "挖",
+    "k": "syn"
+   },
+   {
+    "w": "plough",
+    "zh": "犁（英式）",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1893,
+  "day": 76
+ },
+ {
+  "word": "plumber",
+  "pos": "n",
+  "pic": "🔧",
+  "zh": "水管工",
+  "en": "a person who fixes water pipes",
+  "simple": "We called a plumber.",
+  "simple_zh": "我們叫了水電工。",
+  "toeic": "The plumber arrived at noon to fix the leaking pipe.",
+  "toeic_zh": "水管工中午抵達修理漏水的管線。",
+  "family": "plumbing (n)",
+  "related": [
+   {
+    "w": "electrician",
+    "zh": "電工",
+    "k": "syn"
+   },
+   {
+    "w": "plummet",
+    "zh": "暴跌",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1894,
+  "day": 76
+ },
+ {
+  "word": "pole",
+  "pos": "n",
+  "pic": "🪧",
+  "zh": "桿；柱",
+  "en": "a long thin piece of wood or metal",
+  "simple": "The flag is on a pole.",
+  "simple_zh": "旗子掛在桿子上。",
+  "toeic": "Workers installed a new light pole near the entrance.",
+  "toeic_zh": "工人在入口附近裝設了一根新的燈柱。",
+  "family": "",
+  "related": [
+   {
+    "w": "post",
+    "zh": "柱子",
+    "k": "syn"
+   },
+   {
+    "w": "poll",
+    "zh": "民調",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1895,
+  "day": 76
+ },
+ {
+  "word": "pollute",
+  "pos": "v",
+  "pic": "🏭",
+  "zh": "污染",
+  "en": "to make air, water or land dirty",
+  "simple": "Cars pollute the air.",
+  "simple_zh": "汽車污染空氣。",
+  "toeic": "Factories that pollute the river will be fined heavily.",
+  "toeic_zh": "污染河川的工廠將被重罰。",
+  "family": "pollution (n), pollutant (n)",
+  "related": [
+   {
+    "w": "contaminate",
+    "zh": "污染",
+    "k": "syn"
+   },
+   {
+    "w": "clean",
+    "zh": "清潔",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1896,
+  "day": 76
+ },
+ {
+  "word": "prohibit",
+  "pos": "v",
+  "pic": "⛔",
+  "zh": "禁止",
+  "en": "to not allow by rule or law",
+  "simple": "The law will prohibit smoking.",
+  "simple_zh": "法律禁止吸菸。",
+  "toeic": "Company rules prohibit employees from sharing passwords.",
+  "toeic_zh": "公司規定禁止員工分享密碼。",
+  "family": "prohibition (n), prohibited (adj)",
+  "related": [
+   {
+    "w": "forbid",
+    "zh": "禁止",
+    "k": "syn"
+   },
+   {
+    "w": "permit",
+    "zh": "允許",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1897,
+  "day": 76
+ },
+ {
+  "word": "protective",
+  "pos": "adj",
+  "pic": "🛡️",
+  "zh": "保護的",
+  "en": "giving safety from harm",
+  "simple": "Wear protective gloves.",
+  "simple_zh": "請戴上防護手套。",
+  "toeic": "Workers must wear protective gear on the factory floor.",
+  "toeic_zh": "工廠現場的工人必須穿戴防護裝備。",
+  "family": "protect (v), protection (n)",
+  "related": [
+   {
+    "w": "safe",
+    "zh": "安全的",
+    "k": "syn"
+   },
+   {
+    "w": "harmful",
+    "zh": "有害的",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1898,
+  "day": 76
+ },
+ {
+  "word": "rainfall",
+  "pos": "n",
+  "pic": "🌧️",
+  "zh": "降雨量",
+  "en": "the amount of rain that falls",
+  "simple": "We had heavy rainfall.",
+  "simple_zh": "我們遇到了大雨。",
+  "toeic": "Heavy rainfall caused delays at the construction site.",
+  "toeic_zh": "豪雨造成工地延誤。",
+  "family": "rain (n)",
+  "related": [
+   {
+    "w": "drought",
+    "zh": "乾旱",
+    "k": "opp"
+   },
+   {
+    "w": "snowfall",
+    "zh": "降雪量",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1899,
+  "day": 76
+ },
+ {
+  "word": "rainy",
+  "pos": "adj",
+  "pic": "🌧️",
+  "zh": "下雨的",
+  "en": "with a lot of rain",
+  "simple": "It is a rainy day today.",
+  "simple_zh": "今天是下雨天。",
+  "toeic": "The outdoor concert was cancelled because of the rainy weather.",
+  "toeic_zh": "由於下雨的天氣，戶外音樂會被取消了。",
+  "family": "rain (n, v)",
+  "related": [
+   {
+    "w": "sunny",
+    "zh": "晴朗的",
+    "k": "opp"
+   },
+   {
+    "w": "wet",
+    "zh": "潮濕的",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1900,
+  "day": 76
+ },
+ {
+  "word": "ray",
+  "pos": "n",
+  "pic": "☀️",
+  "zh": "光線；射線",
+  "en": "a narrow line of light or energy",
+  "simple": "A ray of sun came in.",
+  "simple_zh": "一道陽光照了進來。",
+  "toeic": "Please wear sunscreen to protect your skin from harmful rays.",
+  "toeic_zh": "請擦防曬乳以保護皮膚免受有害光線傷害。",
+  "family": "",
+  "related": [
+   {
+    "w": "beam",
+    "zh": "光束",
+    "k": "syn"
+   },
+   {
+    "w": "array",
+    "zh": "一系列",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1901,
+  "day": 77
+ },
+ {
+  "word": "realtor",
+  "pos": "n",
+  "pic": "🏠",
+  "zh": "房地產經紀人",
+  "en": "a person who sells houses and buildings",
+  "simple": "The realtor showed us a house.",
+  "simple_zh": "房地產經紀人帶我們看了一間房子。",
+  "toeic": "The realtor will arrange a viewing of the office space on Friday.",
+  "toeic_zh": "房地產經紀人將在週五安排辦公空間的看屋。",
+  "family": "real estate (n)",
+  "related": [
+   {
+    "w": "agent",
+    "zh": "經紀人",
+    "k": "syn"
+   },
+   {
+    "w": "landlord",
+    "zh": "房東",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1902,
+  "day": 77
+ },
+ {
+  "word": "recycle",
+  "pos": "v",
+  "pic": "♻️",
+  "zh": "回收；再利用",
+  "en": "to treat used things so they can be used again",
+  "simple": "We recycle paper at home.",
+  "simple_zh": "我們在家回收紙張。",
+  "toeic": "All employees are encouraged to recycle paper and plastic bottles.",
+  "toeic_zh": "鼓勵所有員工回收紙張和塑膠瓶。",
+  "family": "recycling (n)",
+  "related": [
+   {
+    "w": "reuse",
+    "zh": "重複使用",
+    "k": "syn"
+   },
+   {
+    "w": "dispose",
+    "zh": "丟棄",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1903,
+  "day": 77
+ },
+ {
+  "word": "redecorate",
+  "pos": "v",
+  "pic": "🎨",
+  "zh": "重新裝潢",
+  "en": "to change how a room looks with paint or furniture",
+  "simple": "We will redecorate the kitchen.",
+  "simple_zh": "我們要重新裝潢廚房。",
+  "toeic": "The hotel will close for a month to redecorate the lobby.",
+  "toeic_zh": "飯店將休館一個月以重新裝潢大廳。",
+  "family": "decorate (v), decoration (n)",
+  "related": [
+   {
+    "w": "renovate",
+    "zh": "翻新",
+    "k": "syn"
+   },
+   {
+    "w": "decorate",
+    "zh": "裝飾",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 1904,
+  "day": 77
+ },
+ {
+  "word": "refrigerator",
+  "pos": "n",
+  "pic": "🧊",
+  "zh": "冰箱",
+  "en": "a machine that keeps food cold",
+  "simple": "The milk is in the refrigerator.",
+  "simple_zh": "牛奶在冰箱裡。",
+  "toeic": "Please store all perishable food in the refrigerator.",
+  "toeic_zh": "請將所有易腐壞的食物存放在冰箱中。",
+  "family": "refrigerate (v)",
+  "related": [
+   {
+    "w": "freezer",
+    "zh": "冷凍庫",
+    "k": "confuse"
+   },
+   {
+    "w": "fridge",
+    "zh": "冰箱",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1905,
+  "day": 77
+ },
+ {
+  "word": "relieve",
+  "pos": "v",
+  "pic": "😌",
+  "zh": "減輕；緩解",
+  "en": "to make pain or worry less",
+  "simple": "This medicine will relieve pain.",
+  "simple_zh": "這種藥能緩解疼痛。",
+  "toeic": "Hiring more staff will relieve the pressure on our team.",
+  "toeic_zh": "增聘人手將減輕我們團隊的壓力。",
+  "family": "relief (n), relieved (adj)",
+  "related": [
+   {
+    "w": "believe",
+    "zh": "相信",
+    "k": "confuse"
+   },
+   {
+    "w": "ease",
+    "zh": "緩和",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1906,
+  "day": 77
+ },
+ {
+  "word": "remodel",
+  "pos": "v",
+  "pic": "🔨",
+  "zh": "改建；重新整修",
+  "en": "to change the structure or look of a building",
+  "simple": "They want to remodel the house.",
+  "simple_zh": "他們想要改建房子。",
+  "toeic": "The bank plans to remodel its main branch next spring.",
+  "toeic_zh": "銀行計畫明年春天整修總行。",
+  "family": "model (n)",
+  "related": [
+   {
+    "w": "renovate",
+    "zh": "翻新",
+    "k": "syn"
+   },
+   {
+    "w": "remote",
+    "zh": "遠端的",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1907,
+  "day": 77
+ },
+ {
+  "word": "renovate",
+  "pos": "v",
+  "pic": "🏗️",
+  "zh": "翻新；整修",
+  "en": "to repair and improve an old building",
+  "simple": "They renovate old houses.",
+  "simple_zh": "他們翻修老房子。",
+  "toeic": "The hotel will renovate all of its guest rooms this winter.",
+  "toeic_zh": "這間飯店今年冬天將翻新所有客房。",
+  "family": "renovation (n)",
+  "related": [
+   {
+    "w": "innovate",
+    "zh": "創新",
+    "k": "confuse"
+   },
+   {
+    "w": "remodel",
+    "zh": "改建",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1908,
+  "day": 77
+ },
+ {
+  "word": "renovation",
+  "pos": "n",
+  "pic": "🔨",
+  "zh": "翻新；修繕",
+  "en": "the process of restoring something to good condition",
+  "simple": "The house needs renovation.",
+  "simple_zh": "房子需要翻新。",
+  "toeic": "The office underwent a complete renovation to improve employee comfort.",
+  "toeic_zh": "辦公室進行了全面翻新以改善員工舒適度。",
+  "family": "renovation (n), renovate (v), renovated (adj)",
+  "related": [
+   {
+    "w": "restoration",
+    "zh": "修復",
+    "k": "syn"
+   },
+   {
+    "w": "reconstruction",
+    "zh": "重建",
+    "k": "confuse"
+   }
+  ],
+  "n": 1909,
+  "day": 77,
+  "src": "TSL"
+ },
+ {
+  "word": "renter",
+  "pos": "n",
+  "pic": "🧑‍🔧",
+  "zh": "承租人；租客",
+  "en": "a person who pays to use a house or car",
+  "simple": "The renter paid on time.",
+  "simple_zh": "租客準時付了款。",
+  "toeic": "Each renter must show a valid driver's license.",
+  "toeic_zh": "每位承租人都必須出示有效駕照。",
+  "family": "rent (v, n), rental (n)",
+  "related": [
+   {
+    "w": "tenant",
+    "zh": "房客",
+    "k": "syn"
+   },
+   {
+    "w": "landlord",
+    "zh": "房東",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1910,
+  "day": 77
+ },
+ {
+  "word": "reopen",
+  "pos": "v",
+  "pic": "🚪",
+  "zh": "重新開放；重新開幕",
+  "en": "to open again after being closed",
+  "simple": "The shop will reopen soon.",
+  "simple_zh": "這家店很快會重新開門。",
+  "toeic": "The museum will reopen next month after the repairs.",
+  "toeic_zh": "博物館將在整修後於下個月重新開放。",
+  "family": "open (v, adj)",
+  "related": [
+   {
+    "w": "resume",
+    "zh": "恢復",
+    "k": "syn"
+   },
+   {
+    "w": "close",
+    "zh": "關閉",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1911,
+  "day": 77
+ },
+ {
+  "word": "repairperson",
+  "pos": "n",
+  "pic": "🧰",
+  "zh": "維修人員",
+  "en": "a person whose job is to fix things",
+  "simple": "The repairperson fixed the sink.",
+  "simple_zh": "維修人員修好了水槽。",
+  "toeic": "A repairperson will visit your office tomorrow morning.",
+  "toeic_zh": "維修人員明天早上會到您的辦公室。",
+  "family": "repair (v, n)",
+  "related": [
+   {
+    "w": "technician",
+    "zh": "技術人員",
+    "k": "syn"
+   },
+   {
+    "w": "repair",
+    "zh": "修理",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 1912,
+  "day": 77
+ },
+ {
+  "word": "residential",
+  "pos": "adj",
+  "pic": "🏠",
+  "zh": "住宅的；住宅性的",
+  "en": "designed for living in or relating to where people live",
+  "simple": "The residential area is quiet.",
+  "simple_zh": "住宅區很安靜。",
+  "toeic": "Residential facilities must meet specific safety and comfort standards.",
+  "toeic_zh": "住宅設施必須符合特定的安全和舒適標準。",
+  "family": "residential (adj), residence (n), reside (v)",
+  "related": [
+   {
+    "w": "domestic",
+    "zh": "國內的",
+    "k": "syn"
+   },
+   {
+    "w": "commercial",
+    "zh": "商業的",
+    "k": "confuse"
+   }
+  ],
+  "n": 1913,
+  "day": 77,
+  "src": "TSL"
+ },
+ {
+  "word": "restroom",
+  "pos": "n",
+  "pic": "🚻",
+  "zh": "洗手間",
+  "en": "a public room with a toilet and sink",
+  "simple": "Where is the restroom?",
+  "simple_zh": "洗手間在哪裡？",
+  "toeic": "The restroom on the second floor is closed for cleaning.",
+  "toeic_zh": "二樓的洗手間因清潔而關閉。",
+  "family": "",
+  "related": [
+   {
+    "w": "lavatory",
+    "zh": "盥洗室",
+    "k": "syn"
+   },
+   {
+    "w": "bedroom",
+    "zh": "臥室",
+    "k": "confuse"
+   }
+  ],
+  "n": 1914,
+  "day": 77,
+  "src": "TSL"
+ },
+ {
+  "word": "safely",
+  "pos": "adv",
+  "pic": "🦺",
+  "zh": "安全地",
+  "en": "in a way that avoids danger",
+  "simple": "Please drive safely.",
+  "simple_zh": "請安全駕駛。",
+  "toeic": "Workers must handle the chemicals safely at all times.",
+  "toeic_zh": "員工必須隨時安全地處理化學品。",
+  "family": "safe (adj), safety (n)",
+  "related": [
+   {
+    "w": "safe",
+    "zh": "安全的",
+    "k": "family"
+   },
+   {
+    "w": "dangerously",
+    "zh": "危險地",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1915,
+  "day": 77
+ },
+ {
+  "word": "sewer",
+  "pos": "n",
+  "pic": "🚰",
+  "zh": "下水道",
+  "en": "an underground pipe that carries waste water",
+  "simple": "The sewer is under the street.",
+  "simple_zh": "下水道在街道下面。",
+  "toeic": "The city will repair the old sewer system next year.",
+  "toeic_zh": "市政府明年將修復老舊的下水道系統。",
+  "family": "sewage (n)",
+  "related": [
+   {
+    "w": "drain",
+    "zh": "排水管",
+    "k": "syn"
+   },
+   {
+    "w": "sewage",
+    "zh": "污水",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 1916,
+  "day": 77
+ },
+ {
+  "word": "sidewalk",
+  "pos": "n",
+  "pic": "🚶",
+  "zh": "人行道",
+  "en": "a path for walking beside a road",
+  "simple": "Walk on the sidewalk.",
+  "simple_zh": "請走在人行道上。",
+  "toeic": "The city is repairing the sidewalk in front of the library.",
+  "toeic_zh": "市政府正在修繕圖書館前的人行道。",
+  "family": "",
+  "related": [
+   {
+    "w": "pavement",
+    "zh": "人行道",
+    "k": "syn"
+   },
+   {
+    "w": "road",
+    "zh": "馬路",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1917,
+  "day": 77
+ },
+ {
+  "word": "sleepy",
+  "pos": "adj",
+  "pic": "😴",
+  "zh": "想睡的；睏的",
+  "en": "feeling that you want to sleep",
+  "simple": "I feel sleepy after lunch.",
+  "simple_zh": "午餐後我覺得想睡。",
+  "toeic": "Do not drive if you feel sleepy after taking this medicine.",
+  "toeic_zh": "服用此藥後若感到想睡，請勿開車。",
+  "family": "sleep (v, n)",
+  "related": [
+   {
+    "w": "tired",
+    "zh": "疲倦的",
+    "k": "syn"
+   },
+   {
+    "w": "alert",
+    "zh": "機警的",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1918,
+  "day": 77
+ },
+ {
+  "word": "snowy",
+  "pos": "adj",
+  "pic": "❄️",
+  "zh": "下雪的",
+  "en": "having a lot of snow",
+  "simple": "It is snowy today.",
+  "simple_zh": "今天下雪。",
+  "toeic": "Flights were delayed because of the snowy weather.",
+  "toeic_zh": "因為下雪的天氣，班機延誤了。",
+  "family": "snow (n, v), snowy (adj)",
+  "related": [
+   {
+    "w": "snow",
+    "zh": "雪",
+    "k": "family"
+   },
+   {
+    "w": "sunny",
+    "zh": "晴朗的",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1919,
+  "day": 77
+ },
+ {
+  "word": "soap",
+  "pos": "n",
+  "pic": "🧼",
+  "zh": "肥皂",
+  "en": "a product you use with water to wash",
+  "simple": "Please wash your hands with soap.",
+  "simple_zh": "請用肥皂洗手。",
+  "toeic": "The hotel provides free soap and shampoo.",
+  "toeic_zh": "這間飯店提供免費的肥皂和洗髮精。",
+  "family": "soap (n)",
+  "related": [
+   {
+    "w": "soak",
+    "zh": "浸泡",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1920,
+  "day": 77
+ },
+ {
+  "word": "sofa",
+  "pos": "n",
+  "pic": "🛋️",
+  "zh": "沙發",
+  "en": "a long soft seat for several people",
+  "simple": "The cat is on the sofa.",
+  "simple_zh": "貓在沙發上。",
+  "toeic": "The lobby has a leather sofa for waiting guests.",
+  "toeic_zh": "大廳有一張皮沙發供等候的客人使用。",
+  "family": "sofa (n)",
+  "related": [
+   {
+    "w": "couch",
+    "zh": "長沙發",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1921,
+  "day": 77
+ },
+ {
+  "word": "spacious",
+  "pos": "adj",
+  "pic": "🏢",
+  "zh": "寬敞的",
+  "en": "having a lot of room inside",
+  "simple": "The kitchen is bright and spacious.",
+  "simple_zh": "這間廚房明亮又寬敞。",
+  "toeic": "Our new meeting room is spacious enough for fifty people.",
+  "toeic_zh": "我們的新會議室寬敞得足以容納五十人。",
+  "family": "space (n) 空間; spaciously (adv); spacious office 寬敞的辦公室",
+  "related": [
+   {
+    "w": "special",
+    "zh": "特別的",
+    "k": "confuse"
+   },
+   {
+    "w": "roomy",
+    "zh": "寬敞的",
+    "k": "syn"
+   },
+   {
+    "w": "cramped",
+    "zh": "狹窄的",
+    "k": "opp"
+   }
+  ],
+  "n": 1922,
+  "day": 77,
+  "src": "TSL"
+ },
+ {
+  "word": "spill",
+  "pos": "v",
+  "pic": "🥤",
+  "zh": "灑出；溢出",
+  "en": "to let liquid fall out by accident",
+  "simple": "Don't spill the milk.",
+  "simple_zh": "別把牛奶灑出來。",
+  "toeic": "Please clean up any coffee that you spill in the break room.",
+  "toeic_zh": "請清理您在休息室灑出的任何咖啡。",
+  "family": "spill (n, v)",
+  "related": [
+   {
+    "w": "split",
+    "zh": "分開",
+    "k": "confuse"
+   },
+   {
+    "w": "leak",
+    "zh": "洩漏",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1923,
+  "day": 77
+ },
+ {
+  "word": "strictly",
+  "pos": "adv",
+  "pic": "🚫",
+  "zh": "嚴格地",
+  "en": "in a way that must be followed exactly",
+  "simple": "Smoking is strictly forbidden.",
+  "simple_zh": "嚴格禁止吸菸。",
+  "toeic": "Visitors are strictly prohibited from entering the laboratory.",
+  "toeic_zh": "訪客嚴格禁止進入實驗室。",
+  "family": "strict (adj), strictly (adv)",
+  "related": [
+   {
+    "w": "strict",
+    "zh": "嚴格的",
+    "k": "family"
+   },
+   {
+    "w": "rigidly",
+    "zh": "死板地",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1924,
+  "day": 77
+ },
+ {
+  "word": "suburb",
+  "pos": "n",
+  "pic": "🏘️",
+  "zh": "郊區",
+  "en": "an area at the edge of a city",
+  "simple": "We live in a quiet suburb.",
+  "simple_zh": "我們住在安靜的郊區。",
+  "toeic": "The company moved its headquarters to a suburb of Chicago.",
+  "toeic_zh": "公司將總部搬到芝加哥的郊區。",
+  "family": "suburb (n), suburban (adj)",
+  "related": [
+   {
+    "w": "suburban",
+    "zh": "郊區的",
+    "k": "family"
+   },
+   {
+    "w": "downtown",
+    "zh": "市中心",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1925,
+  "day": 77
+ },
+ {
+  "word": "sunny",
+  "pos": "adj",
+  "pic": "☀️",
+  "zh": "晴朗的",
+  "en": "bright with light from the sun",
+  "simple": "It is sunny today.",
+  "simple_zh": "今天天氣晴朗。",
+  "toeic": "The forecast says it will be sunny all weekend.",
+  "toeic_zh": "預報說整個週末都會是晴天。",
+  "family": "sun (n), sunny (adj)",
+  "related": [
+   {
+    "w": "cloudy",
+    "zh": "多雲的",
+    "k": "opp"
+   },
+   {
+    "w": "snowy",
+    "zh": "下雪的",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1926,
+  "day": 78
+ },
+ {
+  "word": "sunscreen",
+  "pos": "n",
+  "pic": "🧴",
+  "zh": "防曬乳",
+  "en": "a cream that protects skin from the sun",
+  "simple": "Put on some sunscreen.",
+  "simple_zh": "擦一些防曬乳。",
+  "toeic": "Guests should apply sunscreen before going to the beach.",
+  "toeic_zh": "客人在去海灘前應塗抹防曬乳。",
+  "family": "sunscreen (n)",
+  "related": [
+   {
+    "w": "sunshine",
+    "zh": "陽光",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1927,
+  "day": 78
+ },
+ {
+  "word": "sunshine",
+  "pos": "n",
+  "pic": "🌞",
+  "zh": "陽光",
+  "en": "light from the sun",
+  "simple": "I love the warm sunshine.",
+  "simple_zh": "我喜歡溫暖的陽光。",
+  "toeic": "The resort enjoys sunshine almost all year round.",
+  "toeic_zh": "這間度假村幾乎全年都有陽光。",
+  "family": "sun (n), sunshine (n)",
+  "related": [
+   {
+    "w": "sunscreen",
+    "zh": "防曬乳",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1928,
+  "day": 78
+ },
+ {
+  "word": "tenant",
+  "pos": "n",
+  "pic": "🧳",
+  "zh": "房客；承租人",
+  "en": "a person who pays rent to use a room or building",
+  "simple": "The tenant pays rent every month.",
+  "simple_zh": "房客每個月付租金。",
+  "toeic": "Each tenant must report any damage to the building manager.",
+  "toeic_zh": "每位承租人都必須向大樓管理員通報任何損壞。",
+  "family": "tenancy (n) 租期; commercial tenant 商業租戶; tenant and landlord 房客與房東",
+  "related": [
+   {
+    "w": "tenet",
+    "zh": "信條；原則",
+    "k": "confuse"
+   },
+   {
+    "w": "landlord",
+    "zh": "房東",
+    "k": "opp"
+   }
+  ],
+  "n": 1929,
+  "day": 78,
+  "src": "TSL"
+ },
+ {
+  "word": "theft",
+  "pos": "n",
+  "pic": "🚨",
+  "zh": "竊盜",
+  "en": "the crime of stealing",
+  "simple": "The theft was reported.",
+  "simple_zh": "竊盜案已被通報。",
+  "toeic": "The store installed cameras to prevent theft.",
+  "toeic_zh": "這家店裝設攝影機以防竊盜。",
+  "family": "thief (n), theft (n)",
+  "related": [
+   {
+    "w": "thief",
+    "zh": "小偷",
+    "k": "family"
+   },
+   {
+    "w": "left",
+    "zh": "離開了",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1930,
+  "day": 78
+ },
+ {
+  "word": "thunderstorm",
+  "pos": "n",
+  "pic": "⛈️",
+  "zh": "雷雨",
+  "en": "a storm with thunder and lightning",
+  "simple": "A thunderstorm is coming.",
+  "simple_zh": "雷雨要來了。",
+  "toeic": "The outdoor event was canceled because of a thunderstorm.",
+  "toeic_zh": "戶外活動因雷雨而取消。",
+  "family": "thunder (n), thunderstorm (n)",
+  "related": [
+   {
+    "w": "snowstorm",
+    "zh": "暴風雪",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1931,
+  "day": 78
+ },
+ {
+  "word": "tile",
+  "pos": "n",
+  "pic": "⬜",
+  "zh": "瓷磚；磚瓦",
+  "en": "a thin rectangular piece used to cover floors or walls",
+  "simple": "The bathroom has ceramic tiles.",
+  "simple_zh": "浴室有陶瓷瓷磚。",
+  "toeic": "Marble tiles were selected for the lobby to create an elegant appearance.",
+  "toeic_zh": "為大廳選擇了大理石瓷磚以創造優雅的外觀。",
+  "family": "tile (n), tile (v), tiled (adj)",
+  "related": [
+   {
+    "w": "ceramic",
+    "zh": "陶瓷",
+    "k": "syn"
+   },
+   {
+    "w": "brick",
+    "zh": "磚",
+    "k": "confuse"
+   }
+  ],
+  "n": 1932,
+  "day": 78,
+  "src": "TSL"
+ },
+ {
+  "word": "trash",
+  "pos": "n",
+  "pic": "🗑️",
+  "zh": "垃圾",
+  "en": "things that you throw away",
+  "simple": "Put it in the trash.",
+  "simple_zh": "把它丟進垃圾桶。",
+  "toeic": "Please put all trash in the bins outside the building.",
+  "toeic_zh": "請將所有垃圾丟入大樓外的垃圾桶。",
+  "family": "trash (n, v)",
+  "related": [
+   {
+    "w": "garbage",
+    "zh": "垃圾",
+    "k": "syn"
+   },
+   {
+    "w": "crash",
+    "zh": "碰撞",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1933,
+  "day": 78
+ },
+ {
+  "word": "tunnel",
+  "pos": "n",
+  "pic": "🚇",
+  "zh": "隧道",
+  "en": "a long passage built under the ground or a mountain",
+  "simple": "The train goes through a tunnel.",
+  "simple_zh": "火車穿過一條隧道。",
+  "toeic": "The new tunnel will cut the commute between the two cities by half.",
+  "toeic_zh": "新隧道將使兩城之間的通勤時間減半。",
+  "family": "",
+  "related": [
+   {
+    "w": "bridge",
+    "zh": "橋樑",
+    "k": "opp"
+   },
+   {
+    "w": "passage",
+    "zh": "通道",
+    "k": "syn"
+   }
+  ],
+  "n": 1934,
+  "day": 78,
+  "src": "TSL"
+ },
+ {
+  "word": "umbrella",
+  "pos": "n",
+  "pic": "☂️",
+  "zh": "雨傘",
+  "en": "A folding cover that keeps rain off you.",
+  "simple": "Take an umbrella. It is raining.",
+  "simple_zh": "帶把雨傘，正在下雨。",
+  "toeic": "Please leave your umbrella in the stand by the entrance.",
+  "toeic_zh": "請把雨傘放在入口旁的傘架上。",
+  "family": "",
+  "related": [
+   {
+    "w": "raincoat",
+    "zh": "雨衣",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1935,
+  "day": 78
+ },
+ {
+  "word": "underground",
+  "pos": "adj",
+  "pic": "🚇",
+  "zh": "地下的",
+  "en": "Below the surface of the ground.",
+  "simple": "We park in the underground garage.",
+  "simple_zh": "我們把車停在地下停車場。",
+  "toeic": "The underground parking lot will be closed for repairs next week.",
+  "toeic_zh": "地下停車場下週將關閉維修。",
+  "family": "",
+  "related": [
+   {
+    "w": "subway",
+    "zh": "地鐵",
+    "k": "syn"
+   },
+   {
+    "w": "aboveground",
+    "zh": "地上的",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1936,
+  "day": 78
+ },
+ {
+  "word": "underway",
+  "pos": "adj",
+  "pic": "🚧",
+  "zh": "進行中的",
+  "en": "Already started and now in progress.",
+  "simple": "The work is underway now.",
+  "simple_zh": "工作現在正在進行。",
+  "toeic": "Construction of the new office building is already underway.",
+  "toeic_zh": "新辦公大樓的興建工程已經展開。",
+  "family": "",
+  "related": [
+   {
+    "w": "ongoing",
+    "zh": "進行中的",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1937,
+  "day": 78
+ },
+ {
+  "word": "unusually",
+  "pos": "adv",
+  "pic": "😲",
+  "zh": "異常地",
+  "en": "In a way that is not normal.",
+  "simple": "It is unusually cold today.",
+  "simple_zh": "今天異常地冷。",
+  "toeic": "The store was unusually busy during the holiday weekend.",
+  "toeic_zh": "假日週末期間這家店異常忙碌。",
+  "family": "usual (adj), unusual (adj)",
+  "related": [
+   {
+    "w": "extremely",
+    "zh": "極度地",
+    "k": "syn"
+   },
+   {
+    "w": "usually",
+    "zh": "通常",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1938,
+  "day": 78
+ },
+ {
+  "word": "upstairs",
+  "pos": "adv",
+  "pic": "🪜",
+  "zh": "在樓上",
+  "en": "On or to a higher floor of a building.",
+  "simple": "The bedroom is upstairs.",
+  "simple_zh": "臥室在樓上。",
+  "toeic": "The accounting department is located upstairs on the third floor.",
+  "toeic_zh": "會計部門位於樓上三樓。",
+  "family": "stairs (n)",
+  "related": [
+   {
+    "w": "downstairs",
+    "zh": "在樓下",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1939,
+  "day": 78
+ },
+ {
+  "word": "utility",
+  "pos": "n",
+  "pic": "💡",
+  "zh": "公用事業（水電瓦斯）",
+  "en": "A basic service such as water or electricity.",
+  "simple": "The utility bill came today.",
+  "simple_zh": "水電費帳單今天寄到了。",
+  "toeic": "Rent includes all utility costs such as water and gas.",
+  "toeic_zh": "租金包含水和瓦斯等所有公用事業費用。",
+  "family": "utilize (v)",
+  "related": [
+   {
+    "w": "utilities",
+    "zh": "水電瓦斯費",
+    "k": "family"
+   },
+   {
+    "w": "utilize",
+    "zh": "利用",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 1940,
+  "day": 78
+ },
+ {
+  "word": "vacant",
+  "pos": "adj",
+  "pic": "🚪",
+  "zh": "空的；未被佔用的",
+  "en": "empty and not being used",
+  "simple": "The room is vacant now.",
+  "simple_zh": "這個房間現在是空的。",
+  "toeic": "There are two vacant offices on the fifth floor.",
+  "toeic_zh": "五樓有兩間空辦公室。",
+  "family": "vacancy (n) 空缺；空房; vacate (v) 騰出; a vacant position 職缺",
+  "related": [
+   {
+    "w": "vacation",
+    "zh": "假期",
+    "k": "confuse"
+   },
+   {
+    "w": "occupied",
+    "zh": "被佔用的",
+    "k": "opp"
+   }
+  ],
+  "n": 1941,
+  "day": 78,
+  "src": "TSL"
+ },
+ {
+  "word": "vacate",
+  "pos": "v",
+  "pic": "🏃",
+  "zh": "搬離；騰出",
+  "en": "To leave a place so others can use it.",
+  "simple": "Guests must vacate the room by noon.",
+  "simple_zh": "房客必須在中午前退房。",
+  "toeic": "Tenants are required to vacate the premises by the end of May.",
+  "toeic_zh": "房客須在五月底前搬離該場所。",
+  "family": "vacant (adj), vacancy (n)",
+  "related": [
+   {
+    "w": "evacuate",
+    "zh": "疏散",
+    "k": "confuse"
+   },
+   {
+    "w": "leave",
+    "zh": "離開",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1942,
+  "day": 78
+ },
+ {
+  "word": "vacuum",
+  "pos": "n",
+  "pic": "🧹",
+  "zh": "吸塵器；真空",
+  "en": "A machine that cleans floors by sucking up dirt.",
+  "simple": "She uses a vacuum every day.",
+  "simple_zh": "她每天使用吸塵器。",
+  "toeic": "Our new vacuum cleaner is lighter and quieter than the old model.",
+  "toeic_zh": "我們的新吸塵器比舊款更輕更安靜。",
+  "family": "",
+  "related": [
+   {
+    "w": "vacuum cleaner",
+    "zh": "吸塵器",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1943,
+  "day": 78
+ },
+ {
+  "word": "violate",
+  "pos": "v",
+  "pic": "🚷",
+  "zh": "違反",
+  "en": "To break a rule or law.",
+  "simple": "Do not violate the rules.",
+  "simple_zh": "不要違反規則。",
+  "toeic": "Any employee who violates the safety policy will be warned.",
+  "toeic_zh": "違反安全政策的員工將受到警告。",
+  "family": "violation (n)",
+  "related": [
+   {
+    "w": "break",
+    "zh": "違反",
+    "k": "syn"
+   },
+   {
+    "w": "comply",
+    "zh": "遵守",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1944,
+  "day": 78
+ },
+ {
+  "word": "violation",
+  "pos": "n",
+  "pic": "📄",
+  "zh": "違規；違反",
+  "en": "An act of breaking a rule or law.",
+  "simple": "He got a parking violation.",
+  "simple_zh": "他收到停車違規罰單。",
+  "toeic": "The company paid a fine for a safety violation.",
+  "toeic_zh": "公司因違反安全規定而繳納罰款。",
+  "family": "violate (v)",
+  "related": [
+   {
+    "w": "breach",
+    "zh": "違反",
+    "k": "syn"
+   },
+   {
+    "w": "compliance",
+    "zh": "遵守",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1945,
+  "day": 78
+ },
+ {
+  "word": "vitamin",
+  "pos": "n",
+  "pic": "💊",
+  "zh": "維他命",
+  "en": "A natural substance the body needs to stay healthy.",
+  "simple": "Oranges have a lot of vitamin C.",
+  "simple_zh": "柳橙含有大量維他命C。",
+  "toeic": "The company sells vitamin supplements through its online store.",
+  "toeic_zh": "該公司透過網路商店銷售維他命補充品。",
+  "family": "",
+  "related": [
+   {
+    "w": "supplement",
+    "zh": "補充品",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1946,
+  "day": 78
+ },
+ {
+  "word": "walkway",
+  "pos": "n",
+  "pic": "🚶",
+  "zh": "走道；人行道",
+  "en": "A path for people to walk on.",
+  "simple": "The walkway is wet.",
+  "simple_zh": "走道是濕的。",
+  "toeic": "A covered walkway connects the parking lot to the main lobby.",
+  "toeic_zh": "有頂的走道連接停車場與主要大廳。",
+  "family": "walk (v/n)",
+  "related": [
+   {
+    "w": "sidewalk",
+    "zh": "人行道",
+    "k": "syn"
+   },
+   {
+    "w": "path",
+    "zh": "小徑",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1947,
+  "day": 78
+ },
+ {
+  "word": "ward",
+  "pos": "n",
+  "pic": "🏥",
+  "zh": "病房",
+  "en": "A room or section in a hospital.",
+  "simple": "She is in the children's ward.",
+  "simple_zh": "她在兒童病房。",
+  "toeic": "Visitors may enter the ward only between two and five p.m.",
+  "toeic_zh": "訪客只能在下午兩點至五點間進入病房。",
+  "family": "",
+  "related": [
+   {
+    "w": "ward off",
+    "zh": "避開",
+    "k": "confuse"
+   },
+   {
+    "w": "room",
+    "zh": "病房",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1948,
+  "day": 78
+ },
+ {
+  "word": "wheelchair",
+  "pos": "n",
+  "pic": "♿",
+  "zh": "輪椅",
+  "en": "A chair with wheels for people who cannot walk.",
+  "simple": "He uses a wheelchair.",
+  "simple_zh": "他使用輪椅。",
+  "toeic": "The hotel provides a wheelchair for guests who need one.",
+  "toeic_zh": "飯店為有需要的房客提供輪椅。",
+  "family": "",
+  "related": [
+   {
+    "w": "walker",
+    "zh": "助行器",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1949,
+  "day": 78
+ },
+ {
+  "word": "wildlife",
+  "pos": "n",
+  "pic": "🦌",
+  "zh": "野生動物",
+  "en": "Wild animals living in nature.",
+  "simple": "We love watching wildlife.",
+  "simple_zh": "我們喜歡觀察野生動物。",
+  "toeic": "The park works to protect local wildlife and plants.",
+  "toeic_zh": "這座公園致力於保護當地野生動物與植物。",
+  "family": "wild (adj), life (n)",
+  "related": [
+   {
+    "w": "nature",
+    "zh": "自然",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1950,
+  "day": 78
+ },
+ {
+  "word": "windy",
+  "pos": "adj",
+  "pic": "💨",
+  "zh": "多風的",
+  "en": "With a lot of wind.",
+  "simple": "It is windy today.",
+  "simple_zh": "今天風很大。",
+  "toeic": "Because it was windy, the outdoor event was moved inside.",
+  "toeic_zh": "因為風大，戶外活動改到室內舉行。",
+  "family": "wind (n)",
+  "related": [
+   {
+    "w": "breezy",
+    "zh": "微風的",
+    "k": "syn"
+   },
+   {
+    "w": "calm",
+    "zh": "無風的",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1951,
+  "day": 79
+ },
+ {
+  "word": "beam",
+  "pos": "n",
+  "pic": "🏗️",
+  "zh": "梁；橫樑",
+  "en": "a long piece of steel or other material used as a main structural support",
+  "simple": "Steel beams support the roof.",
+  "simple_zh": "鋼梁支撐屋頂。",
+  "toeic": "Load-bearing beams distribute weight throughout the structure.",
+  "toeic_zh": "承重梁在整個結構中分配重量。",
+  "family": "beam (n), beamed (adj)",
+  "related": [
+   {
+    "w": "column",
+    "zh": "柱",
+    "k": "syn"
+   },
+   {
+    "w": "truss",
+    "zh": "桁架",
+    "k": "confuse"
+   }
+  ],
+  "n": 1952,
+  "day": 79,
+  "src": "BSL"
+ },
+ {
+  "word": "brick",
+  "pos": "n",
+  "pic": "🧱",
+  "zh": "磚；磚塊",
+  "en": "a small rectangular block used in building",
+  "simple": "The wall is made of red brick.",
+  "simple_zh": "牆是由紅磚製成的。",
+  "toeic": "Premium bricks were imported from Europe to match the architectural design.",
+  "toeic_zh": "高級磚從歐洲進口以匹配建築設計。",
+  "family": "brick (n), brick (adj), brickwork (n)",
+  "related": [
+   {
+    "w": "block",
+    "zh": "塊",
+    "k": "syn"
+   },
+   {
+    "w": "tile",
+    "zh": "瓷磚",
+    "k": "confuse"
+   }
+  ],
+  "n": 1953,
+  "day": 79,
+  "src": "BSL"
+ },
+ {
+  "word": "coordination",
+  "pos": "n",
+  "pic": "🤝",
+  "zh": "協調；協調一致",
+  "en": "the organization and coordination of activities or operations",
+  "simple": "Coordination between teams is essential.",
+  "simple_zh": "團隊之間的協調至關重要。",
+  "toeic": "Effective coordination ensures smooth project implementation.",
+  "toeic_zh": "有效的協調確保順利的項目實施。",
+  "family": "coordination (n), coordinate (v), coordinated (adj)",
+  "related": [
+   {
+    "w": "communication",
+    "zh": "溝通",
+    "k": "syn"
+   },
+   {
+    "w": "collaboration",
+    "zh": "合作",
+    "k": "confuse"
+   }
+  ],
+  "n": 1954,
+  "day": 79,
+  "src": "BSL"
+ },
+ {
+  "word": "corrective",
+  "pos": "adj",
+  "pic": "🔧",
+  "zh": "糾正性的；修正的",
+  "en": "intended to fix or remedy a problem",
+  "simple": "Corrective action was taken immediately.",
+  "simple_zh": "立即採取了糾正措施。",
+  "toeic": "Corrective maintenance addresses identified problems and failures.",
+  "toeic_zh": "糾正性維護解決已識別的問題和故障。",
+  "family": "corrective (adj), correct (v), correction (n)",
+  "related": [
+   {
+    "w": "remedial",
+    "zh": "補救的",
+    "k": "syn"
+   },
+   {
+    "w": "preventive",
+    "zh": "預防性的",
+    "k": "confuse"
+   }
+  ],
+  "n": 1955,
+  "day": 79,
+  "src": "BSL"
+ },
+ {
+  "word": "equilibrium",
+  "pos": "n",
+  "pic": "⚖️",
+  "zh": "平衡；均衡",
+  "en": "a state of balance between opposing forces",
+  "simple": "The structure is in equilibrium.",
+  "simple_zh": "結構處於平衡狀態。",
+  "toeic": "Force equilibrium analysis determines structural safety factors.",
+  "toeic_zh": "力平衡分析確定結構安全因子。",
+  "family": "equilibrium (n), equilibrate (v), equitable (adj)",
+  "related": [
+   {
+    "w": "balance",
+    "zh": "平衡",
+    "k": "syn"
+   },
+   {
+    "w": "stability",
+    "zh": "穩定性",
+    "k": "confuse"
+   }
+  ],
+  "n": 1956,
+  "day": 79,
+  "src": "BSL"
+ },
+ {
+  "word": "municipal",
+  "pos": "adj",
+  "pic": "🏢",
+  "zh": "市政的；市級的",
+  "en": "relating to a city or town government",
+  "simple": "Municipal permits are required.",
+  "simple_zh": "需要市政許可證。",
+  "toeic": "Municipal building codes establish minimum construction and safety standards.",
+  "toeic_zh": "市政建築法規制定了最低建築和安全標準。",
+  "family": "municipal (adj), municipality (n), municipally (adv)",
+  "related": [
+   {
+    "w": "city",
+    "zh": "城市",
+    "k": "syn"
+   },
+   {
+    "w": "governmental",
+    "zh": "政府的",
+    "k": "confuse"
+   }
+  ],
+  "n": 1957,
+  "day": 79,
+  "src": "BSL"
+ },
+ {
+  "word": "oversight",
+  "pos": "n",
+  "pic": "🔍",
+  "zh": "監督；失誤",
+  "en": "responsible management or an unintentional mistake",
+  "simple": "Oversight is critical for project success.",
+  "simple_zh": "監督對項目成功至關重要。",
+  "toeic": "Project oversight ensures adherence to timelines and budgets.",
+  "toeic_zh": "項目監督確保遵守時間表和預算。",
+  "family": "oversight (n), oversee (v), overseen (adj)",
+  "related": [
+   {
+    "w": "supervision",
+    "zh": "監督",
+    "k": "syn"
+   },
+   {
+    "w": "review",
+    "zh": "評審",
+    "k": "confuse"
+   }
+  ],
+  "n": 1958,
+  "day": 79,
+  "src": "BSL"
+ },
+ {
+  "word": "partition",
+  "pos": "n",
+  "pic": "🪟",
+  "zh": "隔間；隔板",
+  "en": "a thin wall that divides a room into parts",
+  "simple": "A partition divides the room.",
+  "simple_zh": "一道隔板把房間分開。",
+  "toeic": "We installed a glass partition to create a quiet meeting area.",
+  "toeic_zh": "我們裝設了玻璃隔間，打造出安靜的會議區。",
+  "family": "",
+  "related": [
+   {
+    "w": "cubicle",
+    "zh": "小隔間",
+    "k": "syn"
+   },
+   {
+    "w": "petition",
+    "zh": "請願書",
+    "k": "confuse"
+   }
+  ],
+  "n": 1959,
+  "day": 79,
+  "src": "BSL"
+ },
+ {
+  "word": "periodic",
+  "pos": "adj",
+  "pic": "⏱️",
+  "zh": "定期的；週期性的",
+  "en": "occurring or recurring at intervals",
+  "simple": "Periodic testing ensures system reliability.",
+  "simple_zh": "定期測試確保系統可靠性。",
+  "toeic": "Periodic maintenance programs optimize long-term facility performance.",
+  "toeic_zh": "定期維護計劃優化長期設施性能。",
+  "family": "periodic (adj), period (n), periodically (adv)",
+  "related": [
+   {
+    "w": "regular",
+    "zh": "定期的",
+    "k": "syn"
+   },
+   {
+    "w": "intermittent",
+    "zh": "間歇的",
+    "k": "confuse"
+   }
+  ],
+  "n": 1960,
+  "day": 79,
+  "src": "BSL"
+ },
+ {
+  "word": "supervision",
+  "pos": "n",
+  "pic": "👁️",
+  "zh": "監督；監管",
+  "en": "the action of watching and directing someone or something",
+  "simple": "Constant supervision ensures quality.",
+  "simple_zh": "恆定監督確保質量。",
+  "toeic": "Professional supervision ensures construction quality and safety compliance.",
+  "toeic_zh": "專業監督確保施工質量和安全合規。",
+  "family": "supervision (n), supervise (v), supervisor (n)",
+  "related": [
+   {
+    "w": "oversight",
+    "zh": "監督",
+    "k": "syn"
+   },
+   {
+    "w": "management",
+    "zh": "管理",
+    "k": "confuse"
+   }
+  ],
+  "n": 1961,
+  "day": 79,
+  "src": "BSL"
+ },
+ {
+  "word": "trim",
+  "pos": "n",
+  "pic": "✂️",
+  "zh": "飾邊；修飾",
+  "en": "decorative or protective strips along edges or joints",
+  "simple": "Trim frames the doorway.",
+  "simple_zh": "飾邊框架了門道。",
+  "toeic": "Finish trim selection significantly impacts architectural aesthetics.",
+  "toeic_zh": "飾邊選擇顯著影響建築美學。",
+  "family": "trim (n), trim (v), trimmed (adj)",
+  "related": [
+   {
+    "w": "molding",
+    "zh": "成型",
+    "k": "syn"
+   },
+   {
+    "w": "border",
+    "zh": "邊界",
+    "k": "confuse"
+   }
+  ],
+  "n": 1962,
+  "day": 79,
+  "src": "BSL"
+ },
+ {
+  "word": "enforcement",
+  "pos": "n",
+  "pic": "👮",
+  "zh": "執行；強制",
+  "en": "The act of making people obey a rule.",
+  "simple": "The enforcement of the law is strict.",
+  "simple_zh": "這項法律執行得很嚴格。",
+  "toeic": "Stricter enforcement of safety rules reduced workplace accidents.",
+  "toeic_zh": "更嚴格地執行安全規定減少了職場意外。",
+  "family": "enforce (v)",
+  "related": [
+   {
+    "w": "reinforcement",
+    "zh": "增援；強化",
+    "k": "confuse"
+   },
+   {
+    "w": "implementation",
+    "zh": "實施",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1963,
+  "day": 79
+ },
+ {
+  "word": "conservation",
+  "pos": "n",
+  "pic": "🌳",
+  "zh": "保育；節約",
+  "en": "Careful protection of nature or resources.",
+  "simple": "Water conservation is important.",
+  "simple_zh": "節約用水很重要。",
+  "toeic": "The plant started an energy conservation program to cut costs.",
+  "toeic_zh": "工廠推出節能計畫以降低成本。",
+  "family": "conserve (v), conservative (adj)",
+  "related": [
+   {
+    "w": "preservation",
+    "zh": "保存",
+    "k": "syn"
+   },
+   {
+    "w": "conversation",
+    "zh": "對話",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1964,
+  "day": 79
+ },
+ {
+  "word": "blast",
+  "pos": "n",
+  "pic": "💥",
+  "zh": "爆炸；強風",
+  "en": "A sudden strong explosion or rush of air.",
+  "simple": "We heard a loud blast.",
+  "simple_zh": "我們聽到一聲巨響。",
+  "toeic": "A gas blast damaged part of the factory last night.",
+  "toeic_zh": "昨晚一場瓦斯爆炸損毀了工廠的一部分。",
+  "family": "",
+  "related": [
+   {
+    "w": "explosion",
+    "zh": "爆炸",
+    "k": "syn"
+   },
+   {
+    "w": "blast off",
+    "zh": "發射",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1965,
+  "day": 79
+ },
+ {
+  "word": "cure",
+  "pos": "n",
+  "pic": "💉",
+  "zh": "治療法；療法",
+  "en": "A treatment that makes a sick person well.",
+  "simple": "There is no cure for the cold.",
+  "simple_zh": "感冒沒有特效藥。",
+  "toeic": "The firm is investing in research to find a cure for the disease.",
+  "toeic_zh": "這家公司投資研究以尋找這種疾病的療法。",
+  "family": "",
+  "related": [
+   {
+    "w": "care",
+    "zh": "照顧",
+    "k": "confuse"
+   },
+   {
+    "w": "remedy",
+    "zh": "療法",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1966,
+  "day": 79
+ },
+ {
+  "word": "painful",
+  "pos": "adj",
+  "pic": "🤕",
+  "zh": "疼痛的；痛苦的",
+  "en": "Causing physical or emotional pain.",
+  "simple": "My leg is painful.",
+  "simple_zh": "我的腿很痛。",
+  "toeic": "Closing the factory was a painful decision for management.",
+  "toeic_zh": "關閉工廠對管理階層而言是痛苦的決定。",
+  "family": "pain (n)",
+  "related": [
+   {
+    "w": "harmless",
+    "zh": "無害的",
+    "k": "opp"
+   },
+   {
+    "w": "sore",
+    "zh": "疼痛的",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1967,
+  "day": 79
+ },
+ {
+  "word": "physically",
+  "pos": "adv",
+  "pic": "💪",
+  "zh": "身體上；實際上",
+  "en": "in a way related to the body",
+  "simple": "He is physically very strong.",
+  "simple_zh": "他身體非常強壯。",
+  "toeic": "Employees must be physically present to sign the contract.",
+  "toeic_zh": "員工必須親自到場簽署合約。",
+  "family": "physical (adj), physics (n)",
+  "related": [
+   {
+    "w": "physical",
+    "zh": "身體的",
+    "k": "family"
+   },
+   {
+    "w": "physician",
+    "zh": "醫師",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1968,
+  "day": 79
+ },
+ {
+  "word": "shield",
+  "pos": "n",
+  "pic": "🛡️",
+  "zh": "盾牌；保護罩",
+  "en": "something that protects from harm",
+  "simple": "The soldier held a big shield.",
+  "simple_zh": "士兵拿著一面大盾牌。",
+  "toeic": "A protective shield covers the machine's moving parts.",
+  "toeic_zh": "防護罩覆蓋著機器的活動零件。",
+  "family": "shield (v)",
+  "related": [
+   {
+    "w": "protection",
+    "zh": "保護",
+    "k": "syn"
+   },
+   {
+    "w": "guard",
+    "zh": "護衛",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1969,
+  "day": 79
+ },
+ {
+  "word": "prevention",
+  "pos": "n",
+  "pic": "🚫",
+  "zh": "預防",
+  "en": "the act of stopping something bad",
+  "simple": "Fire prevention is important.",
+  "simple_zh": "防火很重要。",
+  "toeic": "Accident prevention training is required for all factory staff.",
+  "toeic_zh": "所有工廠員工都必須接受事故預防訓練。",
+  "family": "prevent (v), preventive (adj)",
+  "related": [
+   {
+    "w": "prevent",
+    "zh": "預防",
+    "k": "family"
+   },
+   {
+    "w": "presentation",
+    "zh": "簡報",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1970,
+  "day": 79
+ },
+ {
+  "word": "pit",
+  "pos": "n",
+  "pic": "🕳️",
+  "zh": "坑；深洞",
+  "en": "a large hole in the ground",
+  "simple": "Workers dug a deep pit.",
+  "simple_zh": "工人挖了一個深坑。",
+  "toeic": "The mining company opened a new pit last spring.",
+  "toeic_zh": "這家礦業公司去年春天開了一座新礦坑。",
+  "family": "pit (v)",
+  "related": [
+   {
+    "w": "hole",
+    "zh": "洞",
+    "k": "syn"
+   },
+   {
+    "w": "pet",
+    "zh": "寵物",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1971,
+  "day": 79
+ },
+ {
+  "word": "regulatory",
+  "pos": "adj",
+  "pic": "📋",
+  "zh": "管理的；監管的",
+  "en": "relating to official rules and control",
+  "simple": "A regulatory agency checks the rules.",
+  "simple_zh": "監管機構檢查規定。",
+  "toeic": "The product must pass a regulatory review before sale.",
+  "toeic_zh": "該產品在銷售前必須通過法規審查。",
+  "family": "regulate (v), regulation (n)",
+  "related": [
+   {
+    "w": "regulation",
+    "zh": "法規",
+    "k": "family"
+   },
+   {
+    "w": "regular",
+    "zh": "規律的",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1972,
+  "day": 79
+ },
+ {
+  "word": "explosion",
+  "pos": "n",
+  "pic": "💥",
+  "zh": "爆炸；激增",
+  "en": "a sudden loud burst, or a rapid increase",
+  "simple": "We heard a loud explosion.",
+  "simple_zh": "我們聽到一聲巨大的爆炸聲。",
+  "toeic": "There has been an explosion in demand for smartphones.",
+  "toeic_zh": "智慧型手機的需求出現了激增。",
+  "family": "explode (v), explosive (adj)",
+  "related": [
+   {
+    "w": "explosive",
+    "zh": "爆炸性的",
+    "k": "family"
+   },
+   {
+    "w": "exploration",
+    "zh": "探索",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1973,
+  "day": 79
+ },
+ {
+  "word": "nasty",
+  "pos": "adj",
+  "pic": "🤢",
+  "zh": "惡劣的；討厭的",
+  "en": "very unpleasant",
+  "simple": "The weather was nasty today.",
+  "simple_zh": "今天天氣很糟。",
+  "toeic": "The nasty storm delayed all of our flights.",
+  "toeic_zh": "惡劣的暴風雨使我們所有航班都延誤了。",
+  "family": "nastily (adv), nastiness (n)",
+  "related": [
+   {
+    "w": "unpleasant",
+    "zh": "令人不快的",
+    "k": "syn"
+   },
+   {
+    "w": "nice",
+    "zh": "好的",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 1974,
+  "day": 79
+ },
+ {
+  "word": "sustainable",
+  "pos": "adj",
+  "pic": "♻️",
+  "zh": "可永續的",
+  "en": "able to continue without harming the environment",
+  "simple": "We need sustainable energy.",
+  "simple_zh": "我們需要永續能源。",
+  "toeic": "The firm is committed to sustainable business practices.",
+  "toeic_zh": "公司致力於永續的經營方式。",
+  "family": "sustain (v), sustainability (n)",
+  "related": [
+   {
+    "w": "sustain",
+    "zh": "維持",
+    "k": "family"
+   },
+   {
+    "w": "durable",
+    "zh": "耐用的",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1975,
+  "day": 79
+ },
+ {
+  "word": "immune",
+  "pos": "adj",
+  "pic": "💉",
+  "zh": "免疫的；不受影響的",
+  "en": "protected from a disease or effect",
+  "simple": "Vaccines make you immune to disease.",
+  "simple_zh": "疫苗讓你對疾病免疫。",
+  "toeic": "No business is immune to economic downturns.",
+  "toeic_zh": "沒有任何企業能不受經濟衰退影響。",
+  "family": "immunity (n), immunize (v)",
+  "related": [
+   {
+    "w": "immunity",
+    "zh": "免疫",
+    "k": "family"
+   },
+   {
+    "w": "vulnerable",
+    "zh": "易受傷害的",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 1976,
+  "day": 80
+ },
+ {
+  "word": "activist",
+  "pos": "n",
+  "pic": "📣",
+  "zh": "積極分子；行動主義者",
+  "en": "a person who works for social or political change",
+  "simple": "The activist spoke to the crowd.",
+  "simple_zh": "這位活動人士對群眾演說。",
+  "toeic": "Environmental activists protested outside the factory.",
+  "toeic_zh": "環保人士在工廠外抗議。",
+  "family": "activism (n), active (adj)",
+  "related": [
+   {
+    "w": "activity",
+    "zh": "活動",
+    "k": "confuse"
+   },
+   {
+    "w": "campaigner",
+    "zh": "倡議者",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1977,
+  "day": 80
+ },
+ {
+  "word": "grip",
+  "pos": "n",
+  "pic": "✊",
+  "zh": "緊握；掌控",
+  "en": "a firm hold on something",
+  "simple": "Keep a good grip on the bag.",
+  "simple_zh": "要緊緊抓住袋子。",
+  "toeic": "The new tires give the truck a better grip on wet roads.",
+  "toeic_zh": "新輪胎讓卡車在濕滑路面上有更好的抓地力。",
+  "family": "",
+  "related": [
+   {
+    "w": "grasp",
+    "zh": "抓住；理解",
+    "k": "syn"
+   },
+   {
+    "w": "grid",
+    "zh": "網格",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1978,
+  "day": 80
+ },
+ {
+  "word": "severely",
+  "pos": "adv",
+  "pic": "⛈️",
+  "zh": "嚴重地；嚴厲地",
+  "en": "in a very bad or serious way",
+  "simple": "The storm severely damaged the roof.",
+  "simple_zh": "暴風雨嚴重損壞了屋頂。",
+  "toeic": "The factory was severely affected by the power outage.",
+  "toeic_zh": "工廠受到停電的嚴重影響。",
+  "family": "severe (adj), severity (n)",
+  "related": [
+   {
+    "w": "severe",
+    "zh": "嚴重的",
+    "k": "family"
+   },
+   {
+    "w": "slightly",
+    "zh": "輕微地",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 1979,
+  "day": 80
+ },
+ {
+  "word": "dump",
+  "pos": "v",
+  "pic": "🗑️",
+  "zh": "傾倒；丟棄",
+  "en": "to throw away or drop something carelessly",
+  "simple": "Do not dump trash here.",
+  "simple_zh": "不要把垃圾倒在這裡。",
+  "toeic": "It is illegal to dump waste into the river.",
+  "toeic_zh": "把廢棄物傾倒入河中是違法的。",
+  "family": "",
+  "related": [
+   {
+    "w": "discard",
+    "zh": "丟棄",
+    "k": "syn"
+   },
+   {
+    "w": "pump",
+    "zh": "抽水機",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1980,
+  "day": 80
+ },
+ {
+  "word": "poison",
+  "pos": "n",
+  "pic": "☠️",
+  "zh": "毒藥；毒物",
+  "en": "a substance that can harm or kill",
+  "simple": "Keep poison away from children.",
+  "simple_zh": "毒物要遠離孩童。",
+  "toeic": "The label warns that the cleaner is a poison if swallowed.",
+  "toeic_zh": "標籤警告這種清潔劑若吞食會有毒。",
+  "family": "poisonous (adj)",
+  "related": [
+   {
+    "w": "toxic",
+    "zh": "有毒的",
+    "k": "syn"
+   },
+   {
+    "w": "poisonous",
+    "zh": "有毒的",
+    "k": "family"
+   }
+  ],
+  "src": "BSL",
+  "n": 1981,
+  "day": 80
+ },
+ {
+  "word": "provincial",
+  "pos": "adj",
+  "pic": "🏞️",
+  "zh": "省的；地方的",
+  "en": "of a province or region outside the capital",
+  "simple": "It is a quiet provincial town.",
+  "simple_zh": "這是個安靜的地方小鎮。",
+  "toeic": "The provincial government approved the new factory plan.",
+  "toeic_zh": "省政府批准了新工廠的計畫。",
+  "family": "province (n)",
+  "related": [
+   {
+    "w": "province",
+    "zh": "省",
+    "k": "family"
+   },
+   {
+    "w": "national",
+    "zh": "全國的",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 1982,
+  "day": 80
+ },
+ {
+  "word": "drain",
+  "pos": "n",
+  "pic": "🚰",
+  "zh": "排水管；消耗",
+  "en": "a pipe that carries water away; something that uses up resources",
+  "simple": "The kitchen drain is blocked.",
+  "simple_zh": "廚房的排水管堵住了。",
+  "toeic": "The old equipment is a drain on our budget.",
+  "toeic_zh": "這些老舊設備消耗了我們的預算。",
+  "family": "drainage (n)",
+  "related": [
+   {
+    "w": "drainage",
+    "zh": "排水系統",
+    "k": "family"
+   },
+   {
+    "w": "train",
+    "zh": "火車",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1983,
+  "day": 80
+ },
+ {
+  "word": "horizon",
+  "pos": "n",
+  "pic": "🌅",
+  "zh": "地平線；視野",
+  "en": "the line where sky meets land; future outlook",
+  "simple": "The sun sank below the horizon.",
+  "simple_zh": "太陽沉到地平線下。",
+  "toeic": "New opportunities are on the horizon for our company.",
+  "toeic_zh": "我們公司即將迎來新的機會。",
+  "family": "horizontal (adj)",
+  "related": [
+   {
+    "w": "horizontal",
+    "zh": "水平的",
+    "k": "family"
+   },
+   {
+    "w": "horizon",
+    "zh": "視野",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1984,
+  "day": 80
+ },
+ {
+  "word": "span",
+  "pos": "n",
+  "pic": "🌉",
+  "zh": "跨度；期間",
+  "en": "the length of time or distance something covers",
+  "simple": "The bridge has a long span.",
+  "simple_zh": "這座橋的跨度很長。",
+  "toeic": "The contract covers a span of three years.",
+  "toeic_zh": "這份合約涵蓋三年的期間。",
+  "family": "",
+  "related": [
+   {
+    "w": "period",
+    "zh": "期間",
+    "k": "syn"
+   },
+   {
+    "w": "spin",
+    "zh": "旋轉",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1985,
+  "day": 80
+ },
+ {
+  "word": "isolation",
+  "pos": "n",
+  "pic": "🏝️",
+  "zh": "隔離；孤立",
+  "en": "the state of being alone or apart from others",
+  "simple": "He lived in isolation for a year.",
+  "simple_zh": "他孤立地生活了一年。",
+  "toeic": "Patients with the virus were kept in isolation.",
+  "toeic_zh": "感染病毒的病患被隔離。",
+  "family": "isolate (v), isolated (adj)",
+  "related": [
+   {
+    "w": "isolate",
+    "zh": "隔離",
+    "k": "family"
+   },
+   {
+    "w": "insulation",
+    "zh": "絕緣；隔熱",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1986,
+  "day": 80
+ },
+ {
+  "word": "vaccine",
+  "pos": "n",
+  "pic": "💉",
+  "zh": "疫苗",
+  "en": "a medicine that protects the body from a disease",
+  "simple": "I got a flu vaccine today.",
+  "simple_zh": "我今天打了流感疫苗。",
+  "toeic": "The pharmaceutical company is developing a new vaccine.",
+  "toeic_zh": "那家製藥公司正在研發新疫苗。",
+  "family": "vaccinate (v), vaccination (n)",
+  "related": [
+   {
+    "w": "vaccinate",
+    "zh": "接種疫苗",
+    "k": "family"
+   },
+   {
+    "w": "vaccination",
+    "zh": "疫苗接種",
+    "k": "family"
+   }
+  ],
+  "src": "BSL",
+  "n": 1987,
+  "day": 80
+ },
+ {
+  "word": "injection",
+  "pos": "n",
+  "pic": "💉",
+  "zh": "注射；投入（資金）",
+  "en": "the act of putting medicine or money into something",
+  "simple": "The nurse gave me an injection.",
+  "simple_zh": "護士幫我打了一針。",
+  "toeic": "The project needs an injection of funds to stay on schedule.",
+  "toeic_zh": "這個專案需要資金挹注才能如期進行。",
+  "family": "inject (v)",
+  "related": [
+   {
+    "w": "inject",
+    "zh": "注射；注入",
+    "k": "family"
+   },
+   {
+    "w": "injection mold",
+    "zh": "射出成型",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1988,
+  "day": 80
+ },
+ {
+  "word": "outbreak",
+  "pos": "n",
+  "pic": "🦠",
+  "zh": "爆發；突發",
+  "en": "the sudden start of something bad, like a disease or war",
+  "simple": "There was an outbreak of flu here.",
+  "simple_zh": "這裡爆發了流感。",
+  "toeic": "The outbreak of the virus forced the factory to close temporarily.",
+  "toeic_zh": "病毒爆發迫使工廠暫時關閉。",
+  "family": "",
+  "related": [
+   {
+    "w": "breakout",
+    "zh": "突圍；爆發",
+    "k": "confuse"
+   },
+   {
+    "w": "epidemic",
+    "zh": "流行病",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1989,
+  "day": 80
+ },
+ {
+  "word": "explosive",
+  "pos": "adj",
+  "pic": "💥",
+  "zh": "爆炸性的；暴增的",
+  "en": "likely to explode or increase very fast",
+  "simple": "The gas is explosive.",
+  "simple_zh": "這種氣體會爆炸。",
+  "toeic": "The company saw explosive growth in online sales last year.",
+  "toeic_zh": "該公司去年的網路銷售出現爆發性成長。",
+  "family": "explode (v), explosion (n)",
+  "related": [
+   {
+    "w": "explosion",
+    "zh": "爆炸",
+    "k": "family"
+   },
+   {
+    "w": "rapid",
+    "zh": "快速的",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1990,
+  "day": 80
+ },
+ {
+  "word": "mandate",
+  "pos": "n",
+  "pic": "📜",
+  "zh": "授權；命令",
+  "en": "an official order or authority to do something",
+  "simple": "The mayor has a clear mandate.",
+  "simple_zh": "市長擁有明確的授權。",
+  "toeic": "The new safety mandate requires all workers to wear helmets.",
+  "toeic_zh": "新的安全規定要求所有工人配戴安全帽。",
+  "family": "mandatory (adj), mandate (v)",
+  "related": [
+   {
+    "w": "mandatory",
+    "zh": "強制的",
+    "k": "family"
+   },
+   {
+    "w": "command",
+    "zh": "命令",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1991,
+  "day": 80
+ },
+ {
+  "word": "reconstruction",
+  "pos": "n",
+  "pic": "🏗️",
+  "zh": "重建",
+  "en": "the act of building something again",
+  "simple": "The reconstruction of the bridge took a year.",
+  "simple_zh": "這座橋的重建花了一年。",
+  "toeic": "Reconstruction of the damaged warehouse will begin next month.",
+  "toeic_zh": "受損倉庫的重建工程將於下個月開始。",
+  "family": "reconstruct (v), construction (n)",
+  "related": [
+   {
+    "w": "construction",
+    "zh": "建造",
+    "k": "family"
+   },
+   {
+    "w": "rebuild",
+    "zh": "重建",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1992,
+  "day": 80
+ },
+ {
+  "word": "prone",
+  "pos": "adj",
+  "pic": "⚡",
+  "zh": "易於...的",
+  "en": "likely to suffer from something",
+  "simple": "This area is prone to floods.",
+  "simple_zh": "這個地區容易淹水。",
+  "toeic": "Older machines are prone to breaking down.",
+  "toeic_zh": "較舊的機器容易故障。",
+  "family": "",
+  "related": [
+   {
+    "w": "apt",
+    "zh": "易於",
+    "k": "syn"
+   },
+   {
+    "w": "prove",
+    "zh": "證明",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1993,
+  "day": 80
+ },
+ {
+  "word": "renewable",
+  "pos": "adj",
+  "pic": "♻️",
+  "zh": "可再生的；可更新的",
+  "en": "able to be replaced or used again naturally",
+  "simple": "Wind is a renewable energy.",
+  "simple_zh": "風能是一種可再生能源。",
+  "toeic": "The company plans to invest in renewable energy sources.",
+  "toeic_zh": "該公司計畫投資再生能源。",
+  "family": "renew (v), renewal (n)",
+  "related": [
+   {
+    "w": "renew",
+    "zh": "更新",
+    "k": "family"
+   },
+   {
+    "w": "sustainable",
+    "zh": "永續的",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1994,
+  "day": 80
+ },
+ {
+  "word": "rebuild",
+  "pos": "v",
+  "pic": "🧱",
+  "zh": "重建",
+  "en": "to build something again",
+  "simple": "They will rebuild the house.",
+  "simple_zh": "他們會重建這棟房子。",
+  "toeic": "The city plans to rebuild the bridge damaged by the storm.",
+  "toeic_zh": "市府計畫重建被風暴損毀的橋。",
+  "family": "rebuild (n)",
+  "related": [
+   {
+    "w": "reconstruct",
+    "zh": "重建",
+    "k": "syn"
+   },
+   {
+    "w": "repair",
+    "zh": "修理",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1995,
+  "day": 80
+ },
+ {
+  "word": "governmental",
+  "pos": "adj",
+  "pic": "🏛️",
+  "zh": "政府的",
+  "en": "Relating to the government",
+  "simple": "This is a governmental office.",
+  "simple_zh": "這是一間政府機關。",
+  "toeic": "Governmental approval is required before construction begins.",
+  "toeic_zh": "動工前需要政府核准。",
+  "family": "government (n), govern (v)",
+  "related": [
+   {
+    "w": "government",
+    "zh": "政府",
+    "k": "family"
+   },
+   {
+    "w": "official",
+    "zh": "官方的",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1996,
+  "day": 80
+ },
+ {
+  "word": "statute",
+  "pos": "n",
+  "pic": "📜",
+  "zh": "法規；成文法",
+  "en": "A written law passed by a government",
+  "simple": "The statute protects workers.",
+  "simple_zh": "這條法規保護勞工。",
+  "toeic": "Under the statute, companies must report all accidents.",
+  "toeic_zh": "依據該法規，公司必須通報所有事故。",
+  "family": "statutory (adj)",
+  "related": [
+   {
+    "w": "law",
+    "zh": "法律",
+    "k": "syn"
+   },
+   {
+    "w": "statue",
+    "zh": "雕像",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1997,
+  "day": 80
+ },
+ {
+  "word": "flee",
+  "pos": "v",
+  "pic": "🏃",
+  "zh": "逃離",
+  "en": "To run away from danger",
+  "simple": "The people had to flee.",
+  "simple_zh": "人們不得不逃離。",
+  "toeic": "Residents were told to flee the area before the storm hit.",
+  "toeic_zh": "居民被告知要在暴風雨來襲前撤離該地區。",
+  "family": "flight (n)",
+  "related": [
+   {
+    "w": "flea",
+    "zh": "跳蚤",
+    "k": "confuse"
+   },
+   {
+    "w": "escape",
+    "zh": "逃脫",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1998,
+  "day": 80
+ },
+ {
+  "word": "explode",
+  "pos": "v",
+  "pic": "💥",
+  "zh": "爆炸；激增",
+  "en": "To burst loudly, or increase suddenly",
+  "simple": "The bomb could explode.",
+  "simple_zh": "炸彈可能會爆炸。",
+  "toeic": "Online sales began to explode during the holiday season.",
+  "toeic_zh": "假期期間網路銷售開始暴增。",
+  "family": "explosion (n), explosive (adj)",
+  "related": [
+   {
+    "w": "explore",
+    "zh": "探索",
+    "k": "confuse"
+   },
+   {
+    "w": "burst",
+    "zh": "爆開",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1999,
+  "day": 80
+ },
+ {
+  "word": "greenhouse",
+  "pos": "n",
+  "pic": "🌱",
+  "zh": "溫室",
+  "en": "A glass building for growing plants",
+  "simple": "Tomatoes grow in the greenhouse.",
+  "simple_zh": "番茄在溫室裡生長。",
+  "toeic": "The greenhouse gas emissions of the plant must be reduced.",
+  "toeic_zh": "工廠的溫室氣體排放量必須減少。",
+  "family": "",
+  "related": [
+   {
+    "w": "garden",
+    "zh": "花園",
+    "k": "syn"
+   },
+   {
+    "w": "warehouse",
+    "zh": "倉庫",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 2000,
+  "day": 80
+ }
+]

@@ -1,0 +1,5227 @@
+[
+ {
+  "word": "accuracy",
+  "pos": "n",
+  "pic": "🎯",
+  "zh": "準確度",
+  "en": "the quality of being exact and correct",
+  "simple": "Accuracy is critical.",
+  "simple_zh": "準確度是關鍵。",
+  "toeic": "High accuracy ensures customer satisfaction.",
+  "toeic_zh": "高準確度確保客戶滿意度。",
+  "family": "accurate (adj)",
+  "related": [
+   {
+    "w": "precision",
+    "zh": "精密度",
+    "k": "confuse"
+   }
+  ],
+  "n": 1601,
+  "day": 65,
+  "src": "TSL"
+ },
+ {
+  "word": "activate",
+  "pos": "v",
+  "pic": "🔛",
+  "zh": "啟動；啟用",
+  "en": "to make something start working",
+  "simple": "Press this button to activate the alarm.",
+  "simple_zh": "按這個鈕來啟動警報。",
+  "toeic": "Customers must activate their new cards before using them.",
+  "toeic_zh": "客戶必須先啟用新卡才能使用。",
+  "family": "active (adj), activation (n)",
+  "related": [
+   {
+    "w": "deactivate",
+    "zh": "停用",
+    "k": "opp"
+   },
+   {
+    "w": "actively",
+    "zh": "積極地",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 1602,
+  "day": 65
+ },
+ {
+  "word": "adapter",
+  "pos": "n",
+  "pic": "🔌",
+  "zh": "轉接器；變壓器",
+  "en": "a device that connects equipment of different types",
+  "simple": "I need a plug adapter.",
+  "simple_zh": "我需要一個插頭轉接器。",
+  "toeic": "Please bring a power adapter when traveling abroad.",
+  "toeic_zh": "出國旅行時請攜帶電源轉接器。",
+  "family": "adapt (v), adaptation (n)",
+  "related": [
+   {
+    "w": "adopter",
+    "zh": "採用者",
+    "k": "confuse"
+   },
+   {
+    "w": "converter",
+    "zh": "轉換器",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1603,
+  "day": 65
+ },
+ {
+  "word": "alert",
+  "pos": "n",
+  "pic": "🚨",
+  "zh": "警報；警戒",
+  "en": "a warning about danger or an important event",
+  "simple": "I got a fire alert on my phone.",
+  "simple_zh": "我手機收到火災警報。",
+  "toeic": "The system sends an alert when stock levels are low.",
+  "toeic_zh": "庫存量偏低時，系統會發出警示。",
+  "family": "alert (adj)",
+  "related": [
+   {
+    "w": "alarm",
+    "zh": "警報",
+    "k": "syn"
+   },
+   {
+    "w": "alter",
+    "zh": "改變",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1604,
+  "day": 65
+ },
+ {
+  "word": "allocate",
+  "pos": "v",
+  "pic": "📊",
+  "zh": "分配",
+  "en": "to distribute or assign resources",
+  "simple": "Allocate resources efficiently.",
+  "simple_zh": "有效分配資源。",
+  "toeic": "Managers allocate equipment to work stations.",
+  "toeic_zh": "經理為工作站分配設備。",
+  "family": "allocation (n)",
+  "related": [
+   {
+    "w": "distribute",
+    "zh": "分配",
+    "k": "syn"
+   }
+  ],
+  "n": 1605,
+  "day": 65,
+  "src": "TSL"
+ },
+ {
+  "word": "apprentice",
+  "pos": "n",
+  "pic": "🎓",
+  "zh": "學徒",
+  "en": "a person learning a skill by working with an expert",
+  "simple": "He is an apprentice at a bakery.",
+  "simple_zh": "他是麵包店的學徒。",
+  "toeic": "Each apprentice spends two years training with an experienced machinist.",
+  "toeic_zh": "每位學徒花兩年時間跟著資深機械工訓練。",
+  "family": "apprenticeship (n)",
+  "related": [
+   {
+    "w": "trainee",
+    "zh": "受訓者",
+    "k": "syn"
+   },
+   {
+    "w": "expert",
+    "zh": "專家",
+    "k": "opp"
+   }
+  ],
+  "n": 1606,
+  "day": 65,
+  "src": "TSL"
+ },
+ {
+  "word": "assemble",
+  "pos": "v",
+  "pic": "🔧",
+  "zh": "組裝",
+  "en": "to fit parts together to make something",
+  "simple": "Workers assemble the parts.",
+  "simple_zh": "工人組裝零件。",
+  "toeic": "Technicians assemble components with precision.",
+  "toeic_zh": "技術人員精確組裝零件。",
+  "family": "assembly (n)",
+  "related": [
+   {
+    "w": "join",
+    "zh": "連接",
+    "k": "syn"
+   },
+   {
+    "w": "construct",
+    "zh": "構造",
+    "k": "confuse"
+   }
+  ],
+  "n": 1607,
+  "day": 65,
+  "src": "TSL"
+ },
+ {
+  "word": "assembly",
+  "pos": "n",
+  "pic": "🔧",
+  "zh": "組裝",
+  "en": "the process of fitting parts together",
+  "simple": "Assembly takes two hours.",
+  "simple_zh": "組裝需要兩小時。",
+  "toeic": "The assembly line operates 24/7.",
+  "toeic_zh": "組裝線全天運作。",
+  "family": "assemble (v)",
+  "related": [
+   {
+    "w": "put together",
+    "zh": "組合",
+    "k": "syn"
+   }
+  ],
+  "n": 1608,
+  "day": 65,
+  "src": "TSL"
+ },
+ {
+  "word": "auto",
+  "pos": "n",
+  "pic": "🚗",
+  "zh": "汽車（自動）",
+  "en": "a car, or short for automatic",
+  "simple": "He works in the auto industry.",
+  "simple_zh": "他在汽車業工作。",
+  "toeic": "The auto manufacturer plans to open a new plant next year.",
+  "toeic_zh": "這家汽車製造商計畫明年開設新工廠。",
+  "family": "automobile (n), automatic (adj)",
+  "related": [
+   {
+    "w": "automobile",
+    "zh": "汽車",
+    "k": "syn"
+   },
+   {
+    "w": "automatic",
+    "zh": "自動的",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1609,
+  "day": 65
+ },
+ {
+  "word": "automate",
+  "pos": "v",
+  "pic": "🤖",
+  "zh": "使自動化",
+  "en": "to use machines or computers to do work without people",
+  "simple": "They want to automate the work.",
+  "simple_zh": "他們想讓這項工作自動化。",
+  "toeic": "The plant plans to automate its packaging process next year.",
+  "toeic_zh": "工廠計畫明年讓包裝流程自動化。",
+  "family": "automation (n) 自動化；automatic (adj) 自動的；automated (adj) 自動化的",
+  "related": [
+   {
+    "w": "automatic",
+    "zh": "自動的",
+    "k": "family"
+   },
+   {
+    "w": "automation",
+    "zh": "自動化",
+    "k": "family"
+   }
+  ],
+  "n": 1610,
+  "day": 65,
+  "src": "TSL"
+ },
+ {
+  "word": "automatic",
+  "pos": "adj",
+  "pic": "⚙️",
+  "zh": "自動的",
+  "en": "working by itself without a person",
+  "simple": "The door is automatic.",
+  "simple_zh": "這扇門是自動的。",
+  "toeic": "The system sends an automatic reply to every customer email.",
+  "toeic_zh": "系統會對每封客戶郵件自動回覆。",
+  "family": "automate (v), automation (n), automatically (adv)",
+  "related": [
+   {
+    "w": "manual",
+    "zh": "手動的",
+    "k": "opp"
+   },
+   {
+    "w": "automate",
+    "zh": "使自動化",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 1611,
+  "day": 65
+ },
+ {
+  "word": "automobile",
+  "pos": "n",
+  "pic": "🚘",
+  "zh": "汽車",
+  "en": "a car",
+  "simple": "Her father repairs automobile parts.",
+  "simple_zh": "她的父親修理汽車零件。",
+  "toeic": "The automobile industry is facing a shortage of chips.",
+  "toeic_zh": "汽車業正面臨晶片短缺的問題。",
+  "family": "auto (n), automotive (adj)",
+  "related": [
+   {
+    "w": "automatic",
+    "zh": "自動的",
+    "k": "confuse"
+   },
+   {
+    "w": "vehicle",
+    "zh": "車輛",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1612,
+  "day": 65
+ },
+ {
+  "word": "automotive",
+  "pos": "adj",
+  "pic": "🏎️",
+  "zh": "汽車的",
+  "en": "relating to cars and car making",
+  "simple": "He works at an automotive company.",
+  "simple_zh": "他在一家汽車公司工作。",
+  "toeic": "The automotive sector is investing heavily in electric vehicles.",
+  "toeic_zh": "汽車產業正大舉投資電動車。",
+  "family": "automobile (n), auto (n)",
+  "related": [
+   {
+    "w": "automatic",
+    "zh": "自動的",
+    "k": "confuse"
+   },
+   {
+    "w": "motor",
+    "zh": "汽車的",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1613,
+  "day": 65
+ },
+ {
+  "word": "bake",
+  "pos": "v",
+  "pic": "🥧",
+  "zh": "烘焙；烤",
+  "en": "to cook food in an oven",
+  "simple": "I like to bake cakes.",
+  "simple_zh": "我喜歡烤蛋糕。",
+  "toeic": "The shop will bake fresh bread every morning at six.",
+  "toeic_zh": "這家店每天早上六點會現烤新鮮麵包。",
+  "family": "baker (n), bakery (n)",
+  "related": [
+   {
+    "w": "bakery",
+    "zh": "麵包店",
+    "k": "family"
+   },
+   {
+    "w": "roast",
+    "zh": "烘烤",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1614,
+  "day": 65
+ },
+ {
+  "word": "battery",
+  "pos": "n",
+  "pic": "🔋",
+  "zh": "電池",
+  "en": "a small device that stores and gives electric power",
+  "simple": "My phone battery is low.",
+  "simple_zh": "我的手機電池快沒電了。",
+  "toeic": "The factory produces a battery for electric vehicles every ninety seconds.",
+  "toeic_zh": "這座工廠每九十秒生產一顆電動車電池。",
+  "family": "",
+  "related": [
+   {
+    "w": "bakery",
+    "zh": "麵包店",
+    "k": "confuse"
+   },
+   {
+    "w": "charger",
+    "zh": "充電器",
+    "k": "family"
+   }
+  ],
+  "n": 1615,
+  "day": 65,
+  "src": "TSL"
+ },
+ {
+  "word": "brake",
+  "pos": "n",
+  "pic": "🛑",
+  "zh": "煞車",
+  "en": "A device used to slow or stop a vehicle.",
+  "simple": "Press the brake slowly.",
+  "simple_zh": "慢慢踩煞車。",
+  "toeic": "The mechanic replaced the brake on the delivery van.",
+  "toeic_zh": "技師更換了送貨廂型車的煞車。",
+  "family": "",
+  "related": [
+   {
+    "w": "break",
+    "zh": "打破;休息",
+    "k": "confuse"
+   },
+   {
+    "w": "stop",
+    "zh": "停止",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1616,
+  "day": 65
+ },
+ {
+  "word": "bug",
+  "pos": "n",
+  "pic": "🐛",
+  "zh": "小蟲;程式錯誤",
+  "en": "A small insect, or an error in a computer program.",
+  "simple": "There is a bug on the wall.",
+  "simple_zh": "牆上有一隻小蟲。",
+  "toeic": "The software team fixed a bug in the payment system.",
+  "toeic_zh": "軟體團隊修正了付款系統中的一個錯誤。",
+  "family": "",
+  "related": [
+   {
+    "w": "glitch",
+    "zh": "小故障",
+    "k": "syn"
+   },
+   {
+    "w": "bag",
+    "zh": "袋子",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1617,
+  "day": 65
+ },
+ {
+  "word": "cartridge",
+  "pos": "n",
+  "pic": "🖨️",
+  "zh": "墨水匣;卡匣",
+  "en": "A small container of ink or toner for a printer.",
+  "simple": "The printer needs a new cartridge.",
+  "simple_zh": "印表機需要新的墨水匣。",
+  "toeic": "Please order a replacement toner cartridge for the copier.",
+  "toeic_zh": "請為影印機訂購一個替換用的碳粉匣。",
+  "family": "",
+  "related": [
+   {
+    "w": "carton",
+    "zh": "紙盒",
+    "k": "confuse"
+   },
+   {
+    "w": "toner",
+    "zh": "碳粉",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1618,
+  "day": 65
+ },
+ {
+  "word": "certify",
+  "pos": "v",
+  "pic": "✅",
+  "zh": "證明;認證",
+  "en": "To officially confirm that something is true or meets standards.",
+  "simple": "The doctor will certify the form.",
+  "simple_zh": "醫生會在表格上簽證。",
+  "toeic": "The inspector will certify that the equipment meets safety standards.",
+  "toeic_zh": "檢查員將證明該設備符合安全標準。",
+  "family": "certificate (n), certification (n), certified (adj)",
+  "related": [
+   {
+    "w": "certificate",
+    "zh": "證書",
+    "k": "family"
+   },
+   {
+    "w": "verify",
+    "zh": "查證",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1619,
+  "day": 65
+ },
+ {
+  "word": "chemistry",
+  "pos": "n",
+  "pic": "⚗️",
+  "zh": "化學",
+  "en": "The science of substances and how they change.",
+  "simple": "I like chemistry class.",
+  "simple_zh": "我喜歡化學課。",
+  "toeic": "The lab is looking for a researcher with a background in chemistry.",
+  "toeic_zh": "這間實驗室正在尋找具化學背景的研究員。",
+  "family": "chemical (adj, n), chemist (n)",
+  "related": [
+   {
+    "w": "chemical",
+    "zh": "化學物質",
+    "k": "family"
+   },
+   {
+    "w": "biology",
+    "zh": "生物學",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1620,
+  "day": 65
+ },
+ {
+  "word": "circuit",
+  "pos": "n",
+  "pic": "🔌",
+  "zh": "電路",
+  "en": "a closed path that electricity flows through",
+  "simple": "The circuit is broken.",
+  "simple_zh": "電路壞了。",
+  "toeic": "Each printed circuit is tested twice before it is installed.",
+  "toeic_zh": "每片印刷電路在安裝前都會測試兩次。",
+  "family": "",
+  "related": [
+   {
+    "w": "circuit board",
+    "zh": "電路板",
+    "k": "family"
+   },
+   {
+    "w": "circus",
+    "zh": "馬戲團",
+    "k": "confuse"
+   }
+  ],
+  "n": 1621,
+  "day": 65,
+  "src": "TSL"
+ },
+ {
+  "word": "cloth",
+  "pos": "n",
+  "pic": "🧵",
+  "zh": "布料",
+  "en": "Material made from threads, used for clothes and covers.",
+  "simple": "I wiped the table with a cloth.",
+  "simple_zh": "我用一塊布擦桌子。",
+  "toeic": "The factory imports cotton cloth from several countries.",
+  "toeic_zh": "這家工廠從數個國家進口棉布。",
+  "family": "clothes (n), clothing (n)",
+  "related": [
+   {
+    "w": "clothes",
+    "zh": "衣服",
+    "k": "confuse"
+   },
+   {
+    "w": "fabric",
+    "zh": "織物",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1622,
+  "day": 65
+ },
+ {
+  "word": "commonly",
+  "pos": "adv",
+  "pic": "🔁",
+  "zh": "通常;普遍地",
+  "en": "In many cases or by many people.",
+  "simple": "This word is commonly used.",
+  "simple_zh": "這個字很常被使用。",
+  "toeic": "The part is commonly used in our newer machines.",
+  "toeic_zh": "這個零件普遍用於我們較新的機器。",
+  "family": "common (adj)",
+  "related": [
+   {
+    "w": "usually",
+    "zh": "通常",
+    "k": "syn"
+   },
+   {
+    "w": "rarely",
+    "zh": "很少",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1623,
+  "day": 65
+ },
+ {
+  "word": "compatible",
+  "pos": "adj",
+  "pic": "🔌",
+  "zh": "相容的",
+  "en": "Able to work or exist together without problems.",
+  "simple": "This charger is compatible with my phone.",
+  "simple_zh": "這個充電器與我的手機相容。",
+  "toeic": "The new software is compatible with older operating systems.",
+  "toeic_zh": "新軟體與較舊的作業系統相容。",
+  "family": "compatibility (n)",
+  "related": [
+   {
+    "w": "incompatible",
+    "zh": "不相容的",
+    "k": "opp"
+   },
+   {
+    "w": "comparable",
+    "zh": "可比較的",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1624,
+  "day": 65
+ },
+ {
+  "word": "conform",
+  "pos": "v",
+  "pic": "📐",
+  "zh": "符合;遵守",
+  "en": "To follow rules or meet a standard.",
+  "simple": "All students must conform to the rules.",
+  "simple_zh": "所有學生都必須遵守規定。",
+  "toeic": "All products must conform to international safety standards.",
+  "toeic_zh": "所有產品都必須符合國際安全標準。",
+  "family": "conformity (n)",
+  "related": [
+   {
+    "w": "confirm",
+    "zh": "確認",
+    "k": "confuse"
+   },
+   {
+    "w": "comply",
+    "zh": "遵守",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1625,
+  "day": 65
+ },
+ {
+  "word": "cord",
+  "pos": "n",
+  "pic": "🔌",
+  "zh": "電線；繩索",
+  "en": "a thin wire or rope used for power or tying",
+  "simple": "The cord is too short.",
+  "simple_zh": "這條電線太短了。",
+  "toeic": "Please do not leave the power cord where people can trip over it.",
+  "toeic_zh": "請不要把電源線放在會絆倒人的地方。",
+  "family": "cordless (adj)",
+  "related": [
+   {
+    "w": "cable",
+    "zh": "電纜",
+    "k": "syn"
+   },
+   {
+    "w": "cordless",
+    "zh": "無線的",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 1626,
+  "day": 66
+ },
+ {
+  "word": "cordless",
+  "pos": "adj",
+  "pic": "🔋",
+  "zh": "無線的；無電線的",
+  "en": "working without a power cord",
+  "simple": "I use a cordless phone.",
+  "simple_zh": "我使用無線電話。",
+  "toeic": "The store is offering a discount on cordless drills this week.",
+  "toeic_zh": "這家店本週無線電鑽特價。",
+  "family": "cord (n), cordless (adj)",
+  "related": [
+   {
+    "w": "wireless",
+    "zh": "無線的",
+    "k": "syn"
+   },
+   {
+    "w": "cord",
+    "zh": "電線",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 1627,
+  "day": 66
+ },
+ {
+  "word": "crane",
+  "pos": "n",
+  "pic": "🏗️",
+  "zh": "起重機",
+  "en": "a machine for lifting and moving heavy objects",
+  "simple": "The crane lifts heavy parts.",
+  "simple_zh": "起重機舉起重型零件。",
+  "toeic": "Industrial cranes handle steel beams.",
+  "toeic_zh": "工業起重機處理鋼梁。",
+  "family": "crane (v)",
+  "related": [
+   {
+    "w": "hoist",
+    "zh": "提升",
+    "k": "syn"
+   }
+  ],
+  "n": 1628,
+  "day": 66,
+  "src": "TSL"
+ },
+ {
+  "word": "delicate",
+  "pos": "adj",
+  "pic": "🪶",
+  "zh": "精緻的；易碎的",
+  "en": "easy to break or damage; fine",
+  "simple": "The glass is very delicate.",
+  "simple_zh": "這個玻璃杯很易碎。",
+  "toeic": "Please handle the delicate equipment with great care.",
+  "toeic_zh": "請小心處理這些精密設備。",
+  "family": "delicacy (n), delicately (adv), delicate (adj)",
+  "related": [
+   {
+    "w": "fragile",
+    "zh": "易碎的",
+    "k": "syn"
+   },
+   {
+    "w": "delicious",
+    "zh": "美味的",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1629,
+  "day": 66
+ },
+ {
+  "word": "desktop",
+  "pos": "n",
+  "pic": "🖥️",
+  "zh": "桌上型電腦；桌面",
+  "en": "a computer used on a desk; a computer screen",
+  "simple": "I use a desktop at work.",
+  "simple_zh": "我在工作時使用桌上型電腦。",
+  "toeic": "Please save the file to your desktop before the system updates.",
+  "toeic_zh": "系統更新前，請將檔案存到桌面。",
+  "family": "",
+  "related": [
+   {
+    "w": "laptop",
+    "zh": "筆記型電腦",
+    "k": "opp"
+   },
+   {
+    "w": "desk",
+    "zh": "書桌",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1630,
+  "day": 66
+ },
+ {
+  "word": "developer",
+  "pos": "n",
+  "pic": "👩‍💻",
+  "zh": "開發者；開發商",
+  "en": "a person or company that builds software or property",
+  "simple": "The developer fixed the bug.",
+  "simple_zh": "開發人員修好了程式錯誤。",
+  "toeic": "The software developer will present the new application on Monday.",
+  "toeic_zh": "軟體開發人員將於週一展示新應用程式。",
+  "family": "develop (v), development (n), developer (n)",
+  "related": [
+   {
+    "w": "development",
+    "zh": "開發",
+    "k": "family"
+   },
+   {
+    "w": "designer",
+    "zh": "設計師",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1631,
+  "day": 66
+ },
+ {
+  "word": "diagnostic",
+  "pos": "adj",
+  "pic": "🩺",
+  "zh": "診斷的",
+  "en": "used to find the cause of a problem",
+  "simple": "The technician ran a diagnostic test.",
+  "simple_zh": "技術人員執行了診斷測試。",
+  "toeic": "Run a diagnostic check if the printer stops working.",
+  "toeic_zh": "如果印表機停止運作，請執行診斷檢查。",
+  "family": "diagnose (v), diagnosis (n), diagnostic (adj)",
+  "related": [
+   {
+    "w": "diagnosis",
+    "zh": "診斷",
+    "k": "family"
+   },
+   {
+    "w": "analysis",
+    "zh": "分析",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1632,
+  "day": 66
+ },
+ {
+  "word": "diagram",
+  "pos": "n",
+  "pic": "📊",
+  "zh": "圖表；示意圖",
+  "en": "a simple drawing that explains something",
+  "simple": "The teacher drew a diagram.",
+  "simple_zh": "老師畫了一張圖。",
+  "toeic": "The manual includes a diagram showing how to assemble the desk.",
+  "toeic_zh": "手冊中附有說明如何組裝桌子的示意圖。",
+  "family": "",
+  "related": [
+   {
+    "w": "chart",
+    "zh": "圖表",
+    "k": "syn"
+   },
+   {
+    "w": "program",
+    "zh": "程式",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1633,
+  "day": 66
+ },
+ {
+  "word": "disable",
+  "pos": "v",
+  "pic": "🚫",
+  "zh": "停用；使無法運作",
+  "en": "to stop something from working",
+  "simple": "Please disable the alarm.",
+  "simple_zh": "請關閉警報器。",
+  "toeic": "You can disable the notifications in the settings menu.",
+  "toeic_zh": "你可以在設定選單中停用通知。",
+  "family": "disability (n), disabled (adj), disable (v)",
+  "related": [
+   {
+    "w": "enable",
+    "zh": "啟用",
+    "k": "opp"
+   },
+   {
+    "w": "deactivate",
+    "zh": "停用",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1634,
+  "day": 66
+ },
+ {
+  "word": "disconnect",
+  "pos": "v",
+  "pic": "🔌",
+  "zh": "切斷；中斷連線",
+  "en": "to break a connection",
+  "simple": "Disconnect the cable first.",
+  "simple_zh": "先拔掉電線。",
+  "toeic": "Please disconnect the power before cleaning the machine.",
+  "toeic_zh": "清潔機器前，請先切斷電源。",
+  "family": "connection (n), connect (v), disconnect (v)",
+  "related": [
+   {
+    "w": "connect",
+    "zh": "連接",
+    "k": "opp"
+   },
+   {
+    "w": "unplug",
+    "zh": "拔掉",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1635,
+  "day": 66
+ },
+ {
+  "word": "download",
+  "pos": "v",
+  "pic": "⬇️",
+  "zh": "下載",
+  "en": "to copy files from the internet to a device",
+  "simple": "I download music every week.",
+  "simple_zh": "我每週都會下載音樂。",
+  "toeic": "You can download the application form from our website.",
+  "toeic_zh": "您可以從我們的網站下載申請表。",
+  "family": "download (n/v)",
+  "related": [
+   {
+    "w": "upload",
+    "zh": "上傳",
+    "k": "opp"
+   },
+   {
+    "w": "load",
+    "zh": "載入",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1636,
+  "day": 66
+ },
+ {
+  "word": "drill",
+  "pos": "v",
+  "pic": "🔩",
+  "zh": "鑽",
+  "en": "to make a hole with a drill",
+  "simple": "Drill holes at marked positions.",
+  "simple_zh": "在標記的位置鑽孔。",
+  "toeic": "CNC machines drill hundreds of holes daily.",
+  "toeic_zh": "CNC機器每天鑽數百個孔。",
+  "family": "drill (n)",
+  "related": [
+   {
+    "w": "bore",
+    "zh": "鑽孔",
+    "k": "syn"
+   }
+  ],
+  "n": 1637,
+  "day": 66,
+  "src": "TSL"
+ },
+ {
+  "word": "durable",
+  "pos": "adj",
+  "pic": "🛡️",
+  "zh": "耐用的",
+  "en": "strong and able to last a long time",
+  "simple": "These boots are very durable.",
+  "simple_zh": "這雙靴子非常耐用。",
+  "toeic": "The company is known for making durable products at fair prices.",
+  "toeic_zh": "這家公司以平價製造耐用產品而聞名。",
+  "family": "durability (n)",
+  "related": [
+   {
+    "w": "sturdy",
+    "zh": "堅固的",
+    "k": "syn"
+   },
+   {
+    "w": "fragile",
+    "zh": "易碎的",
+    "k": "opp"
+   }
+  ],
+  "n": 1638,
+  "day": 66,
+  "src": "TSL"
+ },
+ {
+  "word": "embed",
+  "pos": "v",
+  "pic": "🧩",
+  "zh": "嵌入；植入",
+  "en": "to fix something firmly inside something else",
+  "simple": "They embed a video in the page.",
+  "simple_zh": "他們在網頁中嵌入影片。",
+  "toeic": "Engineers will embed a security chip in each device.",
+  "toeic_zh": "工程師將在每台裝置中嵌入一顆安全晶片。",
+  "family": "",
+  "related": [
+   {
+    "w": "insert",
+    "zh": "插入",
+    "k": "syn"
+   },
+   {
+    "w": "remove",
+    "zh": "移除",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1639,
+  "day": 66
+ },
+ {
+  "word": "equip",
+  "pos": "v",
+  "pic": "🧰",
+  "zh": "配備；裝備",
+  "en": "to provide what is needed for a task",
+  "simple": "We equip the room with desks.",
+  "simple_zh": "我們為房間配置桌子。",
+  "toeic": "The lab is equipped with the latest testing machines.",
+  "toeic_zh": "這間實驗室配備了最新的檢測機器。",
+  "family": "equip (v), equipment (n)",
+  "related": [
+   {
+    "w": "equipment",
+    "zh": "設備",
+    "k": "family"
+   },
+   {
+    "w": "supply",
+    "zh": "供應",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1640,
+  "day": 66
+ },
+ {
+  "word": "fabric",
+  "pos": "n",
+  "pic": "🧶",
+  "zh": "布料",
+  "en": "cloth made by weaving or knitting threads",
+  "simple": "I like this soft fabric.",
+  "simple_zh": "我喜歡這種柔軟的布料。",
+  "toeic": "The fabric is tested for color and strength before it is cut.",
+  "toeic_zh": "這種布料在裁剪前會先檢測色牢度與強度。",
+  "family": "fabricate (v)",
+  "related": [
+   {
+    "w": "fabricate",
+    "zh": "製造、捏造",
+    "k": "family"
+   },
+   {
+    "w": "textile",
+    "zh": "紡織品",
+    "k": "syn"
+   }
+  ],
+  "n": 1641,
+  "day": 66,
+  "src": "TSL"
+ },
+ {
+  "word": "faulty",
+  "pos": "adj",
+  "pic": "❌",
+  "zh": "故障的",
+  "en": "having a mechanical problem",
+  "simple": "This equipment is faulty.",
+  "simple_zh": "這設備是故障的。",
+  "toeic": "Faulty machinery stops production.",
+  "toeic_zh": "故障的機器停止生產。",
+  "family": "fault (n)",
+  "related": [
+   {
+    "w": "defective",
+    "zh": "有缺陷的",
+    "k": "confuse"
+   }
+  ],
+  "n": 1642,
+  "day": 66,
+  "src": "TSL"
+ },
+ {
+  "word": "fixture",
+  "pos": "n",
+  "pic": "🔧",
+  "zh": "夾具",
+  "en": "a device for holding something in place",
+  "simple": "Use the correct fixture for assembly.",
+  "simple_zh": "使用正確的夾具進行組裝。",
+  "toeic": "Precision fixtures ensure accurate alignment.",
+  "toeic_zh": "精密夾具確保準確對齐。",
+  "family": "fixture (adj)",
+  "related": [
+   {
+    "w": "clamp",
+    "zh": "夾子",
+    "k": "syn"
+   }
+  ],
+  "n": 1643,
+  "day": 66,
+  "src": "TSL"
+ },
+ {
+  "word": "foreman",
+  "pos": "n",
+  "pic": "👷",
+  "zh": "領班、工頭",
+  "en": "a worker who leads a group of other workers",
+  "simple": "The foreman gave us the plan.",
+  "simple_zh": "領班把計畫交給了我們。",
+  "toeic": "The foreman reported that the night crew had finished all the orders.",
+  "toeic_zh": "領班回報夜班人員已完成所有訂單。",
+  "family": "",
+  "related": [
+   {
+    "w": "supervisor",
+    "zh": "主管",
+    "k": "syn"
+   },
+   {
+    "w": "forward",
+    "zh": "向前",
+    "k": "confuse"
+   }
+  ],
+  "n": 1644,
+  "day": 66,
+  "src": "TSL"
+ },
+ {
+  "word": "garment",
+  "pos": "n",
+  "pic": "👗",
+  "zh": "衣服；服裝",
+  "en": "a piece of clothing",
+  "simple": "This garment is made of cotton.",
+  "simple_zh": "這件衣服是棉做的。",
+  "toeic": "The factory produces garments for several international brands.",
+  "toeic_zh": "這間工廠為多個國際品牌生產服裝。",
+  "family": "",
+  "related": [
+   {
+    "w": "clothing",
+    "zh": "衣物",
+    "k": "syn"
+   },
+   {
+    "w": "garments",
+    "zh": "服裝",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 1645,
+  "day": 66
+ },
+ {
+  "word": "graphics",
+  "pos": "n",
+  "pic": "🖼️",
+  "zh": "圖像；繪圖",
+  "en": "pictures and designs, especially made on a computer",
+  "simple": "The game has great graphics.",
+  "simple_zh": "這個遊戲的圖像很棒。",
+  "toeic": "The new software offers improved graphics for presentations.",
+  "toeic_zh": "新軟體為簡報提供了更好的圖像效果。",
+  "family": "graphic (adj)",
+  "related": [
+   {
+    "w": "graphic",
+    "zh": "圖形的",
+    "k": "family"
+   },
+   {
+    "w": "graph",
+    "zh": "圖表",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1646,
+  "day": 66
+ },
+ {
+  "word": "hacker",
+  "pos": "n",
+  "pic": "🧑‍💻",
+  "zh": "駭客",
+  "en": "a person who illegally enters computer systems",
+  "simple": "A hacker stole my password.",
+  "simple_zh": "一名駭客偷了我的密碼。",
+  "toeic": "The bank hired experts to protect its network from every hacker.",
+  "toeic_zh": "銀行聘請專家保護網路，防範所有駭客。",
+  "family": "hack (v)",
+  "related": [
+   {
+    "w": "hack",
+    "zh": "入侵",
+    "k": "family"
+   },
+   {
+    "w": "cracker",
+    "zh": "破解者",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1647,
+  "day": 66
+ },
+ {
+  "word": "handy",
+  "pos": "adj",
+  "pic": "🧰",
+  "zh": "方便的；順手的",
+  "en": "useful and easy to use or reach",
+  "simple": "This small bag is very handy.",
+  "simple_zh": "這個小包包很方便。",
+  "toeic": "Keep the instruction sheet handy in case you need help.",
+  "toeic_zh": "請將說明書放在手邊，以便需要時查閱。",
+  "family": "",
+  "related": [
+   {
+    "w": "convenient",
+    "zh": "便利的",
+    "k": "syn"
+   },
+   {
+    "w": "useless",
+    "zh": "無用的",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1648,
+  "day": 66
+ },
+ {
+  "word": "hardware",
+  "pos": "n",
+  "pic": "🖥️",
+  "zh": "硬體；五金",
+  "en": "computer machines and equipment, or tools and metal goods",
+  "simple": "We sell computer hardware.",
+  "simple_zh": "我們販售電腦硬體。",
+  "toeic": "The IT department will upgrade all office hardware this month.",
+  "toeic_zh": "資訊部門本月將升級所有辦公室硬體設備。",
+  "family": "",
+  "related": [
+   {
+    "w": "software",
+    "zh": "軟體",
+    "k": "opp"
+   },
+   {
+    "w": "equipment",
+    "zh": "設備",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1649,
+  "day": 66
+ },
+ {
+  "word": "innovative",
+  "pos": "adj",
+  "pic": "💡",
+  "zh": "創新的",
+  "en": "using new ideas or methods",
+  "simple": "It is an innovative toy.",
+  "simple_zh": "這是一個創新的玩具。",
+  "toeic": "The firm is known for its innovative approach to product design.",
+  "toeic_zh": "這家公司以創新的產品設計方式聞名。",
+  "family": "innovate (v), innovation (n)",
+  "related": [
+   {
+    "w": "creative",
+    "zh": "有創意的",
+    "k": "syn"
+   },
+   {
+    "w": "innovation",
+    "zh": "創新",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 1650,
+  "day": 66
+ },
+ {
+  "word": "insert",
+  "pos": "v",
+  "pic": "📥",
+  "zh": "插入；放入",
+  "en": "to put something into something else",
+  "simple": "Insert the card here.",
+  "simple_zh": "請把卡片插入這裡。",
+  "toeic": "Insert your ticket into the machine to open the gate.",
+  "toeic_zh": "請將車票插入機器以開啟閘門。",
+  "family": "insertion (n)",
+  "related": [
+   {
+    "w": "remove",
+    "zh": "移除",
+    "k": "opp"
+   },
+   {
+    "w": "inset",
+    "zh": "插圖",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1651,
+  "day": 67
+ },
+ {
+  "word": "inspection",
+  "pos": "n",
+  "pic": "🔍",
+  "zh": "檢查",
+  "en": "careful examination to check quality",
+  "simple": "Inspection happens at each stage.",
+  "simple_zh": "檢查在每個階段進行。",
+  "toeic": "Final inspection ensures product quality.",
+  "toeic_zh": "最終檢查確保產品品質。",
+  "family": "inspect (v)",
+  "related": [
+   {
+    "w": "examination",
+    "zh": "檢驗",
+    "k": "syn"
+   }
+  ],
+  "n": 1652,
+  "day": 67,
+  "src": "TSL"
+ },
+ {
+  "word": "inspector",
+  "pos": "n",
+  "pic": "🕵️",
+  "zh": "檢查員；督察",
+  "en": "a person who checks things officially",
+  "simple": "The inspector visited our shop.",
+  "simple_zh": "檢查員來過我們的店。",
+  "toeic": "A safety inspector will visit the factory on Monday.",
+  "toeic_zh": "安全檢查員星期一將到工廠視察。",
+  "family": "inspect (v), inspection (n)",
+  "related": [
+   {
+    "w": "inspection",
+    "zh": "檢查",
+    "k": "family"
+   },
+   {
+    "w": "auditor",
+    "zh": "稽核員",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1653,
+  "day": 67
+ },
+ {
+  "word": "installation",
+  "pos": "n",
+  "pic": "🔧",
+  "zh": "安裝；設置",
+  "en": "the act of putting equipment in place",
+  "simple": "The installation takes one hour.",
+  "simple_zh": "安裝需要一小時。",
+  "toeic": "The installation of the new software will begin on Friday.",
+  "toeic_zh": "新軟體的安裝將於星期五開始。",
+  "family": "install (v)",
+  "related": [
+   {
+    "w": "install",
+    "zh": "安裝",
+    "k": "family"
+   },
+   {
+    "w": "setup",
+    "zh": "設置",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1654,
+  "day": 67
+ },
+ {
+  "word": "interactive",
+  "pos": "adj",
+  "pic": "🖱️",
+  "zh": "互動的",
+  "en": "allowing two-way communication with people or a computer",
+  "simple": "We use an interactive map.",
+  "simple_zh": "我們使用互動式地圖。",
+  "toeic": "The website features an interactive tool to compare insurance plans.",
+  "toeic_zh": "該網站提供互動式工具來比較保險方案。",
+  "family": "interact (v), interaction (n)",
+  "related": [
+   {
+    "w": "interact",
+    "zh": "互動",
+    "k": "family"
+   },
+   {
+    "w": "passive",
+    "zh": "被動的",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1655,
+  "day": 67
+ },
+ {
+  "word": "internet",
+  "pos": "n",
+  "pic": "🌐",
+  "zh": "網際網路",
+  "en": "the worldwide computer network",
+  "simple": "I use the internet every day.",
+  "simple_zh": "我每天都用網路。",
+  "toeic": "The hotel offers free internet access in all guest rooms.",
+  "toeic_zh": "飯店所有客房都提供免費網路連線。",
+  "family": "",
+  "related": [
+   {
+    "w": "intranet",
+    "zh": "內部網路",
+    "k": "confuse"
+   },
+   {
+    "w": "network",
+    "zh": "網路",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1656,
+  "day": 67
+ },
+ {
+  "word": "invention",
+  "pos": "n",
+  "pic": "🔬",
+  "zh": "發明",
+  "en": "a new thing that someone has made",
+  "simple": "The phone was a great invention.",
+  "simple_zh": "電話是一項偉大的發明。",
+  "toeic": "The company patented its latest invention last month.",
+  "toeic_zh": "該公司上個月為其最新發明申請了專利。",
+  "family": "invent (v), inventor (n)",
+  "related": [
+   {
+    "w": "invent",
+    "zh": "發明",
+    "k": "family"
+   },
+   {
+    "w": "discovery",
+    "zh": "發現",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1657,
+  "day": 67
+ },
+ {
+  "word": "keyboard",
+  "pos": "n",
+  "pic": "⌨️",
+  "zh": "鍵盤",
+  "en": "A set of keys used to type on a computer",
+  "simple": "My keyboard has a broken key.",
+  "simple_zh": "我的鍵盤有一個按鍵壞了。",
+  "toeic": "The company ordered a new keyboard for each workstation.",
+  "toeic_zh": "公司為每個工作站訂購了新鍵盤。",
+  "family": "",
+  "related": [
+   {
+    "w": "keypad",
+    "zh": "數字鍵盤",
+    "k": "confuse"
+   },
+   {
+    "w": "mouse",
+    "zh": "滑鼠",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1658,
+  "day": 67
+ },
+ {
+  "word": "lab",
+  "pos": "n",
+  "pic": "🔬",
+  "zh": "實驗室",
+  "en": "A room where scientific tests are done",
+  "simple": "The students are working in the lab.",
+  "simple_zh": "學生們正在實驗室工作。",
+  "toeic": "The new lab will open for product testing next month.",
+  "toeic_zh": "新實驗室下個月將啟用，進行產品測試。",
+  "family": "",
+  "related": [
+   {
+    "w": "laboratory",
+    "zh": "實驗室",
+    "k": "syn"
+   },
+   {
+    "w": "lap",
+    "zh": "膝上",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1659,
+  "day": 67
+ },
+ {
+  "word": "laptop",
+  "pos": "n",
+  "pic": "💻",
+  "zh": "筆記型電腦",
+  "en": "A small computer you can carry",
+  "simple": "She brings her laptop to work.",
+  "simple_zh": "她帶著筆記型電腦去上班。",
+  "toeic": "Please bring your laptop to the training session.",
+  "toeic_zh": "請攜帶您的筆記型電腦參加培訓課程。",
+  "family": "",
+  "related": [
+   {
+    "w": "desktop",
+    "zh": "桌上型電腦",
+    "k": "opp"
+   },
+   {
+    "w": "notebook",
+    "zh": "筆記型電腦",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1660,
+  "day": 67
+ },
+ {
+  "word": "leak",
+  "pos": "n",
+  "pic": "💧",
+  "zh": "洩漏",
+  "en": "an unintended hole allowing fluid to escape",
+  "simple": "There is a leak in the tank.",
+  "simple_zh": "油罐有洩漏。",
+  "toeic": "Pressure leaks reduce system efficiency.",
+  "toeic_zh": "壓力洩漏降低系統效率。",
+  "family": "leak (v)",
+  "related": [
+   {
+    "w": "rupture",
+    "zh": "破裂",
+    "k": "syn"
+   }
+  ],
+  "n": 1661,
+  "day": 67,
+  "src": "TSL"
+ },
+ {
+  "word": "lighter",
+  "pos": "adj",
+  "pic": "🪶",
+  "zh": "較輕的",
+  "en": "Less heavy",
+  "simple": "This bag is lighter than that one.",
+  "simple_zh": "這個袋子比那個輕。",
+  "toeic": "The new model is lighter and easier to carry.",
+  "toeic_zh": "新款比較輕，更容易攜帶。",
+  "family": "light (adj), lightly (adv)",
+  "related": [
+   {
+    "w": "heavier",
+    "zh": "較重的",
+    "k": "opp"
+   },
+   {
+    "w": "lighter (n)",
+    "zh": "打火機",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1662,
+  "day": 67
+ },
+ {
+  "word": "login",
+  "pos": "n",
+  "pic": "🔑",
+  "zh": "登入",
+  "en": "The act of entering a computer system with a name and password",
+  "simple": "I forgot my login password.",
+  "simple_zh": "我忘了我的登入密碼。",
+  "toeic": "Please enter your login details to access the portal.",
+  "toeic_zh": "請輸入您的登入資料以進入入口網站。",
+  "family": "log in (phr v)",
+  "related": [
+   {
+    "w": "password",
+    "zh": "密碼",
+    "k": "family"
+   },
+   {
+    "w": "logout",
+    "zh": "登出",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1663,
+  "day": 67
+ },
+ {
+  "word": "machinery",
+  "pos": "n",
+  "pic": "⚙️",
+  "zh": "機器",
+  "en": "machines and equipment collectively",
+  "simple": "The machinery is very old.",
+  "simple_zh": "這些機器非常老舊。",
+  "toeic": "Modern machinery improves production efficiency.",
+  "toeic_zh": "現代機器提高生產效率。",
+  "family": "machine (n)",
+  "related": [
+   {
+    "w": "equipment",
+    "zh": "設備",
+    "k": "syn"
+   }
+  ],
+  "n": 1664,
+  "day": 67,
+  "src": "TSL"
+ },
+ {
+  "word": "manual",
+  "pos": "n",
+  "pic": "📘",
+  "zh": "手冊",
+  "en": "A book that explains how to use something",
+  "simple": "Please read the manual first.",
+  "simple_zh": "請先閱讀說明書。",
+  "toeic": "The user manual is included in the package.",
+  "toeic_zh": "包裝內附有使用手冊。",
+  "family": "manually (adv)",
+  "related": [
+   {
+    "w": "handbook",
+    "zh": "手冊",
+    "k": "syn"
+   },
+   {
+    "w": "annual",
+    "zh": "年度的",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1665,
+  "day": 67
+ },
+ {
+  "word": "mechanic",
+  "pos": "n",
+  "pic": "🔧",
+  "zh": "技工",
+  "en": "A person who repairs machines or cars",
+  "simple": "The mechanic fixed my car.",
+  "simple_zh": "技工修好了我的車。",
+  "toeic": "A mechanic will inspect the delivery trucks every month.",
+  "toeic_zh": "技工每個月會檢查送貨卡車。",
+  "family": "mechanical (adj), mechanics (n)",
+  "related": [
+   {
+    "w": "technician",
+    "zh": "技術人員",
+    "k": "syn"
+   },
+   {
+    "w": "mechanical",
+    "zh": "機械的",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 1666,
+  "day": 67
+ },
+ {
+  "word": "mechanical",
+  "pos": "adj",
+  "pic": "⚙️",
+  "zh": "機械的",
+  "en": "Related to machines or how they work",
+  "simple": "There is a mechanical problem.",
+  "simple_zh": "有一個機械方面的問題。",
+  "toeic": "The flight was delayed because of a mechanical failure.",
+  "toeic_zh": "航班因機械故障而延誤。",
+  "family": "mechanic (n), mechanically (adv)",
+  "related": [
+   {
+    "w": "manual",
+    "zh": "手動的",
+    "k": "confuse"
+   },
+   {
+    "w": "electrical",
+    "zh": "電力的",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1667,
+  "day": 67
+ },
+ {
+  "word": "microscope",
+  "pos": "n",
+  "pic": "🔬",
+  "zh": "顯微鏡",
+  "en": "A tool that makes tiny things look bigger",
+  "simple": "She looked through the microscope.",
+  "simple_zh": "她透過顯微鏡觀察。",
+  "toeic": "The laboratory purchased a new microscope for quality checks.",
+  "toeic_zh": "實驗室購買了一台新顯微鏡用於品質檢驗。",
+  "family": "",
+  "related": [
+   {
+    "w": "telescope",
+    "zh": "望遠鏡",
+    "k": "confuse"
+   },
+   {
+    "w": "lens",
+    "zh": "鏡片",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1668,
+  "day": 67
+ },
+ {
+  "word": "mineral",
+  "pos": "n",
+  "pic": "⛰️",
+  "zh": "礦物",
+  "en": "A natural substance found in the ground",
+  "simple": "Water has many minerals in it.",
+  "simple_zh": "水裡有許多礦物質。",
+  "toeic": "The company imports minerals for use in its factories.",
+  "toeic_zh": "該公司進口礦物供工廠使用。",
+  "family": "",
+  "related": [
+   {
+    "w": "metal",
+    "zh": "金屬",
+    "k": "syn"
+   },
+   {
+    "w": "mining",
+    "zh": "採礦",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 1669,
+  "day": 67
+ },
+ {
+  "word": "modem",
+  "pos": "n",
+  "pic": "📡",
+  "zh": "數據機",
+  "en": "A device that connects a computer to the internet",
+  "simple": "The modem is in the living room.",
+  "simple_zh": "數據機在客廳裡。",
+  "toeic": "Restart the modem if the internet connection fails.",
+  "toeic_zh": "如果網路連線失敗，請重新啟動數據機。",
+  "family": "",
+  "related": [
+   {
+    "w": "router",
+    "zh": "路由器",
+    "k": "syn"
+   },
+   {
+    "w": "modem",
+    "zh": "調變解調器",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 1670,
+  "day": 67
+ },
+ {
+  "word": "modification",
+  "pos": "n",
+  "pic": "🔧",
+  "zh": "改造",
+  "en": "a change made to something",
+  "simple": "Modifications require approval.",
+  "simple_zh": "改造需要批准。",
+  "toeic": "Equipment modifications improve performance.",
+  "toeic_zh": "設備改造改善性能。",
+  "family": "modify (v)",
+  "related": [
+   {
+    "w": "alteration",
+    "zh": "改變",
+    "k": "syn"
+   }
+  ],
+  "n": 1671,
+  "day": 67,
+  "src": "TSL"
+ },
+ {
+  "word": "operational",
+  "pos": "adj",
+  "pic": "🟢",
+  "zh": "可運作的",
+  "en": "Working and ready to be used",
+  "simple": "The machine is now operational.",
+  "simple_zh": "這台機器現在可以運作了。",
+  "toeic": "The new branch will be fully operational by March.",
+  "toeic_zh": "新分公司將於三月前全面運作。",
+  "family": "operate (v), operation (n)",
+  "related": [
+   {
+    "w": "operate",
+    "zh": "操作",
+    "k": "family"
+   },
+   {
+    "w": "functional",
+    "zh": "可運作的",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1672,
+  "day": 67
+ },
+ {
+  "word": "outdated",
+  "pos": "adj",
+  "pic": "📼",
+  "zh": "過時的",
+  "en": "no longer modern or useful",
+  "simple": "My phone is outdated.",
+  "simple_zh": "我的手機過時了。",
+  "toeic": "The outdated software slowed down the whole office.",
+  "toeic_zh": "過時的軟體拖慢了整個辦公室。",
+  "family": "outdate (v), date (n)",
+  "related": [
+   {
+    "w": "out-of-date",
+    "zh": "過期的",
+    "k": "syn"
+   },
+   {
+    "w": "up-to-date",
+    "zh": "最新的",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1673,
+  "day": 67
+ },
+ {
+  "word": "patent",
+  "pos": "n",
+  "pic": "📜",
+  "zh": "專利",
+  "en": "a legal right to be the only maker of an invention",
+  "simple": "She has a patent for her toy.",
+  "simple_zh": "她的玩具有專利。",
+  "toeic": "The company filed a patent for its new cooling system last month.",
+  "toeic_zh": "該公司上個月為其新冷卻系統申請了專利。",
+  "family": "",
+  "related": [
+   {
+    "w": "patient",
+    "zh": "病人、有耐心的",
+    "k": "confuse"
+   },
+   {
+    "w": "copyright",
+    "zh": "版權",
+    "k": "syn"
+   }
+  ],
+  "n": 1674,
+  "day": 67,
+  "src": "TSL"
+ },
+ {
+  "word": "periodically",
+  "pos": "adv",
+  "pic": "🔁",
+  "zh": "定期地",
+  "en": "happening regularly over time",
+  "simple": "We meet periodically.",
+  "simple_zh": "我們定期開會。",
+  "toeic": "The machines should be checked periodically for safety.",
+  "toeic_zh": "機器應定期檢查安全性。",
+  "family": "period (n), periodical (adj)",
+  "related": [
+   {
+    "w": "regularly",
+    "zh": "定期地",
+    "k": "syn"
+   },
+   {
+    "w": "rarely",
+    "zh": "很少",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1675,
+  "day": 67
+ },
+ {
+  "word": "pharmaceutical",
+  "pos": "adj",
+  "pic": "💊",
+  "zh": "製藥的；藥品的",
+  "en": "related to making or selling medicine",
+  "simple": "He works at a pharmaceutical company.",
+  "simple_zh": "他在製藥公司工作。",
+  "toeic": "The pharmaceutical industry spends heavily on research.",
+  "toeic_zh": "製藥業在研究上投入大量資金。",
+  "family": "pharmacy (n), pharmacist (n)",
+  "related": [
+   {
+    "w": "medical",
+    "zh": "醫療的",
+    "k": "syn"
+   },
+   {
+    "w": "pharmacy",
+    "zh": "藥局",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1676,
+  "day": 68
+ },
+ {
+  "word": "physics",
+  "pos": "n",
+  "pic": "⚛️",
+  "zh": "物理學",
+  "en": "the science of matter and energy",
+  "simple": "He studies physics.",
+  "simple_zh": "他念物理。",
+  "toeic": "She has a degree in physics and works as an engineer.",
+  "toeic_zh": "她擁有物理學位，並擔任工程師。",
+  "family": "physical (adj), physicist (n)",
+  "related": [
+   {
+    "w": "physician",
+    "zh": "醫師",
+    "k": "confuse"
+   },
+   {
+    "w": "chemistry",
+    "zh": "化學",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1677,
+  "day": 68
+ },
+ {
+  "word": "plug",
+  "pos": "n",
+  "pic": "🔌",
+  "zh": "插頭",
+  "en": "a device that connects to electricity",
+  "simple": "Put the plug in the wall.",
+  "simple_zh": "把插頭插進牆上。",
+  "toeic": "Please check that the plug is firmly in the socket.",
+  "toeic_zh": "請確認插頭已牢牢插入插座。",
+  "family": "plug (v)",
+  "related": [
+   {
+    "w": "socket",
+    "zh": "插座",
+    "k": "syn"
+   },
+   {
+    "w": "outlet",
+    "zh": "插座",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1678,
+  "day": 68
+ },
+ {
+  "word": "polish",
+  "pos": "v",
+  "pic": "✨",
+  "zh": "拋光",
+  "en": "to make smooth and shiny",
+  "simple": "Polish the metal finish.",
+  "simple_zh": "拋光金屬飾面。",
+  "toeic": "Polishing machines create smooth surfaces.",
+  "toeic_zh": "拋光機創建光滑表面。",
+  "family": "polish (n)",
+  "related": [
+   {
+    "w": "shine",
+    "zh": "光澤",
+    "k": "syn"
+   }
+  ],
+  "n": 1679,
+  "day": 68,
+  "src": "TSL"
+ },
+ {
+  "word": "portable",
+  "pos": "adj",
+  "pic": "💻",
+  "zh": "可攜帶的",
+  "en": "easy to carry or move",
+  "simple": "I bought a portable speaker.",
+  "simple_zh": "我買了一個攜帶式喇叭。",
+  "toeic": "The portable device fits easily into a small bag.",
+  "toeic_zh": "這台可攜式裝置很容易放進小包包。",
+  "family": "portability (n)",
+  "related": [
+   {
+    "w": "mobile",
+    "zh": "行動的",
+    "k": "syn"
+   },
+   {
+    "w": "fixed",
+    "zh": "固定的",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1680,
+  "day": 68
+ },
+ {
+  "word": "programmer",
+  "pos": "n",
+  "pic": "👨‍💻",
+  "zh": "程式設計師",
+  "en": "a person who writes computer code",
+  "simple": "He is a programmer.",
+  "simple_zh": "他是程式設計師。",
+  "toeic": "The company hired a programmer to build the mobile app.",
+  "toeic_zh": "公司僱用了一位程式設計師來開發手機應用程式。",
+  "family": "program (n, v), programming (n)",
+  "related": [
+   {
+    "w": "developer",
+    "zh": "開發者",
+    "k": "syn"
+   },
+   {
+    "w": "engineer",
+    "zh": "工程師",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1681,
+  "day": 68
+ },
+ {
+  "word": "rack",
+  "pos": "n",
+  "pic": "📦",
+  "zh": "架子",
+  "en": "a framework for storing items",
+  "simple": "Parts are stored on racks.",
+  "simple_zh": "零件儲存在架子上。",
+  "toeic": "Storage racks organize inventory efficiently.",
+  "toeic_zh": "儲存架有效地整理庫存。",
+  "family": "rack (v)",
+  "related": [
+   {
+    "w": "shelf",
+    "zh": "架子",
+    "k": "confuse"
+   }
+  ],
+  "n": 1682,
+  "day": 68,
+  "src": "TSL"
+ },
+ {
+  "word": "recur",
+  "pos": "v",
+  "pic": "🔁",
+  "zh": "再次發生；重複出現",
+  "en": "to happen again",
+  "simple": "The problem may recur.",
+  "simple_zh": "這個問題可能會再發生。",
+  "toeic": "Please fix the error so that it does not recur.",
+  "toeic_zh": "請修正這個錯誤，以免再次發生。",
+  "family": "recurrence (n), recurring (adj)",
+  "related": [
+   {
+    "w": "occur",
+    "zh": "發生",
+    "k": "confuse"
+   },
+   {
+    "w": "repeat",
+    "zh": "重複",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1683,
+  "day": 68
+ },
+ {
+  "word": "redesign",
+  "pos": "v",
+  "pic": "📐",
+  "zh": "重新設計",
+  "en": "to design something again in a new way",
+  "simple": "They will redesign the website.",
+  "simple_zh": "他們要重新設計網站。",
+  "toeic": "The company decided to redesign its logo and packaging.",
+  "toeic_zh": "公司決定重新設計其標誌與包裝。",
+  "family": "design (v, n), designer (n)",
+  "related": [
+   {
+    "w": "revamp",
+    "zh": "改造",
+    "k": "syn"
+   },
+   {
+    "w": "design",
+    "zh": "設計",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 1684,
+  "day": 68
+ },
+ {
+  "word": "refinery",
+  "pos": "n",
+  "pic": "🛢️",
+  "zh": "煉油廠、精煉廠",
+  "en": "a factory that cleans raw oil or sugar",
+  "simple": "The refinery is by the sea.",
+  "simple_zh": "煉油廠在海邊。",
+  "toeic": "The oil refinery was closed for two weeks for safety checks.",
+  "toeic_zh": "這座煉油廠因安全檢查停工兩週。",
+  "family": "refine (v)",
+  "related": [
+   {
+    "w": "refine",
+    "zh": "精煉",
+    "k": "family"
+   },
+   {
+    "w": "factory",
+    "zh": "工廠",
+    "k": "syn"
+   }
+  ],
+  "n": 1685,
+  "day": 68,
+  "src": "TSL"
+ },
+ {
+  "word": "refresh",
+  "pos": "v",
+  "pic": "🔄",
+  "zh": "使恢復精神；重新整理",
+  "en": "to make someone feel fresh; to update a page",
+  "simple": "A cold drink can refresh you.",
+  "simple_zh": "冷飲能讓你提神。",
+  "toeic": "Please refresh the page if the schedule does not appear.",
+  "toeic_zh": "若行程表沒有出現，請重新整理頁面。",
+  "family": "refreshment (n), refreshing (adj)",
+  "related": [
+   {
+    "w": "renew",
+    "zh": "更新",
+    "k": "syn"
+   },
+   {
+    "w": "refreshment",
+    "zh": "茶點",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 1686,
+  "day": 68
+ },
+ {
+  "word": "retrieve",
+  "pos": "v",
+  "pic": "📦",
+  "zh": "取回",
+  "en": "to get something that was stored",
+  "simple": "Retrieve items from storage.",
+  "simple_zh": "從儲存中取回物品。",
+  "toeic": "Workers retrieve components from the warehouse.",
+  "toeic_zh": "工人從倉庫取回零件。",
+  "family": "retrieval (n)",
+  "related": [
+   {
+    "w": "obtain",
+    "zh": "取得",
+    "k": "syn"
+   }
+  ],
+  "n": 1687,
+  "day": 68,
+  "src": "TSL"
+ },
+ {
+  "word": "revolutionize",
+  "pos": "v",
+  "pic": "🚀",
+  "zh": "徹底改革；使革命性改變",
+  "en": "to completely change how something is done",
+  "simple": "Phones revolutionize how we talk.",
+  "simple_zh": "手機徹底改變了我們交談的方式。",
+  "toeic": "The new software could revolutionize the way we manage inventory.",
+  "toeic_zh": "這套新軟體可能徹底改變我們管理庫存的方式。",
+  "family": "revolution (n), revolutionary (adj)",
+  "related": [
+   {
+    "w": "transform",
+    "zh": "轉變",
+    "k": "syn"
+   },
+   {
+    "w": "revolution",
+    "zh": "革命",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 1688,
+  "day": 68
+ },
+ {
+  "word": "rubber",
+  "pos": "n",
+  "pic": "🛞",
+  "zh": "橡膠",
+  "en": "a stretchy material used for tires and seals",
+  "simple": "Tires are made of rubber.",
+  "simple_zh": "輪胎是橡膠做的。",
+  "toeic": "The plant imports natural rubber from Southeast Asia every month.",
+  "toeic_zh": "這間工廠每月從東南亞進口天然橡膠。",
+  "family": "",
+  "related": [
+   {
+    "w": "plastic",
+    "zh": "塑膠",
+    "k": "syn"
+   },
+   {
+    "w": "robber",
+    "zh": "搶匪",
+    "k": "confuse"
+   }
+  ],
+  "n": 1689,
+  "day": 68,
+  "src": "TSL"
+ },
+ {
+  "word": "satellite",
+  "pos": "n",
+  "pic": "🛰️",
+  "zh": "衛星",
+  "en": "an object in space that sends signals",
+  "simple": "The satellite goes around Earth.",
+  "simple_zh": "衛星繞著地球轉。",
+  "toeic": "The company uses a satellite to send data to remote offices.",
+  "toeic_zh": "公司利用衛星將資料傳送到偏遠的辦公室。",
+  "family": "",
+  "related": [
+   {
+    "w": "signal",
+    "zh": "訊號",
+    "k": "syn"
+   },
+   {
+    "w": "station",
+    "zh": "站台",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1690,
+  "day": 68
+ },
+ {
+  "word": "serial",
+  "pos": "adj",
+  "pic": "🔢",
+  "zh": "序列的；連續的",
+  "en": "arranged in a series or order",
+  "simple": "Write down the serial number.",
+  "simple_zh": "請寫下序號。",
+  "toeic": "Please enter the serial number printed on the back of the device.",
+  "toeic_zh": "請輸入印在裝置背面的序號。",
+  "family": "series (n)",
+  "related": [
+   {
+    "w": "cereal",
+    "zh": "穀片",
+    "k": "confuse"
+   },
+   {
+    "w": "series",
+    "zh": "系列",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 1691,
+  "day": 68
+ },
+ {
+  "word": "sew",
+  "pos": "v",
+  "pic": "🧵",
+  "zh": "縫；縫製",
+  "en": "to join cloth using a needle and thread",
+  "simple": "She can sew a button.",
+  "simple_zh": "她會縫釦子。",
+  "toeic": "The factory hires workers who can sew quickly and carefully.",
+  "toeic_zh": "工廠聘請能快速且細心縫製的員工。",
+  "family": "sewing (n)",
+  "related": [
+   {
+    "w": "sow",
+    "zh": "播種",
+    "k": "confuse"
+   },
+   {
+    "w": "stitch",
+    "zh": "縫合",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1692,
+  "day": 68
+ },
+ {
+  "word": "shipment",
+  "pos": "n",
+  "pic": "📦",
+  "zh": "出貨",
+  "en": "goods sent or to be sent",
+  "simple": "The shipment arrived.",
+  "simple_zh": "出貨到達了。",
+  "toeic": "Weekly shipments go to distribution centers.",
+  "toeic_zh": "每週出貨到分銷中心。",
+  "family": "ship (v)",
+  "related": [
+   {
+    "w": "delivery",
+    "zh": "交貨",
+    "k": "syn"
+   }
+  ],
+  "n": 1693,
+  "day": 68,
+  "src": "TSL"
+ },
+ {
+  "word": "sketch",
+  "pos": "n",
+  "pic": "✏️",
+  "zh": "草圖；素描",
+  "en": "a quick simple drawing",
+  "simple": "She made a sketch of the park.",
+  "simple_zh": "她畫了公園的素描。",
+  "toeic": "The designer showed us a sketch of the new store layout.",
+  "toeic_zh": "設計師向我們展示了新店面配置的草圖。",
+  "family": "",
+  "related": [
+   {
+    "w": "draft",
+    "zh": "草稿",
+    "k": "syn"
+   },
+   {
+    "w": "skeptic",
+    "zh": "懷疑論者",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1694,
+  "day": 68
+ },
+ {
+  "word": "smartphone",
+  "pos": "n",
+  "pic": "📱",
+  "zh": "智慧型手機",
+  "en": "a mobile phone that works like a computer",
+  "simple": "I use my smartphone every day.",
+  "simple_zh": "我每天都用智慧型手機。",
+  "toeic": "You can scan the ticket with your smartphone at the gate.",
+  "toeic_zh": "您可以在閘口用智慧型手機掃描票券。",
+  "family": "phone (n)",
+  "related": [
+   {
+    "w": "tablet",
+    "zh": "平板電腦",
+    "k": "confuse"
+   },
+   {
+    "w": "cell phone",
+    "zh": "手機",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1695,
+  "day": 68
+ },
+ {
+  "word": "spray",
+  "pos": "v",
+  "pic": "💦",
+  "zh": "噴灑",
+  "en": "to send liquid out in small drops",
+  "simple": "Spray water on the plants.",
+  "simple_zh": "把水噴在植物上。",
+  "toeic": "Workers spray the surface with a protective coating.",
+  "toeic_zh": "工人在表面噴灑保護塗層。",
+  "family": "spray (n, v)",
+  "related": [
+   {
+    "w": "sprain",
+    "zh": "扭傷",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1696,
+  "day": 68
+ },
+ {
+  "word": "steer",
+  "pos": "v",
+  "pic": "🚗",
+  "zh": "駕駛；引導",
+  "en": "to control the direction of something",
+  "simple": "He can steer the boat.",
+  "simple_zh": "他會駕駛這艘船。",
+  "toeic": "The new director will steer the company toward growth.",
+  "toeic_zh": "新任主管將引領公司邁向成長。",
+  "family": "steer (v), steering (n)",
+  "related": [
+   {
+    "w": "guide",
+    "zh": "引導",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1697,
+  "day": 68
+ },
+ {
+  "word": "streamline",
+  "pos": "v",
+  "pic": "⚡",
+  "zh": "簡化",
+  "en": "to make more efficient by removing unnecessary steps",
+  "simple": "Streamline the workflow.",
+  "simple_zh": "簡化工作流程。",
+  "toeic": "Process improvements streamline operations.",
+  "toeic_zh": "過程改進簡化運營。",
+  "family": "streamline (adj)",
+  "related": [
+   {
+    "w": "simplify",
+    "zh": "簡化",
+    "k": "syn"
+   }
+  ],
+  "n": 1698,
+  "day": 68,
+  "src": "TSL"
+ },
+ {
+  "word": "tablet",
+  "pos": "n",
+  "pic": "📱",
+  "zh": "平板電腦；藥片",
+  "en": "a flat portable computer, or a small pill",
+  "simple": "I read on my tablet.",
+  "simple_zh": "我用平板電腦閱讀。",
+  "toeic": "Sales of tablet computers rose sharply this year.",
+  "toeic_zh": "今年平板電腦的銷售大幅成長。",
+  "family": "tablet (n)",
+  "related": [
+   {
+    "w": "table",
+    "zh": "桌子；表格",
+    "k": "confuse"
+   },
+   {
+    "w": "laptop",
+    "zh": "筆記型電腦",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1699,
+  "day": 68
+ },
+ {
+  "word": "tech",
+  "pos": "n",
+  "pic": "💻",
+  "zh": "科技；技術",
+  "en": "short for technology",
+  "simple": "He works in tech.",
+  "simple_zh": "他在科技業工作。",
+  "toeic": "The tech industry is hiring many new engineers.",
+  "toeic_zh": "科技業正在僱用許多新的工程師。",
+  "family": "tech (n), technology (n), technical (adj)",
+  "related": [
+   {
+    "w": "technology",
+    "zh": "科技",
+    "k": "family"
+   },
+   {
+    "w": "technique",
+    "zh": "技巧",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1700,
+  "day": 68
+ },
+ {
+  "word": "technician",
+  "pos": "n",
+  "pic": "🧑‍🔧",
+  "zh": "技術人員",
+  "en": "a worker with special skills to operate or fix machines",
+  "simple": "The technician fixed my computer.",
+  "simple_zh": "技術人員修好了我的電腦。",
+  "toeic": "A technician will inspect the production line every Monday morning.",
+  "toeic_zh": "技術人員每週一早上會檢查生產線。",
+  "family": "technique (n), technical (adj)",
+  "related": [
+   {
+    "w": "technique",
+    "zh": "技巧、技術",
+    "k": "confuse"
+   },
+   {
+    "w": "engineer",
+    "zh": "工程師",
+    "k": "syn"
+   }
+  ],
+  "n": 1701,
+  "day": 69,
+  "src": "TSL"
+ },
+ {
+  "word": "telecommunication",
+  "pos": "n",
+  "pic": "📡",
+  "zh": "電信",
+  "en": "sending information over long distances",
+  "simple": "He works in telecommunication.",
+  "simple_zh": "他在電信業工作。",
+  "toeic": "The telecommunication company is upgrading its network.",
+  "toeic_zh": "這家電信公司正在升級網路。",
+  "family": "communicate (v), telecommunication (n)",
+  "related": [
+   {
+    "w": "communication",
+    "zh": "溝通",
+    "k": "confuse"
+   },
+   {
+    "w": "telephone",
+    "zh": "電話",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 1702,
+  "day": 69
+ },
+ {
+  "word": "timer",
+  "pos": "n",
+  "pic": "⏲️",
+  "zh": "計時器",
+  "en": "a device that measures time",
+  "simple": "Set the timer for ten minutes.",
+  "simple_zh": "把計時器設定十分鐘。",
+  "toeic": "The oven has a timer that turns it off automatically.",
+  "toeic_zh": "這台烤箱有計時器，會自動關閉。",
+  "family": "time (n), timer (n)",
+  "related": [
+   {
+    "w": "time",
+    "zh": "時間",
+    "k": "family"
+   },
+   {
+    "w": "clock",
+    "zh": "時鐘",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1703,
+  "day": 69
+ },
+ {
+  "word": "transmission",
+  "pos": "n",
+  "pic": "📡",
+  "zh": "傳送；變速箱",
+  "en": "the act of sending a signal or data",
+  "simple": "The transmission was clear.",
+  "simple_zh": "傳送訊號很清晰。",
+  "toeic": "A power failure interrupted the data transmission.",
+  "toeic_zh": "停電中斷了資料傳輸。",
+  "family": "transmit (v), transmission (n)",
+  "related": [
+   {
+    "w": "transmit",
+    "zh": "傳送",
+    "k": "family"
+   },
+   {
+    "w": "transition",
+    "zh": "轉變",
+    "k": "confuse"
+   }
+  ],
+  "src": "TSL",
+  "n": 1704,
+  "day": 69
+ },
+ {
+  "word": "transmit",
+  "pos": "v",
+  "pic": "📶",
+  "zh": "傳送；傳輸",
+  "en": "to send information or a signal",
+  "simple": "The radio can transmit news.",
+  "simple_zh": "收音機可以傳送新聞。",
+  "toeic": "The device will transmit the data to the main server.",
+  "toeic_zh": "這個裝置會將資料傳送到主伺服器。",
+  "family": "transmit (v), transmission (n)",
+  "related": [
+   {
+    "w": "send",
+    "zh": "傳送",
+    "k": "syn"
+   },
+   {
+    "w": "transmission",
+    "zh": "傳輸",
+    "k": "family"
+   }
+  ],
+  "src": "TSL",
+  "n": 1705,
+  "day": 69
+ },
+ {
+  "word": "unload",
+  "pos": "v",
+  "pic": "🏗️",
+  "zh": "卸載",
+  "en": "to remove goods from a vehicle",
+  "simple": "Unload materials carefully.",
+  "simple_zh": "小心卸載材料。",
+  "toeic": "Workers unload raw materials at the dock.",
+  "toeic_zh": "工人在碼頭卸載原材料。",
+  "family": "unload (n)",
+  "related": [
+   {
+    "w": "load",
+    "zh": "裝載",
+    "k": "confuse"
+   }
+  ],
+  "n": 1706,
+  "day": 69,
+  "src": "TSL"
+ },
+ {
+  "word": "unplug",
+  "pos": "v",
+  "pic": "🔌",
+  "zh": "拔掉插頭",
+  "en": "To pull a plug out of a socket.",
+  "simple": "Please unplug the lamp.",
+  "simple_zh": "請把檯燈的插頭拔掉。",
+  "toeic": "Always unplug the machine before you clean it.",
+  "toeic_zh": "清潔機器前務必先拔掉插頭。",
+  "family": "plug (n/v)",
+  "related": [
+   {
+    "w": "disconnect",
+    "zh": "斷開",
+    "k": "syn"
+   },
+   {
+    "w": "plug in",
+    "zh": "插上",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1707,
+  "day": 69
+ },
+ {
+  "word": "usage",
+  "pos": "n",
+  "pic": "📊",
+  "zh": "使用量；用法",
+  "en": "The way or amount something is used.",
+  "simple": "Water usage is high in summer.",
+  "simple_zh": "夏天的用水量很高。",
+  "toeic": "Monthly electricity usage has dropped since we installed LED lights.",
+  "toeic_zh": "自從安裝LED燈後，每月用電量已下降。",
+  "family": "use (v/n), user (n)",
+  "related": [
+   {
+    "w": "use",
+    "zh": "使用",
+    "k": "family"
+   },
+   {
+    "w": "utilization",
+    "zh": "利用",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1708,
+  "day": 69
+ },
+ {
+  "word": "webpage",
+  "pos": "n",
+  "pic": "🌐",
+  "zh": "網頁",
+  "en": "A single page of a website.",
+  "simple": "Open the webpage on your phone.",
+  "simple_zh": "用你的手機打開這個網頁。",
+  "toeic": "The product details are listed on the company webpage.",
+  "toeic_zh": "產品詳情列在公司網頁上。",
+  "family": "website (n)",
+  "related": [
+   {
+    "w": "website",
+    "zh": "網站",
+    "k": "confuse"
+   },
+   {
+    "w": "homepage",
+    "zh": "首頁",
+    "k": "syn"
+   }
+  ],
+  "src": "TSL",
+  "n": 1709,
+  "day": 69
+ },
+ {
+  "word": "wireless",
+  "pos": "adj",
+  "pic": "📶",
+  "zh": "無線的",
+  "en": "Not using wires; connected by radio signals.",
+  "simple": "We have wireless internet.",
+  "simple_zh": "我們有無線網路。",
+  "toeic": "Guests can use the wireless network throughout the hotel.",
+  "toeic_zh": "房客可以在整間飯店使用無線網路。",
+  "family": "wire (n)",
+  "related": [
+   {
+    "w": "wired",
+    "zh": "有線的",
+    "k": "opp"
+   }
+  ],
+  "src": "TSL",
+  "n": 1710,
+  "day": 69
+ },
+ {
+  "word": "aluminum",
+  "pos": "n",
+  "pic": "🥫",
+  "zh": "鋁",
+  "en": "a light silver-colored metal",
+  "simple": "The can is made of aluminum.",
+  "simple_zh": "這個罐子是鋁做的。",
+  "toeic": "The company switched to aluminum to make its products lighter.",
+  "toeic_zh": "該公司改用鋁材以讓產品更輕。",
+  "family": "",
+  "related": [
+   {
+    "w": "alloy",
+    "zh": "合金",
+    "k": "family"
+   },
+   {
+    "w": "copper",
+    "zh": "銅",
+    "k": "syn"
+   }
+  ],
+  "n": 1711,
+  "day": 69,
+  "src": "BSL"
+ },
+ {
+  "word": "batch",
+  "pos": "n",
+  "pic": "📦",
+  "zh": "批次",
+  "en": "a group of products made together",
+  "simple": "This batch has 500 units.",
+  "simple_zh": "這批有500件。",
+  "toeic": "Each batch undergoes quality testing.",
+  "toeic_zh": "每批都要進行品質測試。",
+  "family": "batch (adj)",
+  "related": [
+   {
+    "w": "lot",
+    "zh": "批",
+    "k": "syn"
+   }
+  ],
+  "n": 1712,
+  "day": 69,
+  "src": "BSL"
+ },
+ {
+  "word": "blend",
+  "pos": "v",
+  "pic": "🔀",
+  "zh": "混合",
+  "en": "to mix things together smoothly",
+  "simple": "Blend ingredients carefully.",
+  "simple_zh": "小心混合成分。",
+  "toeic": "Chemical processes blend different materials.",
+  "toeic_zh": "化學過程混合不同的材料。",
+  "family": "blender (n)",
+  "related": [
+   {
+    "w": "mix",
+    "zh": "混合",
+    "k": "confuse"
+   }
+  ],
+  "n": 1713,
+  "day": 69,
+  "src": "BSL"
+ },
+ {
+  "word": "consistency",
+  "pos": "n",
+  "pic": "📊",
+  "zh": "一致性",
+  "en": "the quality of always behaving the same way",
+  "simple": "Consistency improves reputation.",
+  "simple_zh": "一致性改善聲譽。",
+  "toeic": "Production consistency is a key metric.",
+  "toeic_zh": "生產一致性是關鍵指標。",
+  "family": "consistent (adj)",
+  "related": [
+   {
+    "w": "uniformity",
+    "zh": "統一性",
+    "k": "syn"
+   }
+  ],
+  "n": 1714,
+  "day": 69,
+  "src": "BSL"
+ },
+ {
+  "word": "copper",
+  "pos": "n",
+  "pic": "🟠",
+  "zh": "銅",
+  "en": "a reddish metal that carries electricity well",
+  "simple": "The pipe is made of copper.",
+  "simple_zh": "這條管子是銅做的。",
+  "toeic": "The price of copper wire is a major cost in cable manufacturing.",
+  "toeic_zh": "銅線是電纜製造業的一大成本。",
+  "family": "",
+  "related": [
+   {
+    "w": "cooper",
+    "zh": "桶匠",
+    "k": "confuse"
+   },
+   {
+    "w": "aluminum",
+    "zh": "鋁",
+    "k": "syn"
+   }
+  ],
+  "n": 1715,
+  "day": 69,
+  "src": "BSL"
+ },
+ {
+  "word": "deviation",
+  "pos": "n",
+  "pic": "📊",
+  "zh": "偏差",
+  "en": "a difference from a standard",
+  "simple": "Any deviation is unacceptable.",
+  "simple_zh": "任何偏差都不可接受。",
+  "toeic": "Standard deviation measures variability.",
+  "toeic_zh": "標準差測量變異性。",
+  "family": "deviate (v)",
+  "related": [
+   {
+    "w": "variance",
+    "zh": "差異",
+    "k": "syn"
+   }
+  ],
+  "n": 1716,
+  "day": 69,
+  "src": "BSL"
+ },
+ {
+  "word": "dismantle",
+  "pos": "v",
+  "pic": "🪛",
+  "zh": "拆解；拆卸",
+  "en": "to take a machine or structure apart into pieces",
+  "simple": "They dismantle the old machine.",
+  "simple_zh": "他們拆解這台舊機器。",
+  "toeic": "Workers had to dismantle the press before moving it to the new site.",
+  "toeic_zh": "工人必須先拆解沖壓機，才能把它搬到新廠址。",
+  "family": "dismantling (n) 拆解；dismantle a machine 拆解機器；dismantled (adj) 已拆解的",
+  "related": [
+   {
+    "w": "dismiss",
+    "zh": "解雇；駁回",
+    "k": "confuse"
+   },
+   {
+    "w": "disassemble",
+    "zh": "拆卸",
+    "k": "syn"
+   },
+   {
+    "w": "assemble",
+    "zh": "組裝",
+    "k": "opp"
+   }
+  ],
+  "n": 1717,
+  "day": 69,
+  "src": "BSL"
+ },
+ {
+  "word": "downgrade",
+  "pos": "n",
+  "pic": "⬇️",
+  "zh": "降級",
+  "en": "a replacement with something worse",
+  "simple": "Avoid downgrading equipment.",
+  "simple_zh": "避免降級設備。",
+  "toeic": "Equipment downgrade affects production.",
+  "toeic_zh": "設備降級影響生產。",
+  "family": "downgrade (v)",
+  "related": [
+   {
+    "w": "reduction",
+    "zh": "降低",
+    "k": "confuse"
+   }
+  ],
+  "n": 1718,
+  "day": 69,
+  "src": "BSL"
+ },
+ {
+  "word": "emission",
+  "pos": "n",
+  "pic": "💨",
+  "zh": "排放",
+  "en": "gas or smoke sent into the air",
+  "simple": "Car emission makes the air dirty.",
+  "simple_zh": "汽車排放讓空氣變髒。",
+  "toeic": "New rules require the plant to cut carbon emission by thirty percent.",
+  "toeic_zh": "新規定要求工廠將碳排放減少百分之三十。",
+  "family": "emit (v)",
+  "related": [
+   {
+    "w": "omission",
+    "zh": "遺漏",
+    "k": "confuse"
+   },
+   {
+    "w": "emit",
+    "zh": "排放",
+    "k": "family"
+   }
+  ],
+  "n": 1719,
+  "day": 69,
+  "src": "BSL"
+ },
+ {
+  "word": "gauge",
+  "pos": "n",
+  "pic": "📏",
+  "zh": "量規",
+  "en": "a measuring instrument",
+  "simple": "Use the correct gauge.",
+  "simple_zh": "使用正確的量規。",
+  "toeic": "Digital gauges measure dimensions precisely.",
+  "toeic_zh": "數字量規精確測量尺寸。",
+  "family": "gauge (v)",
+  "related": [
+   {
+    "w": "meter",
+    "zh": "儀表",
+    "k": "syn"
+   }
+  ],
+  "n": 1720,
+  "day": 69,
+  "src": "BSL"
+ },
+ {
+  "word": "idle",
+  "pos": "adj",
+  "pic": "💤",
+  "zh": "閒置的",
+  "en": "not working or not being used",
+  "simple": "The machine is idle today.",
+  "simple_zh": "這台機器今天閒置著。",
+  "toeic": "Half of the equipment sat idle during the strike.",
+  "toeic_zh": "罷工期間有一半設備閒置。",
+  "family": "idleness (n)",
+  "related": [
+   {
+    "w": "idol",
+    "zh": "偶像",
+    "k": "confuse"
+   },
+   {
+    "w": "active",
+    "zh": "運作中的",
+    "k": "opp"
+   }
+  ],
+  "n": 1721,
+  "day": 69,
+  "src": "BSL"
+ },
+ {
+  "word": "mold",
+  "pos": "v",
+  "pic": "🔷",
+  "zh": "模製",
+  "en": "to shape something in a mold",
+  "simple": "Mold the plastic at high temperature.",
+  "simple_zh": "在高溫下模製塑料。",
+  "toeic": "Injection machines mold parts rapidly.",
+  "toeic_zh": "注射機快速模製零件。",
+  "family": "mold (n)",
+  "related": [
+   {
+    "w": "shape",
+    "zh": "形狀",
+    "k": "confuse"
+   }
+  ],
+  "n": 1722,
+  "day": 69,
+  "src": "BSL"
+ },
+ {
+  "word": "overhaul",
+  "pos": "v",
+  "pic": "🔄",
+  "zh": "徹底檢修；全面改造",
+  "en": "to examine and repair or change something completely",
+  "simple": "They will overhaul the old engine.",
+  "simple_zh": "他們會徹底檢修這具舊引擎。",
+  "toeic": "The company will overhaul its assembly line to cut waste.",
+  "toeic_zh": "公司將全面改造其裝配線以減少浪費。",
+  "family": "overhaul (n) 大修；全面改革；major overhaul 大幅改造",
+  "related": [
+   {
+    "w": "overlook",
+    "zh": "忽略；俯瞰",
+    "k": "confuse"
+   },
+   {
+    "w": "renovate",
+    "zh": "翻新；整修",
+    "k": "syn"
+   }
+  ],
+  "n": 1723,
+  "day": 69,
+  "src": "BSL"
+ },
+ {
+  "word": "precision",
+  "pos": "n",
+  "pic": "🎯",
+  "zh": "精密度",
+  "en": "the degree of exactness and refinement",
+  "simple": "Precision machining is needed.",
+  "simple_zh": "需要精密機加工。",
+  "toeic": "Precision manufacturing requires skilled workers.",
+  "toeic_zh": "精密製造需要熟練的工人。",
+  "family": "precise (adj)",
+  "related": [
+   {
+    "w": "accuracy",
+    "zh": "準確度",
+    "k": "confuse"
+   }
+  ],
+  "n": 1724,
+  "day": 69,
+  "src": "BSL"
+ },
+ {
+  "word": "prototype",
+  "pos": "n",
+  "pic": "🧪",
+  "zh": "原型；樣機",
+  "en": "the first model of a new product, used for testing",
+  "simple": "He made a prototype of the toy.",
+  "simple_zh": "他做了一個玩具的原型。",
+  "toeic": "The engineers will present a working prototype at next week's meeting.",
+  "toeic_zh": "工程師將在下週的會議上展示可運作的原型機。",
+  "family": "build/test a prototype 製作／測試原型；working prototype 可運作的原型機",
+  "related": [
+   {
+    "w": "protocol",
+    "zh": "規程；協定",
+    "k": "confuse"
+   },
+   {
+    "w": "model",
+    "zh": "模型；樣品",
+    "k": "syn"
+   }
+  ],
+  "n": 1725,
+  "day": 69,
+  "src": "BSL"
+ },
+ {
+  "word": "rejection",
+  "pos": "n",
+  "pic": "❌",
+  "zh": "拒絕",
+  "en": "the act of refusing to accept something",
+  "simple": "Product rejection is costly.",
+  "simple_zh": "產品拒絕很昂貴。",
+  "toeic": "High rejection rates reduce profitability.",
+  "toeic_zh": "高拒絕率降低獲利能力。",
+  "family": "reject (v)",
+  "related": [
+   {
+    "w": "refusal",
+    "zh": "拒絕",
+    "k": "syn"
+   }
+  ],
+  "n": 1726,
+  "day": 70,
+  "src": "BSL"
+ },
+ {
+  "word": "robot",
+  "pos": "n",
+  "pic": "🤖",
+  "zh": "機器人",
+  "en": "a machine that can do tasks automatically",
+  "simple": "A robot cleans our floor.",
+  "simple_zh": "一個機器人打掃我們的地板。",
+  "toeic": "A welding robot now does the work that three people used to do.",
+  "toeic_zh": "現在一台焊接機器人做原本三個人做的工作。",
+  "family": "robotic (adj), robotics (n)",
+  "related": [
+   {
+    "w": "robotics",
+    "zh": "機器人學",
+    "k": "family"
+   },
+   {
+    "w": "automation",
+    "zh": "自動化",
+    "k": "syn"
+   }
+  ],
+  "n": 1727,
+  "day": 70,
+  "src": "BSL"
+ },
+ {
+  "word": "salvage",
+  "pos": "v",
+  "pic": "♻️",
+  "zh": "搶救、回收",
+  "en": "to save useful parts or goods from something damaged",
+  "simple": "We can salvage some old wood.",
+  "simple_zh": "我們可以回收一些舊木頭。",
+  "toeic": "Workers managed to salvage most of the stock after the flood.",
+  "toeic_zh": "水災後，工人設法搶救出大部分庫存。",
+  "family": "",
+  "related": [
+   {
+    "w": "recycle",
+    "zh": "回收再利用",
+    "k": "syn"
+   },
+   {
+    "w": "savage",
+    "zh": "野蠻的",
+    "k": "confuse"
+   }
+  ],
+  "n": 1728,
+  "day": 70,
+  "src": "BSL"
+ },
+ {
+  "word": "sensor",
+  "pos": "n",
+  "pic": "📡",
+  "zh": "傳感器",
+  "en": "a device that detects changes",
+  "simple": "The sensor detects temperature.",
+  "simple_zh": "傳感器檢測溫度。",
+  "toeic": "IoT sensors monitor equipment performance.",
+  "toeic_zh": "物聯網傳感器監控設備性能。",
+  "family": "sensor (adj)",
+  "related": [
+   {
+    "w": "detector",
+    "zh": "探測器",
+    "k": "syn"
+   }
+  ],
+  "n": 1729,
+  "day": 70,
+  "src": "BSL"
+ },
+ {
+  "word": "simulation",
+  "pos": "n",
+  "pic": "💻",
+  "zh": "模擬",
+  "en": "the imitation of something",
+  "simple": "Simulation tests new processes.",
+  "simple_zh": "模擬測試新過程。",
+  "toeic": "Manufacturing simulations predict outcomes.",
+  "toeic_zh": "製造模擬預測結果。",
+  "family": "simulate (v)",
+  "related": [
+   {
+    "w": "modeling",
+    "zh": "建模",
+    "k": "syn"
+   }
+  ],
+  "n": 1730,
+  "day": 70,
+  "src": "BSL"
+ },
+ {
+  "word": "textile",
+  "pos": "n",
+  "pic": "🧵",
+  "zh": "紡織品",
+  "en": "cloth or fabric made by weaving or knitting",
+  "simple": "She works in the textile business.",
+  "simple_zh": "她從事紡織業。",
+  "toeic": "The textile exports from our region rose by eight percent this quarter.",
+  "toeic_zh": "本季我們地區的紡織品出口成長了百分之八。",
+  "family": "",
+  "related": [
+   {
+    "w": "fabric",
+    "zh": "布料",
+    "k": "syn"
+   },
+   {
+    "w": "text",
+    "zh": "文字",
+    "k": "confuse"
+   }
+  ],
+  "n": 1731,
+  "day": 70,
+  "src": "BSL"
+ },
+ {
+  "word": "tolerance",
+  "pos": "n",
+  "pic": "📏",
+  "zh": "誤差範圍",
+  "en": "the amount of variation allowed",
+  "simple": "Tolerance is 0.1 millimeters.",
+  "simple_zh": "誤差範圍是0.1毫米。",
+  "toeic": "Parts must be within tolerance limits.",
+  "toeic_zh": "零件必須在誤差範圍內。",
+  "family": "tolerate (v)",
+  "related": [
+   {
+    "w": "deviation",
+    "zh": "偏差",
+    "k": "syn"
+   }
+  ],
+  "n": 1732,
+  "day": 70,
+  "src": "BSL"
+ },
+ {
+  "word": "audio",
+  "pos": "adj",
+  "pic": "🎧",
+  "zh": "音訊的",
+  "en": "Related to sound that is heard.",
+  "simple": "Please check the audio system.",
+  "simple_zh": "請檢查音響系統。",
+  "toeic": "The audio equipment in the conference room needs repair.",
+  "toeic_zh": "會議室的音響設備需要維修。",
+  "family": "",
+  "related": [
+   {
+    "w": "video",
+    "zh": "影像的",
+    "k": "confuse"
+   },
+   {
+    "w": "visual",
+    "zh": "視覺的",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 1733,
+  "day": 70
+ },
+ {
+  "word": "agriculture",
+  "pos": "n",
+  "pic": "🌾",
+  "zh": "農業",
+  "en": "The work of growing crops and raising animals.",
+  "simple": "Agriculture is important here.",
+  "simple_zh": "農業在這裡很重要。",
+  "toeic": "The company supplies advanced equipment to the agriculture industry.",
+  "toeic_zh": "該公司向農業產業供應先進設備。",
+  "family": "agricultural (adj)",
+  "related": [
+   {
+    "w": "farming",
+    "zh": "耕作",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1734,
+  "day": 70
+ },
+ {
+  "word": "instant",
+  "pos": "adj",
+  "pic": "⚡",
+  "zh": "立即的；即溶的",
+  "en": "Happening immediately.",
+  "simple": "I want instant coffee.",
+  "simple_zh": "我要即溶咖啡。",
+  "toeic": "The new software gives instant access to customer records.",
+  "toeic_zh": "這套新軟體能立即存取客戶紀錄。",
+  "family": "instantly (adv)",
+  "related": [
+   {
+    "w": "immediate",
+    "zh": "立即的",
+    "k": "syn"
+   },
+   {
+    "w": "instance",
+    "zh": "實例",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1735,
+  "day": 70
+ },
+ {
+  "word": "domain",
+  "pos": "n",
+  "pic": "🌐",
+  "zh": "領域；網域",
+  "en": "An area of knowledge, or a web address name.",
+  "simple": "This is her area of domain.",
+  "simple_zh": "這是她的專業領域。",
+  "toeic": "Our company registered a new domain for the online store.",
+  "toeic_zh": "我們公司為網路商店註冊了新網域。",
+  "family": "",
+  "related": [
+   {
+    "w": "field",
+    "zh": "領域",
+    "k": "syn"
+   },
+   {
+    "w": "domestic",
+    "zh": "國內的",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1736,
+  "day": 70
+ },
+ {
+  "word": "rocket",
+  "pos": "n",
+  "pic": "🚀",
+  "zh": "火箭",
+  "en": "A vehicle that flies into space.",
+  "simple": "The rocket goes up fast.",
+  "simple_zh": "火箭升空很快。",
+  "toeic": "The company builds rocket parts for the space industry.",
+  "toeic_zh": "這家公司為太空產業製造火箭零件。",
+  "family": "",
+  "related": [
+   {
+    "w": "missile",
+    "zh": "飛彈",
+    "k": "syn"
+   },
+   {
+    "w": "pocket",
+    "zh": "口袋",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1737,
+  "day": 70
+ },
+ {
+  "word": "alpha",
+  "pos": "n",
+  "pic": "🅰️",
+  "zh": "第一階段；希臘字母 α",
+  "en": "the first letter of the Greek alphabet",
+  "simple": "Alpha is the first Greek letter.",
+  "simple_zh": "Alpha 是第一個希臘字母。",
+  "toeic": "The software is still in its alpha stage of testing.",
+  "toeic_zh": "這套軟體仍處於 alpha 測試階段。",
+  "family": "",
+  "related": [
+   {
+    "w": "beta",
+    "zh": "第二階段測試版",
+    "k": "family"
+   }
+  ],
+  "src": "BSL",
+  "n": 1738,
+  "day": 70
+ },
+ {
+  "word": "artificial",
+  "pos": "adj",
+  "pic": "🤖",
+  "zh": "人造的；人工的",
+  "en": "made by people, not natural",
+  "simple": "This is an artificial flower.",
+  "simple_zh": "這是一朵人造花。",
+  "toeic": "The firm invests heavily in artificial intelligence technology.",
+  "toeic_zh": "公司大量投資於人工智慧技術。",
+  "family": "artificially (adv), artifice (n)",
+  "related": [
+   {
+    "w": "natural",
+    "zh": "天然的",
+    "k": "opp"
+   },
+   {
+    "w": "synthetic",
+    "zh": "合成的",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1739,
+  "day": 70
+ },
+ {
+  "word": "transformation",
+  "pos": "n",
+  "pic": "🦋",
+  "zh": "轉變；轉型",
+  "en": "a complete change in form or nature",
+  "simple": "The city has seen a big transformation.",
+  "simple_zh": "這座城市有了很大的轉變。",
+  "toeic": "Digital transformation has changed how we serve customers.",
+  "toeic_zh": "數位轉型改變了我們服務客戶的方式。",
+  "family": "transform (v), transformer (n)",
+  "related": [
+   {
+    "w": "transmission",
+    "zh": "傳送",
+    "k": "confuse"
+   },
+   {
+    "w": "change",
+    "zh": "改變",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1740,
+  "day": 70
+ },
+ {
+  "word": "vulnerable",
+  "pos": "adj",
+  "pic": "🔓",
+  "zh": "易受傷害的；有弱點的",
+  "en": "easy to hurt or attack",
+  "simple": "Small shops are vulnerable to price wars.",
+  "simple_zh": "小型商店容易受到價格戰的衝擊。",
+  "toeic": "The old system is vulnerable to cyber attacks.",
+  "toeic_zh": "舊系統容易受到網路攻擊。",
+  "family": "vulnerability (n)",
+  "related": [
+   {
+    "w": "invulnerable",
+    "zh": "堅不可摧的",
+    "k": "opp"
+   },
+   {
+    "w": "weak",
+    "zh": "脆弱的",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1741,
+  "day": 70
+ },
+ {
+  "word": "beta",
+  "pos": "n",
+  "pic": "🅱️",
+  "zh": "測試版；貝塔",
+  "en": "a test version of software before release",
+  "simple": "We tried the beta version.",
+  "simple_zh": "我們試用了測試版。",
+  "toeic": "The beta version will be tested by selected users next week.",
+  "toeic_zh": "測試版將於下週由特定使用者進行測試。",
+  "family": "",
+  "related": [
+   {
+    "w": "alpha",
+    "zh": "第一階段",
+    "k": "family"
+   }
+  ],
+  "src": "BSL",
+  "n": 1742,
+  "day": 70
+ },
+ {
+  "word": "laser",
+  "pos": "n",
+  "pic": "🔦",
+  "zh": "雷射",
+  "en": "a strong narrow beam of light",
+  "simple": "The laser can cut metal.",
+  "simple_zh": "雷射可以切割金屬。",
+  "toeic": "The factory uses a laser to cut precise parts.",
+  "toeic_zh": "工廠使用雷射切割精密零件。",
+  "family": "laser (adj)",
+  "related": [
+   {
+    "w": "razor",
+    "zh": "剃刀",
+    "k": "confuse"
+   },
+   {
+    "w": "beam",
+    "zh": "光束",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1743,
+  "day": 70
+ },
+ {
+  "word": "patch",
+  "pos": "n",
+  "pic": "🩹",
+  "zh": "補丁；修補程式",
+  "en": "a small piece used to cover or fix something",
+  "simple": "He put a patch on his jeans.",
+  "simple_zh": "他在牛仔褲上縫了一塊補丁。",
+  "toeic": "The IT team released a security patch this morning.",
+  "toeic_zh": "資訊團隊今早發布了一個安全性修補程式。",
+  "family": "patch (v)",
+  "related": [
+   {
+    "w": "path",
+    "zh": "小徑",
+    "k": "confuse"
+   },
+   {
+    "w": "fix",
+    "zh": "修補",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1744,
+  "day": 70
+ },
+ {
+  "word": "exploration",
+  "pos": "n",
+  "pic": "🧭",
+  "zh": "探索；勘探",
+  "en": "the act of studying a new place or idea",
+  "simple": "Space exploration is exciting.",
+  "simple_zh": "太空探索令人興奮。",
+  "toeic": "The company invested in oil exploration in the North Sea.",
+  "toeic_zh": "公司投資了北海的石油探勘。",
+  "family": "explore (v), explorer (n)",
+  "related": [
+   {
+    "w": "explosion",
+    "zh": "爆炸",
+    "k": "confuse"
+   },
+   {
+    "w": "explore",
+    "zh": "探索",
+    "k": "family"
+   }
+  ],
+  "src": "BSL",
+  "n": 1745,
+  "day": 70
+ },
+ {
+  "word": "grid",
+  "pos": "n",
+  "pic": "🔲",
+  "zh": "格狀圖；電網",
+  "en": "a pattern of crossing lines, or a power network",
+  "simple": "Draw a grid on the paper.",
+  "simple_zh": "在紙上畫一個格子。",
+  "toeic": "The storm damaged the city's power grid.",
+  "toeic_zh": "暴風雨損壞了這座城市的電網。",
+  "family": "",
+  "related": [
+   {
+    "w": "grind",
+    "zh": "研磨",
+    "k": "confuse"
+   },
+   {
+    "w": "network",
+    "zh": "網路",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1746,
+  "day": 70
+ },
+ {
+  "word": "adoption",
+  "pos": "n",
+  "pic": "👶",
+  "zh": "採用；收養",
+  "en": "the act of starting to use or accept something",
+  "simple": "The adoption of the new rule was quick.",
+  "simple_zh": "新規定很快就被採用了。",
+  "toeic": "The adoption of cloud software saved us money.",
+  "toeic_zh": "採用雲端軟體為我們省下了經費。",
+  "family": "adopt (v), adoptive (adj)",
+  "related": [
+   {
+    "w": "adaptation",
+    "zh": "改編；適應",
+    "k": "confuse"
+   },
+   {
+    "w": "adapt",
+    "zh": "適應",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1747,
+  "day": 70
+ },
+ {
+  "word": "magnetic",
+  "pos": "adj",
+  "pic": "🧲",
+  "zh": "磁性的；有吸引力的",
+  "en": "having the power to attract metal",
+  "simple": "This is a magnetic board.",
+  "simple_zh": "這是一塊磁性板。",
+  "toeic": "The magnetic strip on the card stores your account data.",
+  "toeic_zh": "卡片上的磁條儲存著您的帳戶資料。",
+  "family": "magnet (n), magnetism (n)",
+  "related": [
+   {
+    "w": "magnet",
+    "zh": "磁鐵",
+    "k": "family"
+   },
+   {
+    "w": "magnificent",
+    "zh": "壯麗的",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1748,
+  "day": 70
+ },
+ {
+  "word": "icon",
+  "pos": "n",
+  "pic": "🖼️",
+  "zh": "圖示；偶像",
+  "en": "a small picture on a screen",
+  "simple": "Click the icon on the screen.",
+  "simple_zh": "點選螢幕上的圖示。",
+  "toeic": "Click the printer icon to print the invoice.",
+  "toeic_zh": "點選印表機圖示即可列印發票。",
+  "family": "iconic (adj)",
+  "related": [
+   {
+    "w": "iconic",
+    "zh": "標誌性的",
+    "k": "family"
+   },
+   {
+    "w": "ion",
+    "zh": "離子",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1749,
+  "day": 70
+ },
+ {
+  "word": "corrupt",
+  "pos": "adj",
+  "pic": "🐍",
+  "zh": "貪污的；損毀的",
+  "en": "dishonest, or damaged (of data)",
+  "simple": "The official was corrupt.",
+  "simple_zh": "那位官員很貪污。",
+  "toeic": "A corrupt file prevented the software from opening.",
+  "toeic_zh": "一個損毀的檔案使軟體無法開啟。",
+  "family": "corruption (n), corruptly (adv)",
+  "related": [
+   {
+    "w": "interrupt",
+    "zh": "打斷",
+    "k": "confuse"
+   },
+   {
+    "w": "dishonest",
+    "zh": "不誠實的",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1750,
+  "day": 70
+ },
+ {
+  "word": "migration",
+  "pos": "n",
+  "pic": "🦆",
+  "zh": "遷移；移居",
+  "en": "the movement of people or animals to another place",
+  "simple": "Bird migration starts in autumn.",
+  "simple_zh": "鳥類遷徙在秋天開始。",
+  "toeic": "Data migration to the new server will finish tonight.",
+  "toeic_zh": "資料遷移到新伺服器今晚將完成。",
+  "family": "migrate (v), migrant (n)",
+  "related": [
+   {
+    "w": "immigration",
+    "zh": "移入",
+    "k": "confuse"
+   },
+   {
+    "w": "movement",
+    "zh": "移動",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1751,
+  "day": 71
+ },
+ {
+  "word": "interface",
+  "pos": "n",
+  "pic": "🖥️",
+  "zh": "介面",
+  "en": "the way a user or system connects with a computer",
+  "simple": "The phone has an easy interface.",
+  "simple_zh": "這支手機的介面很容易使用。",
+  "toeic": "The new software has a user-friendly interface that saves training time.",
+  "toeic_zh": "新軟體的介面對使用者很友善，可節省訓練時間。",
+  "family": "",
+  "related": [
+   {
+    "w": "surface",
+    "zh": "表面",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1752,
+  "day": 71
+ },
+ {
+  "word": "technically",
+  "pos": "adv",
+  "pic": "🔧",
+  "zh": "技術上；嚴格來說",
+  "en": "according to exact rules or technical details",
+  "simple": "Technically, the shop is closed now.",
+  "simple_zh": "嚴格來說，這家店現在打烊了。",
+  "toeic": "The product is technically sound but needs a better design.",
+  "toeic_zh": "這項產品在技術上沒有問題，但設計還需改進。",
+  "family": "technical (adj), technique (n)",
+  "related": [
+   {
+    "w": "technical",
+    "zh": "技術的",
+    "k": "family"
+   },
+   {
+    "w": "technology",
+    "zh": "科技",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1753,
+  "day": 71
+ },
+ {
+  "word": "setup",
+  "pos": "n",
+  "pic": "🛠️",
+  "zh": "設置；安排",
+  "en": "the way something is arranged or installed",
+  "simple": "The setup of the room took an hour.",
+  "simple_zh": "布置這個房間花了一小時。",
+  "toeic": "The setup of the new network will take two days.",
+  "toeic_zh": "新網路的架設將需要兩天。",
+  "family": "set up (v)",
+  "related": [
+   {
+    "w": "installation",
+    "zh": "安裝",
+    "k": "syn"
+   },
+   {
+    "w": "arrangement",
+    "zh": "安排",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1754,
+  "day": 71
+ },
+ {
+  "word": "detection",
+  "pos": "n",
+  "pic": "🔍",
+  "zh": "偵測；發現",
+  "en": "the act of finding or noticing something",
+  "simple": "Early detection can save lives.",
+  "simple_zh": "及早發現可以救人一命。",
+  "toeic": "The system improves the detection of errors in the data.",
+  "toeic_zh": "這個系統提升了資料錯誤的偵測能力。",
+  "family": "detect (v), detective (n), detector (n)",
+  "related": [
+   {
+    "w": "detect",
+    "zh": "偵測",
+    "k": "family"
+   },
+   {
+    "w": "protection",
+    "zh": "保護",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1755,
+  "day": 71
+ },
+ {
+  "word": "fiber",
+  "pos": "n",
+  "pic": "🧵",
+  "zh": "纖維；光纖",
+  "en": "a thin thread of material; dietary roughage",
+  "simple": "Fruit has a lot of fiber.",
+  "simple_zh": "水果含有很多纖維。",
+  "toeic": "The company installed fiber cables to speed up the network.",
+  "toeic_zh": "公司安裝了光纖纜線以加快網路速度。",
+  "family": "",
+  "related": [
+   {
+    "w": "fabric",
+    "zh": "布料",
+    "k": "confuse"
+   },
+   {
+    "w": "thread",
+    "zh": "線",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1756,
+  "day": 71
+ },
+ {
+  "word": "technological",
+  "pos": "adj",
+  "pic": "🤖",
+  "zh": "科技的",
+  "en": "related to technology",
+  "simple": "We live in a technological age.",
+  "simple_zh": "我們生活在科技時代。",
+  "toeic": "Technological advances have changed how we do business.",
+  "toeic_zh": "科技進步改變了我們做生意的方式。",
+  "family": "technology (n), technologically (adv)",
+  "related": [
+   {
+    "w": "technical",
+    "zh": "技術的",
+    "k": "confuse"
+   },
+   {
+    "w": "technology",
+    "zh": "科技",
+    "k": "family"
+   }
+  ],
+  "src": "BSL",
+  "n": 1757,
+  "day": 71
+ },
+ {
+  "word": "mobility",
+  "pos": "n",
+  "pic": "♿",
+  "zh": "移動能力；流動性",
+  "en": "the ability to move or travel easily",
+  "simple": "The old man has poor mobility.",
+  "simple_zh": "那位老先生行動不便。",
+  "toeic": "The new app improves mobility for workers who travel often.",
+  "toeic_zh": "這個新應用程式為經常出差的員工提升了行動便利性。",
+  "family": "mobile (adj)",
+  "related": [
+   {
+    "w": "mobile",
+    "zh": "可移動的",
+    "k": "family"
+   },
+   {
+    "w": "motion",
+    "zh": "動作",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1758,
+  "day": 71
+ },
+ {
+  "word": "cease",
+  "pos": "v",
+  "pic": "🛑",
+  "zh": "停止；終止",
+  "en": "to stop or come to an end",
+  "simple": "The noise will cease soon.",
+  "simple_zh": "噪音很快就會停止。",
+  "toeic": "The factory will cease production of this model in June.",
+  "toeic_zh": "工廠將於六月停止生產這個型號。",
+  "family": "ceaseless (adj)",
+  "related": [
+   {
+    "w": "cease",
+    "zh": "停止",
+    "k": "syn"
+   },
+   {
+    "w": "seize",
+    "zh": "抓住",
+    "k": "confuse"
+   },
+   {
+    "w": "begin",
+    "zh": "開始",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 1759,
+  "day": 71
+ },
+ {
+  "word": "harvest",
+  "pos": "n",
+  "pic": "🌾",
+  "zh": "收成；收穫",
+  "en": "the time or act of gathering crops",
+  "simple": "The harvest was good this year.",
+  "simple_zh": "今年的收成很好。",
+  "toeic": "A poor harvest raised the price of rice.",
+  "toeic_zh": "收成不佳使米價上漲。",
+  "family": "harvest (v)",
+  "related": [
+   {
+    "w": "crop",
+    "zh": "農作物",
+    "k": "syn"
+   },
+   {
+    "w": "harness",
+    "zh": "利用",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1760,
+  "day": 71
+ },
+ {
+  "word": "algorithm",
+  "pos": "n",
+  "pic": "🧮",
+  "zh": "演算法",
+  "en": "a set of steps a computer follows to solve a problem",
+  "simple": "The app uses a smart algorithm.",
+  "simple_zh": "這個應用程式使用聰明的演算法。",
+  "toeic": "Our search algorithm shows customers the most relevant products.",
+  "toeic_zh": "我們的搜尋演算法會向顧客顯示最相關的產品。",
+  "family": "",
+  "related": [
+   {
+    "w": "formula",
+    "zh": "公式",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1761,
+  "day": 71
+ },
+ {
+  "word": "timber",
+  "pos": "n",
+  "pic": "🪵",
+  "zh": "木材",
+  "en": "wood used for building",
+  "simple": "The house is made of timber.",
+  "simple_zh": "這間房子是用木材建造的。",
+  "toeic": "The company imports timber for its furniture factory.",
+  "toeic_zh": "該公司為家具工廠進口木材。",
+  "family": "",
+  "related": [
+   {
+    "w": "lumber",
+    "zh": "木材",
+    "k": "syn"
+   },
+   {
+    "w": "timer",
+    "zh": "計時器",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1762,
+  "day": 71
+ },
+ {
+  "word": "crude",
+  "pos": "adj",
+  "pic": "🛢️",
+  "zh": "天然的；粗糙的",
+  "en": "in a natural state; rough and simple",
+  "simple": "Crude oil comes from under the ground.",
+  "simple_zh": "原油來自地底下。",
+  "toeic": "The price of crude oil rose sharply this week.",
+  "toeic_zh": "本週原油價格大幅上漲。",
+  "family": "crudely (adv)",
+  "related": [
+   {
+    "w": "raw",
+    "zh": "未加工的",
+    "k": "syn"
+   },
+   {
+    "w": "cruel",
+    "zh": "殘忍的",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1763,
+  "day": 71
+ },
+ {
+  "word": "interference",
+  "pos": "n",
+  "pic": "📡",
+  "zh": "干擾；干涉",
+  "en": "the act of getting in the way of something",
+  "simple": "Radio interference made the call hard.",
+  "simple_zh": "無線電干擾使通話很困難。",
+  "toeic": "Government interference delayed the merger by several months.",
+  "toeic_zh": "政府的干預使合併延後了數個月。",
+  "family": "interfere (v)",
+  "related": [
+   {
+    "w": "interfere",
+    "zh": "干涉；妨礙",
+    "k": "family"
+   },
+   {
+    "w": "interruption",
+    "zh": "中斷",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1764,
+  "day": 71
+ },
+ {
+  "word": "vector",
+  "pos": "n",
+  "pic": "➡️",
+  "zh": "向量；（疾病）傳播媒介",
+  "en": "a quantity with direction; a carrier of disease",
+  "simple": "A vector has size and direction.",
+  "simple_zh": "向量有大小和方向。",
+  "toeic": "Mosquitoes are a common vector for spreading disease.",
+  "toeic_zh": "蚊子是傳播疾病的常見媒介。",
+  "family": "",
+  "related": [
+   {
+    "w": "victor",
+    "zh": "勝利者",
+    "k": "confuse"
+   },
+   {
+    "w": "direction",
+    "zh": "方向",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1765,
+  "day": 71
+ },
+ {
+  "word": "configuration",
+  "pos": "n",
+  "pic": "⚙️",
+  "zh": "配置；設定",
+  "en": "the way parts of a system are arranged or set up",
+  "simple": "Check the printer configuration first.",
+  "simple_zh": "先檢查印表機的設定。",
+  "toeic": "The technician changed the network configuration to improve speed.",
+  "toeic_zh": "技術人員更改了網路配置以提升速度。",
+  "family": "configure (v)",
+  "related": [
+   {
+    "w": "configure",
+    "zh": "配置",
+    "k": "family"
+   },
+   {
+    "w": "setup",
+    "zh": "設定",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1766,
+  "day": 71
+ },
+ {
+  "word": "continuously",
+  "pos": "adv",
+  "pic": "🔄",
+  "zh": "持續不斷地",
+  "en": "without stopping",
+  "simple": "The machine ran continuously all day.",
+  "simple_zh": "機器整天持續運轉。",
+  "toeic": "The plant operates continuously to meet the high demand.",
+  "toeic_zh": "工廠為了滿足高需求而持續運轉。",
+  "family": "continue (v), continuous (adj)",
+  "related": [
+   {
+    "w": "continually",
+    "zh": "一再地",
+    "k": "confuse"
+   },
+   {
+    "w": "constantly",
+    "zh": "不斷地",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1767,
+  "day": 71
+ },
+ {
+  "word": "frontier",
+  "pos": "n",
+  "pic": "🏔️",
+  "zh": "邊境；新領域",
+  "en": "the edge of a country, or the limit of new knowledge",
+  "simple": "They live near the frontier.",
+  "simple_zh": "他們住在邊境附近。",
+  "toeic": "The firm is pushing the frontier of renewable energy research.",
+  "toeic_zh": "該公司正在拓展再生能源研究的新領域。",
+  "family": "",
+  "related": [
+   {
+    "w": "border",
+    "zh": "邊界",
+    "k": "syn"
+   },
+   {
+    "w": "front",
+    "zh": "前面",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1768,
+  "day": 71
+ },
+ {
+  "word": "synthetic",
+  "pos": "adj",
+  "pic": "🧪",
+  "zh": "合成的；人造的",
+  "en": "made by people using chemicals, not natural",
+  "simple": "This shirt is made of synthetic fiber.",
+  "simple_zh": "這件襯衫是合成纖維做的。",
+  "toeic": "The factory switched to synthetic materials to cut production costs.",
+  "toeic_zh": "工廠改用合成材料以降低生產成本。",
+  "family": "synthesize (v), synthesis (n)",
+  "related": [
+   {
+    "w": "artificial",
+    "zh": "人造的",
+    "k": "syn"
+   },
+   {
+    "w": "natural",
+    "zh": "天然的",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 1769,
+  "day": 71
+ },
+ {
+  "word": "composite",
+  "pos": "adj",
+  "pic": "🧱",
+  "zh": "合成的；複合的",
+  "en": "made of several different parts",
+  "simple": "The wall is made of composite material.",
+  "simple_zh": "這面牆是用複合材料做的。",
+  "toeic": "The aircraft uses a composite material that is light but strong.",
+  "toeic_zh": "這架飛機使用輕但堅固的複合材料。",
+  "family": "compose (v), composition (n)",
+  "related": [
+   {
+    "w": "component",
+    "zh": "零件",
+    "k": "confuse"
+   },
+   {
+    "w": "mixed",
+    "zh": "混合的",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1770,
+  "day": 71
+ },
+ {
+  "word": "optimal",
+  "pos": "adj",
+  "pic": "🥇",
+  "zh": "最佳的",
+  "en": "best or most suitable",
+  "simple": "This is the optimal time to buy.",
+  "simple_zh": "現在是購買的最佳時機。",
+  "toeic": "Keep the machine at an optimal temperature for best results.",
+  "toeic_zh": "請將機器維持在最佳溫度以獲得最佳效果。",
+  "family": "optimize (v), optimum (n)",
+  "related": [
+   {
+    "w": "optimum",
+    "zh": "最適的",
+    "k": "syn"
+   },
+   {
+    "w": "optional",
+    "zh": "可選擇的",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1771,
+  "day": 71
+ },
+ {
+  "word": "robust",
+  "pos": "adj",
+  "pic": "💪",
+  "zh": "強健的；穩健的",
+  "en": "strong and able to work well",
+  "simple": "The company has robust sales.",
+  "simple_zh": "這家公司銷售強勁。",
+  "toeic": "The system must be robust enough to handle heavy traffic.",
+  "toeic_zh": "系統必須夠穩健，才能承受大量流量。",
+  "family": "robustly (adv)",
+  "related": [
+   {
+    "w": "sturdy",
+    "zh": "堅固的",
+    "k": "syn"
+   },
+   {
+    "w": "rubbish",
+    "zh": "垃圾",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1772,
+  "day": 71
+ },
+ {
+  "word": "halt",
+  "pos": "v",
+  "pic": "🛑",
+  "zh": "停止；中止",
+  "en": "to stop or make something stop",
+  "simple": "The bus will halt here.",
+  "simple_zh": "公車會在這裡停下。",
+  "toeic": "Production was halted because of the power failure.",
+  "toeic_zh": "由於停電，生產被迫中斷。",
+  "family": "halt (n)",
+  "related": [
+   {
+    "w": "stop",
+    "zh": "停止",
+    "k": "syn"
+   },
+   {
+    "w": "hold",
+    "zh": "暫停",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1773,
+  "day": 71
+ },
+ {
+  "word": "deployment",
+  "pos": "n",
+  "pic": "🚚",
+  "zh": "部署；調派",
+  "en": "the act of putting people or things into use",
+  "simple": "The deployment of new staff starts today.",
+  "simple_zh": "新員工的調派今天開始。",
+  "toeic": "The deployment of the new software will take two weeks.",
+  "toeic_zh": "新軟體的部署將需要兩週。",
+  "family": "deploy (v)",
+  "related": [
+   {
+    "w": "deploy",
+    "zh": "部署",
+    "k": "family"
+   },
+   {
+    "w": "employment",
+    "zh": "就業",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1774,
+  "day": 71
+ },
+ {
+  "word": "pioneer",
+  "pos": "n",
+  "pic": "🧭",
+  "zh": "先驅；開拓者",
+  "en": "a person who is first to do or develop something",
+  "simple": "She is a pioneer in science.",
+  "simple_zh": "她是科學界的先驅。",
+  "toeic": "The firm is a pioneer in electric vehicle technology.",
+  "toeic_zh": "該公司是電動車技術的先驅。",
+  "family": "pioneer (v)",
+  "related": [
+   {
+    "w": "innovator",
+    "zh": "創新者",
+    "k": "syn"
+   },
+   {
+    "w": "engineer",
+    "zh": "工程師",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1775,
+  "day": 71
+ },
+ {
+  "word": "horizontal",
+  "pos": "adj",
+  "pic": "↔️",
+  "zh": "水平的",
+  "en": "flat and level, from side to side",
+  "simple": "Draw a horizontal line.",
+  "simple_zh": "畫一條水平線。",
+  "toeic": "The chart shows time on the horizontal axis.",
+  "toeic_zh": "圖表在水平軸上顯示時間。",
+  "family": "horizontally (adv)",
+  "related": [
+   {
+    "w": "vertical",
+    "zh": "垂直的",
+    "k": "opp"
+   },
+   {
+    "w": "horizon",
+    "zh": "地平線",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1776,
+  "day": 72
+ },
+ {
+  "word": "browser",
+  "pos": "n",
+  "pic": "🌐",
+  "zh": "瀏覽器",
+  "en": "a program used to look at web pages",
+  "simple": "Open your browser, please.",
+  "simple_zh": "請打開你的瀏覽器。",
+  "toeic": "Please update your browser to use the online booking system.",
+  "toeic_zh": "請更新您的瀏覽器以使用線上訂位系統。",
+  "family": "browse (v)",
+  "related": [
+   {
+    "w": "browse",
+    "zh": "瀏覽",
+    "k": "family"
+   },
+   {
+    "w": "brewer",
+    "zh": "釀酒者",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1777,
+  "day": 72
+ },
+ {
+  "word": "processor",
+  "pos": "n",
+  "pic": "🖥️",
+  "zh": "處理器；加工業者",
+  "en": "A machine or company that processes something",
+  "simple": "This phone has a fast processor.",
+  "simple_zh": "這支手機的處理器很快。",
+  "toeic": "The new processor makes the laptop run much faster.",
+  "toeic_zh": "新的處理器讓這台筆電運作快很多。",
+  "family": "process (v), processing (n)",
+  "related": [
+   {
+    "w": "professor",
+    "zh": "教授",
+    "k": "confuse"
+   },
+   {
+    "w": "process",
+    "zh": "處理",
+    "k": "family"
+   }
+  ],
+  "src": "BSL",
+  "n": 1778,
+  "day": 72
+ },
+ {
+  "word": "operative",
+  "pos": "adj",
+  "pic": "⚙️",
+  "zh": "運作中的；有效的",
+  "en": "Working or in effect",
+  "simple": "The new rule is now operative.",
+  "simple_zh": "新規定現在已生效。",
+  "toeic": "The agreement will become operative on January 1.",
+  "toeic_zh": "該協議將於一月一日生效。",
+  "family": "operate (v), operation (n)",
+  "related": [
+   {
+    "w": "effective",
+    "zh": "有效的",
+    "k": "syn"
+   },
+   {
+    "w": "cooperative",
+    "zh": "合作的",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1779,
+  "day": 72
+ },
+ {
+  "word": "breakthrough",
+  "pos": "n",
+  "pic": "💡",
+  "zh": "突破",
+  "en": "An important new discovery or achievement",
+  "simple": "This is a big breakthrough.",
+  "simple_zh": "這是一大突破。",
+  "toeic": "The engineers announced a breakthrough in battery technology.",
+  "toeic_zh": "工程師宣布電池技術有重大突破。",
+  "family": "",
+  "related": [
+   {
+    "w": "advance",
+    "zh": "進展",
+    "k": "syn"
+   },
+   {
+    "w": "setback",
+    "zh": "挫折",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 1780,
+  "day": 72
+ },
+ {
+  "word": "reactor",
+  "pos": "n",
+  "pic": "☢️",
+  "zh": "反應爐",
+  "en": "A device that produces nuclear power",
+  "simple": "The reactor is very large.",
+  "simple_zh": "這座反應爐非常大。",
+  "toeic": "The nuclear reactor was shut down for safety checks.",
+  "toeic_zh": "核反應爐因安全檢查而關閉。",
+  "family": "react (v), reaction (n)",
+  "related": [
+   {
+    "w": "react",
+    "zh": "反應",
+    "k": "family"
+   },
+   {
+    "w": "factor",
+    "zh": "因素",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1781,
+  "day": 72
+ },
+ {
+  "word": "jointly",
+  "pos": "adv",
+  "pic": "🤝",
+  "zh": "共同地；聯合地",
+  "en": "Together with another person or group",
+  "simple": "They own the shop jointly.",
+  "simple_zh": "他們共同擁有這家店。",
+  "toeic": "The two companies jointly developed the new software.",
+  "toeic_zh": "兩家公司共同開發了這套新軟體。",
+  "family": "joint (adj, n)",
+  "related": [
+   {
+    "w": "together",
+    "zh": "一起",
+    "k": "syn"
+   },
+   {
+    "w": "separately",
+    "zh": "分別地",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 1782,
+  "day": 72
+ },
+ {
+  "word": "rigid",
+  "pos": "adj",
+  "pic": "🧱",
+  "zh": "僵硬的；嚴格的",
+  "en": "stiff, not easy to bend or change",
+  "simple": "The metal bar is very rigid.",
+  "simple_zh": "這根金屬棒非常硬。",
+  "toeic": "The company's rigid schedule leaves little room for last-minute changes.",
+  "toeic_zh": "公司嚴格的時程幾乎沒有臨時更動的餘地。",
+  "family": "rigidity (n), rigid (adj)",
+  "related": [
+   {
+    "w": "flexible",
+    "zh": "有彈性的",
+    "k": "opp"
+   },
+   {
+    "w": "strict",
+    "zh": "嚴格的",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1783,
+  "day": 72
+ },
+ {
+  "word": "deploy",
+  "pos": "v",
+  "pic": "🚚",
+  "zh": "部署；調派",
+  "en": "to put people or things into use",
+  "simple": "They deploy more staff on weekends.",
+  "simple_zh": "他們週末會調派更多人手。",
+  "toeic": "The IT team will deploy the new software across all branches.",
+  "toeic_zh": "資訊團隊將在所有分公司部署新軟體。",
+  "family": "deployment (n), deploy (v)",
+  "related": [
+   {
+    "w": "employ",
+    "zh": "僱用；運用",
+    "k": "confuse"
+   },
+   {
+    "w": "deployment",
+    "zh": "部署",
+    "k": "family"
+   }
+  ],
+  "src": "BSL",
+  "n": 1784,
+  "day": 72
+ },
+ {
+  "word": "broadband",
+  "pos": "n",
+  "pic": "📶",
+  "zh": "寬頻",
+  "en": "fast internet connection",
+  "simple": "We have broadband at home.",
+  "simple_zh": "我們家裡有寬頻。",
+  "toeic": "The hotel offers free broadband in every guest room.",
+  "toeic_zh": "這家飯店每間客房都提供免費寬頻。",
+  "family": "",
+  "related": [
+   {
+    "w": "bandwidth",
+    "zh": "頻寬",
+    "k": "confuse"
+   },
+   {
+    "w": "Wi-Fi",
+    "zh": "無線網路",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1785,
+  "day": 72
+ },
+ {
+  "word": "rigorous",
+  "pos": "adj",
+  "pic": "🔬",
+  "zh": "嚴格的；嚴謹的",
+  "en": "very careful and strict",
+  "simple": "The test was rigorous.",
+  "simple_zh": "這項測試非常嚴格。",
+  "toeic": "All products go through rigorous quality checks before shipping.",
+  "toeic_zh": "所有產品出貨前都經過嚴格的品質檢驗。",
+  "family": "rigor (n), rigorous (adj)",
+  "related": [
+   {
+    "w": "rigid",
+    "zh": "僵硬的",
+    "k": "confuse"
+   },
+   {
+    "w": "strict",
+    "zh": "嚴格的",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1786,
+  "day": 72
+ },
+ {
+  "word": "proprietary",
+  "pos": "adj",
+  "pic": "©️",
+  "zh": "專有的；專利的",
+  "en": "owned by a company and legally protected",
+  "simple": "This is a proprietary recipe.",
+  "simple_zh": "這是專有的食譜。",
+  "toeic": "Employees must not share proprietary information with competitors.",
+  "toeic_zh": "員工不得向競爭對手洩露專有資訊。",
+  "family": "proprietor (n), property (n), proprietary (adj)",
+  "related": [
+   {
+    "w": "proprietor",
+    "zh": "業主",
+    "k": "family"
+   },
+   {
+    "w": "public",
+    "zh": "公開的",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 1787,
+  "day": 72
+ },
+ {
+  "word": "absorption",
+  "pos": "n",
+  "pic": "🧽",
+  "zh": "吸收",
+  "en": "the process of taking in a substance or idea",
+  "simple": "The sponge helps with water absorption.",
+  "simple_zh": "海綿有助於吸水。",
+  "toeic": "The absorption of the smaller firm will be completed by June.",
+  "toeic_zh": "對這家小公司的併購整合將於六月完成。",
+  "family": "absorb (v), absorbent (adj), absorption (n)",
+  "related": [
+   {
+    "w": "absorb",
+    "zh": "吸收",
+    "k": "family"
+   },
+   {
+    "w": "abortion",
+    "zh": "墮胎",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1788,
+  "day": 72
+ },
+ {
+  "word": "accelerate",
+  "pos": "v",
+  "pic": "⏩",
+  "zh": "加速",
+  "en": "to make something happen faster",
+  "simple": "The car began to accelerate.",
+  "simple_zh": "車子開始加速。",
+  "toeic": "New machines will accelerate the production process.",
+  "toeic_zh": "新機器將加快生產流程。",
+  "family": "acceleration (n), accelerate (v)",
+  "related": [
+   {
+    "w": "decelerate",
+    "zh": "減速",
+    "k": "opp"
+   },
+   {
+    "w": "expedite",
+    "zh": "加快",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1789,
+  "day": 72
+ },
+ {
+  "word": "conceptual",
+  "pos": "adj",
+  "pic": "💡",
+  "zh": "概念上的",
+  "en": "based on ideas rather than real things",
+  "simple": "This is only a conceptual drawing.",
+  "simple_zh": "這只是概念圖。",
+  "toeic": "The team presented a conceptual design for the new product.",
+  "toeic_zh": "團隊提出了新產品的概念設計。",
+  "family": "concept (n), conceptualize (v)",
+  "related": [
+   {
+    "w": "abstract",
+    "zh": "抽象的",
+    "k": "syn"
+   },
+   {
+    "w": "practical",
+    "zh": "實際的",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 1790,
+  "day": 72
+ },
+ {
+  "word": "empirical",
+  "pos": "adj",
+  "pic": "🔬",
+  "zh": "實證的；經驗的",
+  "en": "based on real tests or experience",
+  "simple": "We need empirical data first.",
+  "simple_zh": "我們需要先有實證資料。",
+  "toeic": "The study provides empirical evidence that the training works.",
+  "toeic_zh": "這項研究提供了訓練有效的實證證據。",
+  "family": "empirically (adv)",
+  "related": [
+   {
+    "w": "experimental",
+    "zh": "實驗性的",
+    "k": "syn"
+   },
+   {
+    "w": "imperial",
+    "zh": "帝國的",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1791,
+  "day": 72
+ },
+ {
+  "word": "perpetual",
+  "pos": "adj",
+  "pic": "♾️",
+  "zh": "永久的；不斷的",
+  "en": "continuing forever without stopping",
+  "simple": "The noise was perpetual.",
+  "simple_zh": "那噪音持續不斷。",
+  "toeic": "The software comes with a perpetual license.",
+  "toeic_zh": "這套軟體附有永久授權。",
+  "family": "perpetually (adv), perpetuate (v)",
+  "related": [
+   {
+    "w": "permanent",
+    "zh": "永久的",
+    "k": "syn"
+   },
+   {
+    "w": "temporary",
+    "zh": "暫時的",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 1792,
+  "day": 72
+ },
+ {
+  "word": "elastic",
+  "pos": "adj",
+  "pic": "🪀",
+  "zh": "有彈性的",
+  "en": "able to stretch and return to shape",
+  "simple": "The belt is elastic.",
+  "simple_zh": "這條腰帶有彈性。",
+  "toeic": "Demand for luxury goods is not very elastic.",
+  "toeic_zh": "奢侈品的需求彈性不大。",
+  "family": "elasticity (n)",
+  "related": [
+   {
+    "w": "flexible",
+    "zh": "靈活的",
+    "k": "syn"
+   },
+   {
+    "w": "rigid",
+    "zh": "僵硬的",
+    "k": "opp"
+   }
+  ],
+  "src": "BSL",
+  "n": 1793,
+  "day": 72
+ },
+ {
+  "word": "constituent",
+  "pos": "n",
+  "pic": "🧩",
+  "zh": "成分；選民",
+  "en": "a part of something; a voter",
+  "simple": "Water is a constituent of milk.",
+  "simple_zh": "水是牛奶的成分之一。",
+  "toeic": "Each constituent of the product must be tested.",
+  "toeic_zh": "產品的每個成分都必須經過測試。",
+  "family": "constitute (v), constitution (n)",
+  "related": [
+   {
+    "w": "component",
+    "zh": "組成部分",
+    "k": "syn"
+   },
+   {
+    "w": "constitute",
+    "zh": "構成",
+    "k": "family"
+   }
+  ],
+  "src": "BSL",
+  "n": 1794,
+  "day": 72
+ },
+ {
+  "word": "telecom",
+  "pos": "n",
+  "pic": "📡",
+  "zh": "電信",
+  "en": "the business of phone and data networks",
+  "simple": "My brother works for a telecom firm.",
+  "simple_zh": "我哥哥在電信公司工作。",
+  "toeic": "The telecom company announced a new data plan.",
+  "toeic_zh": "這家電信公司發表了新的數據方案。",
+  "family": "telecommunications (n)",
+  "related": [
+   {
+    "w": "telephone",
+    "zh": "電話",
+    "k": "confuse"
+   },
+   {
+    "w": "communication",
+    "zh": "通訊",
+    "k": "family"
+   }
+  ],
+  "src": "BSL",
+  "n": 1795,
+  "day": 72
+ },
+ {
+  "word": "parameter",
+  "pos": "n",
+  "pic": "🎚️",
+  "zh": "參數；限定範圍",
+  "en": "a limit or fixed setting for something",
+  "simple": "Set the parameter to ten.",
+  "simple_zh": "把參數設為十。",
+  "toeic": "The project must stay within the budget parameters.",
+  "toeic_zh": "專案必須維持在預算範圍內。",
+  "family": "",
+  "related": [
+   {
+    "w": "perimeter",
+    "zh": "周邊",
+    "k": "confuse"
+   },
+   {
+    "w": "limit",
+    "zh": "限制",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1796,
+  "day": 72
+ },
+ {
+  "word": "distortion",
+  "pos": "n",
+  "pic": "🌀",
+  "zh": "扭曲；失真",
+  "en": "a change that makes something false or unclear",
+  "simple": "The mirror causes distortion.",
+  "simple_zh": "這面鏡子會讓影像失真。",
+  "toeic": "The audio system produces no distortion at high volume.",
+  "toeic_zh": "這套音響在大音量下不會失真。",
+  "family": "distort (v)",
+  "related": [
+   {
+    "w": "deformation",
+    "zh": "變形",
+    "k": "syn"
+   },
+   {
+    "w": "distraction",
+    "zh": "分心",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1797,
+  "day": 72
+ },
+ {
+  "word": "replicate",
+  "pos": "v",
+  "pic": "🖨️",
+  "zh": "複製；重現",
+  "en": "to copy or repeat exactly",
+  "simple": "Can you replicate this picture?",
+  "simple_zh": "你能複製這張圖嗎？",
+  "toeic": "Other firms cannot easily replicate our production method.",
+  "toeic_zh": "其他公司很難複製我們的生產方法。",
+  "family": "replica (n), replication (n)",
+  "related": [
+   {
+    "w": "copy",
+    "zh": "複製",
+    "k": "syn"
+   },
+   {
+    "w": "duplicate",
+    "zh": "複製",
+    "k": "syn"
+   }
+  ],
+  "src": "BSL",
+  "n": 1798,
+  "day": 72
+ },
+ {
+  "word": "optimum",
+  "pos": "adj",
+  "pic": "🎯",
+  "zh": "最佳的",
+  "en": "best possible for a situation",
+  "simple": "This is the optimum time to go.",
+  "simple_zh": "這是出發的最佳時間。",
+  "toeic": "Keep the machine at its optimum temperature for best results.",
+  "toeic_zh": "請將機器維持在最佳溫度以獲得最好的結果。",
+  "family": "optimize (v), optimal (adj)",
+  "related": [
+   {
+    "w": "optimal",
+    "zh": "最理想的",
+    "k": "syn"
+   },
+   {
+    "w": "minimum",
+    "zh": "最小的",
+    "k": "confuse"
+   }
+  ],
+  "src": "BSL",
+  "n": 1799,
+  "day": 72
+ },
+ {
+  "word": "tighten",
+  "pos": "v",
+  "pic": "🔧",
+  "zh": "收緊；加強",
+  "en": "to make something firmer or stricter",
+  "simple": "Please tighten the screw.",
+  "simple_zh": "請把螺絲鎖緊。",
+  "toeic": "The company will tighten its security after the data leak.",
+  "toeic_zh": "資料外洩後，公司將加強安全措施。",
+  "family": "tight (adj), tightly (adv)",
+  "related": [
+   {
+    "w": "loosen",
+    "zh": "放鬆",
+    "k": "opp"
+   },
+   {
+    "w": "tight",
+    "zh": "緊的",
+    "k": "family"
+   }
+  ],
+  "src": "BSL",
+  "n": 1800,
+  "day": 72
+ }
+]
