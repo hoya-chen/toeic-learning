@@ -1,0 +1,50 @@
+plugins {
+    id 'com.android.application'
+}
+
+// The web app in docs/app is packaged as-is; CI passes the version and signing key through env vars.
+def ks = System.getenv('TOEIC_KEYSTORE')
+
+android {
+    namespace 'io.github.hoyachen.toeic'
+    compileSdk 34
+
+    defaultConfig {
+        applicationId 'io.github.hoyachen.toeic'
+        minSdk 24
+        targetSdk 34
+        versionCode((System.getenv('TOEIC_VERSION_CODE') ?: '1') as int)
+        versionName System.getenv('TOEIC_VERSION_NAME') ?: '1.0.0'
+    }
+
+    signingConfigs {
+        release {
+            if (ks) {
+                storeFile file(ks)
+                storePassword System.getenv('TOEIC_KEYSTORE_PASSWORD') ?: 'toeic-vocab'
+                keyAlias 'toeic'
+                keyPassword System.getenv('TOEIC_KEYSTORE_PASSWORD') ?: 'toeic-vocab'
+            }
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            signingConfig ks ? signingConfigs.release : signingConfigs.debug
+        }
+    }
+
+    sourceSets {
+        main.assets.srcDirs = ['../../docs/app']
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+}
+
+dependencies {
+    implementation 'androidx.webkit:webkit:1.12.1'
+}

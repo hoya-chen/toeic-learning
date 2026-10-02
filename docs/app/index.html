@@ -239,15 +239,18 @@ function streak(){let t=today(),n=0;if(!ACT[t])t--;while(ACT[t]){n++;t--}return 
 
 function toast(msg){const t=$('#toast');t.textContent=msg;t.hidden=false;clearTimeout(toast.h);toast.h=setTimeout(()=>{t.hidden=true},2200)}
 
-/* ---------- speech ---------- */
+/* ---------- speech (the Android app speaks through its own text-to-speech) ---------- */
+const NATIVE=window.AndroidApp||null;
 let speakingBtn=null;
 function speak(text,btn){
+  if(NATIVE){try{NATIVE.speak(text)}catch(e){}if(btn){btn.classList.add('on');setTimeout(()=>btn.classList.remove('on'),1200)}return}
   try{const u=new SpeechSynthesisUtterance(text);u.lang='en-US';u.rate=.9;speechSynthesis.cancel();
     if(speakingBtn)speakingBtn.classList.remove('on');speakingBtn=btn||null;if(btn)btn.classList.add('on');
     const done=()=>{if(btn)btn.classList.remove('on');if(speakingBtn===btn)speakingBtn=null};
     u.onend=done;u.onerror=done;setTimeout(done,15000);speechSynthesis.speak(u)}catch(e){}
 }
-const canSpeak='speechSynthesis' in window;
+const canSpeak=!!NATIVE||'speechSynthesis' in window;
+function stopSpeech(){try{if(NATIVE)NATIVE.stop();else if(window.speechSynthesis)speechSynthesis.cancel()}catch(e){}}
 const sayBtn=(t,sm)=>canSpeak?`<button class="say${sm?' sm':''}" data-say="${esc(t)}" aria-label="播放發音 ${esc(t)}">🔊</button>`:'';
 document.addEventListener('click',e=>{const s=e.target.closest('[data-say]');if(s){e.stopPropagation();speak(s.dataset.say,s)}},true);
 
@@ -456,8 +459,9 @@ function meClick(e){
   if(t){setApp({target:+t.dataset.t});return}if(sc){setApp({scope:sc.dataset.s});return}if(w){setApp({wpd:+w.dataset.w});return}
   const id=e.target.id,box=$('#bbox');
   if(id==='bexp'){const j=backupJSON();
-    box.innerHTML=`<textarea id="bout" readonly aria-label="備份內容">${esc(j)}</textarea><div class="row"><button class="btn plain" id="bcopy">複製</button><a class="btn plain" id="bdl" download="toeic-backup-${today()}.json">下載檔案</a></div>`;
-    $('#bdl').href=URL.createObjectURL(new Blob([j],{type:'application/json'}))}
+    box.innerHTML=`<textarea id="bout" readonly aria-label="備份內容">${esc(j)}</textarea><div class="row"><button class="btn plain" id="bcopy">複製</button>${NATIVE?'<button class="btn plain" id="bshare">傳送到其他 App</button>':`<a class="btn plain" id="bdl" download="toeic-backup-${today()}.json">下載檔案</a>`}</div>`;
+    if(!NATIVE)$('#bdl').href=URL.createObjectURL(new Blob([j],{type:'application/json'}))}
+  else if(id==='bshare'){try{NATIVE.share($('#bout').value)}catch(x){toast('無法開啟分享，請改用複製')}}
   else if(id==='bcopy'){const ta=$('#bout');const ok=()=>toast('已複製');
     try{navigator.clipboard.writeText(ta.value).then(ok,()=>{ta.select();toast('請長按選取後複製')})}catch(x){ta.select();toast('請長按選取後複製')}}
   else if(id==='bimp'){box.innerHTML=`<input type="file" id="bfile" accept=".json,application/json" aria-label="選擇備份檔"><textarea id="bin" placeholder="或把備份內容貼在這裡" aria-label="貼上備份內容"></textarea><button class="btn" id="bdo">匯入</button>`;
@@ -479,7 +483,7 @@ function openSheet(head,body,foot){
   sh.innerHTML=`<div class="shead"><button class="close" id="sclose" aria-label="關閉">✕</button>${head}</div>
     <div class="sbody" id="sbody"><div class="inner">${body}</div></div>${foot!=null?`<div class="sfoot" id="sfoot">${foot}</div>`:''}`;
 }
-function closeSheet(){$('#sheet').hidden=true;$('#sheet').innerHTML='';S=null;speechSynthesis&&canSpeak&&speechSynthesis.cancel();TABS[TAB]()}
+function closeSheet(){$('#sheet').hidden=true;$('#sheet').innerHTML='';S=null;stopSpeech();TABS[TAB]()}
 $('#sheet').addEventListener('click',e=>{if(e.target.id==='sclose'){closeSheet();return}if(S&&S.click)S.click(e)});
 document.addEventListener('keydown',e=>{
   if($('#sheet').hidden)return;
@@ -646,10 +650,13 @@ function quizKey(e){const q=S.Q&&S.Q[S.qi];if(!q||S.done)return;
   if(!q.done&&!q.typed&&/^[1-4]$/.test(e.key)&&q.opts[+e.key-1]){answer(+e.key-1);return}
   if(q.done&&e.key==='Enter'&&document.activeElement.id!=='qnext'){e.preventDefault();$('#qnext').click()}}
 
+/* ---------- Android back button: close a session, then go back to Today ---------- */
+window.appBack=()=>{if(!$('#sheet').hidden){closeSheet();return true}if(!$('#tabs').hidden&&TAB!=='today'){go('today');return true}return false};
+
 /* ---------- start ---------- */
 updBadge();
 if(!APP||!APP.wpd)renderOnboard();
 else{const h=location.hash.slice(1),m={today:'today',words:'words',quiz:'quiz',mistakes:'mist',me:'me'};go(m[h]||'today')}
 </script>
-<script>if('serviceWorker' in navigator&&location.protocol.startsWith('http'))addEventListener('load',()=>navigator.serviceWorker.register('sw.js').catch(()=>{}));</script>
+<script>if(!window.AndroidApp&&'serviceWorker' in navigator&&location.protocol.startsWith('http'))addEventListener('load',()=>navigator.serviceWorker.register('sw.js').catch(()=>{}));</script>
 </body></html>

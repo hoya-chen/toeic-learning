@@ -17,6 +17,10 @@ Vocabulary trainer for learners aiming for 700 or 900 on the TOEIC. Each learner
 
 `docs/app/` is a redesigned, phone-first version of the trainer: a bottom tab bar (Today, Words, Quiz, Mistakes, Me), a daily task flow (new words, then due reviews, then a 10-question quiz), swipe cards, a streak and progress backup (export/import). It is an installable offline web app (PWA). With GitHub Pages serving `main` from `/docs`, it is at https://hoya-chen.github.io/toeic-learning/app/ . It uses the same browser storage keys as the earlier page, so progress made there carries over on the same site.
 
+## Android app (APK)
+
+`android/` wraps the phone app in `docs/app` in a small Android WebView app: it works offline, speaks words with the phone's text-to-speech, and handles the back button. GitHub Actions (`.github/workflows/android-apk.yml`) builds it on every change. On `main`, once the repository secret `ANDROID_KEYSTORE_BASE64` holds the signing key, each build is published as a release, and the latest APK is always at https://github.com/hoya-chen/toeic-learning/releases/latest/download/toeic-vocab.apk . Without the secret the workflow only builds a test APK (download it from the run's artifacts). The signing key is kept outside the repository; every release must use the same key so updates install over the old version and keep learners' progress.
+
 ## How the 2000 words were chosen
 
 All 1,249 words of the TOEIC Service List (TSL 1.2) plus 751 words from the Business Service List (BSL 1.2): BSL words that already had cards first, then the rest by everyday word frequency, after removing prefixes and words about war, politics and violence. The example sentences, pictures (emoji), Chinese meanings and related/confusable words were written separately, mostly in batches by AI, and have not all been reviewed by hand.
