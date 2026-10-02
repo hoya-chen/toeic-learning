@@ -51,8 +51,9 @@ jobs:
           TOEIC_VERSION_CODE: ${{ github.run_number }}
           TOEIC_VERSION_NAME: 1.0.${{ github.run_number }}
         run: |
-          gradle --no-daemon assembleRelease
+          gradle --no-daemon assembleRelease assembleDebug
           cp app/build/outputs/apk/release/app-release.apk "$GITHUB_WORKSPACE/toeic-vocab.apk"
+          cp app/build/outputs/apk/debug/app-debug.apk "$GITHUB_WORKSPACE/toeic-vocab-debug.apk"
 
       - name: Check APK
         run: |
@@ -66,6 +67,12 @@ jobs:
           name: toeic-vocab-apk
           path: toeic-vocab.apk
 
+      # Same app with page debugging on, so the smoke test can check what the page shows.
+      - uses: actions/upload-artifact@v4
+        with:
+          name: toeic-vocab-debug-apk
+          path: toeic-vocab-debug.apk
+
   test:
     needs: build
     runs-on: ubuntu-latest
@@ -74,7 +81,11 @@ jobs:
 
       - uses: actions/download-artifact@v5
         with:
-          name: toeic-vocab-apk
+          name: toeic-vocab-debug-apk
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: '22'
 
       - name: Enable KVM
         run: |
@@ -92,16 +103,14 @@ jobs:
           profile: pixel_6
           ram-size: 4096M
           disable-animations: true
-          script: sh android/smoke-test.sh toeic-vocab.apk
+          script: sh android/smoke-test.sh toeic-vocab-debug.apk
 
       - name: Keep the failing screen
         if: failure()
         uses: actions/upload-artifact@v4
         with:
           name: smoke-test-screen
-          path: |
-            screen-fail.png
-            ui-fail.xml
+          path: screen-fail.png
           if-no-files-found: ignore
 
   release:
@@ -111,7 +120,11 @@ jobs:
     steps:
       - uses: actions/download-artifact@v5
         with:
-          name: toeic-vocab-apk
+          name: toeic-vocab-debug-apk
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: '22'
 
       - name: Publish release
         env:

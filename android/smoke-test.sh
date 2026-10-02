@@ -1,37 +1,66 @@
 #!/bin/sh
-# Installs the APK on a running emulator and walks the first screens through the UI tree.
+# Installs the (debug) APK on a running emulator, taps through the first learning steps with
+# real touches, and checks what the page shows through Chrome DevTools.
 set -e
 APK="$1"
-dump() { adb shell uiautomator dump /sdcard/ui.xml >/dev/null; adb pull /sdcard/ui.xml ui.xml >/dev/null; grep -q 'package="io.github.hoyachen.toeic"' ui.xml && cp ui.xml app-ui.xml; true; }
-has() { dump; grep -q "\(text\|content-desc\)=\"$1" ui.xml; }
-fail() { echo "NOT FOUND: $1"; adb exec-out screencap -p > screen-fail.png || true; cp ui.xml ui-fail.xml || true; echo "--- screen now"; grep -o '\(text\|content-desc\)="[^"]\+"' ui.xml | head -30; echo "--- last app screen"; [ -f app-ui.xml ] && grep -o '\(text\|content-desc\)="[^"]\+"' app-ui.xml | head -60; echo "--- log"; adb logcat -d | grep -E "FATAL|hoyachen|chromium|lowmemory|Killing|ActivityManager: (Process|Kill|Force)|ActivityTaskManager: (START|Force)" | grep -v Cronet | tail -60; exit 1; }
-center() { b=$(grep -o "<node [^>]*\(text\|content-desc\)=\"$1[^>]*>" ui.xml | head -1 | grep -o 'bounds="[^"]*"' | grep -oE '[0-9]+' | tr '\n' ' '); set -- $b; echo "$(( ($1+$3)/2 )) $(( ($2+$4)/2 ))"; }
-# The emulator's own launcher sometimes shows "isn't responding"; dismiss it with "Wait".
-wait_for() { i=0; until has "$1"; do i=$((i+1)); [ $i -gt 30 ] && fail "$1"; grep -q 'text="Wait"' ui.xml && adb shell input tap $(center "Wait"); sleep 2; done; echo "found: $1"; }
-tap() { wait_for "$1"; xy=$(center "$1"); echo "tap $1 at $xy"; grep -o "<node [^>]*\(text\|content-desc\)=\"$1[^>]*>" ui.xml | head -1; adb shell input tap $xy; sleep 2; }
+PKG=io.github.hoyachen.toeic
+js() { node android/cdp.mjs "$1" 2>/dev/null || true; }
+fail() {
+  echo "FAILED: $1"
+  adb exec-out screencap -p > screen-fail.png || true
+  echo "--- page text"; js "document.body.innerText.slice(0,1500)"
+  echo "--- log"; adb logcat -d | grep -E "FATAL|AndroidRuntime|chromium.*CONSOLE|$PKG" | tail -40
+  exit 1
+}
+# Waits until a page expression returns the expected value.
+expect() { i=0; until [ "$(js "$1")" = "$2" ]; do i=$((i+1)); [ $i -gt 20 ] && fail "$1 should be $2 (is $(js "$1"))"; sleep 1; done; echo "ok: $1 = $2"; }
+# Where the WebView sits on screen, in pixels, from the UI tree.
+webview_origin() {
+  adb shell uiautomator dump /sdcard/ui.xml >/dev/null; adb pull /sdcard/ui.xml ui.xml >/dev/null
+  grep -o '<node [^>]*class="android.webkit.WebView"[^>]*>' ui.xml | head -1 | grep -o 'bounds="\[[0-9]*,[0-9]*\]' | grep -oE '[0-9]+' | tr '\n' ' '
+}
+# Screen point at a fraction of an element's box: point <selector> <fx> <fy>
+point() {
+  r=$(js "(()=>{const e=document.querySelector('$1');if(!e)return '';e.scrollIntoView({block:'nearest'});const b=e.getBoundingClientRect(),d=devicePixelRatio;return Math.round((b.left+b.width*$2)*d)+' '+Math.round((b.top+b.height*$3)*d)})()")
+  [ -n "$r" ] || fail "no element $1"
+  set -- $r $ORIGIN; echo "$(( $1+$3 )) $(( $2+$4 ))"
+}
+tap() { xy=$(point "$1" 0.5 0.5); echo "tap $1 at $xy"; adb shell input tap $xy; sleep 1; }
 
-adb shell wm size
 adb install -r "$APK"
 adb shell input keyevent 82
 adb logcat -c
-adb shell am start -W -n io.github.hoyachen.toeic/.MainActivity
-tap "開始學習"
-wait_for "開始今日任務"
-tap "1 學新字"
-# WebView sometimes reports the sheet's footer buttons with empty bounds, so rate the card
-# with a right swipe on the word instead (the same gesture learners use).
-wait_for "記得了 →"
-set -- $(center "播放發音 ")
-y=$2; [ "$y" -gt 300 ] || y=1100
-echo "swipe card right at y=$y"
-adb shell input swipe 150 $y 900 $y 400
-sleep 2
-wait_for "2 / "
+adb shell am start -W -n $PKG/.MainActivity
+sleep 3
+PID=$(adb shell pidof $PKG | tr -d '\r')
+adb forward tcp:9222 localabstract:webview_devtools_remote_$PID
+ORIGIN=$(webview_origin); [ -n "$ORIGIN" ] || fail "WebView not on screen"; echo "WebView at $ORIGIN"
+expect "!!window.AndroidApp" true
+
+# Onboarding, then the Today screen.
+expect "!!document.querySelector('#obgo')" true
+tap "#obgo"
+expect "!!document.querySelector('.task[data-step=learn]')" true
+
+# Learn cards: the footer button and a right swipe each count a card as known.
+tap ".task[data-step=learn]"
+expect "document.querySelector('#scnt').textContent" "1 / 25"
+tap '[data-r="1"]'
+expect "document.querySelector('#scnt').textContent" "2 / 25"
+set -- $(point "#flash .fword" 0.1 0.5)
+echo "swipe card right from $1 $2"
+adb shell input swipe $1 $2 $(( $1+700 )) $2 300
+expect "document.querySelector('#scnt').textContent" "3 / 25"
+expect "Object.keys(JSON.parse(localStorage.getItem('toeic-srs')||'{}')).length" 2
+
+# Back closes the card sheet, then a second back leaves the app.
+adb shell input keyevent 4
+expect "document.querySelector('#sheet').hidden" true
+expect "document.querySelector('.task[data-step=learn]').textContent.includes('2 / 25')" true
 adb shell input keyevent 4
 sleep 2
-# The home screen stays in the UI tree under the card sheet, so check the sheet is gone.
-i=0; while has "學新字 · 新字"; do i=$((i+1)); [ $i -gt 10 ] && fail "back button closing the card sheet"; sleep 2; done
-echo "back closed the sheet"
-wait_for "開始今日任務"
-adb logcat -d | grep -E "chromium.*(Uncaught|Error)" && { echo "page errors found"; exit 1; } || true
+adb shell dumpsys activity activities | grep -E "mResumedActivity|ResumedActivity:" | grep -q $PKG && fail "app still in front after second back"
+echo "ok: second back leaves the app"
+
+adb logcat -d | grep -E "chromium.*CONSOLE.*(Uncaught|Error)" && fail "page errors" || true
 echo "smoke test passed"
