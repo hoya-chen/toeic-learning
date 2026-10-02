@@ -85,9 +85,10 @@ jobs:
       - name: Run the app on an emulator
         uses: reactivecircus/android-emulator-runner@v2
         with:
-          api-level: 34
+          # A plain image without Google apps keeps the emulator light enough for CI.
+          api-level: 30
           arch: x86_64
-          target: google_apis
+          target: default
           profile: pixel_6
           ram-size: 4096M
           disable-animations: true
