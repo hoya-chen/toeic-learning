@@ -49,7 +49,10 @@ tap '[data-r="1"]'
 expect "document.querySelector('#scnt').textContent" "2 / 25"
 set -- $(point "#flash .fword" 0.1 0.5)
 echo "swipe card right from $1 $2"
+js "window.__ev=[];['pointerdown','pointermove','pointerup','pointercancel','touchstart','touchend','touchcancel'].forEach(t=>document.addEventListener(t,e=>{if(__ev.length<40)__ev.push(t+':'+Math.round(e.clientX!=null?e.clientX:(e.changedTouches[0]||{}).clientX)+':'+(e.target.className||e.target.tagName))},true));1" >/dev/null
 adb shell input swipe $1 $2 $(( $1+700 )) $2 300
+sleep 1
+echo "page events: $(js "__ev.join(' ')")"
 expect "document.querySelector('#scnt').textContent" "3 / 25"
 expect "Object.keys(JSON.parse(localStorage.getItem('toeic-srs')||'{}')).length" 2
 
