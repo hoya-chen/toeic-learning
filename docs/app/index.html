@@ -566,7 +566,8 @@ function bindSwipe(el){
     if(Math.abs(dx)<8||Math.abs(dx)<Math.abs(e.clientY-y0))return;
     el.classList.add('drag');el.style.transform=`translateX(${dx}px) rotate(${dx/25}deg)`;
     el.querySelector('.tag.r').style.opacity=Math.max(0,Math.min(1,dx/90));el.querySelector('.tag.l').style.opacity=Math.max(0,Math.min(1,-dx/90))});
-  const end=()=>{if(x0==null)return;x0=null;el.classList.remove('drag');
+  // Some WebViews stop sending pointermove partway through a fast swipe, so measure the final position on release too.
+  const end=e=>{if(x0==null)return;if(e&&e.type==='pointerup'){const ux=e.clientX-x0;if(Math.abs(ux)>Math.abs(dx)&&Math.abs(ux)>Math.abs(e.clientY-y0))dx=ux}x0=null;el.classList.remove('drag');
     if(Math.abs(dx)>90)rate(dx>0);else{el.style.transform='';el.querySelectorAll('.tag').forEach(t=>t.style.opacity=0)}dx=0};
   el.addEventListener('pointerup',end);el.addEventListener('pointercancel',()=>{dx=0;end()});
 }
