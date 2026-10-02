@@ -22,6 +22,9 @@ tap "記得了 →"
 wait_for "2 / "
 adb shell input keyevent 4
 sleep 2
+# The home screen stays in the UI tree under the card sheet, so check the sheet is gone.
+i=0; while has "學新字 · 新字"; do i=$((i+1)); [ $i -gt 10 ] && fail "back button closing the card sheet"; sleep 2; done
+echo "back closed the sheet"
 wait_for "開始今日任務"
 adb logcat -d | grep -E "chromium.*(Uncaught|Error)" && { echo "page errors found"; exit 1; } || true
 echo "smoke test passed"
