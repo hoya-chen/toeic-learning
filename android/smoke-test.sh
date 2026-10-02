@@ -18,8 +18,14 @@ adb shell am start -W -n io.github.hoyachen.toeic/.MainActivity
 tap "開始學習"
 wait_for "開始今日任務"
 tap "1 學新字"
-# The "記得了" swipe tag on the card is not a button; tap the footer button instead.
-tap "記得了 →"
+# WebView sometimes reports the sheet's footer buttons with empty bounds, so rate the card
+# with a right swipe on the word instead (the same gesture learners use).
+wait_for "記得了 →"
+set -- $(center "播放發音 ")
+y=$2; [ "$y" -gt 300 ] || y=1100
+echo "swipe card right at y=$y"
+adb shell input swipe 150 $y 900 $y 400
+sleep 2
 wait_for "2 / "
 adb shell input keyevent 4
 sleep 2
