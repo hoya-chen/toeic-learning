@@ -94,6 +94,16 @@ jobs:
           disable-animations: true
           script: sh android/smoke-test.sh toeic-vocab.apk
 
+      - name: Keep the failing screen
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: smoke-test-screen
+          path: |
+            screen-fail.png
+            ui-fail.xml
+          if-no-files-found: ignore
+
   release:
     needs: [build, test]
     if: github.ref == 'refs/heads/main' && needs.build.outputs.signed == '1'
