@@ -17,6 +17,8 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+    outputs:
+      signed: ${{ steps.key.outputs.signed }}
     steps:
       - uses: actions/checkout@v5
 
@@ -31,13 +33,14 @@ jobs:
           gradle-version: '8.14.3'
 
       - name: Decode signing key
+        id: key
         env:
           KEYSTORE_B64: ${{ secrets.ANDROID_KEYSTORE_BASE64 }}
         run: |
           if [ -n "$KEYSTORE_B64" ]; then
             echo "$KEYSTORE_B64" | base64 -d > "$RUNNER_TEMP/toeic.p12"
             echo "TOEIC_KEYSTORE=$RUNNER_TEMP/toeic.p12" >> "$GITHUB_ENV"
-            echo "SIGNED=1" >> "$GITHUB_ENV"
+            echo "signed=1" >> "$GITHUB_OUTPUT"
           else
             echo "::warning::ANDROID_KEYSTORE_BASE64 is not set; building a test APK with a throwaway debug key (no release)."
           fi
@@ -51,17 +54,58 @@ jobs:
           gradle --no-daemon assembleRelease
           cp app/build/outputs/apk/release/app-release.apk "$GITHUB_WORKSPACE/toeic-vocab.apk"
 
+      - name: Check APK
+        run: |
+          BT=$(ls -d "$ANDROID_HOME"/build-tools/* | sort -V | tail -1)
+          "$BT/aapt2" dump badging toeic-vocab.apk | head -5
+          "$BT/apksigner" verify --print-certs toeic-vocab.apk | head -3
+          unzip -l toeic-vocab.apk | grep -E 'assets/(index.html|words.js)'
+
       - uses: actions/upload-artifact@v4
         with:
           name: toeic-vocab-apk
           path: toeic-vocab.apk
 
+  test:
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/download-artifact@v5
+        with:
+          name: toeic-vocab-apk
+
+      - name: Enable KVM
+        run: |
+          echo 'KERNEL=="kvm", GROUP="kvm", MODE="0666", OPTIONS+="static_node=kvm"' | sudo tee /etc/udev/rules.d/99-kvm4all.rules
+          sudo udevadm control --reload-rules
+          sudo udevadm trigger --name-match=kvm
+
+      - name: Run the app on an emulator
+        uses: reactivecircus/android-emulator-runner@v2
+        with:
+          api-level: 34
+          arch: x86_64
+          target: google_apis
+          disable-animations: true
+          script: sh android/smoke-test.sh toeic-vocab.apk
+
+  release:
+    needs: [build, test]
+    if: github.ref == 'refs/heads/main' && needs.build.outputs.signed == '1'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/download-artifact@v5
+        with:
+          name: toeic-vocab-apk
+
       - name: Publish release
-        if: github.ref == 'refs/heads/main' && env.SIGNED == '1'
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
           gh release create "v1.0.${{ github.run_number }}" toeic-vocab.apk \
+            --repo "${{ github.repository }}" \
             --title "TOEIC 單字 App 1.0.${{ github.run_number }}" \
             --notes "Android 手機下載 toeic-vocab.apk 安裝。第一次安裝要允許「安裝不明來源的應用程式」。更新時直接安裝新版，學習進度會保留。" \
             --latest
