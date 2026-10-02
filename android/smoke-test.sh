@@ -14,7 +14,7 @@ adb logcat -c
 adb shell am start -W -n io.github.hoyachen.toeic/.MainActivity
 tap "開始學習"
 wait_for "開始今日任務"
-tap "開始今日任務"
+tap "學新字"
 wait_for "記得了"
 tap "記得了"
 wait_for "2 / "

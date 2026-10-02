@@ -88,6 +88,7 @@ jobs:
           api-level: 34
           arch: x86_64
           target: google_apis
+          profile: pixel_6
           disable-animations: true
           script: sh android/smoke-test.sh toeic-vocab.apk
 
