@@ -13,6 +13,10 @@ Vocabulary trainer for learners aiming for 700 or 900 on the TOEIC. Each learner
 - `vocabulary/source-TSL-1.2-wordlist.txt` and `source-BSL-1.2-wordlist.txt` are the word lists the 2000 words were chosen from.
 - `vocabulary/all-2000-words-ai-generated-backup.json` is an earlier, AI-chosen 2000-word set kept as a backup.
 
+## Phone app (redesign)
+
+`docs/app/` is a redesigned, phone-first version of the trainer: a bottom tab bar (Today, Words, Quiz, Mistakes, Me), a daily task flow (new words, then due reviews, then a 10-question quiz), swipe cards, a streak and progress backup (export/import). It is an installable offline web app (PWA). With GitHub Pages serving `main` from `/docs`, it is at https://hoya-chen.github.io/toeic-learning/app/ . It uses the same browser storage keys as the earlier page, so progress made there carries over on the same site.
+
 ## How the 2000 words were chosen
 
 All 1,249 words of the TOEIC Service List (TSL 1.2) plus 751 words from the Business Service List (BSL 1.2): BSL words that already had cards first, then the rest by everyday word frequency, after removing prefixes and words about war, politics and violence. The example sentences, pictures (emoji), Chinese meanings and related/confusable words were written separately, mostly in batches by AI, and have not all been reviewed by hand.
