@@ -118,13 +118,10 @@ jobs:
     if: github.ref == 'refs/heads/main' && needs.build.outputs.signed == '1'
     runs-on: ubuntu-latest
     steps:
+      # The signed release build (the debug APK is only for the smoke test).
       - uses: actions/download-artifact@v5
         with:
-          name: toeic-vocab-debug-apk
-
-      - uses: actions/setup-node@v5
-        with:
-          node-version: '22'
+          name: toeic-vocab-apk
 
       - name: Publish release
         env:
