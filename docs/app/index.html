@@ -40,7 +40,7 @@ button:focus-visible,input:focus-visible,select:focus-visible,textarea:focus-vis
 #view{flex:1;overflow-y:auto;-webkit-overflow-scrolling:touch;padding:calc(env(safe-area-inset-top,0px) + 18px) 16px 24px}
 .inner{max-width:560px;margin:0 auto;display:flex;flex-direction:column;gap:14px}
 /* tab bar */
-#tabs{display:grid;grid-template-columns:repeat(5,1fr);background:var(--card);border-top:1px solid var(--line);padding-bottom:env(safe-area-inset-bottom,0px)}
+#tabs{display:grid;grid-template-columns:repeat(6,1fr);background:var(--card);border-top:1px solid var(--line);padding-bottom:env(safe-area-inset-bottom,0px)}
 #tabs button{border:0;background:none;padding:8px 2px 9px;display:flex;flex-direction:column;align-items:center;gap:2px;font-size:12px;color:var(--muted);cursor:pointer;position:relative}
 #tabs button[aria-current="page"]{color:var(--accent);font-weight:700}
 #tabs svg{width:24px;height:24px;fill:none;stroke:currentColor;stroke-width:1.9;stroke-linecap:round;stroke-linejoin:round}
@@ -195,6 +195,27 @@ textarea{font-family:ui-monospace,monospace;font-size:.75rem;min-height:90px}
 .pick button b{font-family:var(--f-display);font-size:1.5rem;display:block}
 .pick button span{color:var(--muted);font-size:.88rem}
 .pick button[aria-pressed="true"]{border-color:var(--accent);box-shadow:0 0 0 1px var(--accent) inset}
+/* grammar tutor chat */
+.chat{display:flex;flex-direction:column;gap:10px;padding-bottom:6px}
+.bub{max-width:90%;padding:10px 13px;border-radius:18px;line-height:1.55;animation:pop .2s ease}
+.bub p{margin:4px 0}
+.bub.tu{align-self:flex-start;background:var(--card);border:1px solid var(--line);border-bottom-left-radius:6px}
+.bub.tu::before{content:"🧑‍🏫";display:block;font-size:.8rem;margin-bottom:2px}
+.bub.tu.ok{background:var(--ok-soft);border-color:transparent}
+.bub.tu.no{background:var(--bad-soft);border-color:transparent}
+.bub.me{align-self:flex-end;background:var(--accent);color:var(--accent-ink);border-bottom-right-radius:6px}
+.bub .who{display:block;font-size:.75rem;color:var(--muted);letter-spacing:.03em}
+.bub .s{font-family:var(--f-en);font-size:1.12rem;margin:4px 0}
+.bub strong{background:linear-gradient(transparent 60%,var(--mark) 60%)}
+.bub.tu.ok strong,.bub.tu.no strong{color:var(--ink)}
+.gap{color:var(--accent);font-weight:700;letter-spacing:.05em}
+.bub .rule{border-left:3px solid var(--accent);padding-left:10px;margin:6px 0}
+.replies{display:flex;flex-wrap:wrap;gap:8px;width:100%;justify-content:flex-end}
+.rbtn{border:1.5px solid var(--accent);color:var(--accent);background:var(--card);border-radius:99px;padding:10px 15px;cursor:pointer;font-weight:500;text-align:left}
+.rbtn.en{font-family:var(--f-en)}
+.rbtn.main{background:var(--accent);color:var(--accent-ink);font-weight:700}
+.rbtn.opt4{flex:1 1 100%;border-radius:14px}
+@keyframes pop{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
 @media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
 </style>
 </head><body>
@@ -203,6 +224,7 @@ textarea{font-family:ui-monospace,monospace;font-size:.75rem;min-height:90px}
   <nav id="tabs" aria-label="主選單">
     <button data-tab="today"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg>今天</button>
     <button data-tab="words"><svg viewBox="0 0 24 24"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20V3H6.5A2.5 2.5 0 0 0 4 5.5z"/><path d="M4 19.5A2.5 2.5 0 0 0 6.5 22H20v-5"/></svg>單字</button>
+    <button data-tab="grammar"><svg viewBox="0 0 24 24"><path d="M4 5h16v11H10l-5 4v-4H4z"/><path d="M8 9h8M8 12h5"/></svg>文法</button>
     <button data-tab="quiz"><svg viewBox="0 0 24 24"><rect x="3" y="3" width="18" height="18" rx="4"/><path d="m8 12 3 3 5-6"/></svg>測驗</button>
     <button data-tab="mist"><svg viewBox="0 0 24 24"><path d="M6 3h12v18l-6-4-6 4z"/><path d="M12 8v3M12 14h.01"/></svg>錯字<span class="badge" id="mbadge" hidden></span></button>
     <button data-tab="me"><svg viewBox="0 0 24 24"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></svg>我的</button>
@@ -211,6 +233,7 @@ textarea{font-family:ui-monospace,monospace;font-size:.75rem;min-height:90px}
 <div id="sheet" hidden role="dialog" aria-modal="true"></div>
 <div id="toast" hidden role="status"></div>
 <script src="words.js"></script>
+<script src="grammar.js"></script>
 <script>
 /* ---------- basics ---------- */
 const $=s=>document.querySelector(s);
@@ -232,8 +255,14 @@ const QSIZE=10;
 let SRS=load('toeic-srs',{}),ACT=load('toeic-act',{}),MIST=load('toeic-l01-mistakes',{});
 let APP=load('toeic-app',null),DAY=load('toeic-app-day',{});
 const saveSRS=()=>store('toeic-srs',SRS),saveMist=()=>{store('toeic-l01-mistakes',MIST);updBadge()};
-function dayState(){if(DAY.d!==today()){DAY={d:today(),rev:0,quiz:0,qs:null};store('toeic-app-day',DAY)}return DAY}
+function dayState(){if(DAY.d!==today()){DAY={d:today(),rev:0,quiz:0,qs:null,gram:0,gs:null};store('toeic-app-day',DAY)}return DAY}
 const saveDay=()=>store('toeic-app-day',DAY);
+/* grammar: topics come from grammar.js; each question gets a stable id like "passive-3" */
+const GRAM_T=window.GRAMMAR||[],HASGRAM=GRAM_T.length>0,GSIZE=5;
+const GQ={};GRAM_T.forEach(t=>t.qs.forEach((q,i)=>{q.id=t.id+'-'+(i+1);q.t=t;GQ[q.id]=q}));
+let GRAM=load('toeic-gram',{}),GMIST=load('toeic-gram-mist',{});
+const saveGram=()=>store('toeic-gram',GRAM),saveGMist=()=>{store('toeic-gram-mist',GMIST);updBadge()};
+const gmistQs=()=>Object.keys(GMIST).filter(id=>GQ[id]).map(id=>GQ[id]).sort((a,b)=>GMIST[b.id].n-GMIST[a.id].n||(GMIST[b.id].t||0)-(GMIST[a.id].t||0));
 function logAct(){const t=today();ACT[t]=(ACT[t]||0)+1;store('toeic-act',ACT)}
 function streak(){let t=today(),n=0;if(!ACT[t])t--;while(ACT[t]){n++;t--}return n}
 
@@ -267,8 +296,9 @@ function todayInfo(){
   const ds=dayState(),nq=newQueue(),due=dueWords(),newDone=introducedToday();
   const newGoal=newDone+nq.length,revTotal=ds.rev+due.length;
   const parts=[newGoal?newDone/newGoal:1,revTotal?ds.rev/revTotal:1,ds.quiz?1:0];
-  const pct=Math.round(parts.reduce((a,b)=>a+b,0)/3*100);
-  const next=nq.length?'learn':due.length?'review':!ds.quiz?'quiz':'done';
+  if(HASGRAM)parts.push(ds.gram?1:0);
+  const pct=Math.round(parts.reduce((a,b)=>a+b,0)/parts.length*100);
+  const next=nq.length?'learn':due.length?'review':!ds.quiz?'quiz':HASGRAM&&!ds.gram?'gram':'done';
   return {ds,nq,due,newDone,newGoal,revTotal,pct,next};
 }
 function planStats(){
@@ -284,14 +314,14 @@ const fmtDate=d=>`${d.getFullYear()!==new Date().getFullYear()?d.getFullYear()+'
 
 /* ---------- navigation ---------- */
 let TAB='today';
-const TABS={today:renderToday,words:renderWords,quiz:renderQuiz,mist:renderMist,me:renderMe};
-const HASH={today:'today',words:'words',quiz:'quiz',mist:'mistakes',me:'me'};
+const TABS={today:renderToday,words:renderWords,grammar:renderGrammar,quiz:renderQuiz,mist:renderMist,me:renderMe};
+const HASH={today:'today',words:'words',grammar:'grammar',quiz:'quiz',mist:'mistakes',me:'me'};
 function go(tab){TAB=tab;
   document.querySelectorAll('#tabs button').forEach(b=>{if(b.dataset.tab===tab)b.setAttribute('aria-current','page');else b.removeAttribute('aria-current')});
   try{history.replaceState(null,'','#'+HASH[tab])}catch(e){}
   $('#view').scrollTop=0;TABS[tab]()}
 $('#tabs').addEventListener('click',e=>{const b=e.target.closest('[data-tab]');if(b)go(b.dataset.tab)});
-function updBadge(){const n=Object.keys(MIST).length,b=$('#mbadge');b.textContent=n>99?'99+':n;b.hidden=!n}
+function updBadge(){const n=Object.keys(MIST).length+gmistQs().length,b=$('#mbadge');b.textContent=n>99?'99+':n;b.hidden=!n}
 const view=html=>{$('#view').innerHTML=`<div class="inner">${html}</div>`};
 
 /* ---------- onboarding ---------- */
@@ -322,7 +352,7 @@ function renderToday(){
   const ti=todayInfo(),ps=planStats(),s=streak(),C=2*Math.PI*62;
   const step=(k,ic,label,sub,n,done)=>`<button class="task ${done?'done':''} ${ti.next===k?'now':''}" data-step="${k}">
       <span class="ic">${done?'✓':ic}</span><span class="t">${label}<small>${sub}</small></span><span class="n">${n}</span></button>`;
-  const btnTxt={learn:ti.newDone?'繼續今日任務':'開始今日任務',review:'繼續：複習到期的字',quiz:'繼續：今日小測驗'}[ti.next];
+  const btnTxt={learn:ti.newDone?'繼續今日任務':'開始今日任務',review:'繼續：複習到期的字',quiz:'繼續：今日小測驗',gram:'繼續：每日文法'}[ti.next];
   view(`<div class="tophead"><div><div class="eyebrow">目標 TOEIC ${APP.target}${APP.target>=900&&APP.scope==='adv'?'（只學進階字）':''}</div>
       <h1 class="dayno en">Day ${ps.dayN} <small>/ ${ps.totalDays}</small></h1></div>
       <div class="streak"><b>${s}</b><span>連續天數</span></div></div>
@@ -332,6 +362,7 @@ function renderToday(){
       ${step('learn','1','學新字',ti.newGoal?'用卡片學今天的新字':'這個目標的字都學過了',`${ti.newDone} / ${ti.newGoal}`,ti.newGoal&&!ti.nq.length||!ti.newGoal)}
       ${step('review','2','複習','間隔 1、3、7、14、30 天回來的字',`${ti.ds.rev} / ${ti.revTotal}`,!ti.due.length)}
       ${step('quiz','3','今日小測驗',`${QSIZE} 題，答錯的字會進錯字本`,ti.ds.quiz?`${ti.ds.qs} / ${QSIZE}`:'未完成',!!ti.ds.quiz)}
+      ${HASGRAM?step('gram','4','每日文法',`${GSIZE} 題對話練習，答錯時小老師帶你找線索`,ti.ds.gram?`${ti.ds.gs} / ${GSIZE}`:'未完成',!!ti.ds.gram):''}
     </div>
     ${ti.next==='done'?`<div class="celebrate"><b>今天的任務都完成了 🎉</b><span class="small">明天再來，連續天數會繼續累積。</span></div>
       <button class="btn ghost" data-step="more">再多學 5 個新字</button>`:`<button class="btn" data-step="${ti.next}">${btnTxt}</button>`}
@@ -345,6 +376,7 @@ function startStep(k){
   if(k==='learn'){if(ti.nq.length)openCards('learn',ti.nq,{from:'today'});else toast('今天的新字已經學完了');}
   else if(k==='review'){if(ti.due.length)openCards('review',shuffle(ti.due),{from:'today'});else toast('目前沒有到期要複習的字');}
   else if(k==='quiz')openQuiz(dailyQuizWords(),{daily:true,from:'today',title:'今日小測驗'});
+  else if(k==='gram')openGram(dailyGramQs(),{daily:true,from:'today',title:'每日文法'});
   else if(k==='more'){const extra=planWords().filter(w=>!SRS[w.word]).slice(0,5);if(extra.length)openCards('learn',extra,{from:'more'});else toast('這個目標的字都學過了')}
 }
 function dailyQuizWords(){
@@ -407,15 +439,33 @@ function renderQuiz(){
 
 /* ---------- 錯字 ---------- */
 const mistWords=()=>WORDS.filter(w=>MIST[w.word]).sort((a,b)=>MIST[b.word].n-MIST[a.word].n||(MIST[b.word].t||0)-(MIST[a.word].t||0));
+let MTAB='w';
 function renderMist(){
-  const list=mistWords();
-  view(`<h1>錯字本</h1>${list.length?`
+  const list=mistWords(),gl=gmistQs();
+  if(MTAB==='g'&&!gl.length&&list.length)MTAB='w';if(MTAB==='w'&&!list.length&&gl.length)MTAB='g';
+  const seg=HASGRAM?`<div class="seg" id="mseg"><button data-m="w" aria-pressed="${MTAB==='w'}">單字 ${list.length}</button><button data-m="g" aria-pressed="${MTAB==='g'}">文法 ${gl.length}</button></div>`:'';
+  if(MTAB==='g'){
+    view(`<h1>錯字本</h1>${seg}${gl.length?`
+      <button class="btn" id="gmgo">和小老師練文法錯題${gl.length>10?'（10 題）':''}</button>
+      <p class="small muted" style="margin:0">同一題連續答對 3 次，就會自動移出錯題本。點一題可以單獨再練。</p>
+      <div class="list">${gl.map(q=>{const m=GMIST[q.id];return `<button class="item" data-gq="${q.id}"><span class="pic" aria-hidden="true">${q.t.icon||'📘'}</span>
+        <span class="t"><span class="en" style="display:block">${esc(q.s.replace('___',q.opts[q.a]))}</span><span class="z" style="display:block">${esc(q.t.title_zh)}</span></span>
+        <span class="dot miss">錯 ${m.n} 次${m.ok?` · 對 ${m.ok}/3`:''}</span></button>`}).join('')}</div>`
+      :`<div class="empty"><div class="big">🎉</div><p>目前沒有文法錯題。</p><button class="btn" id="ggo">去練文法</button></div>`}`);
+    $('#view').onclick=e=>{const m=e.target.closest('[data-m]');if(m){MTAB=m.dataset.m;renderMist();return}
+      const it=e.target.closest('[data-gq]');if(it){openGram([GQ[it.dataset.gq]],{title:'文法錯題'});return}
+      if(e.target.id==='gmgo')openGram(shuffle(gmistQs()).slice(0,10),{title:'文法錯題'});
+      if(e.target.id==='ggo')go('grammar')};
+    return;
+  }
+  view(`<h1>錯字本</h1>${seg}${list.length?`
     <div class="row"><div class="grow"><b class="en" style="font-family:var(--f-display);font-size:2rem">${list.length}</b> 個錯字</div></div>
     <div class="row"><button class="btn" id="mcards">用錯字卡練習</button><button class="btn ghost" id="mquiz">錯字測驗</button></div>
     <p class="small muted" style="margin:0">同一個字連續答對 3 次，就會自動移出錯字本。</p>
     <div class="list">${list.map(w=>{const m=MIST[w.word];return itemHTML(w,`<span class="dot miss">錯 ${m.n} 次${m.ok?` · 對 ${m.ok}/3`:''}</span>`)}).join('')}</div>`
     :`<div class="empty"><div class="big">🎉</div><p>目前沒有錯字。<br>做測驗時答錯的字會出現在這裡。</p><button class="btn" id="mgo">去做測驗</button></div>`}`);
-  $('#view').onclick=e=>{const it=e.target.closest('[data-word]');if(it){openDetail(BYWORD[it.dataset.word]);return}
+  $('#view').onclick=e=>{const m=e.target.closest('[data-m]');if(m){MTAB=m.dataset.m;renderMist();return}
+    const it=e.target.closest('[data-word]');if(it){openDetail(BYWORD[it.dataset.word]);return}
     if(e.target.id==='mcards')openCards('mist',mistWords(),{});
     if(e.target.id==='mquiz')openQuiz(shuffle(mistWords()).slice(0,QSIZE),{title:'錯字測驗'});
     if(e.target.id==='mgo')go('quiz')};
@@ -442,7 +492,8 @@ function renderMe(){
       <div class="kv"><span>目前進度</span><b>Day ${ps.dayN} / ${ps.totalDays}</b></div>
       <div class="kv"><span>預計學完</span><b>${ps.remaining?fmtDate(ps.end):'已學完'}</b></div>
       <div class="kv"><span>學習過的天數</span><b>${days}</b></div>
-      <div class="kv"><span>錯字本</span><b>${Object.keys(MIST).length}</b></div></div>
+      <div class="kv"><span>錯字本</span><b>${Object.keys(MIST).length}</b></div>
+      ${HASGRAM?`<div class="kv"><span>文法題已答對</span><b>${gDoneAll()} / ${gTotal()}</b></div><div class="kv"><span>文法錯題</span><b>${gmistQs().length}</b></div>`:''}</div>
     <div class="panel field"><span class="lab">備份進度</span>
       <span class="small muted">進度只存在這支手機的瀏覽器。換手機或清除資料前，先匯出備份；到新手機再匯入。</span>
       <div class="row"><button class="btn ghost" id="bexp">匯出備份</button><button class="btn ghost" id="bimp">匯入備份</button></div>
@@ -453,7 +504,7 @@ function renderMe(){
   $('#view').onclick=meClick;
 }
 function setApp(p){Object.assign(APP,p);store('toeic-app',APP);renderMe();toast('已更新計畫')}
-function backupJSON(){return JSON.stringify({app:'toeic-vocab',v:1,saved:new Date().toISOString(),srs:SRS,act:ACT,mist:MIST,plan:APP})}
+function backupJSON(){return JSON.stringify({app:'toeic-vocab',v:1,saved:new Date().toISOString(),srs:SRS,act:ACT,mist:MIST,plan:APP,gram:GRAM,gmist:GMIST})}
 function meClick(e){
   const t=e.target.closest('[data-t]'),sc=e.target.closest('[data-s]'),w=e.target.closest('[data-w]');
   if(t){setApp({target:+t.dataset.t});return}if(sc){setApp({scope:sc.dataset.s});return}if(w){setApp({wpd:+w.dataset.w});return}
@@ -469,10 +520,10 @@ function meClick(e){
   else if(id==='bdo'){const b=e.target;let d;
     try{d=JSON.parse($('#bin').value);if(d.app!=='toeic-vocab'||typeof d.srs!=='object')throw 0}catch(x){toast('這不是有效的備份內容，請重新貼上或選檔');return}
     if(!b.dataset.armed){b.dataset.armed='1';b.textContent='會覆蓋這支手機目前的進度，再按一次確認';return}
-    SRS=d.srs||{};ACT=d.act||{};MIST=d.mist||{};if(d.plan&&d.plan.wpd)APP=d.plan;
-    saveSRS();store('toeic-act',ACT);saveMist();store('toeic-app',APP);renderMe();toast(`已匯入 ${Object.keys(SRS).length} 個字的進度`)}
+    SRS=d.srs||{};ACT=d.act||{};MIST=d.mist||{};GRAM=d.gram||{};GMIST=d.gmist||{};if(d.plan&&d.plan.wpd)APP=d.plan;
+    saveSRS();store('toeic-act',ACT);saveGram();saveGMist();saveMist();store('toeic-app',APP);renderMe();toast(`已匯入 ${Object.keys(SRS).length} 個字的進度`)}
   else if(id==='breset'){const b=e.target;if(!b.dataset.armed){b.dataset.armed='1';b.textContent='確定要清除？再按一次';return}
-    SRS={};ACT={};MIST={};APP=null;DAY={};['toeic-srs','toeic-act','toeic-l01-mistakes','toeic-app','toeic-app-day','toeic-plan'].forEach(k=>{try{localStorage.removeItem(k)}catch(x){}});
+    SRS={};ACT={};MIST={};GRAM={};GMIST={};APP=null;DAY={};['toeic-srs','toeic-act','toeic-l01-mistakes','toeic-app','toeic-app-day','toeic-plan','toeic-gram','toeic-gram-mist'].forEach(k=>{try{localStorage.removeItem(k)}catch(x){}});
     updBadge();renderOnboard()}
 }
 
@@ -549,7 +600,7 @@ function rate(good){
 }
 function nextStepBtn(){
   if(S.from!=='today')return `<button class="btn" id="snext">完成</button>`;
-  const ti=todayInfo(),L={learn:`下一步：學新字（${ti.nq.length}）`,review:`下一步：複習 ${ti.due.length} 個字`,quiz:'下一步：今日小測驗'};
+  const ti=todayInfo(),L={learn:`下一步：學新字（${ti.nq.length}）`,review:`下一步：複習 ${ti.due.length} 個字`,quiz:'下一步：今日小測驗',gram:'下一步：每日文法'};
   return ti.next==='done'?`<button class="btn" id="snext">今天完成了 🎉</button>`:`<button class="btn" id="snext" data-next="${ti.next}">${L[ti.next]}</button>`;
 }
 function cardsDone(){
@@ -650,13 +701,159 @@ function quizKey(e){const q=S.Q&&S.Q[S.qi];if(!q||S.done)return;
   if(!q.done&&!q.typed&&/^[1-4]$/.test(e.key)&&q.opts[+e.key-1]){answer(+e.key-1);return}
   if(q.done&&e.key==='Enter'&&document.activeElement.id!=='qnext'){e.preventDefault();$('#qnext').click()}}
 
+/* ---------- 文法：主題清單 ---------- */
+const lvlQs=t=>t.qs.filter(q=>(APP&&APP.target>=900)||q.lvl===700);
+const gDone=t=>lvlQs(t).filter(q=>GRAM[q.id]&&GRAM[q.id].c).length;
+const gTotal=()=>GRAM_T.reduce((a,t)=>a+lvlQs(t).length,0),gDoneAll=()=>GRAM_T.reduce((a,t)=>a+gDone(t),0);
+function gmistHit(q,ok){
+  if(ok){const m=GMIST[q.id];if(!m)return;m.ok=(m.ok||0)+1;if(m.ok>=3)delete GMIST[q.id]}
+  else{const m=GMIST[q.id]||{n:0};m.n++;m.t=Date.now();m.ok=0;GMIST[q.id]=m}
+  saveGMist();
+}
+/* daily set: up to 2 old mistakes, then the next unanswered questions of the first unfinished topic */
+function dailyGramQs(){
+  const m=shuffle(gmistQs()).slice(0,2);
+  const t=GRAM_T.find(t=>gDone(t)<lvlQs(t).length)||GRAM_T[Math.random()*GRAM_T.length|0];
+  let out=m.concat(lvlQs(t).filter(q=>!m.includes(q)&&!(GRAM[q.id]&&GRAM[q.id].c)).slice(0,GSIZE-m.length));
+  if(out.length<GSIZE)out=out.concat(shuffle(lvlQs(t).filter(q=>!out.includes(q))).slice(0,GSIZE-out.length));
+  return out;
+}
+function topicQs(t){const qs=lvlQs(t),todo=qs.filter(q=>!(GRAM[q.id]&&GRAM[q.id].c));return todo.length?todo.concat(shuffle(qs.filter(q=>!todo.includes(q)))):shuffle(qs)}
+function renderGrammar(){
+  if(!HASGRAM){view(`<h1>文法</h1><div class="empty"><div class="big">📘</div><p>文法題庫沒有載入，請重新整理頁面。</p></div>`);return}
+  const all=gTotal(),done=gDoneAll(),M=gmistQs().length,ds=dayState();
+  view(`<h1>文法</h1><p class="muted small" style="margin:0">TOEIC Part 5、6 最常考的 ${GRAM_T.length} 個文法主題。小老師一題一題問你，答錯時用問答帶你找出線索。</p>
+    <div class="qcards">
+      <button class="qcard hero" data-g="daily"><span class="ic">💬</span><span class="t"><b>每日文法 ${GSIZE} 題</b><small>${ds.gram?`今天已完成 ${ds.gs} / ${GSIZE}，可以再做一次`:'接著你上次的主題，加上文法錯題'}</small></span></button>
+      <button class="qcard" data-g="mix"><span class="ic">🎲</span><span class="t"><b>綜合練習 10 題</b><small>從所有主題隨機出題</small></span></button>
+      ${M?`<button class="qcard" data-g="mist"><span class="ic">📕</span><span class="t"><b>文法錯題 ${M} 題</b><small>同一題連續答對 3 次就會移出</small></span></button>`:''}
+    </div>
+    <div class="panel"><div class="row small"><span class="grow">已答對（${APP.target>=900?'700＋900 題目':'700 程度題目'}）</span><b class="en">${done} / ${all}</b></div>
+      <div class="meter" style="margin-top:8px"><i style="width:${all?done/all*100:0}%"></i></div></div>
+    <div class="list">${GRAM_T.map((t,i)=>{const n=lvlQs(t).length,d=gDone(t);return `<button class="item" data-gt="${i}"><span class="pic" aria-hidden="true">${t.icon||'📘'}</span>
+      <span class="t"><span class="w" style="font-family:var(--f-zh)">${i+1}. ${esc(t.title_zh)}</span><span class="z en" style="display:block">${esc(t.title_en)}</span></span>
+      <span class="dot ${d>=n?'known':d?'learning':''}">${d>=n?'完成':d?`${d} / ${n}`:'開始'}</span></button>`}).join('')}</div>
+    <p class="credit">文法題目與說明為自動產生，可能有錯誤。</p>`);
+  $('#view').onclick=e=>{const it=e.target.closest('[data-gt]');if(it){const t=GRAM_T[+it.dataset.gt];openGram(topicQs(t),{title:t.title_zh,topic:t});return}
+    const b=e.target.closest('[data-g]');if(!b)return;const k=b.dataset.g;
+    if(k==='daily')openGram(dailyGramQs(),{daily:true,title:'每日文法'});
+    else if(k==='mix')openGram(shuffle(GRAM_T.flatMap(lvlQs)).slice(0,10),{title:'綜合練習'});
+    else if(k==='mist')openGram(shuffle(gmistQs()).slice(0,10),{title:'文法錯題'})};
+}
+
+/* ---------- 文法：對話式小老師 ---------- */
+const ABCD='ABCD';
+const fillS=(q,i)=>q.s.replace('___',q.opts[i]);
+const sentHTML=(q,fill)=>esc(q.s).replace('___',fill!=null?`<strong>${esc(fill)}</strong>`:'<span class="gap">_____</span>');
+const pickOne=a=>a[Math.random()*a.length|0];
+function openGram(qs,opt){
+  qs=qs.filter(Boolean);if(!qs.length){toast('沒有可以練習的題目');return}
+  S={type:'gram',qs:qs.slice(),i:0,score:0,missed:[],title:opt.title,topic:opt.topic||null,daily:opt.daily,from:opt.from,ex:0,click:gramClick,key:gramKey};
+  openSheet(`<div class="meter"><i id="sbar" style="width:0"></i></div><span class="cnt" id="scnt"></span>`,'<div class="chat" id="chat"></div>','');
+  const t=S.topic;
+  tutor(t?`我們來練「<b>${esc(t.title_zh)}</b>」<span class="en small">（${esc(t.title_en)}）</span>，共 ${qs.length} 題。先試試看，不會也沒關係，我會一步步帶你。`
+    :`「${esc(opt.title)}」共 ${qs.length} 題。答錯時我會用問題帶你找線索。`);
+  gAsk();
+}
+function addBub(h){const c=$('#chat');if(!c)return;c.insertAdjacentHTML('beforeend',h);
+  requestAnimationFrame(()=>{const b=$('#sbody');if(b)b.scrollTop=b.scrollHeight})}
+const tutor=(html,cls)=>addBub(`<div class="bub tu ${cls||''}">${html}</div>`);
+const mine=text=>addBub(`<div class="bub me">${esc(text)}</div>`);
+function replies(list){S.rp=list;
+  $('#sfoot').innerHTML=`<div class="replies">${list.map((r,i)=>`<button class="rbtn${r.en?' en':''}${r.main?' main':''}${r.wide?' opt4':''}" data-rp="${i}">${esc(r.t)}</button>`).join('')}</div>`}
+function gAsk(){
+  const q=S.qs[S.i];S.cur={q,wrong:[],hinted:false,step:0,done:false};
+  $('#sbar').style.width=(S.i/S.qs.length*100)+'%';$('#scnt').textContent=`${S.i+1} / ${S.qs.length}`;
+  tutor(`<span class="who">第 ${S.i+1} 題${S.topic?'':' · '+esc(q.t.title_zh)}${q.lvl===900?' · 900 程度':''}</span>
+    <p class="s">${sentHTML(q)}</p><span class="small muted">選出最適合填入空格的答案</span>`);
+  gOpts();
+}
+function gOpts(){const c=S.cur,q=c.q;S.back=gOpts;
+  const r=[];q.opts.forEach((o,i)=>{if(!c.wrong.includes(i))r.push({t:`(${ABCD[i]}) ${o}`,en:1,wide:1,fn:()=>gPick(i)})});
+  if(!c.hinted&&!c.wrong.length)r.push({t:'💡 給我提示',fn:gHint});
+  r.push({t:'📘 教我規則',fn:gRule});
+  replies(r);
+}
+function gRecord(q,ok){
+  const g=GRAM[q.id]||{c:0,n:0};g.n++;if(ok)g.c++;g.last=ok?1:0;GRAM[q.id]=g;saveGram();logAct();gmistHit(q,ok);
+  if(ok)S.score++;else if(!S.missed.includes(q))S.missed.push(q);
+}
+function gPick(i){const c=S.cur,q=c.q;if(c.done)return;mine(`(${ABCD[i]}) ${q.opts[i]}`);
+  const reveal=cls=>`<p class="s">${sentHTML(q,q.opts[q.a])} ${sayBtn(fillS(q,q.a),1)}</p><p class="small">${esc(q.zh)}</p><p>${esc(q.why_zh)}</p>`;
+  if(i===q.a){c.done=true;
+    if(!c.wrong.length)gRecord(q,true);
+    tutor(`<b>✓ ${c.wrong.length?'這次對了！':c.hinted?'答對了，線索有用到！':pickOne(['答對了！','完全正確！','很好！'])}</b>${reveal()}`,'ok');
+    gAfter();return}
+  c.wrong.push(i);
+  if(c.wrong.length===1)gRecord(q,false);
+  if(c.wrong.length===1&&!c.hinted&&q.guide&&q.guide.length){
+    tutor(`嗯，不是 (${ABCD[i]}) 喔。沒關係，我們一步一步想。`);c.step=0;gGuide();return}
+  c.done=true;
+  tutor(`<b>正確答案是 (${ABCD[q.a]}) ${esc(q.opts[q.a])}</b>${reveal()}<p class="small muted">這題已加入錯題本，之後會再出現。</p>`,'no');
+  gAfter();
+}
+function gHint(){const c=S.cur;mine('給我提示');c.hinted=true;c.step=0;tutor('好，我們先找線索。');gGuide()}
+function gGuide(){const c=S.cur,g=c.q.guide[c.step];
+  tutor(`${esc(g.q)}<br><span class="small muted en">${esc(g.en||'')}</span>`);
+  replies(g.opts.map((o,i)=>({t:o,fn:()=>gStep(i)})));
+}
+function gStep(i){const c=S.cur,g=c.q.guide[c.step];mine(g.opts[i]);
+  tutor(`${i===g.a?'<b>✓ 沒錯。</b>':`<b>其實是「${esc(g.opts[g.a])}」。</b>`}${esc(g.say)}`,i===g.a?'ok':'');
+  c.step++;
+  if(c.step<c.q.guide.length){gGuide();return}
+  tutor(c.wrong.length?'有了這個線索，再選一次看看？':'現在你會選哪一個？');gOpts();
+}
+function gAfter(){const last=S.i+1>=S.qs.length;S.back=gAfter;
+  $('#scnt').textContent=`${S.i+1} / ${S.qs.length}`;
+  replies([{t:last?'看成績':'下一題 →',main:1,fn:gNext},{t:'為什麼？',fn:gWhy},{t:'再舉個例',fn:gEx},{t:'看規則',fn:gRule}]);
+}
+function gRule(){const t=S.cur.q.t;mine('教我這個規則');
+  tutor(`<b>${esc(t.title_zh)}</b> <span class="en small muted">${esc(t.title_en)}</span>
+    ${t.pattern?`<p class="rule"><b>${esc(t.pattern)}</b></p>`:''}<p>${esc(t.rule_zh)}</p><p class="en small">${esc(t.rule_en)}</p>
+    ${t.spot_zh?`<p class="small">🔎 ${esc(t.spot_zh)}</p>`:''}`);
+  S.back();
+}
+function gWhy(){const q=S.cur.q;mine('為什麼？');
+  const traps=q.opts.map((o,i)=>i).filter(i=>i!==q.a).map(i=>`(${ABCD[i]}) ${esc(q.opts[i])}`).join('、');
+  tutor(`<p class="en">${esc(q.why_en)}</p><p>${esc(q.why_zh)}</p><p class="small muted">其他選項 ${traps} 放進句子都不合文法或意思不對。</p>${q.guide&&q.guide.length?`<p class="small">🔎 關鍵：${esc(q.guide[0].say)}</p>`:''}`);
+  S.back();
+}
+function gEx(){const t=S.cur.q.t,ex=t.examples||[];mine('再舉個例');
+  if(!ex.length){tutor('這個主題目前沒有更多例句。');S.back();return}
+  const e=ex[S.ex++%ex.length];
+  tutor(`生活例句：<p class="s">${esc(e.en)} ${sayBtn(e.en,1)}</p><p class="small">${esc(e.zh)}</p>`);
+  S.back();
+}
+function gNext(){S.i++;if(S.i<S.qs.length){gAsk();return}gResults()}
+function gResults(){
+  S.done=true;$('#sbar').style.width='100%';$('#scnt').textContent='完成';
+  if(S.daily){const ds=dayState();ds.gram=1;ds.gs=Math.max(ds.gs||0,S.score);saveDay()}
+  const n=S.qs.length,pct=S.score/n,msg=pct>=.8?'很棒！':pct>=.6?'不錯，答錯的題目已放進錯題本。':'再接再厲！看看規則再試一次。';
+  $('#sbody').innerHTML=`<div class="inner"><div class="result"><div class="qtype">${esc(S.title)} · 你的成績</div>
+    <div class="score en">${S.score} / ${n}</div><p>${msg}</p><p class="small muted">第一次就答對才算分。</p>
+    ${S.missed.length?`<div class="list mlist">${S.missed.map(q=>`<div class="item" style="cursor:default"><span class="pic" aria-hidden="true">${q.t.icon||'📘'}</span>
+      <span class="t"><span class="en" style="display:block">${esc(fillS(q,q.a))}</span><span class="z" style="display:block">${esc(q.t.title_zh)}</span></span></div>`).join('')}</div>`:''}</div></div>`;
+  $('#sfoot').innerHTML=`<div style="display:flex;flex-direction:column;gap:8px;width:100%">
+    ${S.missed.length?`<button class="btn ghost" id="gretry">再練答錯的 ${S.missed.length} 題</button>`:''}
+    <div class="row"><button class="btn plain" id="gagain">再練一次</button>${nextStepBtn()}</div></div>`;
+}
+function gramClick(e){
+  const r=e.target.closest('[data-rp]');if(r&&S.rp){const x=S.rp[+r.dataset.rp];if(x){S.rp=null;x.fn()}return}
+  if(e.target.id==='gagain'){openGram(shuffle(S.qs),{from:S.from,title:S.title,topic:S.topic});return}
+  if(e.target.id==='gretry'){openGram(S.missed.slice(),{from:S.from,title:'練答錯的題目'});return}
+  if(e.target.id==='snext'){const k=e.target.dataset.next;closeSheet();if(k)startStep(k)}
+}
+function gramKey(e){if(S.done||!S.rp)return;
+  if(/^[1-9]$/.test(e.key)&&S.rp[+e.key-1]){const x=S.rp[+e.key-1];S.rp=null;x.fn();return}
+  if(e.key==='Enter'&&S.rp[0]&&S.rp[0].main&&!(document.activeElement&&document.activeElement.closest('[data-rp]'))){e.preventDefault();const x=S.rp[0];S.rp=null;x.fn()}}
+
 /* ---------- Android back button: close a session, then go back to Today ---------- */
 window.appBack=()=>{if(!$('#sheet').hidden){closeSheet();return true}if(!$('#tabs').hidden&&TAB!=='today'){go('today');return true}return false};
 
 /* ---------- start ---------- */
 updBadge();
 if(!APP||!APP.wpd)renderOnboard();
-else{const h=location.hash.slice(1),m={today:'today',words:'words',quiz:'quiz',mistakes:'mist',me:'me'};go(m[h]||'today')}
+else{const h=location.hash.slice(1),m={today:'today',words:'words',grammar:'grammar',quiz:'quiz',mistakes:'mist',me:'me'};go(m[h]||'today')}
 </script>
 <script>if(!window.AndroidApp&&'serviceWorker' in navigator&&location.protocol.startsWith('http'))addEventListener('load',()=>navigator.serviceWorker.register('sw.js').catch(()=>{}));</script>
 </body></html>
