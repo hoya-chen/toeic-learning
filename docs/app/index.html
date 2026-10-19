@@ -683,7 +683,8 @@ function bindSwipe(el){
     el.querySelector('.tag.r').style.opacity=Math.max(0,Math.min(1,dx/90));el.querySelector('.tag.l').style.opacity=Math.max(0,Math.min(1,-dx/90))});
   const end=()=>{if(x0==null)return;x0=null;el.classList.remove('drag');
     if(Math.abs(dx)>90)rate(dx>0);else{el.style.transform='';el.querySelectorAll('.tag').forEach(t=>t.style.opacity=0)}dx=0};
-  el.addEventListener('pointerup',end);el.addEventListener('pointercancel',()=>{dx=0;end()});
+  /* a fast swipe may deliver few pointermove events, so also read the distance from pointerup */
+  el.addEventListener('pointerup',e=>{if(x0!=null&&e.pointerId===id){const ux=e.clientX-x0;if(Math.abs(ux)>Math.abs(dx)&&Math.abs(ux)>Math.abs(e.clientY-y0))dx=ux}end()});el.addEventListener('pointercancel',()=>{dx=0;end()});
 }
 
 /* ---------- quiz sessions ---------- */
