@@ -15,7 +15,9 @@ Vocabulary trainer for learners aiming for 700 or 900 on the TOEIC. Each learner
 
 ## Phone app (redesign)
 
-`docs/app/` is a redesigned, phone-first version of the trainer: a bottom tab bar (Today, Words, Quiz, Mistakes, Me), a daily task flow (new words, then due reviews, then a 10-question quiz), swipe cards, a streak and progress backup (export/import). It is an installable offline web app (PWA). With GitHub Pages serving `main` from `/docs`, it is at https://hoya-chen.github.io/toeic-learning/app/ . It uses the same browser storage keys as the earlier page, so progress made there carries over on the same site.
+`docs/app/` is a redesigned, phone-first version of the trainer: a bottom tab bar (Today, Words, Grammar, Quiz, Mistakes, Me), a daily task flow (new words, then due reviews, then a 10-question quiz, then 5 grammar questions), swipe cards, a streak and progress backup (export/import). It is an installable offline web app (PWA). With GitHub Pages serving `main` from `/docs`, it is at https://hoya-chen.github.io/toeic-learning/app/ . It uses the same browser storage keys as the earlier page, so progress made there carries over on the same site.
+
+The Grammar tab (文法) covers 20 common TOEIC Part 5/6 grammar topics, 15 questions each (10 at 700 level, 5 at 900 level), in `docs/app/grammar.js`. A built-in chat tutor asks each question; after a wrong answer it asks one or two guiding questions before showing the answer, with bilingual (English / Traditional Chinese) explanations, the rule and everyday examples. It works offline with no AI service. Wrong answers go to the Mistakes tab and leave after 3 correct answers in a row. The questions are machine-generated and re-checked by a second automated pass, so they may contain errors.
 
 ## Android app (APK)
 
