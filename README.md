@@ -2,9 +2,29 @@
 
 Vocabulary trainer for learners aiming for 700 or 900 on the TOEIC. Each learner picks a target in My Plan. Explanations are in English and Traditional Chinese (繁體中文).
 
+## How learners use it / 怎麼使用
+
+| Way 方式 | Link 連結 | For 適合 |
+|---|---|---|
+| Android app (APK) | https://github.com/hoya-chen/toeic-learning/releases/latest/download/toeic-vocab.apk | Android phones, works offline 安卓手機，可離線使用 |
+| Phone web app 手機網頁版 | https://hoya-chen.github.io/toeic-learning/app/ | iPhone and any phone; "Add to Home Screen" to use it like an app 任何手機，可「加到主畫面」 |
+| Original page 原本的網頁 | https://hoya-chen.github.io/toeic-learning/ | Computer or phone browser 電腦或手機瀏覽器 |
+
+**Install the Android app 安裝 Android App**
+
+1. Open the APK link above on the phone and download `toeic-vocab.apk`. 用手機打開上面的 APK 連結，下載 `toeic-vocab.apk`。
+2. Open the downloaded file. The first time, Android asks to allow installing apps from this source: choose Allow. 打開下載的檔案；第一次安裝時手機會問是否「允許安裝不明來源的應用程式」，選允許。
+3. Tap Install, then open "TOEIC 單字". 按安裝，然後打開「TOEIC 單字」。
+
+To update, download the APK again and install it over the old one; progress is kept. 更新時重新下載安裝即可，學習進度會保留。
+
+Progress is saved on each device (no account), so the app, the web app and the original page each keep their own progress. Use Me > Backup progress (我的 > 備份進度) to move progress to another device. 進度存在各自的手機或瀏覽器裡（不需要帳號），App、手機網頁版和原本的網頁進度各自分開；換裝置時可用「我的 > 備份進度」匯出再匯入。
+
+The two web links work once GitHub Pages is on (Settings > Pages, branch `main`, folder `/docs`). 兩個網頁連結需要先在 GitHub 開啟 Pages（Settings > Pages，branch `main`，資料夾 `/docs`）。
+
 ## What is here
 
-- `vocabulary/flashcards.html` is the learner page (single file, no server needed). It has My Plan, Study, Review (spaced repetition), Quiz (6 question types) and Mistakes. Progress is stored in each learner's own browser.
+- `docs/index.html` (the original web page) and `vocabulary/flashcards.html` are the learner page (single file, no server needed). It has My Plan, Study, Review (spaced repetition), Quiz (6 question types) and Mistakes. Progress is stored in each learner's own browser.
 - `vocabulary/all-3000-words.json` is the full word data (field `lvl` is 700 or 900): 2000 core words (10 topics x 200, days 1-80) plus 1000 advanced words (10 topics x 100, days 81-120), 25 words a day.
 - `vocabulary/advanced-900-words.json` holds only the 1000 advanced words; `advanced-900-selection.json` lists them with their source list (BSL, NAWL or NGSL).
 - `vocabulary/all-2000-words-renumbered.json` is the 700-level core data (2000 words).
