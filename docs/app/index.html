@@ -234,18 +234,32 @@ textarea{font-family:ui-monospace,monospace;font-size:.75rem;min-height:90px}
 <div id="toast" hidden role="status"></div>
 <script src="words.js"></script>
 <script src="grammar.js"></script>
+<script src="phrases.js"></script>
 <script>
 /* ---------- basics ---------- */
 const $=s=>document.querySelector(s);
 const esc=s=>String(s==null?'':s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 const stem=w=>w.slice(0,Math.max(4,w.length-2)).replace(/[.*+?^${}()|[\]\\]/g,'\\$&');
 const bold=(s,w)=>esc(s).replace(new RegExp('\\b('+stem(w)+'\\w*)','i'),'<strong>$1</strong>');
+const rx=x=>x.replace(/[.*+?^${}()|[\]\\]/g,'\\$&');
+function phRe(p){let ws=p.split(' ');if(ws[0]==='be'&&ws.length>1)ws=ws.slice(1);
+  const part=(x,i)=>x==="one's"||x==='a'||x==='an'?"\\w+(?:'s)?":rx(x)+(i===ws.length-2?'(?:e?s)?':'');
+  const head=ws[0].length>3?rx(ws[0].slice(0,-1))+'\\w*':rx(ws[0])+'\\w*',rest=ws.slice(1).map((x,i)=>part(x,i)).join('\\s+');
+  return [new RegExp('\\b('+head+(rest?'\\s+'+rest:'')+')\\b','i'),rest?new RegExp("\\b(\\w+\\s+"+rest+')\\b','i'):null]}
+function hl(s,w){if(!w.ph)return bold(s,w.word);
+  if(w.ans&&s.includes(w.ans))return esc(s).replace(esc(w.ans),'<strong>'+esc(w.ans)+'</strong>');
+  const [a,b]=phRe(w.word),e=esc(s);if(a.test(s))return e.replace(a,'<strong>$1</strong>');if(b&&b.test(s))return e.replace(b,'<strong>$1</strong>');return e}
 const shuffle=a=>{a=a.slice();for(let i=a.length-1;i>0;i--){const j=Math.random()*(i+1)|0;[a[i],a[j]]=[a[j],a[i]]}return a};
 const today=()=>{const d=new Date();return Math.floor((d.getTime()-d.getTimezoneOffset()*6e4)/864e5)};
 const load=(k,d)=>{try{const v=JSON.parse(localStorage.getItem(k)||'null');return v==null?d:v}catch(e){return d}};
 const store=(k,v)=>{try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}};
 const WORDS=window.WORDS||[];
-const BYWORD={};WORDS.forEach(w=>{BYWORD[w.word]=w});
+/* phrases share the card/quiz engine: each phrase gets word=its text and ph=1, and uses the same SRS and mistakes stores */
+const PHRASES=(window.PHRASES||[]).map(p=>Object.assign(p,{word:p.p,ph:1})),HASPH=PHRASES.length>0,PPD=10;
+const PTYPE={pv:'片語動詞',prep:'介系詞片語',exp:'慣用語'};
+const BYWORD={};WORDS.forEach(w=>{BYWORD[w.word]=w});PHRASES.forEach(p=>{if(!BYWORD[p.word])BYWORD[p.word]=p});
+const ISPH=k=>BYWORD[k]&&BYWORD[k].ph;
+const posL=w=>w.ph?(PTYPE[w.type]||'片語'):w.pos+'.';
 const TOPICS=['辦公室與日常工作','會議與行程','人資與招聘','出差與旅行','業務與行銷','客戶服務','財務與會計','採購與運送','製造','設施與工程'];
 const KIND={confuse:'易混淆',family:'字族',syn:'近義',opp:'反義'};
 const INTERVALS=[0,1,3,7,14,30];
@@ -255,7 +269,7 @@ const QSIZE=10;
 let SRS=load('toeic-srs',{}),ACT=load('toeic-act',{}),MIST=load('toeic-l01-mistakes',{});
 let APP=load('toeic-app',null),DAY=load('toeic-app-day',{});
 const saveSRS=()=>store('toeic-srs',SRS),saveMist=()=>{store('toeic-l01-mistakes',MIST);updBadge()};
-function dayState(){if(DAY.d!==today()){DAY={d:today(),rev:0,quiz:0,qs:null,gram:0,gs:null};store('toeic-app-day',DAY)}return DAY}
+function dayState(){if(DAY.d!==today()){DAY={d:today(),rev:0,quiz:0,qs:null,gram:0,gs:null,prev:0};store('toeic-app-day',DAY)}return DAY}
 const saveDay=()=>store('toeic-app-day',DAY);
 /* grammar: topics come from grammar.js; each question gets a stable id like "passive-3" */
 const GRAM_T=window.GRAMMAR||[],HASGRAM=GRAM_T.length>0,GSIZE=5;
@@ -286,7 +300,13 @@ document.addEventListener('click',e=>{const s=e.target.closest('[data-say]');if(
 /* ---------- plan ---------- */
 function planWords(){const t=APP?APP.target:700,sc=APP?APP.scope:'both';
   return WORDS.filter(w=>t>=900?(sc==='adv'?w.lvl===900:true):w.lvl!==900)}
-const introducedToday=()=>Object.values(SRS).filter(s=>s.since===today()).length;
+const introducedToday=()=>Object.keys(SRS).filter(k=>!ISPH(k)&&SRS[k].since===today()).length;
+/* phrases: 700 plan = 350 lvl-700 phrases, 900 plan = all 500; 10 new phrases a day */
+const planPhrases=()=>PHRASES.filter(p=>APP&&APP.target>=900?true:p.lvl!==900);
+const phIntroToday=()=>PHRASES.filter(p=>SRS[p.word]&&SRS[p.word].since===today()).length;
+function newPhQueue(){const left=Math.max(0,PPD-phIntroToday());return left?planPhrases().filter(p=>!SRS[p.word]).slice(0,left):[]}
+const duePhrases=()=>PHRASES.filter(p=>{const s=SRS[p.word];return s&&s.due<=today()});
+const learnedPhrases=()=>PHRASES.filter(p=>SRS[p.word]);
 function newQueue(){const left=Math.max(0,APP.wpd-introducedToday());return left?planWords().filter(w=>!SRS[w.word]).slice(0,left):[]}
 const dueWords=()=>WORDS.filter(w=>{const s=SRS[w.word];return s&&s.due<=today()});
 const learnedWords=()=>WORDS.filter(w=>SRS[w.word]);
@@ -296,10 +316,12 @@ function todayInfo(){
   const ds=dayState(),nq=newQueue(),due=dueWords(),newDone=introducedToday();
   const newGoal=newDone+nq.length,revTotal=ds.rev+due.length;
   const parts=[newGoal?newDone/newGoal:1,revTotal?ds.rev/revTotal:1,ds.quiz?1:0];
+  const pnq=HASPH?newPhQueue():[],pdue=HASPH?duePhrases():[],pnew=phIntroToday(),pgoal=pnew+pnq.length+(ds.prev||0)+pdue.length;
+  if(HASPH)parts.push(pgoal?(pnew+(ds.prev||0))/pgoal:1);
   if(HASGRAM)parts.push(ds.gram?1:0);
   const pct=Math.round(parts.reduce((a,b)=>a+b,0)/parts.length*100);
-  const next=nq.length?'learn':due.length?'review':!ds.quiz?'quiz':HASGRAM&&!ds.gram?'gram':'done';
-  return {ds,nq,due,newDone,newGoal,revTotal,pct,next};
+  const next=nq.length?'learn':due.length?'review':pnq.length||pdue.length?'phrase':!ds.quiz?'quiz':HASGRAM&&!ds.gram?'gram':'done';
+  return {ds,nq,due,newDone,newGoal,revTotal,pct,next,pnq,pdue,pnew,pgoal};
 }
 function planStats(){
   const pw=planWords(),learned=pw.filter(w=>SRS[w.word]).length,before=Math.max(0,learned-introducedToday());
@@ -352,7 +374,8 @@ function renderToday(){
   const ti=todayInfo(),ps=planStats(),s=streak(),C=2*Math.PI*62;
   const step=(k,ic,label,sub,n,done)=>`<button class="task ${done?'done':''} ${ti.next===k?'now':''}" data-step="${k}">
       <span class="ic">${done?'✓':ic}</span><span class="t">${label}<small>${sub}</small></span><span class="n">${n}</span></button>`;
-  const btnTxt={learn:ti.newDone?'繼續今日任務':'開始今日任務',review:'繼續：複習到期的字',quiz:'繼續：今日小測驗',gram:'繼續：每日文法'}[ti.next];
+  const btnTxt={learn:ti.newDone?'繼續今日任務':'開始今日任務',review:'繼續：複習到期的字',phrase:'繼續：今日片語',quiz:'繼續：今日小測驗',gram:'繼續：每日文法'}[ti.next];
+  let no=2;const nx=()=>String(++no);
   view(`<div class="tophead"><div><div class="eyebrow">目標 TOEIC ${APP.target}${APP.target>=900&&APP.scope==='adv'?'（只學進階字）':''}</div>
       <h1 class="dayno en">Day ${ps.dayN} <small>/ ${ps.totalDays}</small></h1></div>
       <div class="streak"><b>${s}</b><span>連續天數</span></div></div>
@@ -361,8 +384,9 @@ function renderToday(){
     <div class="tasks">
       ${step('learn','1','學新字',ti.newGoal?'用卡片學今天的新字':'這個目標的字都學過了',`${ti.newDone} / ${ti.newGoal}`,ti.newGoal&&!ti.nq.length||!ti.newGoal)}
       ${step('review','2','複習','間隔 1、3、7、14、30 天回來的字',`${ti.ds.rev} / ${ti.revTotal}`,!ti.due.length)}
-      ${step('quiz','3','今日小測驗',`${QSIZE} 題，答錯的字會進錯字本`,ti.ds.quiz?`${ti.ds.qs} / ${QSIZE}`:'未完成',!!ti.ds.quiz)}
-      ${HASGRAM?step('gram','4','每日文法',`${GSIZE} 題對話練習，答錯時小老師帶你找線索`,ti.ds.gram?`${ti.ds.gs} / ${GSIZE}`:'未完成',!!ti.ds.gram):''}
+      ${HASPH?step('phrase',nx(),'今日片語',ti.pdue.length?`${ti.pnq.length} 個新片語＋${ti.pdue.length} 個要複習`:`每天 ${PPD} 個新片語，附例句和易混淆片語`,`${ti.pnew+(ti.ds.prev||0)} / ${ti.pgoal}`,!ti.pnq.length&&!ti.pdue.length):''}
+      ${step('quiz',nx(),'今日小測驗',`${QSIZE} 題，答錯的字會進錯字本`,ti.ds.quiz?`${ti.ds.qs} / ${QSIZE}`:'未完成',!!ti.ds.quiz)}
+      ${HASGRAM?step('gram',nx(),'每日文法',`${GSIZE} 題對話練習，答錯時小老師帶你找線索`,ti.ds.gram?`${ti.ds.gs} / ${GSIZE}`:'未完成',!!ti.ds.gram):''}
     </div>
     ${ti.next==='done'?`<div class="celebrate"><b>今天的任務都完成了 🎉</b><span class="small">明天再來，連續天數會繼續累積。</span></div>
       <button class="btn ghost" data-step="more">再多學 5 個新字</button>`:`<button class="btn" data-step="${ti.next}">${btnTxt}</button>`}
@@ -375,6 +399,7 @@ function startStep(k){
   const ti=todayInfo();
   if(k==='learn'){if(ti.nq.length)openCards('learn',ti.nq,{from:'today'});else toast('今天的新字已經學完了');}
   else if(k==='review'){if(ti.due.length)openCards('review',shuffle(ti.due),{from:'today'});else toast('目前沒有到期要複習的字');}
+  else if(k==='phrase'){const l=ti.pnq.concat(shuffle(ti.pdue));if(l.length)openCards('phrase',l,{from:'today'});else toast('今天的片語已經完成了');}
   else if(k==='quiz')openQuiz(dailyQuizWords(),{daily:true,from:'today',title:'今日小測驗'});
   else if(k==='gram')openGram(dailyGramQs(),{daily:true,from:'today',title:'每日文法'});
   else if(k==='more'){const extra=planWords().filter(w=>!SRS[w.word]).slice(0,5);if(extra.length)openCards('learn',extra,{from:'more'});else toast('這個目標的字都學過了')}
@@ -389,22 +414,54 @@ function dailyQuizWords(){
 /* ---------- 單字 ---------- */
 const DAYTOPIC={};WORDS.forEach(w=>{DAYTOPIC[w.day]=w.t});
 const DAYS=[...new Set(WORDS.map(w=>w.day))].sort((a,b)=>a-b);
-let WDAY=null,WQ='';
+let WDAY=null,WQ='',WMODE='w',PDAY=null,PQ='';
+const PDAYTOPIC={},PDAYLVL={};PHRASES.forEach(p=>{if(!PDAYTOPIC[p.day]){PDAYTOPIC[p.day]=p.t;PDAYLVL[p.day]=p.lvl}});
+const PDAYS=[...new Set(PHRASES.map(p=>p.day))].sort((a,b)=>a-b);
+const pdayOpts=sel=>PDAYS.map(d=>`<option value="${d}" ${d===sel?'selected':''}>Day ${d} · ${TOPICS[PDAYTOPIC[d]-1]}${PDAYLVL[d]===900?' · 進階 900':''}</option>`).join('');
+const wseg=()=>HASPH?`<div class="seg" id="wseg"><button data-wm="w" aria-pressed="${WMODE==='w'}">單字</button><button data-wm="p" aria-pressed="${WMODE==='p'}">片語</button></div>`:'';
 function renderWords(){
+  if(WMODE==='p'&&HASPH){renderPhrases();return}
   if(WDAY==null){const nx=planWords().find(w=>!SRS[w.word]);WDAY=nx?nx.day:1}
-  view(`<h1>單字</h1>
+  view(`<h1>單字</h1>${wseg()}
     <div class="search"><input type="search" id="wq" placeholder="搜尋英文或中文" value="${esc(WQ)}" aria-label="搜尋單字">
       <select id="wday" aria-label="選擇天數">${DAYS.map(d=>`<option value="${d}" ${d===WDAY?'selected':''}>Day ${d} · ${TOPICS[DAYTOPIC[d]-1]}${d>80?' · 進階 900':''}</option>`).join('')}</select></div>
     <div id="wlist"></div>`);
   drawWordList();
   $('#wq').oninput=e=>{WQ=e.target.value;drawWordList()};
   $('#wday').onchange=e=>{WDAY=+e.target.value;WQ='';$('#wq').value='';drawWordList()};
-  $('#view').onclick=e=>{const it=e.target.closest('[data-word]');if(it)openDetail(BYWORD[it.dataset.word]);
+  $('#view').onclick=e=>{const wm=e.target.closest('[data-wm]');if(wm){WMODE=wm.dataset.wm;renderWords();return}
+    const it=e.target.closest('[data-word]');if(it)openDetail(BYWORD[it.dataset.word]);
     if(e.target.id==='wlearn')openCards('learn',WORDS.filter(w=>w.day===WDAY),{from:'words'});
     if(e.target.id==='wquiz')openQuiz(shuffle(WORDS.filter(w=>w.day===WDAY)).slice(0,QSIZE),{title:`Day ${WDAY} 測驗`})};
 }
+function renderPhrases(){
+  if(PDAY==null){const nx=planPhrases().find(p=>!SRS[p.word]);PDAY=nx?nx.day:1}
+  view(`<h1>片語</h1>${wseg()}
+    <p class="small muted" style="margin:0">${PHRASES.length} 個 TOEIC 常考片語：片語動詞、介系詞片語、商務慣用語。每天 10 個。</p>
+    <div class="search"><input type="search" id="pq" placeholder="搜尋片語或中文" value="${esc(PQ)}" aria-label="搜尋片語">
+      <select id="pday" aria-label="選擇天數">${pdayOpts(PDAY)}</select></div>
+    <div id="plist"></div>`);
+  drawPhraseList();
+  $('#pq').oninput=e=>{PQ=e.target.value;drawPhraseList()};
+  $('#pday').onchange=e=>{PDAY=+e.target.value;PQ='';$('#pq').value='';drawPhraseList()};
+  $('#view').onclick=e=>{const wm=e.target.closest('[data-wm]');if(wm){WMODE=wm.dataset.wm;renderWords();return}
+    const it=e.target.closest('[data-word]');if(it)openDetail(BYWORD[it.dataset.word]);
+    if(e.target.id==='plearn')openCards('learn',PHRASES.filter(p=>p.day===PDAY),{from:'words'});
+    if(e.target.id==='pquiz')openQuiz(shuffle(PHRASES.filter(p=>p.day===PDAY)),{title:`片語 Day ${PDAY} 測驗`})};
+}
+function drawPhraseList(){
+  const q=PQ.trim().toLowerCase();let list,head='';
+  if(q){list=PHRASES.filter(p=>p.word.toLowerCase().includes(q)||p.zh.includes(q));
+    list.sort((a,b)=>(b.word.toLowerCase().startsWith(q))-(a.word.toLowerCase().startsWith(q)));
+    head=`<p class="small muted">找到 ${list.length} 個片語${list.length>80?'，顯示前 80 個':''}</p>`;list=list.slice(0,80)}
+  else{list=PHRASES.filter(p=>p.day===PDAY);const k=list.filter(p=>status(p)!=='new').length;
+    head=`<div class="row"><button class="btn" id="plearn">用卡片學這 ${list.length} 個片語</button><button class="btn ghost" id="pquiz" style="width:auto;flex:none;white-space:nowrap">測驗</button></div>
+      <p class="small muted">已學 ${k} / ${list.length}</p>`}
+  $('#plist').innerHTML=head+(list.length?`<div class="list">${list.map(p=>{const s=status(p);return itemHTML(p,`<span class="dot ${s}">${STATUS[s]}</span>`)}).join('')}</div>`
+    :`<div class="empty"><div class="big">🔍</div>找不到「${esc(PQ)}」</div>`);
+}
 function itemHTML(w,right){return `<button class="item" data-word="${esc(w.word)}"><span class="pic" aria-hidden="true">${w.pic}</span>
-  <span class="t"><span class="w">${esc(w.word)} <i>${w.pos}.</i></span><span class="z" style="display:block">${esc(w.zh)}</span></span>${right}</button>`}
+  <span class="t"><span class="w">${esc(w.word)} <i>${posL(w)}</i></span><span class="z" style="display:block">${esc(w.zh)}</span></span>${right}</button>`}
 function drawWordList(){
   const q=WQ.trim().toLowerCase();let list,head='';
   if(q){list=WORDS.filter(w=>w.word.toLowerCase().includes(q)||w.zh.includes(q));
@@ -419,11 +476,12 @@ function drawWordList(){
 
 /* ---------- 測驗 ---------- */
 function renderQuiz(){
-  const ds=dayState(),L=learnedWords().length,M=Object.keys(MIST).length;
+  const ds=dayState(),L=learnedWords().length,M=mistWords().length;
   view(`<h1>測驗</h1><p class="muted small" style="margin:0">六種題型輪流出現，可以一直重做。答錯的字會自動加入錯字本。</p>
     <div class="qcards">
       <button class="qcard hero" data-q="daily"><span class="ic">⚡</span><span class="t"><b>今日小測驗</b><small>${ds.quiz?`今天已完成 ${ds.qs} / ${QSIZE}，可以再做一次`:`${QSIZE} 題，以最近學的字為主`}</small></span></button>
       <button class="qcard" data-q="learned"><span class="ic">🎲</span><span class="t"><b>已學過的字</b><small>${L?`從 ${L} 個學過的字隨機出 ${QSIZE} 題`:'還沒學過字，會先從第一天的字出題'}</small></span></button>
+      ${HASPH?`<button class="qcard" data-q="ph"><span class="ic">🧩</span><span class="t"><b>片語測驗</b><small>${learnedPhrases().length?`從 ${learnedPhrases().length} 個學過的片語出 ${QSIZE} 題`:'還沒學過片語，會先從第一天的片語出題'}</small></span></button>`:''}
       <button class="qcard" data-q="mist" ${M?'':'disabled'}><span class="ic">📕</span><span class="t"><b>錯字測驗</b><small>${M?`從 ${M} 個錯字出題`:'目前沒有錯字'}</small></span></button>
       <div class="panel field"><label for="qday">指定天數</label>
         <select id="qday">${DAYS.map(d=>`<option value="${d}">Day ${d} · ${TOPICS[DAYTOPIC[d]-1]}${d>80?' · 進階 900':''}</option>`).join('')}</select>
@@ -434,16 +492,19 @@ function renderQuiz(){
     if(k==='daily')openQuiz(dailyQuizWords(),{daily:true,title:'今日小測驗'});
     else if(k==='learned'){const l=learnedWords();openQuiz(l.length?shuffle(l).slice(0,QSIZE):planWords().slice(0,QSIZE),{title:'已學過的字'})}
     else if(k==='mist')openQuiz(shuffle(mistWords()).slice(0,QSIZE),{title:'錯字測驗'});
+    else if(k==='ph'){const l=learnedPhrases();openQuiz(l.length?shuffle(l).slice(0,QSIZE):planPhrases().slice(0,QSIZE),{title:'片語測驗'})}
     else if(k==='day'){const d=+$('#qday').value;openQuiz(shuffle(WORDS.filter(w=>w.day===d)).slice(0,QSIZE),{title:`Day ${d} 測驗`})}};
 }
 
 /* ---------- 錯字 ---------- */
-const mistWords=()=>WORDS.filter(w=>MIST[w.word]).sort((a,b)=>MIST[b.word].n-MIST[a.word].n||(MIST[b.word].t||0)-(MIST[a.word].t||0));
+const mistOf=src=>src.filter(w=>MIST[w.word]).sort((a,b)=>MIST[b.word].n-MIST[a.word].n||(MIST[b.word].t||0)-(MIST[a.word].t||0));
+const mistWords=()=>mistOf(WORDS),mistPhrases=()=>mistOf(PHRASES);
 let MTAB='w';
 function renderMist(){
-  const list=mistWords(),gl=gmistQs();
-  if(MTAB==='g'&&!gl.length&&list.length)MTAB='w';if(MTAB==='w'&&!list.length&&gl.length)MTAB='g';
-  const seg=HASGRAM?`<div class="seg" id="mseg"><button data-m="w" aria-pressed="${MTAB==='w'}">單字 ${list.length}</button><button data-m="g" aria-pressed="${MTAB==='g'}">文法 ${gl.length}</button></div>`:'';
+  const wl=mistWords(),pl=mistPhrases(),gl=gmistQs(),N={w:wl.length,p:pl.length,g:gl.length};
+  if(!N[MTAB]){const f=['w','p','g'].find(k=>N[k]);if(f)MTAB=f}
+  const list=MTAB==='p'?pl:wl,unit=MTAB==='p'?'個片語':'個字',nm=MTAB==='p'?'片語':'錯字';
+  const seg=HASGRAM||HASPH?`<div class="seg" id="mseg"><button data-m="w" aria-pressed="${MTAB==='w'}">單字 ${N.w}</button>${HASPH?`<button data-m="p" aria-pressed="${MTAB==='p'}">片語 ${N.p}</button>`:''}${HASGRAM?`<button data-m="g" aria-pressed="${MTAB==='g'}">文法 ${N.g}</button>`:''}</div>`:'';
   if(MTAB==='g'){
     view(`<h1>錯字本</h1>${seg}${gl.length?`
       <button class="btn" id="gmgo">和小老師練文法錯題${gl.length>10?'（10 題）':''}</button>
@@ -459,15 +520,16 @@ function renderMist(){
     return;
   }
   view(`<h1>錯字本</h1>${seg}${list.length?`
-    <div class="row"><div class="grow"><b class="en" style="font-family:var(--f-display);font-size:2rem">${list.length}</b> 個錯字</div></div>
-    <div class="row"><button class="btn" id="mcards">用錯字卡練習</button><button class="btn ghost" id="mquiz">錯字測驗</button></div>
-    <p class="small muted" style="margin:0">同一個字連續答對 3 次，就會自動移出錯字本。</p>
+    <div class="row"><div class="grow"><b class="en" style="font-family:var(--f-display);font-size:2rem">${list.length}</b> ${MTAB==='p'?'個片語錯題':'個錯字'}</div></div>
+    <div class="row"><button class="btn" id="mcards">用${nm}卡練習</button><button class="btn ghost" id="mquiz">${nm}測驗</button></div>
+    <p class="small muted" style="margin:0">同一${MTAB==='p'?'個片語':'個字'}連續答對 3 次，就會自動移出錯字本。</p>
     <div class="list">${list.map(w=>{const m=MIST[w.word];return itemHTML(w,`<span class="dot miss">錯 ${m.n} 次${m.ok?` · 對 ${m.ok}/3`:''}</span>`)}).join('')}</div>`
-    :`<div class="empty"><div class="big">🎉</div><p>目前沒有錯字。<br>做測驗時答錯的字會出現在這裡。</p><button class="btn" id="mgo">去做測驗</button></div>`}`);
+    :`<div class="empty"><div class="big">🎉</div><p>目前沒有${MTAB==='p'?'片語錯題':'錯字'}。<br>做測驗時答錯的${MTAB==='p'?'片語':'字'}會出現在這裡。</p><button class="btn" id="mgo">去做測驗</button></div>`}`);
   $('#view').onclick=e=>{const m=e.target.closest('[data-m]');if(m){MTAB=m.dataset.m;renderMist();return}
     const it=e.target.closest('[data-word]');if(it){openDetail(BYWORD[it.dataset.word]);return}
-    if(e.target.id==='mcards')openCards('mist',mistWords(),{});
-    if(e.target.id==='mquiz')openQuiz(shuffle(mistWords()).slice(0,QSIZE),{title:'錯字測驗'});
+    const ml=MTAB==='p'?mistPhrases():mistWords();
+    if(e.target.id==='mcards')openCards('mist',ml,{});
+    if(e.target.id==='mquiz')openQuiz(shuffle(ml).slice(0,QSIZE),{title:MTAB==='p'?'片語錯題測驗':'錯字測驗'});
     if(e.target.id==='mgo')go('quiz')};
 }
 function mistHit(w,ok){
@@ -492,7 +554,8 @@ function renderMe(){
       <div class="kv"><span>目前進度</span><b>Day ${ps.dayN} / ${ps.totalDays}</b></div>
       <div class="kv"><span>預計學完</span><b>${ps.remaining?fmtDate(ps.end):'已學完'}</b></div>
       <div class="kv"><span>學習過的天數</span><b>${days}</b></div>
-      <div class="kv"><span>錯字本</span><b>${Object.keys(MIST).length}</b></div>
+      <div class="kv"><span>錯字本</span><b>${mistWords().length}</b></div>
+      ${HASPH?`<div class="kv"><span>片語已學</span><b>${planPhrases().filter(p=>SRS[p.word]).length} / ${planPhrases().length}</b></div><div class="kv"><span>片語錯題</span><b>${mistPhrases().length}</b></div>`:''}
       ${HASGRAM?`<div class="kv"><span>文法題已答對</span><b>${gDoneAll()} / ${gTotal()}</b></div><div class="kv"><span>文法錯題</span><b>${gmistQs().length}</b></div>`:''}</div>
     <div class="panel field"><span class="lab">備份進度</span>
       <span class="small muted">進度只存在這支手機的瀏覽器。換手機或清除資料前，先匯出備份；到新手機再匯入。</span>
@@ -500,7 +563,7 @@ function renderMe(){
       <div id="bbox"></div></div>
     <div class="panel field"><span class="lab">重新開始</span><span class="small muted">清除這支手機上所有學習紀錄。</span>
       <button class="btn plain" id="breset">清除全部進度</button></div>
-    <p class="credit">單字來源：TOEIC Service List、Business Service List、New Academic Word List、New General Service List（Browne, Culligan &amp; Phillips），以 <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a> 授權使用。例句與中文解釋為自動產生，可能有錯誤。</p>`);
+    <p class="credit">單字來源：TOEIC Service List、Business Service List、New Academic Word List、New General Service List（Browne, Culligan &amp; Phillips），以 <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a> 授權使用。例句與中文解釋為自動產生，可能有錯誤。${HASPH?'片語清單與內容為自動整理產生，可能有錯誤。':''}</p>`);
   $('#view').onclick=meClick;
 }
 function setApp(p){Object.assign(APP,p);store('toeic-app',APP);renderMe();toast('已更新計畫')}
@@ -542,36 +605,37 @@ document.addEventListener('keydown',e=>{
   if(S&&S.key)S.key(e);
 });
 function cardDetail(w){
-  const rel=(w.related||[]).length?`<div><span class="small muted">相關字 · 紅框為易混淆字</span><div class="chips">${w.related.map(r=>
+  const rel=(w.related||[]).length?`<div><span class="small muted">${w.ph?'相關片語 · 紅框為易混淆片語':'相關字 · 紅框為易混淆字'}</span><div class="chips">${w.related.map(r=>
     `<button class="chip ${r.k}" data-say="${esc(r.w)}"><b>${r.k==='confuse'?'≠ ':''}${esc(r.w)}</b> ${esc(r.zh)} <i>${KIND[r.k]||''}</i></button>`).join('')}</div></div>`:'';
   return `<div class="fzh">${esc(w.zh)}</div><p class="fen">${esc(w.en)}</p>
-    <div class="ex"><span class="lab">簡單例句</span><p class="s">${bold(w.simple,w.word)} ${sayBtn(w.simple,1)}</p><p>${esc(w.simple_zh)}</p></div>
-    <div class="ex"><span class="lab">TOEIC 例句</span><p class="s">${bold(w.toeic,w.word)} ${sayBtn(w.toeic,1)}</p><p>${esc(w.toeic_zh)}</p></div>
+    <div class="ex"><span class="lab">簡單例句</span><p class="s">${hl(w.simple,w)} ${sayBtn(w.simple,1)}</p><p>${esc(w.simple_zh)}</p></div>
+    <div class="ex"><span class="lab">TOEIC 例句</span><p class="s">${hl(w.toeic,w)} ${sayBtn(w.toeic,1)}</p><p>${esc(w.toeic_zh)}</p></div>
     ${w.family?`<div class="fam">字族：<span class="en">${esc(w.family)}</span></div>`:''}${rel}`;
 }
 function openDetail(w){
   S={click:null};const s=status(w),m=MIST[w.word];
-  openSheet(`<span class="grow small muted">Day ${w.day} · ${TOPICS[w.t-1]}</span>`,
+  openSheet(`<span class="grow small muted">${w.ph?'片語 ':''}Day ${w.day} · ${TOPICS[w.t-1]}</span>`,
     `<div class="flash"><div class="fpic" aria-hidden="true">${w.pic}</div>
-      <div class="fword"><span class="en" style="font-family:inherit">${esc(w.word)}</span> <span class="pos">${w.pos}.</span>${sayBtn(w.word)}</div>
+      <div class="fword"><span class="en" style="font-family:inherit">${esc(w.word)}</span> <span class="pos">${posL(w)}</span>${sayBtn(w.word)}</div>
       <div class="chips"><span class="dot ${s}">${STATUS[s]}</span>${m?`<span class="dot miss">錯 ${m.n} 次</span>`:''}</div>${cardDetail(w)}</div>`,null);
 }
 
 /* ---------- card sessions: learn / review / mistakes ---------- */
-const CARDTITLE={learn:'學新字',review:'複習',mist:'錯字卡'};
+const CARDTITLE={learn:'學新字',review:'複習',mist:'錯字卡',phrase:'今日片語'};
+const fresh=w=>S.kind==='learn'||(S.kind==='phrase'&&!SRS[w.word]);
 function openCards(kind,words,opt){
   if(!words.length){toast('沒有可以練習的字');return}
-  S={type:'cards',kind,q:words.slice(),i:0,n0:words.length,failed:{},good:0,from:opt.from,revealed:kind==='learn',click:cardsClick,key:cardsKey};
+  S={type:'cards',kind,q:words.slice(),i:0,n0:words.length,failed:{},good:0,from:opt.from,revealed:false,click:cardsClick,key:cardsKey};
   openSheet(`<div class="meter"><i id="sbar" style="width:0"></i></div><span class="cnt" id="scnt"></span>`,'','');
   showCard();
 }
 function showCard(){
-  const w=S.q[S.i];S.revealed=S.kind==='learn';
+  const w=S.q[S.i];S.revealed=fresh(w);
   $('#sbar').style.width=(S.i/S.q.length*100)+'%';$('#scnt').textContent=`${Math.min(S.i+1,S.q.length)} / ${S.q.length}`;
-  $('#sbody').innerHTML=`<div class="inner"><div class="hint">${CARDTITLE[S.kind]}${SRS[w.word]?'':' · 新字'}</div>
+  $('#sbody').innerHTML=`<div class="inner"><div class="hint">${CARDTITLE[S.kind]}${SRS[w.word]?'':w.ph?' · 新片語':' · 新字'}</div>
     <div class="flash" id="flash"><span class="tag l">還不熟</span><span class="tag r">記得了</span>
       <div class="fpic" aria-hidden="true">${w.pic}</div>
-      <div class="fword"><span class="en" style="font-family:inherit">${esc(w.word)}</span> <span class="pos">${w.pos}.</span>${sayBtn(w.word)}</div>
+      <div class="fword"><span class="en" style="font-family:inherit">${esc(w.word)}</span> <span class="pos">${posL(w)}</span>${sayBtn(w.word)}</div>
       <div id="fmore">${S.revealed?cardDetail(w):`<p class="muted" style="margin:0">先想想它的意思，再看答案。</p>`}</div></div>
     ${S.revealed?'<div class="hint">左滑「還不熟」，右滑「記得了」</div>':''}</div>`;
   $('#fmore').style.cssText='display:flex;flex-direction:column;gap:12px';
@@ -593,21 +657,21 @@ function rate(good){
   if(!good){S.failed[k]=1;S.q.push(w)}
   else{const box=S.failed[k]?1:Math.min(5,(s?s.box:0)+1),wasDue=s&&s.due<=today();
     SRS[k]={box,due:today()+INTERVALS[box],since:s?s.since:today()};saveSRS();S.good++;
-    if(S.kind==='review'&&wasDue){dayState().rev++;saveDay()}
+    if((S.kind==='review'||S.kind==='phrase')&&wasDue){if(w.ph)dayState().prev=(DAY.prev||0)+1;else dayState().rev++;saveDay()}
     if(S.kind==='mist')mistHit(w,true)}
   if(f){f.style.transform=`translateX(${good?120:-120}%) rotate(${good?12:-12}deg)`;f.style.opacity='0'}
   setTimeout(()=>{S.busy=false;S.i++;if(S.i>=S.q.length)cardsDone();else showCard()},matchMedia('(prefers-reduced-motion:reduce)').matches?0:220);
 }
 function nextStepBtn(){
   if(S.from!=='today')return `<button class="btn" id="snext">完成</button>`;
-  const ti=todayInfo(),L={learn:`下一步：學新字（${ti.nq.length}）`,review:`下一步：複習 ${ti.due.length} 個字`,quiz:'下一步：今日小測驗',gram:'下一步：每日文法'};
+  const ti=todayInfo(),L={learn:`下一步：學新字（${ti.nq.length}）`,review:`下一步：複習 ${ti.due.length} 個字`,phrase:`下一步：今日片語（${ti.pnq.length+ti.pdue.length}）`,quiz:'下一步：今日小測驗',gram:'下一步：每日文法'};
   return ti.next==='done'?`<button class="btn" id="snext">今天完成了 🎉</button>`:`<button class="btn" id="snext" data-next="${ti.next}">${L[ti.next]}</button>`;
 }
 function cardsDone(){
   S.done=true;const again=Object.keys(S.failed).length;$('#sbar').style.width='100%';$('#scnt').textContent='完成';
   const left=S.kind==='mist'?Object.keys(MIST).length:null;
   $('#sbody').innerHTML=`<div class="inner"><div class="result"><div class="qtype">${CARDTITLE[S.kind]}完成</div><div class="score en">${S.n0}</div>
-    <p>個字${again?`，其中 ${again} 個字多看了幾次`:''}</p>${left!=null?`<p class="small muted">錯字本還有 ${left} 個字</p>`:''}</div></div>`;
+    <p>${S.q[0]&&S.q[0].ph?'個片語':'個字'}${again?`，其中 ${again} 個多看了幾次`:''}</p>${left!=null?`<p class="small muted">錯字本還有 ${left} 個</p>`:''}</div></div>`;
   $('#sfoot').innerHTML=nextStepBtn();
 }
 function bindSwipe(el){
@@ -619,20 +683,23 @@ function bindSwipe(el){
     el.querySelector('.tag.r').style.opacity=Math.max(0,Math.min(1,dx/90));el.querySelector('.tag.l').style.opacity=Math.max(0,Math.min(1,-dx/90))});
   const end=()=>{if(x0==null)return;x0=null;el.classList.remove('drag');
     if(Math.abs(dx)>90)rate(dx>0);else{el.style.transform='';el.querySelectorAll('.tag').forEach(t=>t.style.opacity=0)}dx=0};
-  el.addEventListener('pointerup',end);el.addEventListener('pointercancel',()=>{dx=0;end()});
+  /* a fast swipe may deliver few pointermove events, so also read the distance from pointerup */
+  el.addEventListener('pointerup',e=>{if(x0!=null&&e.pointerId===id){const ux=e.clientX-x0;if(Math.abs(ux)>Math.abs(dx)&&Math.abs(ux)>Math.abs(e.clientY-y0))dx=ux}end()});el.addEventListener('pointercancel',()=>{dx=0;end()});
 }
 
 /* ---------- quiz sessions ---------- */
 const formIn=(s,w)=>{const m=s.match(new RegExp('\\b('+stem(w)+'\\w*)','i'));return m?m[1]:w};
 function makeQ(w,type){
-  const others=shuffle(WORDS.filter(x=>x!==w&&x.word!==w.word)).slice(0,3);
+  const pool=w.ph?PHRASES:WORDS,others=shuffle(pool.filter(x=>x!==w&&x.word!==w.word&&x.zh!==w.zh)).slice(0,3);
   const wordOpts=()=>shuffle([w,...others]).map(x=>({t:x.word,ok:x===w,en:1}));
+  if(w.ph&&type===2)return {w,type,label:'填空：選出正確的片語',prompt:esc(w.cloze).replace('___','<span class="gap">_____</span>'),html:true,en:true,hint:w.toeic_zh,
+    opts:shuffle([{t:w.ans,ok:true,en:1},...w.wrong.slice(0,3).map(x=>({t:x,ok:false,en:1}))])};
   if(type===0)return {w,type,label:'看圖和中文，選英文',pic:w.pic,prompt:w.zh,opts:wordOpts()};
   if(type===1)return {w,type,label:'選出中文意思',prompt:w.word,big:true,say:w.word,opts:shuffle([w,...others]).map(x=>({t:x.zh,ok:x===w}))};
   if(type===5){const cs=(w.related||[]).filter(r=>r.k==='confuse'),c=cs[Math.random()*cs.length|0],askMain=Math.random()<.5;
     const tg=askMain?{word:w.word,zh:w.zh}:{word:c.w,zh:c.zh},other=askMain?c.w:w.word;
     const fill=others.map(x=>x.word).filter(x=>x!==other&&x!==tg.word).slice(0,2);
-    return {w,type,label:'易混淆字',prompt:`哪一個字的意思是「${tg.zh}」？`,note:`${w.word} ${w.zh} ≠ ${c.w} ${c.zh}`,opts:shuffle([tg.word,other,...fill]).map(x=>({t:x,ok:x===tg.word,en:1}))}}
+    return {w,type,label:w.ph?'易混淆片語':'易混淆字',prompt:`哪一個字的意思是「${tg.zh}」？`,note:`${w.word} ${w.zh} ≠ ${c.w} ${c.zh}`,opts:shuffle([tg.word,other,...fill]).map(x=>({t:x,ok:x===tg.word,en:1}))}}
   if(type===3)return {w,type,label:'聽發音選字',prompt:'按 🔊 聽發音，選出你聽到的字。',say:w.word,opts:wordOpts()};
   if(type===4)return {w,type,typed:true,label:'拼字',pic:w.pic,prompt:w.zh,hint:`輸入英文單字：${w.word[0]}${' _'.repeat(w.word.length-1)}（${w.word.length} 個字母）`};
   const f=formIn(w.toeic,w.word),blank=esc(w.toeic).replace(new RegExp('\\b'+f.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')+'\\b'),'_____');
@@ -641,7 +708,8 @@ function makeQ(w,type){
 }
 const QTYPES=()=>canSpeak?[0,1,2,3,4,5]:[0,1,2,4,5];
 function buildQuiz(src,shift){const ty=QTYPES();return shuffle(src.map((w,i)=>{let k=ty[(i+shift)%ty.length];
-  if(k===5&&!(w.related||[]).some(r=>r.k==='confuse'))k=0;return makeQ(w,k)}))}
+  if(w.ph&&k===4)k=2;
+  if(k===5&&!(w.related||[]).some(r=>r.k==='confuse'))k=w.ph?2:0;return makeQ(w,k)}))}
 function openQuiz(src,opt){
   if(!src.length){toast('沒有可以出題的字');return}
   S={type:'quiz',src,Q:buildQuiz(src,Math.random()*6|0),qi:0,score:0,missed:[],daily:opt.daily,from:opt.from,title:opt.title,click:quizClick,key:quizKey};
@@ -663,7 +731,7 @@ function showQ(){
   if(q.type===3)speak(q.say,$('#sbody .say'));
 }
 function spellSubmit(e){e.preventDefault();const q=S.Q[S.qi],inp=$('#spin'),v=inp.value.trim().toLowerCase();if(q.done||!v)return;
-  const ok=v===q.w.word.toLowerCase();inp.disabled=true;e.target.querySelector('button').disabled=true;inp.classList.add(ok?'okin':'badin');finishQ(q,ok)}
+  const ok=v===q.w.word.toLowerCase();/* spelling is words only */inp.disabled=true;e.target.querySelector('button').disabled=true;inp.classList.add(ok?'okin':'badin');finishQ(q,ok)}
 function answer(i){const q=S.Q[S.qi];if(q.done)return;
   document.querySelectorAll('#sbody .opt').forEach((b,k)=>{b.disabled=true;if(q.opts[k].ok)b.classList.add('right')});
   if(!q.opts[i].ok)document.querySelector(`#sbody [data-o="${i}"]`).classList.add('wrong');finishQ(q,q.opts[i].ok)}
@@ -672,8 +740,8 @@ function finishQ(q,ok){
   if(ok){S.score++;mistHit(w,true)}
   else{if(!S.missed.includes(w))S.missed.push(w);mistHit(w,false);const s=SRS[w.word];SRS[w.word]={box:1,due:today(),since:s?s.since:0};saveSRS()}
   $('#fb').innerHTML=`<div class="fb ${ok?'ok':'no'}"><p><b>${ok?'✓ 答對了':'✗ 答錯了，已加入錯字本'}</b></p>
-    <p>${w.pic} <b class="en">${esc(w.word)}</b> (${w.pos}.) ${esc(w.zh)} ${sayBtn(w.word,1)}</p>
-    <p class="en">${bold(w.simple,w.word)}</p><p class="small">${esc(w.simple_zh)}</p>${q.note?`<p><b>${esc(q.note)}</b></p>`:''}</div>`;
+    <p>${w.pic} <b class="en">${esc(w.word)}</b> (${posL(w)}) ${esc(w.zh)} ${sayBtn(w.word,1)}</p>
+    <p class="en">${hl(w.simple,w)}</p><p class="small">${esc(w.simple_zh)}</p>${q.note?`<p><b>${esc(q.note)}</b></p>`:''}</div>`;
   $('#sfoot').innerHTML=`<button class="btn" id="qnext">${S.qi+1<S.Q.length?'下一題':'看成績'}</button>`;
   $('#scnt').textContent=`${S.qi+1} / ${S.Q.length}`;$('#qnext').focus();
   setTimeout(()=>{const f=$('#fb');f&&f.scrollIntoView({behavior:'smooth',block:'nearest'})},30);
