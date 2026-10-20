@@ -35,7 +35,11 @@ The two web links work once GitHub Pages is on (Settings > Pages, branch `main`,
 
 ## Phone app (redesign)
 
-`docs/app/` is a redesigned, phone-first version of the trainer: a bottom tab bar (Today, Words, Quiz, Mistakes, Me), a daily task flow (new words, then due reviews, then a 10-question quiz), swipe cards, a streak and progress backup (export/import). It is an installable offline web app (PWA). With GitHub Pages serving `main` from `/docs`, it is at https://hoya-chen.github.io/toeic-learning/app/ . It uses the same browser storage keys as the earlier page, so progress made there carries over on the same site.
+`docs/app/` is a redesigned, phone-first version of the trainer: a bottom tab bar (Today, Words, Grammar, Quiz, Mistakes, Me), a daily task flow (new words, then due reviews, then a 10-question quiz, then 5 grammar questions), swipe cards, a streak and progress backup (export/import). It is an installable offline web app (PWA). With GitHub Pages serving `main` from `/docs`, it is at https://hoya-chen.github.io/toeic-learning/app/ . It uses the same browser storage keys as the earlier page, so progress made there carries over on the same site.
+
+The Grammar tab (文法) covers 20 common TOEIC Part 5/6 grammar topics, 15 questions each (10 at 700 level, 5 at 900 level), in `docs/app/grammar.js`. A built-in chat tutor asks each question; after a wrong answer it asks one or two guiding questions before showing the answer, with bilingual (English / Traditional Chinese) explanations, the rule and everyday examples. It works offline with no AI service. Wrong answers go to the Mistakes tab and leave after 3 correct answers in a row. The questions are machine-generated and re-checked by a second automated pass, so they may contain errors.
+
+Phrases (片語): 500 common TOEIC phrases in `docs/app/phrases.js`: phrasal verbs (look into), prepositional phrases (in charge of) and business expressions (on short notice), 350 at 700 level and 150 at 900 level, grouped by the same 10 topics as the words. Open them from the Words tab with the 單字 / 片語 switch. Each card has English and Traditional Chinese meanings, an everyday example, a TOEIC-style example, related phrases and easily confused phrases. The Today tab adds 10 new phrases a day plus spaced review; quizzes include a fill-in-the-blank with confusable phrases; wrong answers go to the Mistakes tab (片語 section) and are included in the progress backup. The content is machine-generated and re-checked by a second automated pass, so it may contain errors.
 
 ## Android app (APK)
 
