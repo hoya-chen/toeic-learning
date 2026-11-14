@@ -1,14 +1,24 @@
-# TOEIC Learning
+# TOEIC 單字 App / TOEIC Learning
 
-Vocabulary trainer for learners aiming for 700 or 900 on the TOEIC. Each learner picks a target in My Plan. Explanations are in English and Traditional Chinese (繁體中文).
+免費的 TOEIC 700／900 學習 App：3000 個單字、500 個片語、300 題對話式文法練習，每天有任務、答錯自動進錯字本，不用帳號，沒網路也能用。
+A free TOEIC 700 / 900 trainer: words, phrases and grammar with a daily plan, spaced review and a mistakes deck. No account, works offline. Explanations are in English and Traditional Chinese (繁體中文).
+
+**介紹頁 Project page：<https://toeic-learning.hoya-chen.workers.dev/>**　·　**開始學習 Open the app：<https://toeic-learning.hoya-chen.workers.dev/app/>**　·　**Android APK：[下載 Download](https://github.com/hoya-chen/toeic-learning/releases/latest/download/toeic-vocab.apk)**
+
+| 今天 Today | 單字卡 Cards | 文法小老師 Grammar tutor |
+|---|---|---|
+| ![今天](docs/landing/today.webp) | ![單字卡](docs/landing/study.webp) | ![文法](docs/landing/tutor.webp) |
+| **測驗 Quiz** | **錯字本 Mistakes** | **我的計畫 My plan** |
+| ![測驗](docs/landing/quizfb.webp) | ![錯字本](docs/landing/mist.webp) | ![我的](docs/landing/me.webp) |
 
 ## How learners use it / 怎麼使用
 
 | Way 方式 | Link 連結 | For 適合 |
 |---|---|---|
+| Project page 介紹頁 | https://toeic-learning.hoya-chen.workers.dev/ (backup 備用: https://hoya-chen.github.io/toeic-learning/) | What the app does, screenshots, all links 功能說明、截圖與所有連結 |
 | Android app (APK) | https://github.com/hoya-chen/toeic-learning/releases/latest/download/toeic-vocab.apk | Android phones, works offline 安卓手機，可離線使用 |
-| Phone web app 手機網頁版 | https://hoya-chen.github.io/toeic-learning/app/ | iPhone and any phone; "Add to Home Screen" to use it like an app 任何手機，可「加到主畫面」 |
-| Original page 原本的網頁 | https://hoya-chen.github.io/toeic-learning/ | Computer or phone browser 電腦或手機瀏覽器 |
+| Phone web app 手機網頁版 | https://toeic-learning.hoya-chen.workers.dev/app/ (backup 備用: https://hoya-chen.github.io/toeic-learning/app/) | iPhone and any phone; "Add to Home Screen" to use it like an app 任何手機，可「加到主畫面」 |
+| Classic page 舊版單字卡網頁 | https://toeic-learning.hoya-chen.workers.dev/classic/ | Computer browser, many cards at once 電腦瀏覽器，一次看很多張卡 |
 
 **Install the Android app 安裝 Android App**
 
@@ -20,11 +30,12 @@ To update, download the APK again and install it over the old one; progress is k
 
 Progress is saved on each device (no account), so the app, the web app and the original page each keep their own progress. Use Me > Backup progress (我的 > 備份進度) to move progress to another device. 進度存在各自的手機或瀏覽器裡（不需要帳號），App、手機網頁版和原本的網頁進度各自分開；換裝置時可用「我的 > 備份進度」匯出再匯入。
 
-The two web links work once GitHub Pages is on (Settings > Pages, branch `main`, folder `/docs`). 兩個網頁連結需要先在 GitHub 開啟 Pages（Settings > Pages，branch `main`，資料夾 `/docs`）。
+The site in `docs/` is served by Cloudflare Workers and GitHub Pages (branch `main`, folder `/docs`); both update on every merge to `main`. 網站（`docs/` 資料夾）同時放在 Cloudflare 和 GitHub Pages，每次合併到 `main` 都會自動更新。
 
 ## What is here
 
-- `docs/index.html` (the original web page) and `vocabulary/flashcards.html` are the learner page (single file, no server needed). It has My Plan, Study, Review (spaced repetition), Quiz (6 question types) and Mistakes. Progress is stored in each learner's own browser.
+- `docs/index.html` is the project page (介紹頁): what the app does, screenshots (`docs/landing/`), how to install and all links.
+- `docs/classic/index.html` (the original web page, moved from the site root; progress is kept because it is the same site) and `vocabulary/flashcards.html` are the classic learner page (single file, no server needed). It has My Plan, Study, Review (spaced repetition), Quiz (6 question types) and Mistakes. Progress is stored in each learner's own browser.
 - `vocabulary/all-3000-words.json` is the full word data (field `lvl` is 700 or 900): 2000 core words (10 topics x 200, days 1-80) plus 1000 advanced words (10 topics x 100, days 81-120), 25 words a day.
 - `vocabulary/advanced-900-words.json` holds only the 1000 advanced words; `advanced-900-selection.json` lists them with their source list (BSL, NAWL or NGSL).
 - `vocabulary/all-2000-words-renumbered.json` is the 700-level core data (2000 words).
